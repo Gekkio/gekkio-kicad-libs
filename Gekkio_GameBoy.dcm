@@ -10,4 +10,9 @@ D Game Boy cartridge slot
 K gameboy cartridge slot
 $ENDCMP
 #
+$CMP GameBoy_CPU_DMG-SGB
+D CPU, original Game Boy (DMG) and Super Game Boy (SGB)
+K gameboy cpu
+$ENDCMP
+#
 #End Doc Library

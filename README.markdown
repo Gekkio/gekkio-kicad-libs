@@ -8,11 +8,10 @@ Licensed under Creative Commons Attribution 4.0 International.
 | ---                               | ---     | ---        | ---       |
 | Game Boy cartridge edge connector | :+1: 1  | :+1: 1     | :+1: 0    |
 | Game Boy cartridge slot           | :+1: 1  | :+1: 3     | :x: 0     |
+| Game Boy CPU (DMG/SGB)            | :+1: 1  | :+1: 1     | :x: 0     |
 | Molex 19708 tab connectors        | :+1: 1  | :+1: 2     | :+1: 2    |
 
 ## Game Boy cartridge edge connector
-
-*Game Boy cartridge edge connector*
 
 Symbols:
 
@@ -23,8 +22,6 @@ Footprints:
 * Gekkio_GameBoy / GameBoy_Cartridge
 
 ## Game Boy cartridge slot
-
-*Game Boy cartridge slot*
 
 Includes DealExtreme 37787 repair part, and original slots from DS Lite and Super Game Boy / Super Game Boy 2.
 
@@ -47,6 +44,20 @@ Footprints:
 * ~~Gekkio_GameBoy / GameBoy_Cartridge_Slot_DSLite~~ (TODO)
 * ~~Gekkio_GameBoy / GameBoy_Cartridge_Slot_DX-37787~~ (TODO)
 * ~~Gekkio_GameBoy / GameBoy_Cartridge_Slot_SGB-SGB2~~ (TODO)
+
+## Game Boy CPU (DMG/SGB)
+
+Symbols:
+
+* Gekkio_GameBoy / GameBoy_CPU_DMG-SGB
+
+Footprints:
+
+* Gekkio_GameBoy / PQFP-80_14x20mm_Pitch0.8mm
+
+3D shapes:
+
+* ~~Gekkio_GameBoy / PQFP-80_14x20mm_Pitch0.8mm~~ (TODO)
 
 ## Molex 19708
 
