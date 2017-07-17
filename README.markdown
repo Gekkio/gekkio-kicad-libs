@@ -10,6 +10,7 @@ Licensed under Creative Commons Attribution 4.0 International.
 | Game Boy cartridge slot           | :+1: 1  | :+1: 3     | :x: 0     |
 | Game Boy CPU (DMG/SGB)            | :+1: 1  | :+1: 1     | :x: 0     |
 | Game Boy SRAM 64 Kbit (8 Kb x 8)  | :+1: 1  | :+1: 1     | :x: 0     |
+| Lattice ispMACH 4000ZE            | :+1: 2  | :+1: 0     | :x: 0     |
 | Molex 19708 tab connectors        | :+1: 1  | :+1: 2     | :+1: 2    |
 
 ## Game Boy cartridge edge connector
@@ -73,6 +74,13 @@ Footprints:
 3D shapes:
 
 * ~~Gekkio_GameBoy / SOP-28_8.6x18mm_Pitch1.27mm~~ (TODO)
+
+## Lattice ispMACH 4000ZE
+
+Symbols:
+
+* Gekkio_Lattice / LC4256ZE-XXTN100
+* Gekkio_Lattice / LC4256ZE-XXTN144
 
 ## Molex 19708
 
