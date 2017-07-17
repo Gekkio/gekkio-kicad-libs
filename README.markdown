@@ -9,6 +9,7 @@ Licensed under Creative Commons Attribution 4.0 International.
 | Game Boy cartridge edge connector | :+1: 1  | :+1: 1     | :+1: 0    |
 | Game Boy cartridge slot           | :+1: 1  | :+1: 3     | :x: 0     |
 | Game Boy CPU (DMG/SGB)            | :+1: 1  | :+1: 1     | :x: 0     |
+| Game Boy SRAM 64 Kbit (8 Kb x 8)  | :+1: 1  | :+1: 1     | :x: 0     |
 | Molex 19708 tab connectors        | :+1: 1  | :+1: 2     | :+1: 2    |
 
 ## Game Boy cartridge edge connector
@@ -58,6 +59,20 @@ Footprints:
 3D shapes:
 
 * ~~Gekkio_GameBoy / PQFP-80_14x20mm_Pitch0.8mm~~ (TODO)
+
+## Game Boy SRAM 64 Kbit (8 Kb x 8)
+
+Symbols:
+
+* Gekkio_GameBoy / GameBoy_SRAM_64K
+
+Footprints:
+
+* Gekkio_GameBoy / SOP-28_8.6x18mm_Pitch1.27mm
+
+3D shapes:
+
+* ~~Gekkio_GameBoy / SOP-28_8.6x18mm_Pitch1.27mm~~ (TODO)
 
 ## Molex 19708
 
