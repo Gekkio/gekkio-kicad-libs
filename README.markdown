@@ -49,6 +49,8 @@ Footprints:
 
 ## Game Boy CPU (DMG/SGB)
 
+*Game Boy CPU chip used in 1st generation (DMG/SGB) Game Boy devices*
+
 Symbols:
 
 * Gekkio_GameBoy / GameBoy_CPU_DMG-SGB
@@ -63,6 +65,9 @@ Footprints:
 
 ## Game Boy SRAM 64 Kbit (8 Kb x 8)
 
+*Standard parallel asynchronous 64 Kbit SRAM used in 1st generation (DMG/SGB)
+and 2nd generation (MGB/SGB2) Game Boy devices*
+
 Symbols:
 
 * Gekkio_GameBoy / GameBoy_SRAM_64K
@@ -76,6 +81,8 @@ Footprints:
 * ~~Gekkio_GameBoy / SOP-28_8.6x18mm_Pitch1.27mm~~ (TODO)
 
 ## Lattice ispMACH 4000ZE
+
+*1.8 V In-System Programmable Ultra Low Power PLD*
 
 Symbols:
 
