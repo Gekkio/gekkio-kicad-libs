@@ -6,12 +6,12 @@ Licensed under Creative Commons Attribution 4.0 International.
 
 | Component                         | Symbols | Footprints | 3D shapes |
 | ---                               | ---     | ---        | ---       |
-| Game Boy cartridge edge connector | :+1: 1  | :+1: 1     | :+1: 0    |
-| Game Boy cartridge slot           | :+1: 1  | :+1: 3     | :x: 0     |
-| Game Boy CPU (DMG/SGB)            | :+1: 1  | :+1: 1     | :x: 0     |
-| Game Boy SRAM 64 Kbit (8 Kb x 8)  | :+1: 1  | :+1: 1     | :x: 0     |
-| Lattice ispMACH 4000ZE            | :+1: 2  | :+1: 0     | :x: 0     |
-| Molex 19708 tab connectors        | :+1: 1  | :+1: 2     | :+1: 2    |
+| Game Boy cartridge edge connector | 1       | 1          | 0         |
+| Game Boy cartridge slot           | 1       | 3          | 0         |
+| Game Boy CPU (DMG/SGB)            | 1       | 1          | 0         |
+| Game Boy SRAM 64 Kbit (8 Kb x 8)  | 1       | 1          | 0         |
+| Lattice ispMACH 4000ZE            | 2       | 0          | 0         |
+| Molex 19708 tab connectors        | 1       | 2          | 2         |
 
 ## Game Boy cartridge edge connector
 
