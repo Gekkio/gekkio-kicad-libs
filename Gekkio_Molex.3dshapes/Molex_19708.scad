@@ -41,7 +41,9 @@ module molex_19708(thickness) {
     }
   }
 
-  rotate([90, 0, 0]) union() {
+  rotate([90, 0, 0])
+  translate([x_leg, 0, 0])
+  union() {
     linear_extrude(thickness, center=true) main_2d();
 
     translate([0, h_body - h_top])
