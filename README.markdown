@@ -25,7 +25,9 @@ Footprints:
 
 ## Game Boy cartridge slot
 
-Includes DealExtreme 37787 repair part, and original slots from DS Lite and Super Game Boy / Super Game Boy 2.
+Includes DealExtreme 37787 repair part, and original slots from DS Lite and
+Super Game Boy / Super Game Boy 2. DS Lite cartridge slots don't normally
+accept Game Boy cartridges, but some plastic can be cut off.
 
 Links:
 
@@ -68,6 +70,15 @@ Footprints:
 *Standard parallel asynchronous 64 Kbit SRAM used in 1st generation (DMG/SGB)
 and 2nd generation (MGB/SGB2) Game Boy devices*
 
+* LH5164LN-10 (by Sharp)
+* LH5264N4 (by Sharp)
+* LH5264N4T (by LSI Logic)
+* LH5264TN-L (by Sharp)
+* LH5264TN-TL (by LSI Logic)
+* LH52A64N-TL (by LSI Logic)
+* LH52A64N-PL (by Mosel Vitelic)
+* LH52A64N-YL (by ???)
+
 Symbols:
 
 * Gekkio_GameBoy / GameBoy_SRAM_64K
@@ -84,6 +95,12 @@ Footprints:
 
 *1.8 V In-System Programmable Ultra Low Power PLD*
 
+Links:
+
+* [Product page](http://www.latticesemi.com/Products/FPGAandCPLD/ispMACH4000ZE.aspx)
+* [Datasheet](http://www.latticesemi.com/view_document?document_id=29095)
+* [Lattice package diagrams](http://www.latticesemi.com/view_document?document_id=213)
+
 Symbols:
 
 * Gekkio_Lattice / LC4256ZE-XXTN100
@@ -93,7 +110,8 @@ Symbols:
 
 *PCB Tab Quick Disconnect, Male, for Wire*
 
-Includes footprint and 3D shape for both variants: thin (400X) and thick (401X).
+Includes footprint and 3D shape for both variants: thin (400X) and thick
+(401X).
 
 Links:
 
