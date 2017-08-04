@@ -7,6 +7,7 @@ Licensed under Creative Commons Attribution 4.0 International.
 | Component                         | Symbols | Footprints | 3D shapes |
 | ---                               | ---     | ---        | ---       |
 | CUI PJ-202A DC power jack         | 0       | 1          | 0         |
+| E-Switch RA1 series               | 0       | 1          | 0         |
 | Game Boy cartridge edge connector | 1       | 1          | 0         |
 | Game Boy cartridge slot           | 1       | 3          | 0         |
 | Game Boy CPU (DMG/SGB)            | 1       | 1          | 0         |
@@ -27,6 +28,19 @@ Links:
 Footprints:
 
 * Gekkio_CUIInc / CUIInc_PJ-202A
+
+## E-Switch RA1 series
+
+*Power Rocker Switches with PVC Cap*
+
+Links:
+
+* [Product page](https://www.e-switch.com/product-catalog/rocker/product-lines/ra1-series-power-rocker-switches-with-pvc-cap)
+* [Datasheet (RA12131100)](http://spec_sheets.e-switch.com/specs/38-RA12131100.pdf)
+
+Footprints:
+
+* Gekkio_E-Switch / E-Switch_RA12131100
 
 ## Game Boy cartridge edge connector
 
