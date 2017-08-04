@@ -30,6 +30,10 @@ Footprints:
 
 * Gekkio_CUIInc / CUIInc_PJ-202A
 
+3D shapes:
+
+* ~~Gekkio_CUIInc / CUIInc_PJ-202A~~ (TODO)
+
 ## CW GF-1123-1100 SPST switch
 
 *GF-Series Single Pole / Single Throw (with Detent) Standard Slide Switch*
@@ -43,6 +47,10 @@ Footprints:
 
 * Gekkio_CWIndustries / CWIndustries_GF-1123-1110
 
+3D shapes:
+
+* ~~Gekkio_CWIndustries / CWIndustries_GF-1123-1110~~ (TODO)
+
 ## E-Switch RA1 series
 
 *Power Rocker Switches with PVC Cap*
@@ -55,6 +63,10 @@ Links:
 Footprints:
 
 * Gekkio_E-Switch / E-Switch_RA12131100
+
+3D shapes:
+
+* ~~Gekkio_E-Switch / E-Switch_RA12131100~~ (TODO)
 
 ## Game Boy cartridge edge connector
 
