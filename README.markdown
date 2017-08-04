@@ -87,11 +87,8 @@ Footprints:
 ## Game Boy cartridge slot
 
 ![GameBoy_Cartridge_Slot_DMG](photos/GameBoy_Cartridge_Slot_DMG.jpg)
-
 ![GameBoy_Cartridge_Slot_DSLite](photos/GameBoy_Cartridge_Slot_DSLite.jpg)
-
 ![GameBoy_Cartridge_Slot_DX-37787](photos/GameBoy_Cartridge_Slot_DX-37787.jpg)
-
 ![GameBoy_Cartridge_Slot_SGB-SGB2](photos/GameBoy_Cartridge_Slot_SGB-SGB2.jpg)
 
 Includes DealExtreme 37787 repair part, and original slots from DS Lite and
@@ -167,7 +164,6 @@ Footprints:
 ## Lattice ispMACH 4000ZE
 
 ![LC4256ZE-7TN100C](photos/LC4256ZE-7TN100C.jpg)
-
 ![LC4256ZE-7TN144C](photos/LC4256ZE-7TN144C.jpg)
 
 *1.8 V In-System Programmable Ultra Low Power PLD*
