@@ -144,6 +144,7 @@ Includes footprint and 3D shape for both variants: thin (400X) and thick
 
 Links:
 
+* [Product page (19708-4011)](http://www.molex.com/molex/products/datasheet.jsp?part=active/0197084011_QUICK_DISCONNECTS.xml)
 * [Drawing](http://www.molex.com/pdm_docs/sd/197084011_sd.pdf)
 
 Symbols:
