@@ -18,6 +18,8 @@ Licensed under Creative Commons Attribution 4.0 International.
 
 ## CUI PJ-202A DC power jack
 
+![CUIInc_PJ-202A](photos/CUIInc_PJ-202A.jpg)
+
 *DC power jack, 2.0 mm center pin, 2.5 A rating, right-angle orientation,
 through-hole, kinked pins*
 
@@ -36,6 +38,8 @@ Footprints:
 
 ## CW GF-1123-1100 SPST switch
 
+![CWIndustries_GF-1123-1110](photos/CWIndustries_GF-1123-1110.jpg)
+
 *GF-Series Single Pole / Single Throw (with Detent) Standard Slide Switch*
 
 Links:
@@ -52,6 +56,8 @@ Footprints:
 * ~~Gekkio_CWIndustries / CWIndustries_GF-1123-1110~~ (TODO)
 
 ## E-Switch RA1 series
+
+![E-Switch_RA12131100](photos/E-Switch_RA12131100.jpg)
 
 *Power Rocker Switches with PVC Cap*
 
@@ -80,6 +86,14 @@ Footprints:
 
 ## Game Boy cartridge slot
 
+![GameBoy_Cartridge_Slot_DMG](photos/GameBoy_Cartridge_Slot_DMG.jpg)
+
+![GameBoy_Cartridge_Slot_DSLite](photos/GameBoy_Cartridge_Slot_DSLite.jpg)
+
+![GameBoy_Cartridge_Slot_DX-37787](photos/GameBoy_Cartridge_Slot_DX-37787.jpg)
+
+![GameBoy_Cartridge_Slot_SGB-SGB2](photos/GameBoy_Cartridge_Slot_SGB-SGB2.jpg)
+
 Includes DealExtreme 37787 repair part, and original slots from DS Lite and
 Super Game Boy / Super Game Boy 2. DS Lite cartridge slots don't normally
 accept Game Boy cartridges, but some plastic can be cut off.
@@ -106,6 +120,8 @@ Footprints:
 
 ## Game Boy CPU (DMG/SGB)
 
+![GameBoy_CPU_DMG-A](photos/GameBoy_CPU_DMG-A.jpg)
+
 *Game Boy CPU chip used in 1st generation (DMG/SGB) Game Boy devices*
 
 Symbols:
@@ -121,6 +137,8 @@ Footprints:
 * ~~Gekkio_GameBoy / PQFP-80_14x20mm_Pitch0.8mm~~ (TODO)
 
 ## Game Boy SRAM 64 Kbit (8 Kb x 8)
+
+![GameBoy_SRAM_64K-LH5264N4](photos/GameBoy_SRAM_64K-LH5264N4.jpg)
 
 *Standard parallel asynchronous 64 Kbit SRAM used in 1st generation (DMG/SGB)
 and 2nd generation (MGB/SGB2) Game Boy devices*
@@ -148,6 +166,10 @@ Footprints:
 
 ## Lattice ispMACH 4000ZE
 
+![LC4256ZE-7TN100C](photos/LC4256ZE-7TN100C.jpg)
+
+![LC4256ZE-7TN144C](photos/LC4256ZE-7TN144C.jpg)
+
 *1.8 V In-System Programmable Ultra Low Power PLD*
 
 Links:
@@ -162,6 +184,8 @@ Symbols:
 * Gekkio_Lattice / LC4256ZE-XXTN144
 
 ## Molex 19708
+
+![Molex_19708-4011](photos/Molex_19708-4011.jpg)
 
 *PCB Tab Quick Disconnect, Male, for Wire*
 
