@@ -8,7 +8,7 @@ Licensed under Creative Commons Attribution 4.0 International.
 | ---                               | ---     | ---        | ---       |
 | CUI PJ-202A DC power jack         | 0       | 1          | 0         |
 | CW GF-1123-1100 SPST switch       | 0       | 1          | 0         |
-| E-Switch RA1 series               | 0       | 1          | 0         |
+| E-Switch RA1 series               | 0       | 1          | 1         |
 | Game Boy cartridge edge connector | 1       | 1          | 0         |
 | Game Boy cartridge slot           | 1       | 3          | 0         |
 | Game Boy CPU (DMG/SGB)            | 1       | 1          | 0         |
@@ -66,7 +66,7 @@ Footprints:
 
 3D shapes:
 
-* ~~Gekkio_E-Switch / E-Switch_RA12131100~~ (TODO)
+* Gekkio_E-Switch / E-Switch_RA12131100
 
 ## Game Boy cartridge edge connector
 
