@@ -7,6 +7,7 @@ Licensed under Creative Commons Attribution 4.0 International.
 | Component                         | Symbols | Footprints | 3D shapes |
 | ---                               | ---     | ---        | ---       |
 | CUI PJ-202A DC power jack         | 0       | 1          | 0         |
+| CW GF-1123-1100 SPST switch       | 0       | 1          | 0         |
 | E-Switch RA1 series               | 0       | 1          | 0         |
 | Game Boy cartridge edge connector | 1       | 1          | 0         |
 | Game Boy cartridge slot           | 1       | 3          | 0         |
@@ -28,6 +29,19 @@ Links:
 Footprints:
 
 * Gekkio_CUIInc / CUIInc_PJ-202A
+
+## CW GF-1123-1100 SPST switch
+
+*GF-Series Single Pole / Single Throw (with Detent) Standard Slide Switch*
+
+Links:
+
+* [Product page](http://switches-connectors-custom.cwind.com/item/standard-slide-switches-2/top-actuated-maintained-slide-switches-2/gf-1123-1110)
+* [Drawing](http://switches-connectors-custom.cwind.com/Asset/GF-1123-1110.pdf)
+
+Footprints:
+
+* Gekkio_CWIndustries / CWIndustries_GF-1123-1110
 
 ## E-Switch RA1 series
 
