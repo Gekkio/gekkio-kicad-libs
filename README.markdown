@@ -6,12 +6,27 @@ Licensed under Creative Commons Attribution 4.0 International.
 
 | Component                         | Symbols | Footprints | 3D shapes |
 | ---                               | ---     | ---        | ---       |
+| CUI PJ-202A DC power jack         | 0       | 1          | 0         |
 | Game Boy cartridge edge connector | 1       | 1          | 0         |
 | Game Boy cartridge slot           | 1       | 3          | 0         |
 | Game Boy CPU (DMG/SGB)            | 1       | 1          | 0         |
 | Game Boy SRAM 64 Kbit (8 Kb x 8)  | 1       | 1          | 0         |
 | Lattice ispMACH 4000ZE            | 2       | 0          | 0         |
 | Molex 19708 tab connectors        | 1       | 2          | 2         |
+
+## CUI PJ-202A DC power jack
+
+*DC power jack, 2.0 mm center pin, 2.5 A rating, right-angle orientation,
+through-hole, kinked pins*
+
+Links:
+
+* [Product page](http://www.cui.com/product/components/connectors/dc-power/jacks/2.0-mm-center-pin/pj-202a)
+* [Datasheet](http://www.cui.com/product/resource/pj-202a.pdf)
+
+Footprints:
+
+* Gekkio_CUIInc / CUIInc_PJ-202A
 
 ## Game Boy cartridge edge connector
 
