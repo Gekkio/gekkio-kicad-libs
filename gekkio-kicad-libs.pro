@@ -1,4 +1,4 @@
-update=ma 17. heinäkuuta 2017 22.25.19
+update=ke 17. tammikuuta 2018 22.04.07
 version=1
 last_client=kicad
 [pcbnew]
@@ -30,5 +30,6 @@ version=1
 LibDir=
 [eeschema/libraries]
 LibName1=Gekkio_GameBoy
-LibName2=Gekkio_Lattice
-LibName3=Gekkio_Molex
+LibName2=Gekkio_Intel
+LibName3=Gekkio_Lattice
+LibName4=Gekkio_Molex
