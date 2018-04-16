@@ -1,9 +1,9 @@
-(module Amphenol_10018783_1x_2x18_P1.00mm_Socket_Vertical (layer F.Cu) (tedit 5A60FA2C)
+(module Amphenol_10018783-x0x00_2x18_P1.00mm_Socket_Vertical (layer F.Cu) (tedit 5AD51D6B)
   (descr "x1 Vertical Card Edge Connector, 36 Positions, 1mm Pitch")
   (fp_text reference REF** (at 9.65 7.2) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value Amphenol_10018783_1x_2x18_P1.00mm_Socket_Vertical (at 9.65 -4.7) (layer F.Fab)
+  (fp_text value Amphenol_10018783-x0x00_2x18_P1.00mm_Socket_Vertical (at 9.65 -4.7) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -3.4 -3.7) (end -3.4 6.2) (layer F.CrtYd) (width 0.05))
@@ -62,7 +62,7 @@
   (pad B14 thru_hole circle (at 15 4.5) (size 1.1 1.1) (drill 0.7) (layers *.Cu *.Mask))
   (pad B16 thru_hole circle (at 17 4.5) (size 1.1 1.1) (drill 0.7) (layers *.Cu *.Mask))
   (pad B18 thru_hole circle (at 19 4.5) (size 1.1 1.1) (drill 0.7) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Gekkio_Connector_PCBEdge.3dshapes/Amphenol_10018783_1x_2x18_P1.00mm_Socket_Vertical.wrl
+  (model ${KISYS3DMOD}/Gekkio_Connector_PCBEdge.3dshapes/Amphenol_10018783-x0x00_2x18_P1.00mm_Socket_Vertical.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

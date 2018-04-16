@@ -4,19 +4,21 @@ Licensed under Creative Commons Attribution 4.0 International.
 
 ## Summary
 
-| Part                             | Symbols | Footprints | 3D shapes |
-| ---                              | ---     | ---        | ---       |
-| Amphenol PCI Express connectors  | 0       | 3          | 0         |
-| CUI PJ-202A DC power jack        | 0       | 1          | 0         |
-| CW GF-1123-1100 SPST switch      | 0       | 1          | 0         |
-| E-Switch RA1 series              | 0       | 1          | 1         |
-| Game Boy cartridge               | 1       | 4          | 0         |
-| Game Boy CPU (DMG/SGB)           | 1       | 0          | 0         |
-| Game Boy MBC1                    | 1       | 0          | 0         |
-| Game Boy SRAM 64 Kbit (8 Kb x 8) | 1       | 0          | 0         |
-| Lattice ispMACH 4000ZE           | 5       | 0          | 0         |
-| Molex 19708 tab connectors       | 1       | 2          | 2         |
-| PCI Express card                 | 3       | 3          | 0         |
+| Part                                              | Symbols | Footprints | 3D shapes |
+| ---                                               | ---     | ---        | ---       |
+| Amphenol PCI Express connectors                   | 0       | 3          | 0         |
+| CUI PJ-202A DC power jack                         | 0       | 1          | 0         |
+| CW GF-1123-1100 SPST switch                       | 0       | 1          | 0         |
+| Diodes Inc PAM2308 dual step-down converter       | 1       | 0          | 0         |
+| E-Switch RA1 series                               | 0       | 1          | 1         |
+| Game Boy cartridge                                | 1       | 4          | 0         |
+| Game Boy CPU (DMG/SGB)                            | 1       | 0          | 0         |
+| Game Boy MBC1                                     | 1       | 0          | 0         |
+| Game Boy SRAM 64 Kbit (8 Kb x 8)                  | 1       | 0          | 0         |
+| Lattice ispMACH 4000ZE                            | 5       | 0          | 0         |
+| Micrel MIC20XX family power distribution switches | 1       | 0          | 0         |
+| Molex 19708 tab connectors                        | 1       | 2          | 2         |
+| PCI Express card                                  | 3       | 3          | 0         |
 
 ## Amphenol PCI Express connectors
 
@@ -42,6 +44,15 @@ Links:
 
 * [Product page](http://switches-connectors-custom.cwind.com/item/standard-slide-switches-2/top-actuated-maintained-slide-switches-2/gf-1123-1110)
 * [Drawing](http://switches-connectors-custom.cwind.com/Asset/GF-1123-1110.pdf)
+
+## Diodes Inc PAM2308 dual step-down converter
+
+*Dual high-efficiency PWM step-down DC-DC converter*
+
+Links:
+
+* [Product page](https://www.diodes.com/products/power-management/dc-dc-converters/integrated-power-stage/buck-converter/part/PAM2308)
+* [Datasheet](https://www.diodes.com/assets/Datasheets/PAM2308.pdf)
 
 ## E-Switch RA1 series
 
@@ -102,7 +113,14 @@ Links:
 
 * [Product page](http://www.latticesemi.com/Products/FPGAandCPLD/ispMACH4000ZE.aspx)
 * [Datasheet](http://www.latticesemi.com/view_document?document_id=29095)
-* [Lattice package diagrams](http://www.latticesemi.com/view_document?document_id=213)
+
+## Micrel MIC20XX family
+
+*Fixed and Adjustable Current Limiting Power Distribution Switches *
+
+Links:
+
+* [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/mic20xx.pdf)
 
 ## Molex 19708
 
@@ -119,3 +137,5 @@ Links:
 * [Drawing](http://www.molex.com/pdm_docs/sd/197084011_sd.pdf)
 
 ## PCI Express card
+
+*x1/x2/x4 1.0mm pitch card edge connector*

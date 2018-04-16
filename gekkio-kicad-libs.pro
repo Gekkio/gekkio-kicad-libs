@@ -1,4 +1,4 @@
-update=ma 16. huhtikuuta 2018 22.55.59
+update=ti 17. huhtikuuta 2018 00.30.58
 version=1
 last_client=kicad
 [pcbnew]
@@ -35,3 +35,5 @@ LibName3=Gekkio_CPU_Nintendo
 LibName4=Gekkio_FPGA_Intel
 LibName5=Gekkio_Interface
 LibName6=Gekkio_Memory_RAM
+LibName7=Gekkio_Regulator_Switching
+LibName8=Gekkio_Power_Management
