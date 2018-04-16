@@ -44,7 +44,7 @@
   (fp_line (start 11.175 -5.565) (end -11.175 -5.565) (layer F.Fab) (width 0.1))
   (pad 2 thru_hole circle (at -7.92 0) (size 3.82 3.82) (drill 1.91) (layers *.Cu *.Mask))
   (pad 1 thru_hole circle (at 0 0) (size 3.82 3.82) (drill 1.91) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Gekkio_CWIndustries.3dshapes/CWIndustries_GF-1123-1110.wrl
+  (model ${KISYS3DMOD}/Gekkio_Button_Switch_THT.3dshapes/CWIndustries_GF-1123-1110.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

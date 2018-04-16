@@ -1,9 +1,6 @@
 (fp_lib_table
-  (lib (name Gekkio_Amphenol)(type KiCad)(uri "$(KIPRJMOD)/Gekkio_Amphenol.pretty")(options "")(descr ""))
+  (lib (name Gekkio_Button_Switch_THT)(type KiCad)(uri "$(KIPRJMOD)/Gekkio_Button_Switch_THT.pretty")(options "")(descr ""))
+  (lib (name Gekkio_Connector_BarrelJack)(type KiCad)(uri "$(KIPRJMOD)/Gekkio_Connector_BarrelJack.pretty")(options "")(descr ""))
+  (lib (name Gekkio_Connector_Molex)(type KiCad)(uri "$(KIPRJMOD)/Gekkio_Connector_Molex.pretty")(options "")(descr ""))
   (lib (name Gekkio_Connector_PCBEdge)(type KiCad)(uri "$(KIPRJMOD)/Gekkio_Connector_PCBEdge.pretty")(options "")(descr ""))
-  (lib (name Gekkio_CUIInc)(type KiCad)(uri "$(KIPRJMOD)/Gekkio_CUIInc.pretty")(options "")(descr ""))
-  (lib (name Gekkio_CWIndustries)(type KiCad)(uri "$(KIPRJMOD)/Gekkio_CWIndustries.pretty")(options "")(descr ""))
-  (lib (name Gekkio_E-Switch)(type KiCad)(uri "$(KIPRJMOD)/Gekkio_E-Switch.pretty")(options "")(descr ""))
-  (lib (name Gekkio_GameBoy)(type KiCad)(uri "$(KIPRJMOD)/Gekkio_GameBoy.pretty")(options "")(descr ""))
-  (lib (name Gekkio_Molex)(type KiCad)(uri "$(KIPRJMOD)/Gekkio_Molex.pretty")(options "")(descr ""))
 )

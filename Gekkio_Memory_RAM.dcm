@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP GameBoy_SRAM_64K
+D Game Boy SRAM chip, 64 Kbit (8 Kb x 8)
+K gameboy sram
+$ENDCMP
+#
+#End Doc Library

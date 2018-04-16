@@ -1,10 +1,10 @@
-(module GameBoy_Cartridge_Slot_SGB-SGB2 (layer F.Cu) (tedit 5AB8CBAD)
+(module GameBoy_Cartridge_SGB-SGB2_1x32_P1.50mm_Socket_Horizontal (layer F.Cu) (tedit 5AB8CBAD)
   (descr "Game Boy cartridge slot, Super Game Boy and Super Game Boy 2")
   (tags "gameboy cartridge slot")
   (fp_text reference REF** (at 22.5 4) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value GameBoy_Cartridge_Slot_SGB-SGB2 (at 22.2 -7) (layer F.Fab)
+  (fp_text value GameBoy_Cartridge_SGB-SGB2_1x32_P1.50mm_Socket_Horizontal (at 22.2 -7) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 58.9 1.5) (end -11.1 1.5) (layer F.CrtYd) (width 0.05))
@@ -67,7 +67,7 @@
   (pad "" np_thru_hole circle (at -2.3 -7.5) (size 2.6 2.6) (drill 2.6) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 50.1 -7.5) (size 2.6 2.6) (drill 2.6) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 55.1 -7.5) (size 5 5) (drill 5) (layers *.Cu *.Mask))
-  (model ${KISYS3DMOD}/Gekkio_GameBoy.3dshapes/GameBoy_Cartridge_Slot_SGB-SGB2.wrl
+  (model ${KISYS3DMOD}/Gekkio_Connector_PCBEdge.3dshapes/GameBoy_Cartridge_SGB-SGB2_1x32_P1.50mm_Socket_Horizontal.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

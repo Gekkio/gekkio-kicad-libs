@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP GameBoy_Cartridge
+D Game Boy cartridge edge connector
+K gameboy cartridge
+$ENDCMP
+#
+#End Doc Library
