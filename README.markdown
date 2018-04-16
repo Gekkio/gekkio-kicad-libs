@@ -2,23 +2,21 @@
 
 Licensed under Creative Commons Attribution 4.0 International.
 
-## Footprints
+## Summary
 
-## Available components
-
-| Component                         | Symbols | Footprints | 3D shapes |
-| ---                               | ---     | ---        | ---       |
-| Amphenol PCI Express connectors   | 0       | 3          | 0         |
-| CUI PJ-202A DC power jack         | 0       | 1          | 0         |
-| CW GF-1123-1100 SPST switch       | 0       | 1          | 0         |
-| E-Switch RA1 series               | 0       | 1          | 1         |
-| Game Boy cartridge                | 1       | 4          | 0         |
-| Game Boy CPU (DMG/SGB)            | 1       | 0          | 0         |
-| Game Boy MBC1                     | 1       | 0          | 0         |
-| Game Boy SRAM 64 Kbit (8 Kb x 8)  | 1       | 0          | 0         |
-| Lattice ispMACH 4000ZE            | 5       | 0          | 0         |
-| Molex 19708 tab connectors        | 1       | 2          | 2         |
-| PCI Express card                  | 3       | 3          | 0         |
+| Part                             | Symbols | Footprints | 3D shapes |
+| ---                              | ---     | ---        | ---       |
+| Amphenol PCI Express connectors  | 0       | 3          | 0         |
+| CUI PJ-202A DC power jack        | 0       | 1          | 0         |
+| CW GF-1123-1100 SPST switch      | 0       | 1          | 0         |
+| E-Switch RA1 series              | 0       | 1          | 1         |
+| Game Boy cartridge               | 1       | 4          | 0         |
+| Game Boy CPU (DMG/SGB)           | 1       | 0          | 0         |
+| Game Boy MBC1                    | 1       | 0          | 0         |
+| Game Boy SRAM 64 Kbit (8 Kb x 8) | 1       | 0          | 0         |
+| Lattice ispMACH 4000ZE           | 5       | 0          | 0         |
+| Molex 19708 tab connectors       | 1       | 2          | 2         |
+| PCI Express card                 | 3       | 3          | 0         |
 
 ## Amphenol PCI Express connectors
 
