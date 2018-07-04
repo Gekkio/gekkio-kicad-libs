@@ -4,21 +4,32 @@ Licensed under Creative Commons Attribution 4.0 International.
 
 ## Summary
 
-| Part                                              | Symbols | Footprints | 3D shapes |
-| ---                                               | ---     | ---        | ---       |
-| Amphenol PCI Express connectors                   | 0       | 3          | 0         |
-| CUI PJ-202A DC power jack                         | 0       | 1          | 0         |
-| CW GF-1123-1100 SPST switch                       | 0       | 1          | 0         |
-| Diodes Inc PAM2308 dual step-down converter       | 1       | 0          | 0         |
-| E-Switch RA1 series                               | 0       | 1          | 1         |
-| Game Boy cartridge                                | 1       | 4          | 0         |
-| Game Boy CPU (DMG/SGB)                            | 1       | 0          | 0         |
-| Game Boy MBC1                                     | 1       | 0          | 0         |
-| Game Boy SRAM 64 Kbit (8 Kb x 8)                  | 1       | 0          | 0         |
-| Lattice ispMACH 4000ZE                            | 5       | 0          | 0         |
-| Micrel MIC20XX family power distribution switches | 1       | 0          | 0         |
-| Molex 19708 tab connectors                        | 1       | 2          | 2         |
-| PCI Express card                                  | 3       | 3          | 0         |
+| Part                                                      | Symbols | Footprints | 3D shapes |
+| ---                                                       | ---     | ---        | ---       |
+| Amphenol PCI Express connectors                           | 0       | 3          | 0         |
+| CUI PJ-202A DC power jack                                 | 0       | 1          | 0         |
+| CW GF-1123-1100 SPST switch                               | 0       | 1          | 0         |
+| Diodes Inc PAM2308 dual step-down converter               | 1       | 0          | 0         |
+| E-Switch RA1 series                                       | 0       | 1          | 1         |
+| Game Boy cartridge                                        | 1       | 4          | 0         |
+| Game Boy CPU (DMG/SGB)                                    | 2       | 1          | 1         |
+| Game Boy CPU (MGB/SGB2)                                   | 2       | 1          | 1         |
+| Game Boy link port                                        | 1       | 2          | 0         |
+| Game Boy MBC1                                             | 1       | 0          | 0         |
+| Game Boy SRAM 64 Kbit (8 Kb x 8)                          | 1       | 0          | 0         |
+| Hirose UX series USB connectors                           | 0       | 1          | 0         |
+| ISSI IS61LV256AL 256 Kbit (32 Kb x 8) parallel SRAM       | 2       | 1          | 1         |
+| Lattice ispMACH 4000ZE                                    | 5       | 0          | 0         |
+| Micrel MIC20XX family power distribution switches         | 1       | 0          | 0         |
+| Molex 19708 tab connectors                                | 1       | 2          | 2         |
+| Mounting holes                                            | 0       | 2          | 0         |
+| nexperia 74LVC(H)245 8-bit bus transceivers               | 2       | 0          | 0         |
+| nexperia 74LVC(H)8T245 dual supply 8-bit bus transceivers | 2       | 0          | 0         |
+| OnSemi NSR0530H schottky barrier diode                    | 1       | 0          | 0         |
+| PCI Express card                                          | 3       | 3          | 0         |
+| QFP footprints                                            | 0       | 1          | 1         |
+| SO footprints                                             | 0       | 1          | 1         |
+| Texas Instruments SN74CB3T16211 24-bit FET bus switches   | 1       | 0          | 0         |
 
 ## Amphenol PCI Express connectors
 
@@ -80,11 +91,17 @@ Links:
 
 * [DX 37787](http://www.dx.com/p/repair-parts-replacement-gba-game-cart-slot-for-nds-lite-37787) (sold out and not coming back)
 
+## Game Boy link port
+
 ## Game Boy CPU (DMG/SGB)
 
 ![GameBoy_CPU_DMG-A](photos/GameBoy_CPU_DMG-A.jpg)
 
 *Game Boy CPU chip used in 1st generation (DMG/SGB) Game Boy devices*
+
+## Game Boy CPU (MGB/SGB2)
+
+*Game Boy CPU chip used in 2nd generation (MGB/SGB2) Game Boy devices*
 
 ## Game Boy SRAM 64 Kbit (8 Kb x 8)
 
@@ -94,13 +111,32 @@ Links:
 and 2nd generation (MGB/SGB2) Game Boy devices*
 
 * LH5164LN-10 (by Sharp)
+* LH5164N-10L (by Sharp)
+* LH5164AN-10L (by Sharp)
 * LH5264N4 (by Sharp)
 * LH5264N4T (by LSI Logic)
 * LH5264TN-L (by Sharp)
 * LH5264TN-TL (by LSI Logic)
+* LH52A64N-L (by Sharp)
 * LH52A64N-TL (by LSI Logic)
 * LH52A64N-PL (by Mosel Vitelic)
 * LH52A64N-YL (by ???)
+
+## Hirose UX series USB connectors
+
+*USB 2.0 standard connectors*
+
+Links:
+
+* [Product page](https://www.hirose.com/product/en/products/UX/)
+
+## ISSI IS61LV256AL 256 Kbit (32 Kb x 8) parallel SRAM
+
+*32k x 8 low voltage CMOS static RAM*
+
+Links:
+
+* [Datasheet](http://www.issi.com/WW/pdf/61LV256AL.pdf)
 
 ## Lattice ispMACH 4000ZE
 
@@ -122,7 +158,7 @@ Links:
 
 * [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/mic20xx.pdf)
 
-## Molex 19708
+## Molex 19708 tab connectors
 
 ![Molex_19708-4011](photos/Molex_19708-4011.jpg)
 
@@ -136,6 +172,42 @@ Links:
 * [Product page (19708-4011)](http://www.molex.com/molex/products/datasheet.jsp?part=active/0197084011_QUICK_DISCONNECTS.xml)
 * [Drawing](http://www.molex.com/pdm_docs/sd/197084011_sd.pdf)
 
+## Mounting holes
+
+## nexperia 74LVC(H)245A 8-bit bus transceivers
+
+*Octal bus transceiver; 3-state*
+
+Links:
+
+* [Product page](https://www.nexperia.com/products/logic/asynchronous-interface-logic/transceivers/series/74LVC-H-245A.html)
+* [Datasheet](https://assets.nexperia.com/documents/data-sheet/74LVC_LVCH245A.pdf)
+
+## nexperia 74LVC(H)8T245 dual supply 8-bit bus transceivers
+
+*8-bit dual supply translating transceiver; 3-state*
+
+Links:
+
+* [Product page](https://www.nexperia.com/products/logic/asynchronous-interface-logic/voltage-translators-level-shifters/series/74LVC-H-8T245.html)
+* [Datasheet](https://assets.nexperia.com/documents/data-sheet/74LVC_LVCH8T245.pdf)
+
+## OnSemi NSR0530H schottky barrier diode
+
+Links:
+
+* [Product page](http://www.onsemi.com/PowerSolutions/product.do?id=NSR0530H)
+* [Datasheet](http://www.onsemi.com/pub/Collateral/NSR0530H-D.PDF)
+
 ## PCI Express card
 
 *x1/x2/x4 1.0mm pitch card edge connector*
+
+## Texas Instruments SN74CB3T16211 24-bit FET bus switches
+
+*24-bit FET bus switch. 2.5-V/3.3-V low-voltage bus switch with 5-v tolerant level shifter*
+
+Links:
+
+* [Product page](http://www.ti.com/product/SN74CB3T16211)
+* [Datasheet](http://www.ti.com/lit/ds/symlink/sn74cb3t16211.pdf)
