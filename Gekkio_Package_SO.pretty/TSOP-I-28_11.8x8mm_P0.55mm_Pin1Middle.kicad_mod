@@ -1,4 +1,6 @@
-(module TSOP-I-28_11.8x8mm_P0.55mm_Pin1Middle (layer F.Cu) (tedit 5B3CBFA0)
+(module TSOP-I-28_11.8x8mm_P0.55mm_Pin1Middle (layer F.Cu) (tedit 5BD0AC06)
+  (descr http://www.issi.com/WW/pdf/61LV256AL.pdf)
+  (tags "TSOP I 28 pins")
   (attr smd)
   (fp_text reference REF** (at 0 -9.2 180) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))

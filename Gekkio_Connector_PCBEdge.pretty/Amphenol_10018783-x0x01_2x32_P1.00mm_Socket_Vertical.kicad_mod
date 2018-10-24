@@ -1,5 +1,6 @@
-(module Amphenol_10018783-x0x01_2x32_P1.00mm_Socket_Vertical (layer F.Cu) (tedit 5AD51DAF)
-  (descr "x4 Vertical Card Edge Connector, 64 Positions, 1mm Pitch")
+(module Amphenol_10018783-x0x01_2x32_P1.00mm_Socket_Vertical (layer F.Cu) (tedit 5BD0ACA5)
+  (descr "x4 Vertical Card Edge Connector, 64 Positions, 1mm Pitch (https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/10018783.pdf)")
+  (tags "pci express x4")
   (fp_text reference REF** (at 16.65 7.2) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )

@@ -1,5 +1,6 @@
-(module Amphenol_10018783-x0x02_2x49_P1.00mm_Socket_Vertical (layer F.Cu) (tedit 5AD51DC6)
-  (descr "x8 Vertical Card Edge Connector, 98 Positions, 1mm Pitch")
+(module Amphenol_10018783-x0x02_2x49_P1.00mm_Socket_Vertical (layer F.Cu) (tedit 5BD0ACAC)
+  (descr "x8 Vertical Card Edge Connector, 98 Positions, 1mm Pitch (https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/10018783.pdf)")
+  (tags "pci express x8")
   (fp_text reference REF** (at 25.15 7.2) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
