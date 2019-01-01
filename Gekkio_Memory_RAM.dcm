@@ -30,4 +30,10 @@ K memory sram
 F http://www.issi.com/WW/pdf/62-65WV10248EALL-BLL.pdf
 $ENDCMP
 #
+$CMP NT5DS32M16CS
+D 512Mb (32M x 16) DDR SDRAM, TSOP-II 66-pin
+K memory ddr sdram
+F https://elinux.org/images/e/e0/Nt5d32m16cs-5t.pdf
+$ENDCMP
+#
 #End Doc Library

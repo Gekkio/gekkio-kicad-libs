@@ -15,6 +15,7 @@ Licensed under Creative Commons Attribution 4.0 International.
 | 74LVCH8T245PW | 8-bit dual supply translating transceiver, 3-state, TSSOP-24 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/74LVC_LVCH8T245.pdf) |
 | 93LC56A-xOT | 2kb (256 x 8) 2.5V Microwire Compatible Serial EEPROM, SOT-23-6 | [Datasheet](http://ww1.microchip.com/downloads/en/devicedoc/21794b.pdf) |
 | 93LC56B-xOT | 2kb (256 x 8) 2.5V Microwire Compatible Serial EEPROM, SOT-23-6 | [Datasheet](http://ww1.microchip.com/downloads/en/devicedoc/21794b.pdf) |
+| AP4953GM | Dual P-Channel Enchancement Mode MOSFET, SOIC-8 | [Datasheet](https://datasheet.lcsc.com/szlcsc/Advanced-Power-Elec-AP4953GM_C6193.pdf) |
 | AS4C16M16SA | 256Mb (16M x 16) Synchronous DRAM, TSOP-II 54-pin | [Datasheet](https://www.alliancememory.com/wp-content/uploads/pdf/dram/256Mb-AS4C16M16SA-C&I_V3.0_March%202015.pdf) |
 | AT49F001-xxJx | 1Mb (128K x 8) 5-volt Only Flash Memory, PLCC-32 | [Datasheet](https://datasheet.octopart.com/AT49F001-55PC-Atmel-datasheet-10108.pdf) |
 | AT49F001N-xxJx | 1Mb (128K x 8) 5-volt Only Flash Memory, PLCC-32 | [Datasheet](https://datasheet.octopart.com/AT49F001-55PC-Atmel-datasheet-10108.pdf) |
@@ -24,6 +25,9 @@ Licensed under Creative Commons Attribution 4.0 International.
 | AT49F002N-xxJx | 2Mb (256K x 8) 5-volt Only Flash Memory, PLCC-32 | [Datasheet](https://datasheet.octopart.com/AT49F002T-90JC-Atmel-datasheet-821.pdf) |
 | AT49F002NT-xxJx | 2Mb (256K x 8) 5-volt Only Flash Memory, PLCC-32 | [Datasheet](https://datasheet.octopart.com/AT49F002T-90JC-Atmel-datasheet-821.pdf) |
 | AT49F002T-xxJx | 2Mb (256K x 8) 5-volt Only Flash Memory, PLCC-32 | [Datasheet](https://datasheet.octopart.com/AT49F002T-90JC-Atmel-datasheet-821.pdf) |
+| BA3258HFP | 3.3V/1.5V 1A, Dual Output Fixed Output LDO Regulator, HRP5 | [Datasheet](http://rohmfs.rohm.com/en/products/databook/datasheet/ic/power/linear_regulator/ba3258hfp-e.pdf) |
+| BA33D15HFP | 3.3V/1.5V 0.5A, Dual Output Fixed Output LDO Regulator, HRP5 | [Datasheet](http://rohmfs.rohm.com/en/products/databook/datasheet/ic/power/linear_regulator/ba3258hfp-e.pdf) |
+| BA33D18HFP | 3.3V/1.5V 0.5A, Dual Output Fixed Output LDO Regulator, HRP5 | [Datasheet](http://rohmfs.rohm.com/en/products/databook/datasheet/ic/power/linear_regulator/ba3258hfp-e.pdf) |
 | BCR401W | LED Driver, SC-82 | [Datasheet](https://www.infineon.com/dgdl/Infineon-BCR401W-DS-v02_00-en.pdf?fileId=db3a30431400ef68011407b0f84a0188) |
 | Bus_PCIExpress_1x | PCI Express 1x connector | [Datasheet](https://en.wikipedia.org/wiki/PCI_Express) |
 | Bus_PCIExpress_4x | PCI Express 4x connector | [Datasheet](https://en.wikipedia.org/wiki/PCI_Express) |
@@ -68,9 +72,12 @@ Licensed under Creative Commons Attribution 4.0 International.
 | MM1581 | Lithium-Ion Battery Charge Control, TSOP-16 | [Datasheet](https://www.mitsumi.co.jp/latest/Catalog/ic/common/stop/battery_mm_1581_e.pdf) |
 | MT9700 | 80mΩ, Adjustable Fast Response Current-Limited Power-Distribution Switch, SOT-23-5 | [Datasheet](https://datasheet.lcsc.com/szlcsc/XI-AN-Aerosemi-Tech-MT9700_C89855.pdf) |
 | MX25L12805D | 128Mb (128M x 1) CMOS SPI Serial Flash, SOP-16 | [Datasheet](https://datasheet.octopart.com/MX25L12805DMI-20G-Macronix-datasheet-8332919.pdf) |
+| MX29LV160DxT | 16 Mb (2M x 8 / 1M x 16) 3V Supply Flash Memory, TSOP-II 48-pin | [Datasheet](http://www.macronix.com/Lists/Datasheet/Attachments/7263/MX29LV160D%20T-B,%203V,%2016Mb,%20v1.2.pdf) |
+| MX29LV800CxT | 8 Mb (1M x 8 / 512K x 16) CMOS Single Voltage 3V Only Flash Memory, TSOP-II 48-pin | [Datasheet](http://www.atekmicro.com/download/other/MX29LV800CT-B-1.0.pdf) |
 | NCP605 | 500mA, Low IGND, CMOS LDO Regulator with Enhanced ESD Protection, DFN-6 | [Datasheet](https://www.onsemi.com/pub/Collateral/NCP605-D.PDF) |
 | NCP606 | 500mA, Low IGND, CMOS LDO Regulator with Enable and with Enhanced ESD Protection, DFN-6 | [Datasheet](https://www.onsemi.com/pub/Collateral/NCP605-D.PDF) |
 | NSR0530H | 30V 500mA Schottky diode, SOD-323 | [Datasheet](http://www.onsemi.com/pub/Collateral/NSR0530H-D.PDF) |
+| NT5DS32M16CS | 512Mb (32M x 16) DDR SDRAM, TSOP-II 66-pin | [Datasheet](https://elinux.org/images/e/e0/Nt5d32m16cs-5t.pdf) |
 | PAM2308BYMAA | Dual high-efficiency PWM step-down DC-DC converter, DFN-10 | [Datasheet](https://www.diodes.com/assets/Datasheets/PAM2308.pdf) |
 | SE3608 | 2A/1.2MHz Output Current, Boost Converter, SOT-23-6 | [Datasheet](https://datasheet.lcsc.com/szlcsc/Seaward-Elec-SE3608_C114986.pdf) |
 | SN74CB3T16211DGG | 24-bit FET bus switch, 2.5-V/3.3-V low-voltage bus switch with 5-V tolerant level shifter | [Datasheet](http://www.ti.com/lit/ds/symlink/sn74cb3t16211.pdf) |
@@ -117,6 +124,8 @@ Licensed under Creative Commons Attribution 4.0 International.
 | PCIExpress_x1_2x18_P1.00mm_Edge |  |  |
 | PCIExpress_x4_2x32_P1.00mm_Edge |  |  |
 | PCIExpress_x8_2x49_P1.00mm_Edge |  |  |
+| Potentiometer_Hokuriku_VG039NCH_Vertical |  |  |
+| Rohm_HRP5 |  |  |
 | SW_SPST_PTS540 |  |  |
 | Sharp_QFP-80_14x20mm_P0.8mm | :heavy_check_mark: | :heavy_check_mark: |
 | TSOP-I-28_11.8x8mm_P0.55mm_Pin1Middle | :heavy_check_mark: | :heavy_check_mark: |

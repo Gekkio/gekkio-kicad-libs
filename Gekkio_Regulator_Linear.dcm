@@ -1,5 +1,23 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP BA3258HFP
+D 3.3V/1.5V 1A, Dual Output Fixed Output LDO Regulator, HRP5
+K dual regulator LDO
+F http://rohmfs.rohm.com/en/products/databook/datasheet/ic/power/linear_regulator/ba3258hfp-e.pdf
+$ENDCMP
+#
+$CMP BA33D15HFP
+D 3.3V/1.5V 0.5A, Dual Output Fixed Output LDO Regulator, HRP5
+K dual regulator LDO
+F http://rohmfs.rohm.com/en/products/databook/datasheet/ic/power/linear_regulator/ba3258hfp-e.pdf
+$ENDCMP
+#
+$CMP BA33D18HFP
+D 3.3V/1.8V 0.5A, Dual Output Fixed Output LDO Regulator, HRP5
+K dual regulator LDO
+F http://rohmfs.rohm.com/en/products/databook/datasheet/ic/power/linear_regulator/ba3258hfp-e.pdf
+$ENDCMP
+#
 $CMP LN1132PxxxM
 D 300mA Low Dropout CMOS Voltage Regulator, SOT-23-3
 K regulator LDO

@@ -54,4 +54,16 @@ K serial flash
 F https://datasheet.octopart.com/MX25L12805DMI-20G-Macronix-datasheet-8332919.pdf
 $ENDCMP
 #
+$CMP MX29LV160DxT
+D 16 Mb (2M x 8 / 1M x 16) 3V Supply Flash Memory, TSOP-II 48-pin
+K 16mbit flash rom
+F http://www.macronix.com/Lists/Datasheet/Attachments/7263/MX29LV160D%20T-B,%203V,%2016Mb,%20v1.2.pdf
+$ENDCMP
+#
+$CMP MX29LV800CxT
+D 8 Mb (1M x 8 / 512K x 16) CMOS Single Voltage 3V Only Flash Memory, TSOP-II 48-pin
+K 8mbit flash rom
+F http://www.atekmicro.com/download/other/MX29LV800CT-B-1.0.pdf
+$ENDCMP
+#
 #End Doc Library

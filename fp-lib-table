@@ -12,4 +12,5 @@
   (lib (name Gekkio_Package_QFP)(type KiCad)(uri "$(KIPRJMOD)/Gekkio_Package_QFP.pretty")(options "")(descr ""))
   (lib (name Gekkio_Package_SO)(type KiCad)(uri "$(KIPRJMOD)/Gekkio_Package_SO.pretty")(options "")(descr ""))
   (lib (name Gekkio_Package_TO_SOT_SMD)(type KiCad)(uri "$(KIPRJMOD)/Gekkio_Package_TO_SOT_SMD.pretty")(options "")(descr ""))
+  (lib (name Gekkio_Potentiometer_SMD)(type KiCad)(uri "$(KIPRJMOD)/Gekkio_Potentiometer_SMD.pretty")(options "")(descr ""))
 )
