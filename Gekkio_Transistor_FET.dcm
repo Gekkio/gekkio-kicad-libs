@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 2N7002BK
+D 350 mA Id, 60V Vds, N-Channel Trench MOSFET, SOT-23-3
+K mosfet n-channel
+F https://assets.nexperia.com/documents/data-sheet/2N7002BK.pdf
+$ENDCMP
+#
+#End Doc Library

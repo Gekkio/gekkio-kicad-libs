@@ -1,9 +1,15 @@
 EESchema-DOCLIB  Version 2.0
 #
 $CMP PAM2308BYMAA
-D Dual high-efficiency PWM step-down DC-DC converter
+D Dual high-efficiency PWM step-down DC-DC converter, DFN-10
 K regulator dc-dc buck step-down dual
 F https://www.diodes.com/assets/Datasheets/PAM2308.pdf
+$ENDCMP
+#
+$CMP SE3608
+D 2A/1.2MHz Output Current, Boost Converter, SOT-23-6
+K regulator dc-dc boost
+F https://datasheet.lcsc.com/szlcsc/Seaward-Elec-SE3608_C114986.pdf
 $ENDCMP
 #
 #End Doc Library

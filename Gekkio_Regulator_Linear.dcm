@@ -1,31 +1,31 @@
 EESchema-DOCLIB  Version 2.0
 #
 $CMP LN1132PxxxM
-D 300mA Low Dropout CMOS Voltage Regulator
+D 300mA Low Dropout CMOS Voltage Regulator, SOT-23-3
 K regulator LDO
 F http://www.natlinear.com/uploadfiles/2014/LN/LN1132_E.pdf
 $ENDCMP
 #
 $CMP MIC5370
-D High-Performance Dual 150mA LDO
+D High-Performance Dual 150mA LDO, MLF-6
 K Micrel LDO voltage regulator
 F http://ww1.microchip.com/downloads/en/DeviceDoc/mic5370.pdf
 $ENDCMP
 #
 $CMP NCP605
-D 500mA, Low IGND, CMOS LDO Regulator with Enhanced ESD Protection
+D 500mA, Low IGND, CMOS LDO Regulator with Enhanced ESD Protection, DFN-6
 K regulator LDO
 F https://www.onsemi.com/pub/Collateral/NCP605-D.PDF
 $ENDCMP
 #
 $CMP NCP606
-D 500mA, Low IGND, CMOS LDO Regulator with Enable and with Enhanced ESD Protection
+D 500mA, Low IGND, CMOS LDO Regulator with Enable and with Enhanced ESD Protection, DFN-6
 K regulator LDO
 F https://www.onsemi.com/pub/Collateral/NCP605-D.PDF
 $ENDCMP
 #
 $CMP XC6420ABxxMR
-D 150mA Small Dual LDO Regulator with ON/OFF Switch
+D 150mA Small Dual LDO Regulator with ON/OFF Switch, SOT-23-6
 K dual regulator LDO
 F https://www.torexsemi.com/file/xc6420/XC6420.pdf
 $ENDCMP
