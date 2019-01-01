@@ -119,7 +119,7 @@ with io.StringIO() as buf:
                         photo = photos.get(name)
                         if photo:
                             photo = '![{}]({})'.format(name, photo)
-                        print('| {} | {} | {} |'.format('{} <br> {}'.format(name, photo) if photo else name, ':white_check_mark:' if wrl else '', ':white_check_mark:' if step else ''), file=buf)
+                        print('| {} | {} | {} |'.format('{} <br> {}'.format(name, photo) if photo else name, ':heavy_check_mark:' if wrl else '', ':heavy_check_mark:' if step else ''), file=buf)
                     print(line, file=buf)
                     state = State.passthrough
             else:

@@ -96,7 +96,7 @@ Licensed under Creative Commons Attribution 4.0 International.
 | Amphenol_10018783-x0x02_2x49_P1.00mm_Socket_Vertical |  |  |
 | BarrelJack_CUI_PJ-202A_Horizontal <br> ![BarrelJack_CUI_PJ-202A_Horizontal](photos/BarrelJack_CUI_PJ-202A_Horizontal.jpg) |  |  |
 | CWIndustries_GF-1123-1110 <br> ![CWIndustries_GF-1123-1110](photos/CWIndustries_GF-1123-1110.jpg) |  |  |
-| E-Switch_RA12131100 <br> ![E-Switch_RA12131100](photos/E-Switch_RA12131100.jpg) | :white_check_mark: |  |
+| E-Switch_RA12131100 <br> ![E-Switch_RA12131100](photos/E-Switch_RA12131100.jpg) | :heavy_check_mark: |  |
 | GameBoy_Cartridge_1x32_P1.50mm_Edge |  |  |
 | GameBoy_Cartridge_AGB_1x32_P1.50mm_Socket_Horizontal |  |  |
 | GameBoy_Cartridge_DMG_1x32_P1.50mm_Socket_Horizontal <br> ![GameBoy_Cartridge_DMG_1x32_P1.50mm_Socket_Horizontal](photos/GameBoy_Cartridge_DMG_1x32_P1.50mm_Socket_Horizontal.jpg) |  |  |
@@ -109,8 +109,8 @@ Licensed under Creative Commons Attribution 4.0 International.
 | L_CommonMode_TDK_ACM2520-3P_L2.5mm_W2.0mm_Px2.3mm_Py0.65mm |  |  |
 | L_CommonMode_TDK_ACM4532-3P_L4.5mm_W3.2mm_Px4.1mm_Py1.7mm |  |  |
 | L_Sunltech_SLW40xx |  |  |
-| Molex_19708-400X_Vertical | :white_check_mark: |  |
-| Molex_19708-401X_Vertical <br> ![Molex_19708-401X_Vertical](photos/Molex_19708-401X_Vertical.jpg) | :white_check_mark: |  |
+| Molex_19708-400X_Vertical | :heavy_check_mark: |  |
+| Molex_19708-401X_Vertical <br> ![Molex_19708-401X_Vertical](photos/Molex_19708-401X_Vertical.jpg) | :heavy_check_mark: |  |
 | MountingHole_2.3mm |  |  |
 | MountingHole_7.2mm |  |  |
 | OnSemi_DFN-6-1EP_3x3mm_P0.95mm_EP1.2x2.0mm |  |  |
@@ -118,7 +118,7 @@ Licensed under Creative Commons Attribution 4.0 International.
 | PCIExpress_x4_2x32_P1.00mm_Edge |  |  |
 | PCIExpress_x8_2x49_P1.00mm_Edge |  |  |
 | SW_SPST_PTS540 |  |  |
-| Sharp_QFP-80_14x20mm_P0.8mm | :white_check_mark: | :white_check_mark: |
-| TSOP-I-28_11.8x8mm_P0.55mm_Pin1Middle | :white_check_mark: | :white_check_mark: |
+| Sharp_QFP-80_14x20mm_P0.8mm | :heavy_check_mark: | :heavy_check_mark: |
+| TSOP-I-28_11.8x8mm_P0.55mm_Pin1Middle | :heavy_check_mark: | :heavy_check_mark: |
 | USB_Mini-B_Hirose_UX60SC-MB-5ST80_Horizontal |  |  |
 <!-- FOOTPRINTS END -->
