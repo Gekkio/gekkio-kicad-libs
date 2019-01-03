@@ -42,9 +42,63 @@ Licensed under Creative Commons Attribution 4.0 International.
 | GameBoy_Cartridge | Game Boy cartridge edge connector |  |
 | GameBoy_LinkPort |  |  |
 | GameBoy_SRAM_64K <br> ![GameBoy_SRAM_64K](photos/GameBoy_SRAM_64K.jpg) | 64kb (8K x 8) Game Boy SRAM chip, SOIC-28W | [Datasheet](http://rchobby-bg.com/PDFs/IC/LH5164.pdf) |
-| IS61LV256AL-10J | 256kb (32K x 8) Low Voltage Static RAM, SOIC-28W | [Datasheet](http://www.issi.com/WW/pdf/61LV256AL.pdf) |
-| IS61LV256AL-10T | 256kb (32K x 8) Low Voltage Static RAM, TSOP-I 28-pin | [Datasheet](http://www.issi.com/WW/pdf/61LV256AL.pdf) |
-| IS62WV10248EBLL-xxT | 8Mb (1M x 8) Low Voltage Ulta Low Power CMOS Static RAM, TSOP-II 44-pin | [Datasheet](http://www.issi.com/WW/pdf/62-65WV10248EALL-BLL.pdf) |
+| IS61C1024AL-12T | 1Mb (128k x 8), 5V, 12ns, High-Speed CMOS Static RAM, TSOP-I 32-pin | [Datasheet](http://www.issi.com/WW/pdf/62-65C1024AL.pdf) |
+| IS61C256AL-xxJ | 256kb (32K x 8), 5V, 10/12 ns, High-Speed CMOS Static RAM, SOIC-28W | [Datasheet](http://www.issi.com/WW/pdf/61C256AL.pdf) |
+| IS61C256AL-xxT | 256kb (32k x 8), 5V, 10/12 ns, High-Speed CMOS Static RAM, TSOP-I 28-pin | [Datasheet](http://www.issi.com/WW/pdf/61C256AL.pdf) |
+| IS61C64AL-10J | 64kb (8k x 8), 5V, 10ns, Low Voltage CMOS Static RAM, SOIC-28W | [Datasheet](http://www.issi.com/WW/pdf/61C64AL.pdf) |
+| IS61C64AL-10T | 64kb (8k x 8), 5V, 10ns, Low Voltage CMOS Static RAM, TSOP-I 28-pin | [Datasheet](http://www.issi.com/WW/pdf/61C64AL.pdf) |
+| IS61LV256AL-10J | 256kb (32K x 8), 3.3V, 10ns, Low Voltage CMOS Static RAM, SOIC-28W | [Datasheet](http://www.issi.com/WW/pdf/61LV256AL.pdf) |
+| IS61LV256AL-10T | 256kb (32k x 8), 3.3V, 10ns, Low Voltage CMOS Static RAM, TSOP-I 28-pin | [Datasheet](http://www.issi.com/WW/pdf/61LV256AL.pdf) |
+| IS62C1024AL-35Q | 1Mb (128k x 8), 5V, 35ns, Low Power CMOS Static RAM, SOP-32 | [Datasheet](http://www.issi.com/WW/pdf/62-65C1024AL.pdf) |
+| IS62C1024AL-35T | 1Mb (128k x 8), 5V, 35ns, Low Power CMOS Static RAM, TSOP-I 32-pin | [Datasheet](http://www.issi.com/WW/pdf/62-65C1024AL.pdf) |
+| IS62C256AL-xxT | 256kb (32k x 8), 5V, 25/45ns, Low Power CMOS Static RAM, TSOP-I 28-pin | [Datasheet](http://www.issi.com/WW/pdf/61C256AL.pdf) |
+| IS62LV256AL-20J | 256kb (32K x 8), 3.3V, 20ns, Low Voltage CMOS Static RAM, SOIC-28W | [Datasheet](http://www.issi.com/WW/pdf/62-65LV256AL.pdf) |
+| IS62LV256AL-xxT | 256kb (32k x 8), 3.3V, 20/45ns, Low Voltage CMOS Static RAM, TSOP-I 28-pin | [Datasheet](http://www.issi.com/WW/pdf/62-65LV256AL.pdf) |
+| IS62WV10248EALL-55T | 8Mb (1M x 8), 1.65-2.2V, 55ns, Low Voltage Ulta Low Power CMOS Static RAM, TSOP-II 44-pin | [Datasheet](http://www.issi.com/WW/pdf/62-65WV10248EALL-BLL.pdf) |
+| IS62WV10248EBLL-xxT | 8Mb (1M x 8), 2.2-3.6V, 45/55ns, Low Voltage Ulta Low Power CMOS Static RAM, TSOP-II 44-pin | [Datasheet](http://www.issi.com/WW/pdf/62-65WV10248EALL-BLL.pdf) |
+| IS62WV10248EFALL-55T | 8Mb (1M x 8), 1.65-2.2V, 55ns, Low Voltage Ulta Low Power CMOS Static RAM, TSOP-II 44-pin | [Datasheet](http://www.issi.com/WW/pdf/62-65WV10248EFALL-BLL.pdf) |
+| IS62WV10248EFBLL-45T | 8Mb (1M x 8), 2.2-3.6V, 45ns, Low Voltage Ulta Low Power CMOS Static RAM, TSOP-II 44-pin | [Datasheet](http://www.issi.com/WW/pdf/62-65WV10248EFALL-BLL.pdf) |
+| IS62WV10248HALL-55T | 8Mb (1M x 8), 1.65-2.2V, 55ns, Low Voltage Ulta Low Power CMOS Static RAM, TSOP-II 44-pin | [Datasheet](http://www.issi.com/WW/pdf/62-65WV10248HALL-BLL.pdf) |
+| IS62WV10248HBLL-45T | 8Mb (1M x 8), 2.2-3.6V, 45ns, Low Voltage Ulta Low Power CMOS Static RAM, TSOP-II 44-pin | [Datasheet](http://www.issi.com/WW/pdf/62-65WV10248HALL-BLL.pdf) |
+| IS62WV1288DALL-55H | 1Mb (128k x 8), 1.65-2.2V, 55ns, Low Voltage Ultra Low Power CMOS Static RAM, sTSOP-I 32-pin | [Datasheet](http://www.issi.com/WW/pdf/62-65WV1288DALL-BLL.pdf) |
+| IS62WV1288DALL-55T | 1Mb (128k x 8), 1.65-2.2V, 45ns, Low Voltage Ultra Low Power CMOS Static RAM, TSOP-I 32-pin | [Datasheet](http://www.issi.com/WW/pdf/62-65WV1288DALL-BLL.pdf) |
+| IS62WV1288DBLL-45H | 1Mb (128k x 8), 2.3-3.6V, 45ns, Low Voltage Ultra Low Power CMOS Static RAM, sTSOP-I 32-pin | [Datasheet](http://www.issi.com/WW/pdf/62-65WV1288DALL-BLL.pdf) |
+| IS62WV1288DBLL-45Q | 1Mb (128k x 8), 2.3-3.6V, 45ns, Low Voltage Ultra Low Power CMOS Static RAM, SOP-32 | [Datasheet](http://www.issi.com/WW/pdf/62-65WV1288DALL-BLL.pdf) |
+| IS62WV1288DBLL-45T | 1Mb (128k x 8), 2.3-3.6V, 45ns, Low Voltage Ultra Low Power CMOS Static RAM, TSOP-I 32-pin | [Datasheet](http://www.issi.com/WW/pdf/62-65WV1288DALL-BLL.pdf) |
+| IS62WV1288FALL-55H | 1Mb (128k x 8), 1.65-2.2V, 55ns, Low Voltage Ultra Low Power CMOS Static RAM, sTSOP-I 32-pin | [Datasheet](http://www.issi.com/WW/pdf/62-65WV1288FALL-BLL.pdf) |
+| IS62WV1288FALL-55T | 1Mb (128k x 8), 1.65-2.2V, 55ns, Low Voltage Ultra Low Power CMOS Static RAM, TSOP-I 32-pin | [Datasheet](http://www.issi.com/WW/pdf/62-65WV1288FALL-BLL.pdf) |
+| IS62WV1288FBLL-45H | 1Mb (128k x 8), 2.2-3.6V, 45ns, Low Voltage Ultra Low Power CMOS Static RAM, sTSOP-I 32-pin | [Datasheet](http://www.issi.com/WW/pdf/62-65WV1288FALL-BLL.pdf) |
+| IS62WV1288FBLL-45Q | 1Mb (128k x 8), 2.2-3.6V, 45ns, Low Voltage Ultra Low Power CMOS Static RAM, SOP-32 | [Datasheet](http://www.issi.com/WW/pdf/62-65WV1288FALL-BLL.pdf) |
+| IS62WV1288FBLL-45T | 1Mb (128k x 8), 2.2-3.6V, 45ns, Low Voltage Ultra Low Power CMOS Static RAM, TSOP-I 32-pin | [Datasheet](http://www.issi.com/WW/pdf/62-65WV1288FALL-BLL.pdf) |
+| IS62WV2568ALL-70H | 2Mb (256k x 8), 1.65-2.2V, 70ns, Low Voltage Ultra Low Power CMOS Static RAM, sTSOP-I 32-pin | [Datasheet](http://www.issi.com/WW/pdf/62WV2568ALL_BLL.pdf) |
+| IS62WV2568ALL-70T | 2Mb (256k x 8), 1.65-2.2V, 70ns, Low Voltage Ultra Low Power CMOS Static RAM, TSOP-I 32-pin | [Datasheet](http://www.issi.com/WW/pdf/62WV2568ALL_BLL.pdf) |
+| IS62WV2568BLL-xxH | 2Mb (256k x 8), 2.5-3.6V, 45/55ns, Low Voltage Ultra Low Power CMOS Static RAM, sTSOP-I 32-pin | [Datasheet](http://www.issi.com/WW/pdf/62WV2568ALL_BLL.pdf) |
+| IS62WV2568BLL-xxT | 2Mb (256k x 8), 2.5-3.6V, 45/55ns, Low Voltage Ultra Low Power CMOS Static RAM, TSOP-I 32-pin | [Datasheet](http://www.issi.com/WW/pdf/62WV2568ALL_BLL.pdf) |
+| IS62WV2568EALL-55H | 2Mb (256k x 8), 1.65-2.2V, 55ns, Low Voltage Ultra Low Power CMOS Static RAM, sTSOP-I 32-pin | [Datasheet](http://www.issi.com/WW/pdf/62-65WV2568EALL-BLL.pdf) |
+| IS62WV2568EALL-55T | 2Mb (256k x 8), 1.65-2.2V, 55ns, Low Voltage Ultra Low Power CMOS Static RAM, TSOP-I 32-pin | [Datasheet](http://www.issi.com/WW/pdf/62-65WV2568EALL-BLL.pdf) |
+| IS62WV2568EBLL-45H | 2Mb (256k x 8), 2.2-3.6V, 45ns, Low Voltage Ultra Low Power CMOS Static RAM, sTSOP-I 32-pin | [Datasheet](http://www.issi.com/WW/pdf/62-65WV2568EALL-BLL.pdf) |
+| IS62WV2568EBLL-45T | 2Mb (256k x 8), 2.2-3.6V, 45ns, Low Voltage Ultra Low Power CMOS Static RAM, TSOP-I 32-pin | [Datasheet](http://www.issi.com/WW/pdf/62-65WV2568EALL-BLL.pdf) |
+| IS62WV2568FALL-55H | 2Mb (256k x 8), 1.65-2.2V, 55ns, Low Voltage Ultra Low Power CMOS Static RAM, sTSOP-I 32-pin | [Datasheet](http://www.issi.com/WW/pdf/62-65WV2568FALL-BLL.pdf) |
+| IS62WV2568FALL-55T | 2Mb (256k x 8), 1.65-2.2V, 55ns, Low Voltage Ultra Low Power CMOS Static RAM, TSOP-I 32-pin | [Datasheet](http://www.issi.com/WW/pdf/62-65WV2568FALL-BLL.pdf) |
+| IS62WV2568FBLL-45H | 2Mb (256k x 8), 2.2-3.6V, 45ns, Low Voltage Ultra Low Power CMOS Static RAM, sTSOP-I 32-pin | [Datasheet](http://www.issi.com/WW/pdf/62-65WV2568FALL-BLL.pdf) |
+| IS62WV2568FBLL-45T | 2Mb (256k x 8), 2.2-3.6V, 45ns, Low Voltage Ultra Low Power CMOS Static RAM, TSOP-I 32-pin | [Datasheet](http://www.issi.com/WW/pdf/62-65WV2568FALL-BLL.pdf) |
+| IS64C1024AL-15T | 1Mb (128k x 8), 5V, 15ns, High-Speed CMOS Static RAM, TSOP-I 32-pin | [Datasheet](http://www.issi.com/WW/pdf/62-65C1024AL.pdf) |
+| IS65C1024AL-45Q | 1Mb (128k x 8), 5V, 45ns, Low Power CMOS Static RAM, SOP-32 | [Datasheet](http://www.issi.com/WW/pdf/62-65C1024AL.pdf) |
+| IS65C1024AL-45T | 1Mb (128k x 8), 5V, 45ns, Low Power CMOS Static RAM, TSOP-I 32-pin | [Datasheet](http://www.issi.com/WW/pdf/62-65C1024AL.pdf) |
+| IS65C256AL-xxT | 256kb (32k x 8), 5V, 25/45ns, Low Power CMOS Static RAM, TSOP-I 28-pin | [Datasheet](http://www.issi.com/WW/pdf/61C256AL.pdf) |
+| IS65LV256AL-45T | 256kb (32k x 8), 3.3V, 45ns, Low Voltage CMOS Static RAM, TSOP-I 28-pin | [Datasheet](http://www.issi.com/WW/pdf/62-65LV256AL.pdf) |
+| IS65WV10248EBLL-45CT | 8Mb (1M x 8), 2.2-3.6V, 45ns, Low Voltage Ulta Low Power CMOS Static RAM, TSOP-II 44-pin | [Datasheet](http://www.issi.com/WW/pdf/62-65WV10248EALL-BLL.pdf) |
+| IS65WV10248EFALL-55CT | 8Mb (1M x 8), 1.65-2.2V, 55ns, Low Voltage Ulta Low Power CMOS Static RAM, TSOP-II 44-pin | [Datasheet](http://www.issi.com/WW/pdf/62-65WV10248EFALL-BLL.pdf) |
+| IS65WV10248EFBLL-55CT | 8Mb (1M x 8), 2.2-3.6V, 55ns, Low Voltage Ulta Low Power CMOS Static RAM, TSOP-II 44-pin | [Datasheet](http://www.issi.com/WW/pdf/62-65WV10248EFALL-BLL.pdf) |
+| IS65WV10248HBLL-55CT | 8Mb (1M x 8), 2.2-3.6V, 55ns, Low Voltage Ulta Low Power CMOS Static RAM, TSOP-II 44-pin | [Datasheet](http://www.issi.com/WW/pdf/62-65WV10248HALL-BLL.pdf) |
+| IS65WV1288DBLL-45H | 1Mb (128k x 8), 2.3-3.6V, 45ns, Low Voltage Ultra Low Power CMOS Static RAM, sTSOP-I 32-pin | [Datasheet](http://www.issi.com/WW/pdf/62-65WV1288DALL-BLL.pdf) |
+| IS65WV1288DBLL-45Q | 1Mb (128k x 8), 2.3-3.6V, 45ns, Low Voltage Ultra Low Power CMOS Static RAM, SOP-32 | [Datasheet](http://www.issi.com/WW/pdf/62-65WV1288DALL-BLL.pdf) |
+| IS65WV1288DBLL-45T | 1Mb (128k x 8), 2.3-3.6V, 45ns, Low Voltage Ultra Low Power CMOS Static RAM, TSOP-I 32-pin | [Datasheet](http://www.issi.com/WW/pdf/62-65WV1288DALL-BLL.pdf) |
+| IS65WV1288FBLL-55H | 1Mb (128k x 8), 2.2-3.6V, 55ns, Low Voltage Ultra Low Power CMOS Static RAM, sTSOP-I 32-pin | [Datasheet](http://www.issi.com/WW/pdf/62-65WV1288FALL-BLL.pdf) |
+| IS65WV1288FBLL-55Q | 1Mb (128k x 8), 2.2-3.6V, 55ns, Low Voltage Ultra Low Power CMOS Static RAM, SOP-32 | [Datasheet](http://www.issi.com/WW/pdf/62-65WV1288FALL-BLL.pdf) |
+| IS65WV1288FBLL-55T | 1Mb (128k x 8), 2.2-3.6V, 55ns, Low Voltage Ultra Low Power CMOS Static RAM, TSOP-I 32-pin | [Datasheet](http://www.issi.com/WW/pdf/62-65WV1288FALL-BLL.pdf) |
+| IS65WV2568EBLL-55CT | 2Mb (256k x 8), 2.2-3.6V, 55ns, Low Voltage Ultra Low Power CMOS Static RAM, TSOP-I 32-pin | [Datasheet](http://www.issi.com/WW/pdf/62-65WV2568EALL-BLL.pdf) |
+| IS65WV2568FBLL-55CT | 2Mb (256k x 8), 2.2-3.6V, 55ns, Low Voltage Ultra Low Power CMOS Static RAM, TSOP-I 32-pin | [Datasheet](http://www.issi.com/WW/pdf/62-65WV2568FALL-BLL.pdf) |
 | LC4032ZE-xxTN48 | 1.8 V In-System Programmable Ultra Low Power PLD, 32 macrocells, TQFP-48 | [Datasheet](http://www.latticesemi.com/view_document?document_id=29095) |
 | LC4064ZE-xxTN100 | 1.8 V In-System Programmable Ultra Low Power PLD, 256 macrocells, TQFP-100 | [Datasheet](http://www.latticesemi.com/view_document?document_id=29095) |
 | LC4064ZE-xxTN48 | 1.8 V In-System Programmable Ultra Low Power PLD, 64 macrocells, TQFP-48 | [Datasheet](http://www.latticesemi.com/view_document?document_id=29095) |
@@ -72,8 +126,19 @@ Licensed under Creative Commons Attribution 4.0 International.
 | MM1581 | Lithium-Ion Battery Charge Control, TSOP-16 | [Datasheet](https://www.mitsumi.co.jp/latest/Catalog/ic/common/stop/battery_mm_1581_e.pdf) |
 | MT9700 | 80mΩ, Adjustable Fast Response Current-Limited Power-Distribution Switch, SOT-23-5 | [Datasheet](https://datasheet.lcsc.com/szlcsc/XI-AN-Aerosemi-Tech-MT9700_C89855.pdf) |
 | MX25L12805D | 128Mb (128M x 1) CMOS SPI Serial Flash, SOP-16 | [Datasheet](https://datasheet.octopart.com/MX25L12805DMI-20G-Macronix-datasheet-8332919.pdf) |
-| MX29LV160DxT | 16 Mb (2M x 8 / 1M x 16) 3V Supply Flash Memory, TSOP-II 48-pin | [Datasheet](http://www.macronix.com/Lists/Datasheet/Attachments/7263/MX29LV160D%20T-B,%203V,%2016Mb,%20v1.2.pdf) |
-| MX29LV800CxT | 8 Mb (1M x 8 / 512K x 16) CMOS Single Voltage 3V Only Flash Memory, TSOP-II 48-pin | [Datasheet](http://www.atekmicro.com/download/other/MX29LV800CT-B-1.0.pdf) |
+| MX29F200CxT | 2 Mb (256k x 8 / 128k x 16) Single Voltage 5V Only Flash Memory, TSOP-I 48-pin | [Datasheet](http://www.macronix.com/Lists/Datasheet/Attachments/7286/MX29F200C%20T-B,%205V,%202Mb,%20v2.1.pdf) |
+| MX29F400CxT | 4 Mb (512k x 8 / 256k x 16) Single Voltage 5V Only Flash Memory, TSOP-I 48-pin | [Datasheet](http://www.macronix.com/Lists/Datasheet/Attachments/7285/MX29F400C%20T-B,%205V,%204Mb,%20v2.3.pdf) |
+| MX29F800CxT | 8 Mb (1M x 8 / 512k x 16) Single Voltage 5V Only Flash Memory, TSOP-I 48-pin | [Datasheet](http://www.macronix.com/Lists/Datasheet/Attachments/7284/MX29F800C%20T-B,%205V,%208Mb,%20v1.3.pdf) |
+| MX29GL320ExT | 32 Mb (4M x 8 / 2M x 16) Single Voltage 3V Only Flash Memory, TSOP-I 48-pin | [Datasheet](http://www.macronix.com/Lists/Datasheet/Attachments/7280/MX29GL320E%20T-B,%203V,%2032Mb,%20v1.5.pdf) |
+| MX29GL640ExT | 64 Mb (8M x 8 / 4M x 16) Single Voltage 3V Only Flash Memory, TSOP-I 48-pin | [Datasheet](http://www.macronix.com/Lists/Datasheet/Attachments/7288/MX29GL640E%20T-B,%203V,%2064Mb,%20v1.9.pdf) |
+| MX29LV160DxT | 16 Mb (2M x 8 / 1M x 16) Single Voltage 3V Only Flash Memory, TSOP-I 48-pin | [Datasheet](http://www.macronix.com/Lists/Datasheet/Attachments/7263/MX29LV160D%20T-B,%203V,%2016Mb,%20v1.2.pdf) |
+| MX29LV161DxT | 16 Mb (1M x 16) Single Voltage 3V Only Flash Memory, TSOP-I 48-pin | [Datasheet](http://www.macronix.com/Lists/Datasheet/Attachments/7263/MX29LV160D%20T-B,%203V,%2016Mb,%20v1.2.pdf) |
+| MX29LV320ExT | 32 Mb (4M x 8 / 2M x 16) Single Voltage 3V Only Flash Memory, TSOP-I 48-pin | [Datasheet](http://www.macronix.com/Lists/Datasheet/Attachments/7274/MX29LV320E%20T-B,%203V,%2032Mb,%20v1.3.pdf) |
+| MX29LV400CxT | 4 Mb (512k x 8 / 256k x 16) Single Voltage 3V Only Flash Memory, TSOP-I 48-pin | [Datasheet](http://www.macronix.com/Lists/Datasheet/Attachments/7257/MX29LV400C%20T-B,%203V,%204Mb,%20v2.6.pdf) |
+| MX29LV640ExT | 64 Mb (8M x 8 / 4M x 16) Single Voltage 3V Only Flash Memory, TSOP-I 48-pin | [Datasheet](http://www.macronix.com/Lists/Datasheet/Attachments/7255/MX29LV640E%20T-B,%203V,%2064Mb,%20v1.7.pdf) |
+| MX29LV800CxT | 8 Mb (1M x 8 / 512k x 16) Single Voltage 3V Only Flash Memory, TSOP-I 48-pin | [Datasheet](http://www.macronix.com/Lists/Datasheet/Attachments/7258/MX29LV800C%20T-B,%203V,%208Mb,%20v2.6.pdf) |
+| MX29SL402CxT | 4 Mb (512k x 8 / 256k x 16) Single Voltage 1.8V Only Flash Memory, TSOP-I 48-pin | [Datasheet](http://www.macronix.com/Lists/Datasheet/Attachments/7237/MX29SL402C%20T-B,%201.8V,%204Mb,%20v1.0.pdf) |
+| MX29SL800CxT | 8 Mb (1M x 8 / 512k x 16) Single Voltage 1.8V Only Flash Memory, TSOP-I 48-pin | [Datasheet](http://www.macronix.com/Lists/Datasheet/Attachments/7235/MX29SL802C%20T-B,%201.8V,%208Mb,%20v2.0.pdf) |
 | NCP605 | 500mA, Low IGND, CMOS LDO Regulator with Enhanced ESD Protection, DFN-6 | [Datasheet](https://www.onsemi.com/pub/Collateral/NCP605-D.PDF) |
 | NCP606 | 500mA, Low IGND, CMOS LDO Regulator with Enable and with Enhanced ESD Protection, DFN-6 | [Datasheet](https://www.onsemi.com/pub/Collateral/NCP605-D.PDF) |
 | NSR0530H | 30V 500mA Schottky diode, SOD-323 | [Datasheet](http://www.onsemi.com/pub/Collateral/NSR0530H-D.PDF) |
