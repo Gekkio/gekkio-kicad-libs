@@ -11,10 +11,10 @@ Licensed under Creative Commons Attribution 4.0 International.
 | 2N7002BK | 350 mA Id, 60V Vds, N-Channel Trench MOSFET, SOT-23-3 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/2N7002BK.pdf) |
 | 74LVC245APW | Octal bus transceiver, 3-state, TSSOP-20 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/74LVC_LVCH245A.pdf) |
 | 74LVC8T245PW | 8-bit dual supply translating transceiver, 3-state, TSSOP-24 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/74LVC_LVCH8T245.pdf) |
-| 74LVCH245APW | Octal bus transceiver, 3-state, TSSOP-20 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/74LVC_LVCH245A.pdf) |
-| 74LVCH8T245PW | 8-bit dual supply translating transceiver, 3-state, TSSOP-24 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/74LVC_LVCH8T245.pdf) |
+| 74LVCH245APW | Octal bus transceiver, 3-state, bus hold, TSSOP-20 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/74LVC_LVCH245A.pdf) |
+| 74LVCH8T245PW | 8-bit dual supply translating transceiver, 3-state, bus hold, TSSOP-24 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/74LVC_LVCH8T245.pdf) |
 | 93LC56A-xOT | 2kb (256 x 8) 2.5V Microwire Compatible Serial EEPROM, SOT-23-6 | [Datasheet](http://ww1.microchip.com/downloads/en/devicedoc/21794b.pdf) |
-| 93LC56B-xOT | 2kb (256 x 8) 2.5V Microwire Compatible Serial EEPROM, SOT-23-6 | [Datasheet](http://ww1.microchip.com/downloads/en/devicedoc/21794b.pdf) |
+| 93LC56B-xOT | 2kb (128 x 16) 2.5V Microwire Compatible Serial EEPROM, SOT-23-6 | [Datasheet](http://ww1.microchip.com/downloads/en/devicedoc/21794b.pdf) |
 | AP4953GM | Dual P-Channel Enchancement Mode MOSFET, SOIC-8 | [Datasheet](https://datasheet.lcsc.com/szlcsc/Advanced-Power-Elec-AP4953GM_C6193.pdf) |
 | AS4C16M16SA | 256Mb (16M x 16) Synchronous DRAM, TSOP-II 54-pin | [Datasheet](https://www.alliancememory.com/wp-content/uploads/pdf/dram/256Mb-AS4C16M16SA-C&I_V3.0_March%202015.pdf) |
 | AT49F001-xxJx | 1Mb (128K x 8) 5-volt Only Flash Memory, PLCC-32 | [Datasheet](https://datasheet.octopart.com/AT49F001-55PC-Atmel-datasheet-10108.pdf) |
@@ -27,7 +27,7 @@ Licensed under Creative Commons Attribution 4.0 International.
 | AT49F002T-xxJx | 2Mb (256K x 8) 5-volt Only Flash Memory, PLCC-32 | [Datasheet](https://datasheet.octopart.com/AT49F002T-90JC-Atmel-datasheet-821.pdf) |
 | BA3258HFP | 3.3V/1.5V 1A, Dual Output Fixed Output LDO Regulator, HRP5 | [Datasheet](http://rohmfs.rohm.com/en/products/databook/datasheet/ic/power/linear_regulator/ba3258hfp-e.pdf) |
 | BA33D15HFP | 3.3V/1.5V 0.5A, Dual Output Fixed Output LDO Regulator, HRP5 | [Datasheet](http://rohmfs.rohm.com/en/products/databook/datasheet/ic/power/linear_regulator/ba3258hfp-e.pdf) |
-| BA33D18HFP | 3.3V/1.5V 0.5A, Dual Output Fixed Output LDO Regulator, HRP5 | [Datasheet](http://rohmfs.rohm.com/en/products/databook/datasheet/ic/power/linear_regulator/ba3258hfp-e.pdf) |
+| BA33D18HFP | 3.3V/1.8V 0.5A, Dual Output Fixed Output LDO Regulator, HRP5 | [Datasheet](http://rohmfs.rohm.com/en/products/databook/datasheet/ic/power/linear_regulator/ba3258hfp-e.pdf) |
 | BCR401W | LED Driver, SC-82 | [Datasheet](https://www.infineon.com/dgdl/Infineon-BCR401W-DS-v02_00-en.pdf?fileId=db3a30431400ef68011407b0f84a0188) |
 | Bus_PCIExpress_1x | PCI Express 1x connector | [Datasheet](https://en.wikipedia.org/wiki/PCI_Express) |
 | Bus_PCIExpress_4x | PCI Express 4x connector | [Datasheet](https://en.wikipedia.org/wiki/PCI_Express) |
@@ -37,8 +37,8 @@ Licensed under Creative Commons Attribution 4.0 International.
 | GameBoy_CPU_CGB |  |  |
 | GameBoy_CPU_DMG <br> ![GameBoy_CPU_DMG](photos/GameBoy_CPU_DMG.jpg) | CPU, original Game Boy (DMG) |  |
 | GameBoy_CPU_MGB | CPU, original Game Boy Pocket (MGB), Game Boy Light (MGL) |  |
-| GameBoy_CPU_SGB | CPU, original Game Boy (DMG) |  |
-| GameBoy_CPU_SGB2 | CPU, original Game Boy Pocket (MGB), Game Boy Light (MGL) |  |
+| GameBoy_CPU_SGB | CPU, Super Game Boy (SGB) |  |
+| GameBoy_CPU_SGB2 | CPU, Super Game Boy 2 (SGB2) |  |
 | GameBoy_Cartridge | Game Boy cartridge edge connector |  |
 | GameBoy_LinkPort |  |  |
 | GameBoy_SRAM_64K <br> ![GameBoy_SRAM_64K](photos/GameBoy_SRAM_64K.jpg) | 64kb (8K x 8) Game Boy SRAM chip, SOIC-28W | [Datasheet](http://rchobby-bg.com/PDFs/IC/LH5164.pdf) |
@@ -82,7 +82,14 @@ Licensed under Creative Commons Attribution 4.0 International.
 | SE3608 | 2A/1.2MHz Output Current, Boost Converter, SOT-23-6 | [Datasheet](https://datasheet.lcsc.com/szlcsc/Seaward-Elec-SE3608_C114986.pdf) |
 | SN74CB3T16211DGG | 24-bit FET bus switch, 2.5-V/3.3-V low-voltage bus switch with 5-V tolerant level shifter | [Datasheet](http://www.ti.com/lit/ds/symlink/sn74cb3t16211.pdf) |
 | SN74LV1T34DBV | Single Power Supply Single Buffer gate CMOS Logic Level Shifter, SOT-23-5 | [Datasheet](http://www.ti.com/lit/ds/symlink/sn74lv1t34.pdf) |
-| SN74LV1T34DCK | Single Power Supply Single Buffer gate CMOS Logic Level Shifter, SOT-23-5 | [Datasheet](http://www.ti.com/lit/ds/symlink/sn74lv1t34.pdf) |
+| SN74LV1T34DCK | Single Power Supply Single Buffer gate CMOS Logic Level Shifter, SC-70-5 | [Datasheet](http://www.ti.com/lit/ds/symlink/sn74lv1t34.pdf) |
+| SN74LVC8T245DB | 8-bit dual supply translating transceiver, 3-state, SSOP-24 | [Datasheet](http://www.ti.com/lit/ds/symlink/sn74lvc8t245.pdf) |
+| SN74LVC8T245DBQ | 8-bit dual supply translating transceiver, 3-state, SSOP-24 | [Datasheet](http://www.ti.com/lit/ds/symlink/sn74lvc8t245.pdf) |
+| SN74LVC8T245DGV | 8-bit dual supply translating transceiver, 3-state, TVSOP-24 | [Datasheet](http://www.ti.com/lit/ds/symlink/sn74lvc8t245.pdf) |
+| SN74LVC8T245PW | 8-bit dual supply translating transceiver, 3-state, TSSOP-24 | [Datasheet](http://www.ti.com/lit/ds/symlink/sn74lvc8t245.pdf) |
+| SN74LVCH8T245DB | 8-bit dual supply translating transceiver, 3-state, bus hold, SSOP-24 | [Datasheet](http://www.ti.com/lit/ds/symlink/sn74lvch8t245.pdf) |
+| SN74LVCH8T245DGV | 8-bit dual supply translating transceiver, 3-state, bus hold, TVSOP-24 | [Datasheet](http://www.ti.com/lit/ds/symlink/sn74lvch8t245.pdf) |
+| SN74LVCH8T245PW | 8-bit dual supply translating transceiver, 3-state, bus hold, TSSOP-24 | [Datasheet](http://www.ti.com/lit/ds/symlink/sn74lvch8t245.pdf) |
 | STM795xM | 3 V Supervisor with Battery Switchover, Active-Low Reset, Chip-enable Gating, SOIC-8 | [Datasheet](https://www.st.com/resource/en/datasheet/stm802t-slsh-s-slsh-r.pdf) |
 | STM818xM | 5 V Supervisor with Battery Switchover, Watchdog Input, Active-Low Reset, Chip-enable Gating, SOIC-8 | [Datasheet](https://www.st.com/resource/en/datasheet/stm690a.pdf) |
 | TLV2316 | Dual 10-MHz, Rail-to-Rail Input/Output, Low-Voltage, 1.8-V CMOS Operational Amplifier, VSSOP-8/SOIC-8 | [Datasheet](http://www.ti.com/lit/ds/symlink/tlv2316.pdf) |

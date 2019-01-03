@@ -38,8 +38,8 @@ def parse_lib(path):
                 comp = line.split(' ')[1]
                 result[comp] = comp
             elif line.startswith('ALIAS '):
-                alias = line.split(' ')[1]
-                result[alias] = comp
+                for alias in line.split(' ')[1:]:
+                    result[alias] = comp
             elif line.startswith('ENDDEF '):
                 comp = None
     return result
@@ -52,7 +52,7 @@ def generate_symbol_table():
     result = []
     for path in project_dir.glob('*.lib'):
         for alias, name in parse_lib(path).items():
-            doc = dcm_data.get(name)
+            doc = dcm_data.get(alias)
             if doc:
                 description = doc[1]
                 datasheet = doc[2]
