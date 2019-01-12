@@ -1,5 +1,35 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP AP2114H-1.2
+D 1.2V 1A Low Noise CMOS LDO Regulator, SOT-223
+K ldo regulator
+F https://www.diodes.com/assets/Datasheets/AP2114.pdf
+$ENDCMP
+#
+$CMP AP2114H-1.5
+D 1.5V 1A Low Noise CMOS LDO Regulator, SOT-223
+K ldo regulator
+F https://www.diodes.com/assets/Datasheets/AP2114.pdf
+$ENDCMP
+#
+$CMP AP2114H-1.8
+D 1.8V 1A Low Noise CMOS LDO Regulator, SOT-223
+K ldo regulator
+F https://www.diodes.com/assets/Datasheets/AP2114.pdf
+$ENDCMP
+#
+$CMP AP2114H-2.5
+D 2.5V 1A Low Noise CMOS LDO Regulator, SOT-223
+K ldo regulator
+F https://www.diodes.com/assets/Datasheets/AP2114.pdf
+$ENDCMP
+#
+$CMP AP2114H-3.3
+D 3.3V 1A Low Noise CMOS LDO Regulator, SOT-223
+K ldo regulator
+F https://www.diodes.com/assets/Datasheets/AP2114.pdf
+$ENDCMP
+#
 $CMP BA3258HFP
 D 3.3V/1.5V 1A, Dual Output Fixed Output LDO Regulator, HRP5
 K dual regulator LDO

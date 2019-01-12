@@ -354,6 +354,11 @@ K memory sram
 F http://www.issi.com/WW/pdf/62-65WV2568FALL-BLL.pdf
 $ENDCMP
 #
+$CMP MT48LC16M16A2F4
+D 256Mb (16M x 16) Synchronous DRAM, VFBGA 54-ball
+K memory sdram
+$ENDCMP
+#
 $CMP NT5DS32M16CS
 D 512Mb (32M x 16) DDR SDRAM, TSOP-II 66-pin
 K memory ddr sdram

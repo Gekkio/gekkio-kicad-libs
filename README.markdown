@@ -7,14 +7,22 @@ Licensed under Creative Commons Attribution 4.0 International.
 <!-- SYMBOLS START -->
 | Name | Description | Datasheet |
 | - | - | - |
+| 10M04SAE144 | MAX 10 FPGA, 4000 LE, single supply, EQFP-144 |  |
 | 10M04SCE144 | MAX 10 FPGA, 4000 LE, single supply, EQFP-144 |  |
 | 2N7002BK | 350 mA Id, 60V Vds, N-Channel Trench MOSFET, SOT-23-3 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/2N7002BK.pdf) |
 | 74LVC245APW | Octal bus transceiver, 3-state, TSSOP-20 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/74LVC_LVCH245A.pdf) |
 | 74LVC8T245PW | 8-bit dual supply translating transceiver, 3-state, TSSOP-24 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/74LVC_LVCH8T245.pdf) |
 | 74LVCH245APW | Octal bus transceiver, 3-state, bus hold, TSSOP-20 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/74LVC_LVCH245A.pdf) |
 | 74LVCH8T245PW | 8-bit dual supply translating transceiver, 3-state, bus hold, TSSOP-24 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/74LVC_LVCH8T245.pdf) |
+| 74VHC126PW |  |  |
+| 74VHCT126PW |  |  |
 | 93LC56A-xOT | 2kb (256 x 8) 2.5V Microwire Compatible Serial EEPROM, SOT-23-6 | [Datasheet](http://ww1.microchip.com/downloads/en/devicedoc/21794b.pdf) |
 | 93LC56B-xOT | 2kb (128 x 16) 2.5V Microwire Compatible Serial EEPROM, SOT-23-6 | [Datasheet](http://ww1.microchip.com/downloads/en/devicedoc/21794b.pdf) |
+| AP2114H-1.2 | 1.2V 1A Low Noise CMOS LDO Regulator, SOT-223 | [Datasheet](https://www.diodes.com/assets/Datasheets/AP2114.pdf) |
+| AP2114H-1.5 | 1.5V 1A Low Noise CMOS LDO Regulator, SOT-223 | [Datasheet](https://www.diodes.com/assets/Datasheets/AP2114.pdf) |
+| AP2114H-1.8 | 1.8V 1A Low Noise CMOS LDO Regulator, SOT-223 | [Datasheet](https://www.diodes.com/assets/Datasheets/AP2114.pdf) |
+| AP2114H-2.5 | 2.5V 1A Low Noise CMOS LDO Regulator, SOT-223 | [Datasheet](https://www.diodes.com/assets/Datasheets/AP2114.pdf) |
+| AP2114H-3.3 | 3.3V 1A Low Noise CMOS LDO Regulator, SOT-223 | [Datasheet](https://www.diodes.com/assets/Datasheets/AP2114.pdf) |
 | AP4953GM | Dual P-Channel Enchancement Mode MOSFET, SOIC-8 | [Datasheet](https://datasheet.lcsc.com/szlcsc/Advanced-Power-Elec-AP4953GM_C6193.pdf) |
 | AS4C16M16SA | 256Mb (16M x 16) Synchronous DRAM, TSOP-II 54-pin | [Datasheet](https://www.alliancememory.com/wp-content/uploads/pdf/dram/256Mb-AS4C16M16SA-C&I_V3.0_March%202015.pdf) |
 | AT49F001-xxJx | 1Mb (128K x 8) 5-volt Only Flash Memory, PLCC-32 | [Datasheet](https://datasheet.octopart.com/AT49F001-55PC-Atmel-datasheet-10108.pdf) |
@@ -34,6 +42,7 @@ Licensed under Creative Commons Attribution 4.0 International.
 | Bus_PCIExpress_8x | PCI Express 8x connector | [Datasheet](https://en.wikipedia.org/wiki/PCI_Express) |
 | CBT3125PW | Quadruple FET bus switch, TSSOP-14 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/CBT3125.pdf) |
 | EMI_Filter_LLL | EMI 3-inductor filter |  |
+| Ferrite_Bead_Pack04 | 4 ferrite bead array, parallel topology |  |
 | GameBoy_CPU_CGB |  |  |
 | GameBoy_CPU_DMG <br> ![GameBoy_CPU_DMG](photos/GameBoy_CPU_DMG.jpg) | CPU, original Game Boy (DMG) |  |
 | GameBoy_CPU_MGB | CPU, original Game Boy Pocket (MGB), Game Boy Light (MGL) |  |
@@ -42,6 +51,7 @@ Licensed under Creative Commons Attribution 4.0 International.
 | GameBoy_Cartridge | Game Boy cartridge edge connector |  |
 | GameBoy_LinkPort |  |  |
 | GameBoy_SRAM_64K <br> ![GameBoy_SRAM_64K](photos/GameBoy_SRAM_64K.jpg) | 64kb (8K x 8) Game Boy SRAM chip, SOIC-28W | [Datasheet](http://rchobby-bg.com/PDFs/IC/LH5164.pdf) |
+| GameBoy_Transformer_DMG | Power Transformer, original Game Boy (DMG) |  |
 | IS61C1024AL-12T | 1Mb (128k x 8), 5V, 12ns, High-Speed CMOS Static RAM, TSOP-I 32-pin | [Datasheet](http://www.issi.com/WW/pdf/62-65C1024AL.pdf) |
 | IS61C256AL-xxJ | 256kb (32K x 8), 5V, 10/12 ns, High-Speed CMOS Static RAM, SOIC-28W | [Datasheet](http://www.issi.com/WW/pdf/61C256AL.pdf) |
 | IS61C256AL-xxT | 256kb (32k x 8), 5V, 10/12 ns, High-Speed CMOS Static RAM, TSOP-I 28-pin | [Datasheet](http://www.issi.com/WW/pdf/61C256AL.pdf) |
@@ -124,6 +134,8 @@ Licensed under Creative Commons Attribution 4.0 International.
 | MIC2005A-2YM6 | Fixed current limiting power distribution switch, SOT-23-6 | [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/mic20xx.pdf) |
 | MIC5370 | High-Performance Dual 150mA LDO, MLF-6 | [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/mic5370.pdf) |
 | MM1581 | Lithium-Ion Battery Charge Control, TSOP-16 | [Datasheet](https://www.mitsumi.co.jp/latest/Catalog/ic/common/stop/battery_mm_1581_e.pdf) |
+| MP2122GJ | 6V, 2A, Low Quiescent Current Dual, Sync Buck Regulator, TSOT23-8 | [Datasheet](https://media.monolithicpower.com/document/MP2122_r1.02.pdf) |
+| MT48LC16M16A2F4 | 256Mb (16M x 16) Synchronous DRAM, VFBGA 54-ball |  |
 | MT9700 | 80mΩ, Adjustable Fast Response Current-Limited Power-Distribution Switch, SOT-23-5 | [Datasheet](https://datasheet.lcsc.com/szlcsc/XI-AN-Aerosemi-Tech-MT9700_C89855.pdf) |
 | MX25L12805D | 128Mb (128M x 1) CMOS SPI Serial Flash, SOP-16 | [Datasheet](https://datasheet.octopart.com/MX25L12805DMI-20G-Macronix-datasheet-8332919.pdf) |
 | MX29F200CxT | 2 Mb (256k x 8 / 128k x 16) Single Voltage 5V Only Flash Memory, TSOP-I 48-pin | [Datasheet](http://www.macronix.com/Lists/Datasheet/Attachments/7286/MX29F200C%20T-B,%205V,%202Mb,%20v2.1.pdf) |
@@ -144,6 +156,15 @@ Licensed under Creative Commons Attribution 4.0 International.
 | NSR0530H | 30V 500mA Schottky diode, SOD-323 | [Datasheet](http://www.onsemi.com/pub/Collateral/NSR0530H-D.PDF) |
 | NT5DS32M16CS | 512Mb (32M x 16) DDR SDRAM, TSOP-II 66-pin | [Datasheet](https://elinux.org/images/e/e0/Nt5d32m16cs-5t.pdf) |
 | PAM2308BYMAA | Dual high-efficiency PWM step-down DC-DC converter, DFN-10 | [Datasheet](https://www.diodes.com/assets/Datasheets/PAM2308.pdf) |
+| PCA9517ADP |  |  |
+| Q_DUAL_PMOS_S1G1D2S2G2D1 | Dual PMOS transistor, 6 pin package | [Datasheet](~) |
+| RN4986 | Dual Digital NPN+NPN Transistor, 4k7/47k |  |
+| RS8751BXF | Single 250MHz, Rail-to-Rail Output CMOS Operational Amplifier, SOT-23-5 | [Datasheet](https://datasheet.lcsc.com/szlcsc/Jiangsu-RUNIC-Tech-RS8752XQ_C255422.pdf) |
+| RS8751XF | Single 250MHz, Rail-to-Rail Output CMOS Operational Amplifier, SOT-23-5 | [Datasheet](https://datasheet.lcsc.com/szlcsc/Jiangsu-RUNIC-Tech-RS8752XQ_C255422.pdf) |
+| RS8752XK | Dual 250MHz, Rail-to-Rail Output CMOS Operational Amplifier, SOIC-8 | [Datasheet](https://datasheet.lcsc.com/szlcsc/Jiangsu-RUNIC-Tech-RS8752XQ_C255422.pdf) |
+| RS8752XM | Dual 250MHz, Rail-to-Rail Output CMOS Operational Amplifier, MSOP-8 | [Datasheet](https://datasheet.lcsc.com/szlcsc/Jiangsu-RUNIC-Tech-RS8752XQ_C255422.pdf) |
+| RS8752XQ | Dual 250MHz, Rail-to-Rail Output CMOS Operational Amplifier, TSSOP-8 | [Datasheet](https://datasheet.lcsc.com/szlcsc/Jiangsu-RUNIC-Tech-RS8752XQ_C255422.pdf) |
+| RT7295C | 3.5A, 18V, 500kHz ACOT Synchronous Step-Down Converter, TSOT-23-6 | [Datasheet](https://www.richtek.com/assets/product_file/RT7295C/DS7295C-04.pdf) |
 | SE3608 | 2A/1.2MHz Output Current, Boost Converter, SOT-23-6 | [Datasheet](https://datasheet.lcsc.com/szlcsc/Seaward-Elec-SE3608_C114986.pdf) |
 | SN74CB3T16211DGG | 24-bit FET bus switch, 2.5-V/3.3-V low-voltage bus switch with 5-V tolerant level shifter | [Datasheet](http://www.ti.com/lit/ds/symlink/sn74cb3t16211.pdf) |
 | SN74LV1T34DBV | Single Power Supply Single Buffer gate CMOS Logic Level Shifter, SOT-23-5 | [Datasheet](http://www.ti.com/lit/ds/symlink/sn74lv1t34.pdf) |
@@ -155,6 +176,7 @@ Licensed under Creative Commons Attribution 4.0 International.
 | SN74LVCH8T245DB | 8-bit dual supply translating transceiver, 3-state, bus hold, SSOP-24 | [Datasheet](http://www.ti.com/lit/ds/symlink/sn74lvch8t245.pdf) |
 | SN74LVCH8T245DGV | 8-bit dual supply translating transceiver, 3-state, bus hold, TVSOP-24 | [Datasheet](http://www.ti.com/lit/ds/symlink/sn74lvch8t245.pdf) |
 | SN74LVCH8T245PW | 8-bit dual supply translating transceiver, 3-state, bus hold, TSSOP-24 | [Datasheet](http://www.ti.com/lit/ds/symlink/sn74lvch8t245.pdf) |
+| SP0504SHTG | 0.85pF TVS Diode Array, SOT-23-6 | [Datasheet](https://m.littelfuse.com/~/media/electronics/datasheets/tvs_diode_arrays/littelfuse_tvs_diode_array_sp0504s_datasheet.pdf.pdf) |
 | STM795xM | 3 V Supervisor with Battery Switchover, Active-Low Reset, Chip-enable Gating, SOIC-8 | [Datasheet](https://www.st.com/resource/en/datasheet/stm802t-slsh-s-slsh-r.pdf) |
 | STM818xM | 5 V Supervisor with Battery Switchover, Watchdog Input, Active-Low Reset, Chip-enable Gating, SOIC-8 | [Datasheet](https://www.st.com/resource/en/datasheet/stm690a.pdf) |
 | TLV2316 | Dual 10-MHz, Rail-to-Rail Input/Output, Low-Voltage, 1.8-V CMOS Operational Amplifier, VSSOP-8/SOIC-8 | [Datasheet](http://www.ti.com/lit/ds/symlink/tlv2316.pdf) |
@@ -174,6 +196,7 @@ Licensed under Creative Commons Attribution 4.0 International.
 | Amphenol_10018783-x0x01_2x32_P1.00mm_Socket_Vertical |  |  |
 | Amphenol_10018783-x0x02_2x49_P1.00mm_Socket_Vertical |  |  |
 | BarrelJack_CUI_PJ-202A_Horizontal <br> ![BarrelJack_CUI_PJ-202A_Horizontal](photos/BarrelJack_CUI_PJ-202A_Horizontal.jpg) |  |  |
+| Battery_CR2025_Horizontal_Tabbed |  |  |
 | CWIndustries_GF-1123-1110 <br> ![CWIndustries_GF-1123-1110](photos/CWIndustries_GF-1123-1110.jpg) |  |  |
 | E-Switch_RA12131100 <br> ![E-Switch_RA12131100](photos/E-Switch_RA12131100.jpg) | :heavy_check_mark: |  |
 | GameBoy_Cartridge_1x32_P1.50mm_Edge |  |  |
@@ -188,7 +211,11 @@ Licensed under Creative Commons Attribution 4.0 International.
 | Infineon_SOT-343_SC-82 |  |  |
 | L_CommonMode_TDK_ACM2520-3P_L2.5mm_W2.0mm_Px2.3mm_Py0.65mm |  |  |
 | L_CommonMode_TDK_ACM4532-3P_L4.5mm_W3.2mm_Px4.1mm_Py1.7mm |  |  |
+| L_HkHotline_MCW-0630 |  |  |
+| L_Samsung_CIGT252010 |  |  |
+| L_Sunltech_SLO0520H |  |  |
 | L_Sunltech_SLW40xx |  |  |
+| Micron_VFBGA-54_8x8mm_Layout9x9_P0.8mm |  |  |
 | Molex_19708-400X_Vertical | :heavy_check_mark: |  |
 | Molex_19708-401X_Vertical <br> ![Molex_19708-401X_Vertical](photos/Molex_19708-401X_Vertical.jpg) | :heavy_check_mark: |  |
 | MountingHole_2.3mm |  |  |
@@ -205,5 +232,6 @@ Licensed under Creative Commons Attribution 4.0 International.
 | Sharp_SOIC-24W_8.6x15.4mm_P1.27mm | :heavy_check_mark: | :heavy_check_mark: |
 | Sharp_SOIC-28W_8.6x18mm_P1.27mm | :heavy_check_mark: | :heavy_check_mark: |
 | Sharp_SSOP-18_6x7.4mm_P0.8mm | :heavy_check_mark: | :heavy_check_mark: |
+| Transformer_GameBoy_DMG |  |  |
 | USB_Mini-B_Hirose_UX60SC-MB-5ST80_Horizontal |  |  |
 <!-- FOOTPRINTS END -->

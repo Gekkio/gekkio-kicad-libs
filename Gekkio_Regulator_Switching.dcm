@@ -1,9 +1,21 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP MP2122GJ
+D 6V, 2A, Low Quiescent Current Dual, Sync Buck Regulator, TSOT23-8
+K regulator dc-dc buck step-down dual
+F https://media.monolithicpower.com/document/MP2122_r1.02.pdf
+$ENDCMP
+#
 $CMP PAM2308BYMAA
 D Dual high-efficiency PWM step-down DC-DC converter, DFN-10
 K regulator dc-dc buck step-down dual
 F https://www.diodes.com/assets/Datasheets/PAM2308.pdf
+$ENDCMP
+#
+$CMP RT7295C
+D 3.5A, 18V, 500kHz ACOT Synchronous Step-Down Converter, TSOT-23-6
+K regulator dc-dc buck step-down
+F https://www.richtek.com/assets/product_file/RT7295C/DS7295C-04.pdf
 $ENDCMP
 #
 $CMP SE3608
