@@ -184,6 +184,7 @@ Licensed under Creative Commons Attribution 4.0 International.
 | GameBoy_Cartridge_SGB-SGB2_1x32_P1.50mm_Socket_Horizontal <br> ![GameBoy_Cartridge_SGB-SGB2_1x32_P1.50mm_Socket_Horizontal](photos/GameBoy_Cartridge_SGB-SGB2_1x32_P1.50mm_Socket_Horizontal.jpg) |  |  |
 | GameBoy_LinkPort_DMG_Horizontal |  |  |
 | GameBoy_LinkPort_MGB_Horizontal |  |  |
+| ISSI_TSOP-I-28_11.8x8mm_P0.55mm | :heavy_check_mark: | :heavy_check_mark: |
 | Infineon_SOT-343_SC-82 |  |  |
 | L_CommonMode_TDK_ACM2520-3P_L2.5mm_W2.0mm_Px2.3mm_Py0.65mm |  |  |
 | L_CommonMode_TDK_ACM4532-3P_L4.5mm_W3.2mm_Px4.1mm_Py1.7mm |  |  |
@@ -199,7 +200,10 @@ Licensed under Creative Commons Attribution 4.0 International.
 | Potentiometer_Hokuriku_VG039NCH_Vertical |  |  |
 | Rohm_HRP5 |  |  |
 | SW_SPST_PTS540 |  |  |
+| Sharp_QFP-156_14x20mm_P0.4mm | :heavy_check_mark: | :heavy_check_mark: |
 | Sharp_QFP-80_14x20mm_P0.8mm | :heavy_check_mark: | :heavy_check_mark: |
-| TSOP-I-28_11.8x8mm_P0.55mm_Pin1Middle | :heavy_check_mark: | :heavy_check_mark: |
+| Sharp_SOIC-24W_8.6x15.4mm_P1.27mm | :heavy_check_mark: | :heavy_check_mark: |
+| Sharp_SOIC-28W_8.6x18mm_P1.27mm | :heavy_check_mark: | :heavy_check_mark: |
+| Sharp_SSOP-18_6x7.4mm_P0.8mm | :heavy_check_mark: | :heavy_check_mark: |
 | USB_Mini-B_Hirose_UX60SC-MB-5ST80_Horizontal |  |  |
 <!-- FOOTPRINTS END -->
