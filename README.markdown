@@ -158,7 +158,6 @@ Licensed under Creative Commons Attribution 4.0 International.
 | NT5DS32M16CS | 512Mb (32M x 16) DDR SDRAM, TSOP-II 66-pin | [Datasheet](https://elinux.org/images/e/e0/Nt5d32m16cs-5t.pdf) |
 | PAM2308BYMAA | Dual high-efficiency PWM step-down DC-DC converter, DFN-10 | [Datasheet](https://www.diodes.com/assets/Datasheets/PAM2308.pdf) |
 | PCA9517ADP |  |  |
-| Q_DUAL_PMOS_S1G1D2S2G2D1 | Dual PMOS transistor, 6 pin package | [Datasheet](~) |
 | RN4986 | Dual Digital NPN+NPN Transistor, 4k7/47k |  |
 | RS8751BXF | Single 250MHz, Rail-to-Rail Output CMOS Operational Amplifier, SOT-23-5 | [Datasheet](https://datasheet.lcsc.com/szlcsc/Jiangsu-RUNIC-Tech-RS8752XQ_C255422.pdf) |
 | RS8751XF | Single 250MHz, Rail-to-Rail Output CMOS Operational Amplifier, SOT-23-5 | [Datasheet](https://datasheet.lcsc.com/szlcsc/Jiangsu-RUNIC-Tech-RS8752XQ_C255422.pdf) |
