@@ -1,5 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP MM1134
+D System Reset (with battery back-up)
+$ENDCMP
+#
 $CMP STM795xM
 D 3 V Supervisor with Battery Switchover, Active-Low Reset, Chip-enable Gating, SOIC-8
 K supervisor battery switchover
