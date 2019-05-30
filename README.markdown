@@ -181,6 +181,7 @@ Licensed under Creative Commons Attribution 4.0 International.
 | SN74LVCH8T245DGV | 8-bit dual supply translating transceiver, 3-state, bus hold, TVSOP-24 | [Datasheet](http://www.ti.com/lit/ds/symlink/sn74lvch8t245.pdf) |
 | SN74LVCH8T245PW | 8-bit dual supply translating transceiver, 3-state, bus hold, TSSOP-24 | [Datasheet](http://www.ti.com/lit/ds/symlink/sn74lvch8t245.pdf) |
 | SP0504SHTG | 0.85pF TVS Diode Array, SOT-23-6 | [Datasheet](https://m.littelfuse.com/~/media/electronics/datasheets/tvs_diode_arrays/littelfuse_tvs_diode_array_sp0504s_datasheet.pdf.pdf) |
+| SP3003-02JTG | 0.65 pF TVS Diode Array, SC-70-5 | [Datasheet](https://www.littelfuse.com/~/media/electronics/datasheets/tvs_diode_arrays/littelfuse_tvs_diode_array_sp3003_datasheet.pdf.pdf) |
 | STM795xM | 3 V Supervisor with Battery Switchover, Active-Low Reset, Chip-enable Gating, SOIC-8 | [Datasheet](https://www.st.com/resource/en/datasheet/stm802t-slsh-s-slsh-r.pdf) |
 | STM818xM | 5 V Supervisor with Battery Switchover, Watchdog Input, Active-Low Reset, Chip-enable Gating, SOIC-8 | [Datasheet](https://www.st.com/resource/en/datasheet/stm690a.pdf) |
 | TLV2316 | Dual 10-MHz, Rail-to-Rail Input/Output, Low-Voltage, 1.8-V CMOS Operational Amplifier, VSSOP-8/SOIC-8 | [Datasheet](http://www.ti.com/lit/ds/symlink/tlv2316.pdf) |
