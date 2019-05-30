@@ -6,6 +6,12 @@ K regulator dc-dc buck step-down dual
 F https://media.monolithicpower.com/document/MP2122_r1.02.pdf
 $ENDCMP
 #
+$CMP MP2155GQ
+D High Efficiency Single Inductor Buck-Boost Converter with 2.2A Switches, DFN-10
+K regulator dc-dc buck boost
+F https://www.monolithicpower.com/pub/media/document/MP2155_r1.0.pdf
+$ENDCMP
+#
 $CMP PAM2308BYMAA
 D Dual high-efficiency PWM step-down DC-DC converter, DFN-10
 K regulator dc-dc buck step-down dual

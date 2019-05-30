@@ -138,6 +138,7 @@ Licensed under Creative Commons Attribution 4.0 International.
 | MM1134 | System Reset (with battery back-up) |  |
 | MM1581 | Lithium-Ion Battery Charge Control, TSOP-16 | [Datasheet](https://www.mitsumi.co.jp/latest/Catalog/ic/common/stop/battery_mm_1581_e.pdf) |
 | MP2122GJ | 6V, 2A, Low Quiescent Current Dual, Sync Buck Regulator, TSOT23-8 | [Datasheet](https://media.monolithicpower.com/document/MP2122_r1.02.pdf) |
+| MP2155GQ | High Efficiency Single Inductor Buck-Boost Converter with 2.2A Switches, DFN-10 | [Datasheet](https://www.monolithicpower.com/pub/media/document/MP2155_r1.0.pdf) |
 | MT48LC16M16A2F4 | 256Mb (16M x 16) Synchronous DRAM, VFBGA 54-ball |  |
 | MT9700 | 80mΩ, Adjustable Fast Response Current-Limited Power-Distribution Switch, SOT-23-5 | [Datasheet](https://datasheet.lcsc.com/szlcsc/XI-AN-Aerosemi-Tech-MT9700_C89855.pdf) |
 | MX25L12805D | 128Mb (128M x 1) CMOS SPI Serial Flash, SOP-16 | [Datasheet](https://datasheet.octopart.com/MX25L12805DMI-20G-Macronix-datasheet-8332919.pdf) |
