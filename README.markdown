@@ -227,8 +227,11 @@ Licensed under Creative Commons Attribution 4.0 International.
 | PCIExpress_x8_2x49_P1.00mm_Edge |  |  |
 | Potentiometer_Hokuriku_VG039NCH_Vertical |  |  |
 | Rohm_HRP5 |  |  |
+| Rohm_QFP-56_10x10mm_P0.65mm |  |  |
 | SW_SPST_PTS540 |  |  |
+| Sharp_QFP-128_14x20mm_P0.5mm |  |  |
 | Sharp_QFP-156_14x20mm_P0.4mm | :heavy_check_mark: | :heavy_check_mark: |
+| Sharp_QFP-44_14x14mm_P0.8mm |  |  |
 | Sharp_QFP-80_14x20mm_P0.8mm | :heavy_check_mark: | :heavy_check_mark: |
 | Sharp_SOIC-24W_8.6x15.4mm_P1.27mm | :heavy_check_mark: | :heavy_check_mark: |
 | Sharp_SOIC-28W_8.6x18mm_P1.27mm | :heavy_check_mark: | :heavy_check_mark: |
