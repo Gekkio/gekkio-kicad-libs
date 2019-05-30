@@ -168,6 +168,7 @@ Licensed under Creative Commons Attribution 4.0 International.
 | RS8752XQ | Dual 250MHz, Rail-to-Rail Output CMOS Operational Amplifier, TSSOP-8 | [Datasheet](https://datasheet.lcsc.com/szlcsc/Jiangsu-RUNIC-Tech-RS8752XQ_C255422.pdf) |
 | RT7295C | 3.5A, 18V, 500kHz ACOT Synchronous Step-Down Converter, TSOT-23-6 | [Datasheet](https://www.richtek.com/assets/product_file/RT7295C/DS7295C-04.pdf) |
 | SE3608 | 2A/1.2MHz Output Current, Boost Converter, SOT-23-6 | [Datasheet](https://datasheet.lcsc.com/szlcsc/Seaward-Elec-SE3608_C114986.pdf) |
+| SE8117TA | 3.3V 1A Low Noise CMOS LDO Regulator, SOT-223 | [Datasheet](https://www.diodes.com/assets/Datasheets/AP2114.pdf) |
 | SN74CB3T16211DGG | 24-bit FET bus switch, 2.5-V/3.3-V low-voltage bus switch with 5-V tolerant level shifter | [Datasheet](http://www.ti.com/lit/ds/symlink/sn74cb3t16211.pdf) |
 | SN74LV1T34DBV | Single Power Supply Single Buffer gate CMOS Logic Level Shifter, SOT-23-5 | [Datasheet](http://www.ti.com/lit/ds/symlink/sn74lv1t34.pdf) |
 | SN74LV1T34DCK | Single Power Supply Single Buffer gate CMOS Logic Level Shifter, SC-70-5 | [Datasheet](http://www.ti.com/lit/ds/symlink/sn74lv1t34.pdf) |

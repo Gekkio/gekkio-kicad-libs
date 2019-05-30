@@ -72,6 +72,12 @@ K regulator LDO
 F https://www.onsemi.com/pub/Collateral/NCP605-D.PDF
 $ENDCMP
 #
+$CMP SE8117TA
+D 3.3V 1A Low Noise CMOS LDO Regulator, SOT-223
+K ldo regulator
+F https://www.diodes.com/assets/Datasheets/AP2114.pdf
+$ENDCMP
+#
 $CMP XC6420ABxxMR
 D 150mA Small Dual LDO Regulator with ON/OFF Switch, SOT-23-6
 K dual regulator LDO
