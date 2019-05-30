@@ -33,6 +33,14 @@ Licensed under Creative Commons Attribution 4.0 International.
 | AT49F002N-xxJx | 2Mb (256K x 8) 5-volt Only Flash Memory, PLCC-32 | [Datasheet](https://datasheet.octopart.com/AT49F002T-90JC-Atmel-datasheet-821.pdf) |
 | AT49F002NT-xxJx | 2Mb (256K x 8) 5-volt Only Flash Memory, PLCC-32 | [Datasheet](https://datasheet.octopart.com/AT49F002T-90JC-Atmel-datasheet-821.pdf) |
 | AT49F002T-xxJx | 2Mb (256K x 8) 5-volt Only Flash Memory, PLCC-32 | [Datasheet](https://datasheet.octopart.com/AT49F002T-90JC-Atmel-datasheet-821.pdf) |
+| ATF1502AS-xAx44 | High-performance Complex Programmable Logic Device, 32 Macrocells, TQFP-44 | [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-0995-CPLD-ATF1502AS(L)-Datasheet.pdf) |
+| ATF1502ASL-xAx44 | High-performance Complex Programmable Logic Device, 32 Macrocells, TQFP-44 | [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-0995-CPLD-ATF1502AS(L)-Datasheet.pdf) |
+| ATF1504AS-xAx100 | High-performance Complex Programmable Logic Device, 64 Macrocells, TQFP-100 | [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/doc0784.pdf) |
+| ATF1504AS-xAx44 | High-performance Complex Programmable Logic Device, 64 Macrocells, TQFP-44 | [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-0950-CPLD-ATF1504AS(L)-Datasheet.pdf) |
+| ATF1504ASL-xAx100 | High-performance Complex Programmable Logic Device, 64 Macrocells, TQFP-100 | [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/doc0784.pdf) |
+| ATF1504ASL-xAx44 | High-performance Complex Programmable Logic Device, 64 Macrocells, TQFP-44 | [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-0950-CPLD-ATF1504AS(L)-Datasheet.pdf) |
+| ATF1508AS-xAx100 | High-performance Complex Programmable Logic Device, 128 Macrocells, TQFP-100 | [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/doc0784.pdf) |
+| ATF1508ASL-xAx100 | High-performance Complex Programmable Logic Device, 128 Macrocells, TQFP-100 | [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/doc0784.pdf) |
 | BA3258HFP | 3.3V/1.5V 1A, Dual Output Fixed Output LDO Regulator, HRP5 | [Datasheet](http://rohmfs.rohm.com/en/products/databook/datasheet/ic/power/linear_regulator/ba3258hfp-e.pdf) |
 | BA33D15HFP | 3.3V/1.5V 0.5A, Dual Output Fixed Output LDO Regulator, HRP5 | [Datasheet](http://rohmfs.rohm.com/en/products/databook/datasheet/ic/power/linear_regulator/ba3258hfp-e.pdf) |
 | BA33D18HFP | 3.3V/1.8V 0.5A, Dual Output Fixed Output LDO Regulator, HRP5 | [Datasheet](http://rohmfs.rohm.com/en/products/databook/datasheet/ic/power/linear_regulator/ba3258hfp-e.pdf) |
