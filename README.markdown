@@ -132,6 +132,7 @@ Licensed under Creative Commons Attribution 4.0 International.
 | MBC1 | Nintendo MBC1 |  |
 | MBC2 | Nintendo MBC2 |  |
 | MCP6411 | Single 1-MHz, Rail-to-Rail Input/Output, Operational Amplifier with EMI filtering, SOT-23-5/SC-70-5 | [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/20005791B.pdf) |
+| MIC2005A-1YM6 | Fixed current limiting power distribution switch, SOT-23-6 | [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/mic20xx.pdf) |
 | MIC2005A-2YM6 | Fixed current limiting power distribution switch, SOT-23-6 | [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/mic20xx.pdf) |
 | MIC5370 | High-Performance Dual 150mA LDO, MLF-6 | [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/mic5370.pdf) |
 | MM1134 | System Reset (with battery back-up) |  |
