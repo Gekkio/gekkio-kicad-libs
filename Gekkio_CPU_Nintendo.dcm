@@ -6,7 +6,7 @@ K gameboy cpu
 $ENDCMP
 #
 $CMP GameBoy_CPU_MGB
-D CPU, original Game Boy Pocket (MGB), Game Boy Light (MGL)
+D CPU, Game Boy Pocket (MGB), Game Boy Light (MGL)
 K gameboy cpu
 $ENDCMP
 #

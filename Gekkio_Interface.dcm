@@ -10,4 +10,9 @@ D Nintendo MBC2
 K memory bank controller
 $ENDCMP
 #
+$CMP MBC5
+D Nintendo MBC5
+K memory bank controller
+$ENDCMP
+#
 #End Doc Library
