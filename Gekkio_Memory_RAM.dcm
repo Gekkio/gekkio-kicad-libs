@@ -9,7 +9,6 @@ $ENDCMP
 $CMP GameBoy_SRAM_64K
 D 64kb (8K x 8) Game Boy SRAM chip, SOIC-28W
 K gameboy sram
-F http://rchobby-bg.com/PDFs/IC/LH5164.pdf
 $ENDCMP
 #
 $CMP IS61C1024AL-12T
@@ -357,6 +356,7 @@ $ENDCMP
 $CMP MT48LC16M16A2F4
 D 256Mb (16M x 16) Synchronous DRAM, VFBGA 54-ball
 K memory sdram
+F https://www.micron.com/-/media/client/global/documents/products/data-sheet/dram/256mb_sdr.pdf
 $ENDCMP
 #
 $CMP NT5DS32M16CS

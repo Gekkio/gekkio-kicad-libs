@@ -15,4 +15,8 @@ D Nintendo MBC5
 K memory bank controller
 $ENDCMP
 #
+$CMP PCA9517ADP
+F https://www.nxp.com/docs/en/data-sheet/PCA9517.pdf
+$ENDCMP
+#
 #End Doc Library

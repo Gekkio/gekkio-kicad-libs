@@ -67,7 +67,7 @@ Licensed under Creative Commons Attribution 4.0 International.
 | GameBoy_CPU_SGB2 | CPU, Super Game Boy 2 (SGB2) |  |
 | GameBoy_Cartridge | Game Boy cartridge edge connector |  |
 | GameBoy_LinkPort |  |  |
-| GameBoy_SRAM_64K <br> ![GameBoy_SRAM_64K](photos/GameBoy_SRAM_64K.jpg) | 64kb (8K x 8) Game Boy SRAM chip, SOIC-28W | [Datasheet](http://rchobby-bg.com/PDFs/IC/LH5164.pdf) |
+| GameBoy_SRAM_64K <br> ![GameBoy_SRAM_64K](photos/GameBoy_SRAM_64K.jpg) | 64kb (8K x 8) Game Boy SRAM chip, SOIC-28W |  |
 | GameBoy_Transformer_DMG | Power Transformer, original Game Boy (DMG) |  |
 | IS61C1024AL-12T | 1Mb (128k x 8), 5V, 12ns, High-Speed CMOS Static RAM, TSOP-I 32-pin | [Datasheet](http://www.issi.com/WW/pdf/62-65C1024AL.pdf) |
 | IS61C256AL-xxJ | 256kb (32K x 8), 5V, 10/12 ns, High-Speed CMOS Static RAM, SOIC-28W | [Datasheet](http://www.issi.com/WW/pdf/61C256AL.pdf) |
@@ -154,11 +154,11 @@ Licensed under Creative Commons Attribution 4.0 International.
 | MIC2005A-2YM6 | Fixed current limiting power distribution switch, SOT-23-6 | [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/mic20xx.pdf) |
 | MIC5370 | High-Performance Dual 150mA LDO, MLF-6 | [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/mic5370.pdf) |
 | MIC920 | 80 MHz Low-Power Op Amp, SOT-23-5/SC-70-5 | [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/mic920.pdf) |
-| MM1134 | System Reset (with battery back-up) |  |
+| MM1134 | System Reset (with battery back-up) | [Datasheet](https://www.mitsumi.co.jp/latest/Catalog/ic/common/stop/micro_mm_1134_e.pdf) |
 | MM1581 | Lithium-Ion Battery Charge Control, TSOP-16 | [Datasheet](https://www.mitsumi.co.jp/latest/Catalog/ic/common/stop/battery_mm_1581_e.pdf) |
 | MP2122GJ | 6V, 2A, Low Quiescent Current Dual, Sync Buck Regulator, TSOT23-8 | [Datasheet](https://media.monolithicpower.com/document/MP2122_r1.02.pdf) |
 | MP2155GQ | High Efficiency Single Inductor Buck-Boost Converter with 2.2A Switches, DFN-10 | [Datasheet](https://www.monolithicpower.com/pub/media/document/MP2155_r1.0.pdf) |
-| MT48LC16M16A2F4 | 256Mb (16M x 16) Synchronous DRAM, VFBGA 54-ball |  |
+| MT48LC16M16A2F4 | 256Mb (16M x 16) Synchronous DRAM, VFBGA 54-ball | [Datasheet](https://www.micron.com/-/media/client/global/documents/products/data-sheet/dram/256mb_sdr.pdf) |
 | MT9700 | 80mΩ, Adjustable Fast Response Current-Limited Power-Distribution Switch, SOT-23-5 | [Datasheet](https://datasheet.lcsc.com/szlcsc/XI-AN-Aerosemi-Tech-MT9700_C89855.pdf) |
 | MX25L12805D | 128Mb (128M x 1) CMOS SPI Serial Flash, SOP-16 | [Datasheet](https://datasheet.octopart.com/MX25L12805DMI-20G-Macronix-datasheet-8332919.pdf) |
 | MX29F200CxT | 2 Mb (256k x 8 / 128k x 16) Single Voltage 5V Only Flash Memory, TSOP-I 48-pin | [Datasheet](http://www.macronix.com/Lists/Datasheet/Attachments/7286/MX29F200C%20T-B,%205V,%202Mb,%20v2.1.pdf) |
@@ -179,8 +179,8 @@ Licensed under Creative Commons Attribution 4.0 International.
 | NSR0530H | 30V 500mA Schottky diode, SOD-323 | [Datasheet](http://www.onsemi.com/pub/Collateral/NSR0530H-D.PDF) |
 | NT5DS32M16CS | 512Mb (32M x 16) DDR SDRAM, TSOP-II 66-pin | [Datasheet](https://elinux.org/images/e/e0/Nt5d32m16cs-5t.pdf) |
 | PAM2308BYMAA | Dual high-efficiency PWM step-down DC-DC converter, DFN-10 | [Datasheet](https://www.diodes.com/assets/Datasheets/PAM2308.pdf) |
-| PCA9517ADP |  |  |
-| RN4986 | Dual Digital NPN+NPN Transistor, 4k7/47k |  |
+| PCA9517ADP |  | [Datasheet](https://www.nxp.com/docs/en/data-sheet/PCA9517.pdf) |
+| RN4986 | Dual Digital NPN+NPN Transistor, 4k7/47k | [Datasheet](https://toshiba.semicon-storage.com/info/docget.jsp?did=18983&prodName=RN4986) |
 | RS2057 | 4.5Ohm Low Voltage SPDT Analog Switch, SOT-23-6/SC-70-6 | [Datasheet](http://www.run-ic.com/Public/attached/file/201807/1531365476_71827.pdf) |
 | RS8751BXF | Single 250MHz, Rail-to-Rail Output CMOS Operational Amplifier, SOT-23-5 | [Datasheet](https://datasheet.lcsc.com/szlcsc/Jiangsu-RUNIC-Tech-RS8752XQ_C255422.pdf) |
 | RS8751XF | Single 250MHz, Rail-to-Rail Output CMOS Operational Amplifier, SOT-23-5 | [Datasheet](https://datasheet.lcsc.com/szlcsc/Jiangsu-RUNIC-Tech-RS8752XQ_C255422.pdf) |

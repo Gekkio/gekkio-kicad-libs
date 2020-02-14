@@ -2,6 +2,7 @@ EESchema-DOCLIB  Version 2.0
 #
 $CMP MM1134
 D System Reset (with battery back-up)
+F https://www.mitsumi.co.jp/latest/Catalog/ic/common/stop/micro_mm_1134_e.pdf
 $ENDCMP
 #
 $CMP STM690RM
