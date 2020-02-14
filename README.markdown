@@ -51,6 +51,7 @@ Licensed under Creative Commons Attribution 4.0 International.
 | CBT3125PW | Quadruple FET bus switch, TSSOP-14 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/CBT3125.pdf) |
 | EMI_Filter_LLL | EMI 3-inductor filter |  |
 | Ferrite_Bead_Pack04 | 4 ferrite bead array, parallel topology |  |
+| GameBoy_Amplifier_AGB |  |  |
 | GameBoy_CPU_CGB |  |  |
 | GameBoy_CPU_DMG <br> ![GameBoy_CPU_DMG](photos/GameBoy_CPU_DMG.jpg) | CPU, original Game Boy (DMG) |  |
 | GameBoy_CPU_MGB | CPU, Game Boy Pocket (MGB), Game Boy Light (MGL) |  |
