@@ -7,8 +7,10 @@ Licensed under Creative Commons Attribution 4.0 International.
 <!-- SYMBOLS START -->
 | Name | Description | Datasheet |
 | - | - | - |
+| 10M04DAF256 | MAX 10 FPGA, 4000 LE, dual supply, FBGA-256 |  |
 | 10M04SAE144 | MAX 10 FPGA, 4000 LE, single supply, EQFP-144 |  |
 | 10M04SCE144 | MAX 10 FPGA, 4000 LE, single supply, EQFP-144 |  |
+| 10M50DAF256 | MAX 10 FPGA, 50000 LE, dual supply, FBGA-256 |  |
 | 2N7002BK | 350 mA Id, 60V Vds, N-Channel Trench MOSFET, SOT-23-3 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/2N7002BK.pdf) |
 | 74LVC16244ADGG | 16-bit buffer/line driver, 5V input/output tolerant, 3-state, TSSOP-48 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/74LVC_LVCH16244A.pdf) |
 | 74LVC244APW | Octal buffer/line driver, 3-state, TSSOP-20 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/74LVC_LVCH244A.pdf) |
