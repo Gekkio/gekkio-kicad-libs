@@ -53,7 +53,7 @@ Licensed under Creative Commons Attribution 4.0 International.
 | Ferrite_Bead_Pack04 | 4 ferrite bead array, parallel topology |  |
 | GameBoy_CPU_CGB |  |  |
 | GameBoy_CPU_DMG <br> ![GameBoy_CPU_DMG](photos/GameBoy_CPU_DMG.jpg) | CPU, original Game Boy (DMG) |  |
-| GameBoy_CPU_MGB | CPU, original Game Boy Pocket (MGB), Game Boy Light (MGL) |  |
+| GameBoy_CPU_MGB | CPU, Game Boy Pocket (MGB), Game Boy Light (MGL) |  |
 | GameBoy_CPU_SGB | CPU, Super Game Boy (SGB) |  |
 | GameBoy_CPU_SGB2 | CPU, Super Game Boy 2 (SGB2) |  |
 | GameBoy_Cartridge | Game Boy cartridge edge connector |  |
@@ -247,6 +247,7 @@ Licensed under Creative Commons Attribution 4.0 International.
 | GameBoy_LinkPort_MGB_Horizontal |  |  |
 | ISSI_TSOP-I-28_11.8x8mm_P0.55mm | :heavy_check_mark: | :heavy_check_mark: |
 | Infineon_SOT-343_SC-82 |  |  |
+| JEITA_QFP-64_12x12mm_P0.65mm | :heavy_check_mark: | :heavy_check_mark: |
 | L_CommonMode_TDK_ACM2520-3P_L2.5mm_W2.0mm_Px2.3mm_Py0.65mm |  |  |
 | L_CommonMode_TDK_ACM4532-3P_L4.5mm_W3.2mm_Px4.1mm_Py1.7mm |  |  |
 | L_HkHotline_MCW-0630 |  |  |
@@ -264,10 +265,11 @@ Licensed under Creative Commons Attribution 4.0 International.
 | PCIExpress_x8_2x49_P1.00mm_Edge |  |  |
 | Potentiometer_Hokuriku_VG039NCH_Vertical |  |  |
 | Rohm_HRP5 |  |  |
-| Rohm_QFP-56_10x10mm_P0.65mm |  |  |
+| Rohm_QFP-56_10x10mm_P0.65mm | :heavy_check_mark: | :heavy_check_mark: |
 | SW_SPST_PTS540 |  |  |
 | Sharp_QFP-128_14x20mm_P0.5mm |  |  |
 | Sharp_QFP-156_14x20mm_P0.4mm | :heavy_check_mark: | :heavy_check_mark: |
+| Sharp_QFP-44_10x10mm_P0.8mm |  |  |
 | Sharp_QFP-44_14x14mm_P0.8mm |  |  |
 | Sharp_QFP-80_14x20mm_P0.8mm | :heavy_check_mark: | :heavy_check_mark: |
 | Sharp_SOIC-24W_8.6x15.4mm_P1.27mm | :heavy_check_mark: | :heavy_check_mark: |
