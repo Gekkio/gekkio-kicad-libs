@@ -171,6 +171,7 @@ Licensed under Creative Commons Attribution 4.0 International.
 | PAM2308BYMAA | Dual high-efficiency PWM step-down DC-DC converter, DFN-10 | [Datasheet](https://www.diodes.com/assets/Datasheets/PAM2308.pdf) |
 | PCA9517ADP |  |  |
 | RN4986 | Dual Digital NPN+NPN Transistor, 4k7/47k |  |
+| RS2057 | 4.5Ohm Low Voltage SPDT Analog Switch, SOT-23-6/SC-70-6 | [Datasheet](http://www.run-ic.com/Public/attached/file/201807/1531365476_71827.pdf) |
 | RS8751BXF | Single 250MHz, Rail-to-Rail Output CMOS Operational Amplifier, SOT-23-5 | [Datasheet](https://datasheet.lcsc.com/szlcsc/Jiangsu-RUNIC-Tech-RS8752XQ_C255422.pdf) |
 | RS8751XF | Single 250MHz, Rail-to-Rail Output CMOS Operational Amplifier, SOT-23-5 | [Datasheet](https://datasheet.lcsc.com/szlcsc/Jiangsu-RUNIC-Tech-RS8752XQ_C255422.pdf) |
 | RS8752XK | Dual 250MHz, Rail-to-Rail Output CMOS Operational Amplifier, SOIC-8 | [Datasheet](https://datasheet.lcsc.com/szlcsc/Jiangsu-RUNIC-Tech-RS8752XQ_C255422.pdf) |
