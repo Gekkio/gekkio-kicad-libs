@@ -145,6 +145,7 @@ Licensed under Creative Commons Attribution 4.0 International.
 | MIC2005A-1YM6 | Fixed current limiting power distribution switch, SOT-23-6 | [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/mic20xx.pdf) |
 | MIC2005A-2YM6 | Fixed current limiting power distribution switch, SOT-23-6 | [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/mic20xx.pdf) |
 | MIC5370 | High-Performance Dual 150mA LDO, MLF-6 | [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/mic5370.pdf) |
+| MIC920 | 80 MHz Low-Power Op Amp, SOT-23-5/SC-70-5 | [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/mic920.pdf) |
 | MM1134 | System Reset (with battery back-up) |  |
 | MM1581 | Lithium-Ion Battery Charge Control, TSOP-16 | [Datasheet](https://www.mitsumi.co.jp/latest/Catalog/ic/common/stop/battery_mm_1581_e.pdf) |
 | MP2122GJ | 6V, 2A, Low Quiescent Current Dual, Sync Buck Regulator, TSOT23-8 | [Datasheet](https://media.monolithicpower.com/document/MP2122_r1.02.pdf) |

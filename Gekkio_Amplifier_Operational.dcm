@@ -6,6 +6,12 @@ K single opamp
 F http://ww1.microchip.com/downloads/en/DeviceDoc/20005791B.pdf
 $ENDCMP
 #
+$CMP MIC920
+D 80 MHz Low-Power Op Amp, SOT-23-5/SC-70-5
+K single opamp
+F http://ww1.microchip.com/downloads/en/DeviceDoc/mic920.pdf
+$ENDCMP
+#
 $CMP RS8751BXF
 D Single 250MHz, Rail-to-Rail Output CMOS Operational Amplifier, SOT-23-5
 K single opamp
