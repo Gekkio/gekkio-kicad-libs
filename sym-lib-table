@@ -4,6 +4,7 @@
   (lib (name Gekkio_Amplifier_Operational)(type Legacy)(uri "$(KIPRJMOD)/Gekkio_Amplifier_Operational.lib")(options "")(descr ""))
   (lib (name Gekkio_Analog_Switch)(type Legacy)(uri "$(KIPRJMOD)/Gekkio_Analog_Switch.lib")(options "")(descr ""))
   (lib (name Gekkio_Battery_Management)(type Legacy)(uri "$(KIPRJMOD)/Gekkio_Battery_Management.lib")(options "")(descr ""))
+  (lib (name Gekkio_CPLD_Intel)(type Legacy)(uri "$(KIPRJMOD)/Gekkio_CPLD_Intel.lib")(options "")(descr ""))
   (lib (name Gekkio_CPLD_Lattice)(type Legacy)(uri "$(KIPRJMOD)/Gekkio_CPLD_Lattice.lib")(options "")(descr ""))
   (lib (name Gekkio_CPLD_Microchip)(type Legacy)(uri "$(KIPRJMOD)/Gekkio_CPLD_Microchip.lib")(options "")(descr ""))
   (lib (name Gekkio_CPU_Nintendo)(type Legacy)(uri "$(KIPRJMOD)/Gekkio_CPU_Nintendo.lib")(options "")(descr ""))

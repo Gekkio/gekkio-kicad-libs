@@ -12,6 +12,9 @@ Licensed under Creative Commons Attribution 4.0 International.
 | 10M04SCE144 | MAX 10 FPGA, 4000 LE, single supply, EQFP-144 |  |
 | 10M50DAF256 | MAX 10 FPGA, 50000 LE, dual supply, FBGA-256 |  |
 | 2N7002BK | 350 mA Id, 60V Vds, N-Channel Trench MOSFET, SOT-23-3 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/2N7002BK.pdf) |
+| 5M160ZE64 | MAX V CPLD, 160 LE, EQFP-64 |  |
+| 5M40ZE64 | MAX V CPLD, 40 LE, EQFP-64 |  |
+| 5M80ZE64 | MAX V CPLD, 80 LE, EQFP-64 |  |
 | 74LVC16244ADGG | 16-bit buffer/line driver, 5V input/output tolerant, 3-state, TSSOP-48 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/74LVC_LVCH16244A.pdf) |
 | 74LVC244APW | Octal buffer/line driver, 3-state, TSSOP-20 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/74LVC_LVCH244A.pdf) |
 | 74LVC245APW | Octal bus transceiver, 3-state, TSSOP-20 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/74LVC_LVCH245A.pdf) |
@@ -250,6 +253,8 @@ Licensed under Creative Commons Attribution 4.0 International.
 | Battery_CR2025_Horizontal_Tabbed |  |  |
 | CWIndustries_GF-1123-1110 <br> ![CWIndustries_GF-1123-1110](photos/CWIndustries_GF-1123-1110.jpg) |  |  |
 | E-Switch_RA12131100 <br> ![E-Switch_RA12131100](photos/E-Switch_RA12131100.jpg) | :heavy_check_mark: |  |
+| EQFP-64-1EP_7x7mm_P0.4mm_EP4.5x4.5mm |  |  |
+| EQFP-64-1EP_7x7mm_P0.4mm_EP4.5x4.5mm_ThermalVias |  |  |
 | GameBoy_Cartridge_1x32_P1.50mm_Edge |  |  |
 | GameBoy_Cartridge_AGB_1x32_P1.50mm_Socket_Horizontal |  |  |
 | GameBoy_Cartridge_DMG_1x32_P1.50mm_Socket_Horizontal <br> ![GameBoy_Cartridge_DMG_1x32_P1.50mm_Socket_Horizontal](photos/GameBoy_Cartridge_DMG_1x32_P1.50mm_Socket_Horizontal.jpg) |  |  |
