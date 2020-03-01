@@ -257,7 +257,7 @@ Licensed under Creative Commons Attribution 4.0 International.
 | CWIndustries_GF-1123-1110 <br> ![CWIndustries_GF-1123-1110](photos/CWIndustries_GF-1123-1110.jpg) |  |  |
 | DFN-12-1EP_2.5x2.5mm_P0.4mm_EP1.2x1.9mm |  |  |
 | E-Switch_RA12131100 <br> ![E-Switch_RA12131100](photos/E-Switch_RA12131100.jpg) | :heavy_check_mark: |  |
-| EQFP-64-1EP_7x7mm_P0.4mm_EP4.5x4.5mm |  |  |
+| EQFP-64-1EP_7x7mm_P0.4mm_EP4.5x4.5mm | :heavy_check_mark: | :heavy_check_mark: |
 | EQFP-64-1EP_7x7mm_P0.4mm_EP4.5x4.5mm_ThermalVias |  |  |
 | GameBoy_Cartridge_1x32_P1.50mm_Edge |  |  |
 | GameBoy_Cartridge_AGB_1x32_P1.50mm_Socket_Horizontal |  |  |
@@ -292,10 +292,10 @@ Licensed under Creative Commons Attribution 4.0 International.
 | Rohm_HRP5 |  |  |
 | Rohm_QFP-56_10x10mm_P0.65mm | :heavy_check_mark: | :heavy_check_mark: |
 | SW_SPST_PTS540 |  |  |
-| Sharp_QFP-128_14x20mm_P0.5mm |  |  |
+| Sharp_QFP-128_14x20mm_P0.5mm | :heavy_check_mark: | :heavy_check_mark: |
 | Sharp_QFP-156_14x20mm_P0.4mm | :heavy_check_mark: | :heavy_check_mark: |
-| Sharp_QFP-44_10x10mm_P0.8mm |  |  |
-| Sharp_QFP-44_14x14mm_P0.8mm |  |  |
+| Sharp_QFP-44_10x10mm_P0.8mm | :heavy_check_mark: | :heavy_check_mark: |
+| Sharp_QFP-44_14x14mm_P0.8mm | :heavy_check_mark: | :heavy_check_mark: |
 | Sharp_QFP-80_14x20mm_P0.8mm | :heavy_check_mark: | :heavy_check_mark: |
 | Sharp_SOIC-24W_8.6x15.4mm_P1.27mm | :heavy_check_mark: | :heavy_check_mark: |
 | Sharp_SOIC-28W_8.6x18mm_P1.27mm | :heavy_check_mark: | :heavy_check_mark: |
