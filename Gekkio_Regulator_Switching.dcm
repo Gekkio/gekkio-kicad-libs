@@ -1,5 +1,23 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP MIC23158
+D 3 MHz PWM Dual 2A Buck Regulator with HyperLight Load and Power Good, QFN-20
+K regulator dc-dc buck step-down dual
+F http://ww1.microchip.com/downloads/en/DeviceDoc/MIC23158-9-3MHz-PWM-Dual-2A-Buck-Regulator-with-HyperLight-Load-and-Power-Good-DS20006020A.pdf
+$ENDCMP
+#
+$CMP MIC23159
+D 3 MHz PWM Dual 2A Buck Regulator with HyperLight Load and Power Good, Auto-Discharge, QFN-20
+K regulator dc-dc buck step-down dual
+F http://ww1.microchip.com/downloads/en/DeviceDoc/MIC23158-9-3MHz-PWM-Dual-2A-Buck-Regulator-with-HyperLight-Load-and-Power-Good-DS20006020A.pdf
+$ENDCMP
+#
+$CMP MIC23250-AAYMT
+D 4 MHz Dual 400 mA Synchronous Buck Regulator with Hyperlight Load™, DFN-12
+K regulator dc-dc buck step-down dual
+F http://ww1.microchip.com/downloads/en/DeviceDoc/mic23250.pdf
+$ENDCMP
+#
 $CMP MP2122GJ
 D 6V, 2A, Low Quiescent Current Dual, Sync Buck Regulator, TSOT23-8
 K regulator dc-dc buck step-down dual

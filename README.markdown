@@ -155,6 +155,9 @@ Licensed under Creative Commons Attribution 4.0 International.
 | MCP6411 | Single 1-MHz, Rail-to-Rail Input/Output, Operational Amplifier with EMI filtering, SOT-23-5/SC-70-5 | [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/20005791B.pdf) |
 | MIC2005A-1YM6 | Fixed current limiting power distribution switch, SOT-23-6 | [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/mic20xx.pdf) |
 | MIC2005A-2YM6 | Fixed current limiting power distribution switch, SOT-23-6 | [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/mic20xx.pdf) |
+| MIC23158 | 3 MHz PWM Dual 2A Buck Regulator with HyperLight Load and Power Good, QFN-20 | [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/MIC23158-9-3MHz-PWM-Dual-2A-Buck-Regulator-with-HyperLight-Load-and-Power-Good-DS20006020A.pdf) |
+| MIC23159 | 3 MHz PWM Dual 2A Buck Regulator with HyperLight Load and Power Good, Auto-Discharge, QFN-20 | [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/MIC23158-9-3MHz-PWM-Dual-2A-Buck-Regulator-with-HyperLight-Load-and-Power-Good-DS20006020A.pdf) |
+| MIC23250-AAYMT | 4 MHz Dual 400 mA Synchronous Buck Regulator with Hyperlight Load™, DFN-12 | [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/mic23250.pdf) |
 | MIC5370 | High-Performance Dual 150mA LDO, MLF-6 | [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/mic5370.pdf) |
 | MIC920 | 80 MHz Low-Power Op Amp, SOT-23-5/SC-70-5 | [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/mic920.pdf) |
 | MM1134 | System Reset (with battery back-up) | [Datasheet](https://www.mitsumi.co.jp/latest/Catalog/ic/common/stop/micro_mm_1134_e.pdf) |
@@ -252,6 +255,7 @@ Licensed under Creative Commons Attribution 4.0 International.
 | Battery_CR1616_Horizontal_Tabbed |  |  |
 | Battery_CR2025_Horizontal_Tabbed |  |  |
 | CWIndustries_GF-1123-1110 <br> ![CWIndustries_GF-1123-1110](photos/CWIndustries_GF-1123-1110.jpg) |  |  |
+| DFN-12-1EP_2.5x2.5mm_P0.4mm_EP1.2x1.9mm |  |  |
 | E-Switch_RA12131100 <br> ![E-Switch_RA12131100](photos/E-Switch_RA12131100.jpg) | :heavy_check_mark: |  |
 | EQFP-64-1EP_7x7mm_P0.4mm_EP4.5x4.5mm |  |  |
 | EQFP-64-1EP_7x7mm_P0.4mm_EP4.5x4.5mm_ThermalVias |  |  |
