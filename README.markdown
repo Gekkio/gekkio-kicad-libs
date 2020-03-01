@@ -268,6 +268,8 @@ Licensed under Creative Commons Attribution 4.0 International.
 | L_Samsung_CIGT252010 |  |  |
 | L_Sunltech_SLO0520H |  |  |
 | L_Sunltech_SLW40xx |  |  |
+| Micron_TFBGA-60_8x16mm_Layout8x15_P0.8mm |  |  |
+| Micron_VFBGA-54_8x14mm_Layout9x9_P0.8mm |  |  |
 | Micron_VFBGA-54_8x8mm_Layout9x9_P0.8mm |  |  |
 | Molex_19708-400X_Vertical | :heavy_check_mark: |  |
 | Molex_19708-401X_Vertical <br> ![Molex_19708-401X_Vertical](photos/Molex_19708-401X_Vertical.jpg) | :heavy_check_mark: |  |
