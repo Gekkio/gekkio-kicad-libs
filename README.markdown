@@ -31,6 +31,8 @@ Licensed under Creative Commons Attribution 4.0 International.
 | 74VHCT126PW | Quad buffer/line driver, 3-state, TSSOP-14 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/74VHC_VHCT126.pdf) |
 | 93LC56A-xOT | 2kb (256 x 8) 2.5V Microwire Compatible Serial EEPROM, SOT-23-6 | [Datasheet](http://ww1.microchip.com/downloads/en/devicedoc/21794b.pdf) |
 | 93LC56B-xOT | 2kb (128 x 16) 2.5V Microwire Compatible Serial EEPROM, SOT-23-6 | [Datasheet](http://ww1.microchip.com/downloads/en/devicedoc/21794b.pdf) |
+| ADS1274 | Quad, Simultaneous Sampling, 24-Bit Analog-to-Digital Converters, HTQFP-64 | [Datasheet](http://www.ti.com/lit/ds/symlink/ads1274.pdf) |
+| ADS1278 | Octal, Simultaneous Sampling, 24-Bit Analog-to-Digital Converters, HTQFP-64 | [Datasheet](http://www.ti.com/lit/ds/symlink/ads1278.pdf) |
 | AP2114H-1.2 | 1.2V 1A Low Noise CMOS LDO Regulator, SOT-223 | [Datasheet](https://www.diodes.com/assets/Datasheets/AP2114.pdf) |
 | AP2114H-1.5 | 1.5V 1A Low Noise CMOS LDO Regulator, SOT-223 | [Datasheet](https://www.diodes.com/assets/Datasheets/AP2114.pdf) |
 | AP2114H-1.8 | 1.8V 1A Low Noise CMOS LDO Regulator, SOT-223 | [Datasheet](https://www.diodes.com/assets/Datasheets/AP2114.pdf) |
