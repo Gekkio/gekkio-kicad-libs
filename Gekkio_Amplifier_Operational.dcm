@@ -1,13 +1,19 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP MCP6411
-D Single 1-MHz, Rail-to-Rail Input/Output, Operational Amplifier with EMI filtering, SOT-23-5/SC-70-5
+$CMP MCP6411T-xLT
+D Single 1-MHz, Rail-to-Rail Input/Output, Operational Amplifier with EMI filtering, SC-70-5
 K single opamp
 F http://ww1.microchip.com/downloads/en/DeviceDoc/20005791B.pdf
 $ENDCMP
 #
-$CMP MIC920
-D 80 MHz Low-Power Op Amp, SOT-23-5/SC-70-5
+$CMP MCP6411T-xOT
+D Single 1-MHz, Rail-to-Rail Input/Output, Operational Amplifier with EMI filtering, SOT-23-5
+K single opamp
+F http://ww1.microchip.com/downloads/en/DeviceDoc/20005791B.pdf
+$ENDCMP
+#
+$CMP MIC920xC5
+D 80 MHz Low-Power Op Amp, SC-70-5
 K single opamp
 F http://ww1.microchip.com/downloads/en/DeviceDoc/mic920.pdf
 $ENDCMP
@@ -48,8 +54,14 @@ K dual opamp
 F https://datasheet.lcsc.com/szlcsc/Jiangsu-RUNIC-Tech-RS8752XQ_C255422.pdf
 $ENDCMP
 #
-$CMP TLV2316
-D Dual 10-MHz, Rail-to-Rail Input/Output, Low-Voltage, 1.8-V CMOS Operational Amplifier, VSSOP-8/SOIC-8
+$CMP TLV2316ID
+D Dual 10-MHz, Rail-to-Rail Input/Output, Low-Voltage, 1.8-V CMOS Operational Amplifier, SOIC-8
+K dual opamp
+F http://www.ti.com/lit/ds/symlink/tlv2316.pdf
+$ENDCMP
+#
+$CMP TLV2316IDGK
+D Dual 10-MHz, Rail-to-Rail Input/Output, Low-Voltage, 1.8-V CMOS Operational Amplifier, VSSOP-8
 K dual opamp
 F http://www.ti.com/lit/ds/symlink/tlv2316.pdf
 $ENDCMP
@@ -66,8 +78,14 @@ K single opamp
 F http://www.ti.com/lit/ds/symlink/tlv316.pdf
 $ENDCMP
 #
-$CMP TLV4316
-D Quad 10-MHz, Rail-to-Rail Input/Output, Low-Voltage, 1.8-V CMOS Operational Amplifier, TSSOP-14/SOIC-14
+$CMP TLV4316ID
+D Quad 10-MHz, Rail-to-Rail Input/Output, Low-Voltage, 1.8-V CMOS Operational Amplifier, SOIC-14
+K quad opamp
+F http://www.ti.com/lit/ds/symlink/tlv4316.pdf
+$ENDCMP
+#
+$CMP TLV4316IPW
+D Quad 10-MHz, Rail-to-Rail Input/Output, Low-Voltage, 1.8-V CMOS Operational Amplifier, TSSOP-14
 K quad opamp
 F http://www.ti.com/lit/ds/symlink/tlv4316.pdf
 $ENDCMP

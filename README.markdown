@@ -7,14 +7,16 @@ Licensed under Creative Commons Attribution 4.0 International.
 <!-- SYMBOLS START -->
 | Name | Description | Datasheet |
 | - | - | - |
-| 10M04DAF256 | MAX 10 FPGA, 4000 LE, dual supply, FBGA-256 |  |
-| 10M04SAE144 | MAX 10 FPGA, 4000 LE, single supply, EQFP-144 |  |
-| 10M04SCE144 | MAX 10 FPGA, 4000 LE, single supply, EQFP-144 |  |
-| 10M50DAF256 | MAX 10 FPGA, 50000 LE, dual supply, FBGA-256 |  |
+| 10M04DAF256 | MAX 10 FPGA, 4000 LE, dual supply, FBGA-256 | [Datasheet](https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/hb/max-10/m10_overview.pdf) |
+| 10M04SAE144 | MAX 10 FPGA, 4000 LE, single supply, EQFP-144 | [Datasheet](https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/hb/max-10/m10_overview.pdf) |
+| 10M04SCE144 | MAX 10 FPGA, 4000 LE, single supply, EQFP-144 | [Datasheet](https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/hb/max-10/m10_overview.pdf) |
+| 10M50DAF256 | MAX 10 FPGA, 50000 LE, dual supply, FBGA-256 | [Datasheet](https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/hb/max-10/m10_overview.pdf) |
 | 23K256xSN | 256k SPI Bus Low-Power Serial SRAM, SOIC-8 | [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/22100F.pdf) |
-| 5M160ZE64 | MAX V CPLD, 160 LE, EQFP-64 |  |
-| 5M40ZE64 | MAX V CPLD, 40 LE, EQFP-64 |  |
-| 5M80ZE64 | MAX V CPLD, 80 LE, EQFP-64 |  |
+| 5M160ZE64 | MAX V CPLD, 160 LE, EQFP-64 | [Datasheet](https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/hb/max-v/mv51001.pdf) |
+| 5M40ZE64 | MAX V CPLD, 40 LE, EQFP-64 | [Datasheet](https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/hb/max-v/mv51001.pdf) |
+| 5M80ZE64 | MAX V CPLD, 80 LE, EQFP-64 | [Datasheet](https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/hb/max-v/mv51001.pdf) |
+| 74LVC125APW | Quad buffer/line driver, 3-state, TSSOP-14 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/74LVC125A.pdf) |
+| 74LVC126APW | Quad buffer/line driver, 3-state, TSSOP-14 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/74LVC126A.pdf) |
 | 74LVC16244ADGG | 16-bit buffer/line driver, 5V input/output tolerant, 3-state, TSSOP-48 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/74LVC_LVCH16244A.pdf) |
 | 74LVC244APW | Octal buffer/line driver, 3-state, TSSOP-20 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/74LVC_LVCH244A.pdf) |
 | 74LVC245APW | Octal bus transceiver, 3-state, TSSOP-20 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/74LVC_LVCH245A.pdf) |
@@ -44,12 +46,8 @@ Licensed under Creative Commons Attribution 4.0 International.
 | AT49F002N-xxJx | 2Mb (256K x 8) 5-volt Only Flash Memory, PLCC-32 | [Datasheet](https://datasheet.octopart.com/AT49F002T-90JC-Atmel-datasheet-821.pdf) |
 | AT49F002NT-xxJx | 2Mb (256K x 8) 5-volt Only Flash Memory, PLCC-32 | [Datasheet](https://datasheet.octopart.com/AT49F002T-90JC-Atmel-datasheet-821.pdf) |
 | AT49F002T-xxJx | 2Mb (256K x 8) 5-volt Only Flash Memory, PLCC-32 | [Datasheet](https://datasheet.octopart.com/AT49F002T-90JC-Atmel-datasheet-821.pdf) |
-| ATF1502AS-xAx44 | High-performance Complex Programmable Logic Device, 32 Macrocells, TQFP-44 | [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-0995-CPLD-ATF1502AS(L)-Datasheet.pdf) |
-| ATF1502ASL-xAx44 | High-performance Complex Programmable Logic Device, 32 Macrocells, TQFP-44 | [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-0995-CPLD-ATF1502AS(L)-Datasheet.pdf) |
 | ATF1504AS-xAx100 | High-performance Complex Programmable Logic Device, 64 Macrocells, TQFP-100 | [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/doc0784.pdf) |
-| ATF1504AS-xAx44 | High-performance Complex Programmable Logic Device, 64 Macrocells, TQFP-44 | [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-0950-CPLD-ATF1504AS(L)-Datasheet.pdf) |
 | ATF1504ASL-xAx100 | High-performance Complex Programmable Logic Device, 64 Macrocells, TQFP-100 | [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/doc0784.pdf) |
-| ATF1504ASL-xAx44 | High-performance Complex Programmable Logic Device, 64 Macrocells, TQFP-44 | [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-0950-CPLD-ATF1504AS(L)-Datasheet.pdf) |
 | ATF1508AS-xAx100 | High-performance Complex Programmable Logic Device, 128 Macrocells, TQFP-100 | [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/doc0784.pdf) |
 | ATF1508ASL-xAx100 | High-performance Complex Programmable Logic Device, 128 Macrocells, TQFP-100 | [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/doc0784.pdf) |
 | BA3258HFP | 3.3V/1.5V 1A, Dual Output Fixed Output LDO Regulator, HRP5 | [Datasheet](http://rohmfs.rohm.com/en/products/databook/datasheet/ic/power/linear_regulator/ba3258hfp-e.pdf) |
@@ -174,14 +172,15 @@ Licensed under Creative Commons Attribution 4.0 International.
 | MBC1 | Nintendo MBC1, SOIC-24 |  |
 | MBC2 | Nintendo MBC2, SOIC-28 |  |
 | MBC5 | Nintendo MBC5, TQFP-32 |  |
-| MCP6411 | Single 1-MHz, Rail-to-Rail Input/Output, Operational Amplifier with EMI filtering, SOT-23-5/SC-70-5 | [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/20005791B.pdf) |
+| MCP6411T-xLT | Single 1-MHz, Rail-to-Rail Input/Output, Operational Amplifier with EMI filtering, SC-70-5 | [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/20005791B.pdf) |
+| MCP6411T-xOT | Single 1-MHz, Rail-to-Rail Input/Output, Operational Amplifier with EMI filtering, SOT-23-5 | [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/20005791B.pdf) |
 | MIC2005A-1YM6 | Fixed current limiting power distribution switch, SOT-23-6 | [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/mic20xx.pdf) |
 | MIC2005A-2YM6 | Fixed current limiting power distribution switch, SOT-23-6 | [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/mic20xx.pdf) |
 | MIC23158 | 3 MHz PWM Dual 2A Buck Regulator with HyperLight Load and Power Good, QFN-20 | [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/MIC23158-9-3MHz-PWM-Dual-2A-Buck-Regulator-with-HyperLight-Load-and-Power-Good-DS20006020A.pdf) |
 | MIC23159 | 3 MHz PWM Dual 2A Buck Regulator with HyperLight Load and Power Good, Auto-Discharge, QFN-20 | [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/MIC23158-9-3MHz-PWM-Dual-2A-Buck-Regulator-with-HyperLight-Load-and-Power-Good-DS20006020A.pdf) |
 | MIC23250-AAYMT | 4 MHz Dual 400 mA Synchronous Buck Regulator with Hyperlight Load™, DFN-12 | [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/mic23250.pdf) |
 | MIC5370 | High-Performance Dual 150mA LDO, MLF-6 | [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/mic5370.pdf) |
-| MIC920 | 80 MHz Low-Power Op Amp, SOT-23-5/SC-70-5 | [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/mic920.pdf) |
+| MIC920xC5 | 80 MHz Low-Power Op Amp, SC-70-5 | [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/mic920.pdf) |
 | MM1134 | System Reset (with battery back-up) | [Datasheet](https://www.mitsumi.co.jp/latest/Catalog/ic/common/stop/micro_mm_1134_e.pdf) |
 | MM1581 | Lithium-Ion Battery Charge Control, TSSOP-16 | [Datasheet](https://www.mitsumi.co.jp/latest/Catalog/ic/common/stop/battery_mm_1581_e.pdf) |
 | MP2122GJ | 6V, 2A, Low Quiescent Current Dual, Sync Buck Regulator, TSOT23-8 | [Datasheet](https://media.monolithicpower.com/document/MP2122_r1.02.pdf) |
@@ -208,10 +207,11 @@ Licensed under Creative Commons Attribution 4.0 International.
 | NT5DS32M16CS | 512Mb (32M x 16) DDR SDRAM, TSOP-II 66-pin | [Datasheet](https://elinux.org/images/e/e0/Nt5d32m16cs-5t.pdf) |
 | OPA350UA | High-Speed, Single-Supply, Rail-to-Rail Operational Amplifiers MicroAmplifier Series, SOIC-8 | [Datasheet](http://www.ti.com/lit/ds/symlink/opa4350.pdf) |
 | PAM2308BYMAA | Dual high-efficiency PWM step-down DC-DC converter, DFN-10 | [Datasheet](https://www.diodes.com/assets/Datasheets/PAM2308.pdf) |
-| PCA9517ADP |  | [Datasheet](https://www.nxp.com/docs/en/data-sheet/PCA9517.pdf) |
+| PCA9517ADP | Level translating I2C-bus repeater, TSSOP-8 | [Datasheet](https://www.nxp.com/docs/en/data-sheet/PCA9517.pdf) |
 | PST9135N | System Reset | [Datasheet](https://www.semiee.com/file/EOL2/Mitsumi-PST9119N.pdf) |
-| RN4986 | Dual Digital NPN+NPN Transistor, 4k7/47k | [Datasheet](https://toshiba.semicon-storage.com/info/docget.jsp?did=18983&prodName=RN4986) |
-| RS2057 | 4.5Ohm Low Voltage SPDT Analog Switch, SOT-23-6/SC-70-6 | [Datasheet](http://www.run-ic.com/Public/attached/file/201807/1531365476_71827.pdf) |
+| RN4986 | Dual Digital NPN+NPN Transistor, 4k7/47k, SC-70-6 | [Datasheet](https://toshiba.semicon-storage.com/info/docget.jsp?did=18983&prodName=RN4986) |
+| RS2057XC6 | 4.5Ohm Low Voltage SPDT Analog Switch, SC-70-6 | [Datasheet](http://www.run-ic.com/Public/attached/file/201807/1531365476_71827.pdf) |
+| RS2057XH | 4.5Ohm Low Voltage SPDT Analog Switch, SOT-23-6 | [Datasheet](http://www.run-ic.com/Public/attached/file/201807/1531365476_71827.pdf) |
 | RS8751BXF | Single 250MHz, Rail-to-Rail Output CMOS Operational Amplifier, SOT-23-5 | [Datasheet](https://datasheet.lcsc.com/szlcsc/Jiangsu-RUNIC-Tech-RS8752XQ_C255422.pdf) |
 | RS8751XF | Single 250MHz, Rail-to-Rail Output CMOS Operational Amplifier, SOT-23-5 | [Datasheet](https://datasheet.lcsc.com/szlcsc/Jiangsu-RUNIC-Tech-RS8752XQ_C255422.pdf) |
 | RS8752XK | Dual 250MHz, Rail-to-Rail Output CMOS Operational Amplifier, SOIC-8 | [Datasheet](https://datasheet.lcsc.com/szlcsc/Jiangsu-RUNIC-Tech-RS8752XQ_C255422.pdf) |
@@ -259,10 +259,12 @@ Licensed under Creative Commons Attribution 4.0 International.
 | STM806TM | 3 V Supervisor with Battery Switchover, 3.075V Threshold, Active-Low Reset, Manual Reset Input, Power-Fail Comparator, SOIC-8 | [Datasheet](https://www.st.com/resource/en/datasheet/stm802t-slsh-s-slsh-r.pdf) |
 | STM818LM | 5 V Supervisor with Battery Switchover, 4.65V Threshold, Watchdog Input, Active-Low Reset, Chip-enable Gating, SOIC-8 | [Datasheet](https://www.st.com/resource/en/datasheet/stm690a.pdf) |
 | STM818MM | 5 V Supervisor with Battery Switchover, 4.40V Threshold, Watchdog Input, Active-Low Reset, Chip-enable Gating, SOIC-8 | [Datasheet](https://www.st.com/resource/en/datasheet/stm690a.pdf) |
-| TLV2316 | Dual 10-MHz, Rail-to-Rail Input/Output, Low-Voltage, 1.8-V CMOS Operational Amplifier, VSSOP-8/SOIC-8 | [Datasheet](http://www.ti.com/lit/ds/symlink/tlv2316.pdf) |
+| TLV2316ID | Dual 10-MHz, Rail-to-Rail Input/Output, Low-Voltage, 1.8-V CMOS Operational Amplifier, SOIC-8 | [Datasheet](http://www.ti.com/lit/ds/symlink/tlv2316.pdf) |
+| TLV2316IDGK | Dual 10-MHz, Rail-to-Rail Input/Output, Low-Voltage, 1.8-V CMOS Operational Amplifier, VSSOP-8 | [Datasheet](http://www.ti.com/lit/ds/symlink/tlv2316.pdf) |
 | TLV316IDBV | Single 10-MHz, Rail-to-Rail Input/Output, Low-Voltage, 1.8-V CMOS Operational Amplifier, SOT-23-5 | [Datasheet](http://www.ti.com/lit/ds/symlink/tlv316.pdf) |
 | TLV316IDCK | Single 10-MHz, Rail-to-Rail Input/Output, Low-Voltage, 1.8-V CMOS Operational Amplifier, SC-70-5 | [Datasheet](http://www.ti.com/lit/ds/symlink/tlv316.pdf) |
-| TLV4316 | Quad 10-MHz, Rail-to-Rail Input/Output, Low-Voltage, 1.8-V CMOS Operational Amplifier, TSSOP-14/SOIC-14 | [Datasheet](http://www.ti.com/lit/ds/symlink/tlv4316.pdf) |
+| TLV4316ID | Quad 10-MHz, Rail-to-Rail Input/Output, Low-Voltage, 1.8-V CMOS Operational Amplifier, SOIC-14 | [Datasheet](http://www.ti.com/lit/ds/symlink/tlv4316.pdf) |
+| TLV4316IPW | Quad 10-MHz, Rail-to-Rail Input/Output, Low-Voltage, 1.8-V CMOS Operational Amplifier, TSSOP-14 | [Datasheet](http://www.ti.com/lit/ds/symlink/tlv4316.pdf) |
 | TPS3613-01 | Adjustable Battery-Backup Supervisor for RAM Retention, MSOP-10 | [Datasheet](http://www.ti.com/lit/ds/symlink/tps3613-01.pdf) |
 | UMP1N | High-speed switching diodes 2 pair Com A, SC-70-5 | [Datasheet](https://fscdn.rohm.com/en/products/databook/datasheet/discrete/diode/switching/ump1ntr-e.pdf) |
 | XC6420ABxxMR | 150mA Small Dual LDO Regulator with ON/OFF Switch, SOT-23-6 | [Datasheet](https://www.torexsemi.com/file/xc6420/XC6420.pdf) |
@@ -299,7 +301,6 @@ Licensed under Creative Commons Attribution 4.0 International.
 | L_CommonMode_TDK_ACM4532-3P_L4.5mm_W3.2mm_Px4.1mm_Py1.7mm |  |  |
 | L_Hotland_MCW-0630 | :heavy_check_mark: | :heavy_check_mark: |
 | L_Hotland_MCW-0650 | :heavy_check_mark: | :heavy_check_mark: |
-| L_Samsung_CIGT252010 |  |  |
 | L_Sunltech_SLO0520H |  |  |
 | L_Sunltech_SLW40xx |  |  |
 | Micron_TFBGA-60_8x16mm_Layout8x15_P0.8mm |  |  |

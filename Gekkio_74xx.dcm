@@ -1,5 +1,17 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 74LVC125APW
+D Quad buffer/line driver, 3-state, TSSOP-14
+K bus 3state
+F https://assets.nexperia.com/documents/data-sheet/74LVC125A.pdf
+$ENDCMP
+#
+$CMP 74LVC126APW
+D Quad buffer/line driver, 3-state, TSSOP-14
+K bus 3state
+F https://assets.nexperia.com/documents/data-sheet/74LVC126A.pdf
+$ENDCMP
+#
 $CMP 74LVC16244ADGG
 D 16-bit buffer/line driver, 5V input/output tolerant, 3-state, TSSOP-48
 K bus 3state

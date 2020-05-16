@@ -16,6 +16,8 @@ K memory bank controller
 $ENDCMP
 #
 $CMP PCA9517ADP
+D Level translating I2C-bus repeater, TSSOP-8
+K i2c smbus
 F https://www.nxp.com/docs/en/data-sheet/PCA9517.pdf
 $ENDCMP
 #
