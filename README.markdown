@@ -300,6 +300,7 @@ Licensed under Creative Commons Attribution 4.0 International.
 | EQFP-64-1EP_7x7mm_P0.4mm_EP4.5x4.5mm_ThermalVias |  |  |
 | GameBoy_Cartridge_1x32_P1.50mm_Edge |  |  |
 | GameBoy_Cartridge_AGB_1x32_P1.50mm_Socket_Horizontal |  |  |
+| GameBoy_Cartridge_AGS_1x32-1MP_P1.50mm_Socket_Horizontal |  |  |
 | GameBoy_Cartridge_DMG_1x32_P1.50mm_Socket_Horizontal <br> ![GameBoy_Cartridge_DMG_1x32_P1.50mm_Socket_Horizontal](photos/GameBoy_Cartridge_DMG_1x32_P1.50mm_Socket_Horizontal.jpg) |  |  |
 | GameBoy_Cartridge_DSLite_1x32_P1.50mm_Socket_Horizontal <br> ![GameBoy_Cartridge_DSLite_1x32_P1.50mm_Socket_Horizontal](photos/GameBoy_Cartridge_DSLite_1x32_P1.50mm_Socket_Horizontal.jpg) |  |  |
 | GameBoy_Cartridge_DX-37787_1x32_P1.50mm_Socket_Horizontal <br> ![GameBoy_Cartridge_DX-37787_1x32_P1.50mm_Socket_Horizontal](photos/GameBoy_Cartridge_DX-37787_1x32_P1.50mm_Socket_Horizontal.jpg) |  |  |
