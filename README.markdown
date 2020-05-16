@@ -171,6 +171,12 @@ Licensed under Creative Commons Attribution 4.0 International.
 | LT1965xT-1.8 | 1.1A, 1.8V, Low Noise, Low Dropout Linear Regulator, TO-220 | [Datasheet](https://www.analog.com/media/en/technical-documentation/data-sheets/1965fb.pdf) |
 | LT1965xT-2.5 | 1.1A, 2.5V, Low Noise, Low Dropout Linear Regulator, TO-220 | [Datasheet](https://www.analog.com/media/en/technical-documentation/data-sheets/1965fb.pdf) |
 | LT1965xT-3.3 | 1.1A, 3.3V, Low Noise, Low Dropout Linear Regulator, TO-220 | [Datasheet](https://www.analog.com/media/en/technical-documentation/data-sheets/1965fb.pdf) |
+| MAX6029EUK21 | Ultra-Low-Power Precision Series Voltage Reference, 2.048V, SOT-23-5 | [Datasheet](https://datasheets.maximintegrated.com/en/ds/MAX6029.pdf) |
+| MAX6029EUK25 | Ultra-Low-Power Precision Series Voltage Reference, 2.500V, SOT-23-5 | [Datasheet](https://datasheets.maximintegrated.com/en/ds/MAX6029.pdf) |
+| MAX6029EUK30 | Ultra-Low-Power Precision Series Voltage Reference, 3.000V, SOT-23-5 | [Datasheet](https://datasheets.maximintegrated.com/en/ds/MAX6029.pdf) |
+| MAX6029EUK33 | Ultra-Low-Power Precision Series Voltage Reference, 3.300V, SOT-23-5 | [Datasheet](https://datasheets.maximintegrated.com/en/ds/MAX6029.pdf) |
+| MAX6029EUK41 | Ultra-Low-Power Precision Series Voltage Reference, 4.096V, SOT-23-5 | [Datasheet](https://datasheets.maximintegrated.com/en/ds/MAX6029.pdf) |
+| MAX6029EUK50 | Ultra-Low-Power Precision Series Voltage Reference, 5.000V, SOT-23-5 | [Datasheet](https://datasheets.maximintegrated.com/en/ds/MAX6029.pdf) |
 | MBC1 | Nintendo MBC1, SOIC-24 |  |
 | MBC2 | Nintendo MBC2, SOIC-28 |  |
 | MBC5 | Nintendo MBC5, TQFP-32 |  |
