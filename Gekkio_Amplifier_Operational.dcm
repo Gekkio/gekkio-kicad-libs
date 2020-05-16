@@ -12,6 +12,12 @@ K single opamp
 F http://ww1.microchip.com/downloads/en/DeviceDoc/mic920.pdf
 $ENDCMP
 #
+$CMP OPA350UA
+D High-Speed, Single-Supply, Rail-to-Rail Operational Amplifiers MicroAmplifier Series, SOIC-8
+K single opamp
+F http://www.ti.com/lit/ds/symlink/opa4350.pdf
+$ENDCMP
+#
 $CMP RS8751BXF
 D Single 250MHz, Rail-to-Rail Output CMOS Operational Amplifier, SOT-23-5
 K single opamp

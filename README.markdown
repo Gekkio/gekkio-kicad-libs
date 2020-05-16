@@ -205,6 +205,7 @@ Licensed under Creative Commons Attribution 4.0 International.
 | NCP606 | 500mA, Low IGND, CMOS LDO Regulator with Enable and with Enhanced ESD Protection, DFN-6 | [Datasheet](https://www.onsemi.com/pub/Collateral/NCP605-D.PDF) |
 | NSR0530H | 30V 500mA Schottky diode, SOD-323 | [Datasheet](http://www.onsemi.com/pub/Collateral/NSR0530H-D.PDF) |
 | NT5DS32M16CS | 512Mb (32M x 16) DDR SDRAM, TSOP-II 66-pin | [Datasheet](https://elinux.org/images/e/e0/Nt5d32m16cs-5t.pdf) |
+| OPA350UA | High-Speed, Single-Supply, Rail-to-Rail Operational Amplifiers MicroAmplifier Series, SOIC-8 | [Datasheet](http://www.ti.com/lit/ds/symlink/opa4350.pdf) |
 | PAM2308BYMAA | Dual high-efficiency PWM step-down DC-DC converter, DFN-10 | [Datasheet](https://www.diodes.com/assets/Datasheets/PAM2308.pdf) |
 | PCA9517ADP |  | [Datasheet](https://www.nxp.com/docs/en/data-sheet/PCA9517.pdf) |
 | PST9135N | System Reset | [Datasheet](https://www.semiee.com/file/EOL2/Mitsumi-PST9119N.pdf) |
