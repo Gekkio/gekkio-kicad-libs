@@ -60,6 +60,7 @@ Licensed under Creative Commons Attribution 4.0 International.
 | Bus_PCIExpress_8x | PCI Express 8x connector | [Datasheet](https://en.wikipedia.org/wiki/PCI_Express) |
 | CBT3125PW | Quadruple FET bus switch, TSSOP-14 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/CBT3125.pdf) |
 | EMI_Filter_LLL | EMI 3-inductor filter |  |
+| FMN1 | High-speed switching diodes 2 pair Com K, SOT-23-5 | [Datasheet](https://fscdn.rohm.com/en/products/databook/datasheet/discrete/diode/switching/fmn1t148-e.pdf) |
 | Ferrite_Bead_Pack04 | 4 ferrite bead array, parallel topology |  |
 | GameBoy_Amplifier_AGB |  |  |
 | GameBoy_CPU_CGB |  |  |
@@ -259,6 +260,7 @@ Licensed under Creative Commons Attribution 4.0 International.
 | TLV316IDCK | Single 10-MHz, Rail-to-Rail Input/Output, Low-Voltage, 1.8-V CMOS Operational Amplifier, SC-70-5 | [Datasheet](http://www.ti.com/lit/ds/symlink/tlv316.pdf) |
 | TLV4316 | Quad 10-MHz, Rail-to-Rail Input/Output, Low-Voltage, 1.8-V CMOS Operational Amplifier, TSSOP-14/SOIC-14 | [Datasheet](http://www.ti.com/lit/ds/symlink/tlv4316.pdf) |
 | TPS3613-01 | Adjustable Battery-Backup Supervisor for RAM Retention, MSOP-10 | [Datasheet](http://www.ti.com/lit/ds/symlink/tps3613-01.pdf) |
+| UMP1N | High-speed switching diodes 2 pair Com A, SC-70-5 | [Datasheet](https://fscdn.rohm.com/en/products/databook/datasheet/discrete/diode/switching/ump1ntr-e.pdf) |
 | XC6420ABxxMR | 150mA Small Dual LDO Regulator with ON/OFF Switch, SOT-23-6 | [Datasheet](https://www.torexsemi.com/file/xc6420/XC6420.pdf) |
 <!-- SYMBOLS END -->
 
