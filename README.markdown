@@ -11,7 +11,6 @@ Licensed under Creative Commons Attribution 4.0 International.
 | 10M04SAE144 | MAX 10 FPGA, 4000 LE, single supply, EQFP-144 |  |
 | 10M04SCE144 | MAX 10 FPGA, 4000 LE, single supply, EQFP-144 |  |
 | 10M50DAF256 | MAX 10 FPGA, 50000 LE, dual supply, FBGA-256 |  |
-| 2N7002BK | 350 mA Id, 60V Vds, N-Channel Trench MOSFET, SOT-23-3 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/2N7002BK.pdf) |
 | 5M160ZE64 | MAX V CPLD, 160 LE, EQFP-64 |  |
 | 5M40ZE64 | MAX V CPLD, 40 LE, EQFP-64 |  |
 | 5M80ZE64 | MAX V CPLD, 80 LE, EQFP-64 |  |
