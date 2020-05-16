@@ -23,4 +23,14 @@ D Game Boy cartridge edge connector
 K gameboy cartridge
 $ENDCMP
 #
+$CMP GameBoy_Cartridge_MountingPin
+D Game Boy cartridge edge connector with mounting pin
+K gameboy cartridge
+$ENDCMP
+#
+$CMP GameBoy_LinkPort
+D Game Boy link port
+K gameboy link port
+$ENDCMP
+#
 #End Doc Library

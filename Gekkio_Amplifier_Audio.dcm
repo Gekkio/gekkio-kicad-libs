@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP GameBoy_Amplifier_AGB
+D Audio amplifier, Game Boy Advance (AGB), SSOP-18
+K gameboy audio amplifier
+$ENDCMP
+#
 $CMP LM4818
 D 350mW Audio Power Amplifier with Shutdown Mode, SOIC-8
 K audio amplifier

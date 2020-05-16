@@ -3,11 +3,14 @@ EESchema-LIBRARY Version 2.4
 #
 # GameBoy_Amplifier_AGB
 #
-DEF GameBoy_Amplifier_AGB U 0 40 Y Y 1 F N
+DEF GameBoy_Amplifier_AGB U 0 20 Y Y 1 F N
 F0 "U" -350 750 50 H V C CNN
 F1 "GameBoy_Amplifier_AGB" 550 750 50 H V C CNN
-F2 "" -150 -300 50 H I C CNN
+F2 "Gekkio_Package_SO:Sharp_SSOP-18_6x7.4mm_P0.8mm" 0 -1300 50 H I C CNN
 F3 "" -150 -300 50 H I C CNN
+$FPLIST
+ *SSOP*6x7.4mm*P0.8mm*
+$ENDFPLIST
 DRAW
 S -400 700 400 -700 0 1 10 f
 X BC 1 600 -300 200 L 50 50 1 1 w

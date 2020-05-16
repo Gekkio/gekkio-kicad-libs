@@ -62,14 +62,15 @@ Licensed under Creative Commons Attribution 4.0 International.
 | EMI_Filter_LLL | EMI 3-inductor filter |  |
 | FMN1 | High-speed switching diodes 2 pair Com K, SOT-23-5 | [Datasheet](https://fscdn.rohm.com/en/products/databook/datasheet/discrete/diode/switching/fmn1t148-e.pdf) |
 | Ferrite_Bead_Pack04 | 4 ferrite bead array, parallel topology |  |
-| GameBoy_Amplifier_AGB |  |  |
-| GameBoy_CPU_CGB |  |  |
-| GameBoy_CPU_DMG <br> ![GameBoy_CPU_DMG](photos/GameBoy_CPU_DMG.jpg) | CPU, original Game Boy (DMG) |  |
-| GameBoy_CPU_MGB | CPU, Game Boy Pocket (MGB), Game Boy Light (MGL) |  |
+| GameBoy_Amplifier_AGB | Audio amplifier, Game Boy Advance (AGB), SSOP-18 |  |
+| GameBoy_CPU_CGB | CPU, Game Boy Color (CGB), QFP-128 |  |
+| GameBoy_CPU_DMG <br> ![GameBoy_CPU_DMG](photos/GameBoy_CPU_DMG.jpg) | CPU, original Game Boy (DMG), QFP-80 |  |
+| GameBoy_CPU_MGB | CPU, Game Boy Pocket (MGB), Game Boy Light (MGL), QFP-80 |  |
 | GameBoy_CPU_SGB | CPU, Super Game Boy (SGB) |  |
 | GameBoy_CPU_SGB2 | CPU, Super Game Boy 2 (SGB2) |  |
 | GameBoy_Cartridge | Game Boy cartridge edge connector |  |
-| GameBoy_LinkPort |  |  |
+| GameBoy_Cartridge_MountingPin | Game Boy cartridge edge connector with mounting pin |  |
+| GameBoy_LinkPort | Game Boy link port |  |
 | GameBoy_SRAM_64K <br> ![GameBoy_SRAM_64K](photos/GameBoy_SRAM_64K.jpg) | 64kb (8K x 8) Game Boy SRAM chip, SOIC-28W |  |
 | GameBoy_Transformer_DMG | Power Transformer, original Game Boy (DMG) |  |
 | IS61C1024AL-12T | 1Mb (128k x 8), 5V, 12ns, High-Speed CMOS Static RAM, TSOP-I 32-pin | [Datasheet](http://www.issi.com/WW/pdf/62-65C1024AL.pdf) |
@@ -169,9 +170,9 @@ Licensed under Creative Commons Attribution 4.0 International.
 | LT1965xT-1.8 | 1.1A, 1.8V, Low Noise, Low Dropout Linear Regulator, TO-220 | [Datasheet](https://www.analog.com/media/en/technical-documentation/data-sheets/1965fb.pdf) |
 | LT1965xT-2.5 | 1.1A, 2.5V, Low Noise, Low Dropout Linear Regulator, TO-220 | [Datasheet](https://www.analog.com/media/en/technical-documentation/data-sheets/1965fb.pdf) |
 | LT1965xT-3.3 | 1.1A, 3.3V, Low Noise, Low Dropout Linear Regulator, TO-220 | [Datasheet](https://www.analog.com/media/en/technical-documentation/data-sheets/1965fb.pdf) |
-| MBC1 | Nintendo MBC1 |  |
-| MBC2 | Nintendo MBC2 |  |
-| MBC5 | Nintendo MBC5 |  |
+| MBC1 | Nintendo MBC1, SOIC-24 |  |
+| MBC2 | Nintendo MBC2, SOIC-28 |  |
+| MBC5 | Nintendo MBC5, TQFP-32 |  |
 | MCP6411 | Single 1-MHz, Rail-to-Rail Input/Output, Operational Amplifier with EMI filtering, SOT-23-5/SC-70-5 | [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/20005791B.pdf) |
 | MIC2005A-1YM6 | Fixed current limiting power distribution switch, SOT-23-6 | [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/mic20xx.pdf) |
 | MIC2005A-2YM6 | Fixed current limiting power distribution switch, SOT-23-6 | [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/mic20xx.pdf) |
@@ -181,7 +182,7 @@ Licensed under Creative Commons Attribution 4.0 International.
 | MIC5370 | High-Performance Dual 150mA LDO, MLF-6 | [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/mic5370.pdf) |
 | MIC920 | 80 MHz Low-Power Op Amp, SOT-23-5/SC-70-5 | [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/mic920.pdf) |
 | MM1134 | System Reset (with battery back-up) | [Datasheet](https://www.mitsumi.co.jp/latest/Catalog/ic/common/stop/micro_mm_1134_e.pdf) |
-| MM1581 | Lithium-Ion Battery Charge Control, TSOP-16 | [Datasheet](https://www.mitsumi.co.jp/latest/Catalog/ic/common/stop/battery_mm_1581_e.pdf) |
+| MM1581 | Lithium-Ion Battery Charge Control, TSSOP-16 | [Datasheet](https://www.mitsumi.co.jp/latest/Catalog/ic/common/stop/battery_mm_1581_e.pdf) |
 | MP2122GJ | 6V, 2A, Low Quiescent Current Dual, Sync Buck Regulator, TSOT23-8 | [Datasheet](https://media.monolithicpower.com/document/MP2122_r1.02.pdf) |
 | MP2155GQ | High Efficiency Single Inductor Buck-Boost Converter with 2.2A Switches, DFN-10 | [Datasheet](https://www.monolithicpower.com/pub/media/document/MP2155_r1.0.pdf) |
 | MT48LC16M16A2F4 | 256Mb (16M x 16) Synchronous DRAM, VFBGA 54-ball | [Datasheet](https://www.micron.com/-/media/client/global/documents/products/data-sheet/dram/256mb_sdr.pdf) |
@@ -206,6 +207,7 @@ Licensed under Creative Commons Attribution 4.0 International.
 | NT5DS32M16CS | 512Mb (32M x 16) DDR SDRAM, TSOP-II 66-pin | [Datasheet](https://elinux.org/images/e/e0/Nt5d32m16cs-5t.pdf) |
 | PAM2308BYMAA | Dual high-efficiency PWM step-down DC-DC converter, DFN-10 | [Datasheet](https://www.diodes.com/assets/Datasheets/PAM2308.pdf) |
 | PCA9517ADP |  | [Datasheet](https://www.nxp.com/docs/en/data-sheet/PCA9517.pdf) |
+| PST9135N | System Reset | [Datasheet](https://www.semiee.com/file/EOL2/Mitsumi-PST9119N.pdf) |
 | RN4986 | Dual Digital NPN+NPN Transistor, 4k7/47k | [Datasheet](https://toshiba.semicon-storage.com/info/docget.jsp?did=18983&prodName=RN4986) |
 | RS2057 | 4.5Ohm Low Voltage SPDT Analog Switch, SOT-23-6/SC-70-6 | [Datasheet](http://www.run-ic.com/Public/attached/file/201807/1531365476_71827.pdf) |
 | RS8751BXF | Single 250MHz, Rail-to-Rail Output CMOS Operational Amplifier, SOT-23-5 | [Datasheet](https://datasheet.lcsc.com/szlcsc/Jiangsu-RUNIC-Tech-RS8752XQ_C255422.pdf) |
