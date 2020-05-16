@@ -1,5 +1,11 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 23K256xSN
+D 256k SPI Bus Low-Power Serial SRAM, SOIC-8
+K serial sram
+F http://ww1.microchip.com/downloads/en/DeviceDoc/22100F.pdf
+$ENDCMP
+#
 $CMP AS4C16M16SA
 D 256Mb (16M x 16) Synchronous DRAM, TSOP-II 54-pin
 K memory sdram
