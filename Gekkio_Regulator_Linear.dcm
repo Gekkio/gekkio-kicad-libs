@@ -48,6 +48,11 @@ K dual regulator LDO
 F http://rohmfs.rohm.com/en/products/databook/datasheet/ic/power/linear_regulator/ba3258hfp-e.pdf
 $ENDCMP
 #
+$CMP IR3E02
+D LCD bias regulator, original Game Boy (DMG)
+K gameboy lcd bias regulator
+$ENDCMP
+#
 $CMP LN1132PxxxM
 D 300mA Low Dropout CMOS Voltage Regulator, SOT-23-3
 K regulator LDO

@@ -5,6 +5,11 @@ D Audio amplifier, Game Boy Advance (AGB), SSOP-18
 K gameboy audio amplifier
 $ENDCMP
 #
+$CMP IR3R53N
+D Audio amplifier, Game Boy Pocket (MGB), SSOP-18
+K gameboy audio amplifier
+$ENDCMP
+#
 $CMP LM4818
 D 350mW Audio Power Amplifier with Shutdown Mode, SOIC-8
 K audio amplifier

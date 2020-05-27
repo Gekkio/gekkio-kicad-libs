@@ -65,6 +65,7 @@ Licensed under Creative Commons Attribution 4.0 International.
 | FMN1 | High-speed switching diodes 2 pair Com K, SOT-23-5 | [Datasheet](https://fscdn.rohm.com/en/products/databook/datasheet/discrete/diode/switching/fmn1t148-e.pdf) |
 | Ferrite_Bead_Pack04 | 4 ferrite bead array, parallel topology |  |
 | GameBoy_Amplifier_AGB | Audio amplifier, Game Boy Advance (AGB), SSOP-18 |  |
+| GameBoy_AudioJack3_SPST | Audio Jack, 3 Poles (Stereo / TRS), isolated SPST switch | [Datasheet](~) |
 | GameBoy_CPU_CGB | CPU, Game Boy Color (CGB), QFP-128 |  |
 | GameBoy_CPU_DMG <br> ![GameBoy_CPU_DMG](photos/GameBoy_CPU_DMG.jpg) | CPU, original Game Boy (DMG), QFP-80 |  |
 | GameBoy_CPU_MGB | CPU, Game Boy Pocket (MGB), Game Boy Light (MGL), QFP-80 |  |
@@ -74,7 +75,10 @@ Licensed under Creative Commons Attribution 4.0 International.
 | GameBoy_Cartridge_MountingPin | Game Boy cartridge edge connector with mounting pin |  |
 | GameBoy_LinkPort | Game Boy link port |  |
 | GameBoy_SRAM_64K <br> ![GameBoy_SRAM_64K](photos/GameBoy_SRAM_64K.jpg) | 64kb (8K x 8) Game Boy SRAM chip, SOIC-28W |  |
+| GameBoy_SW_SP3T | Switch, three position, single pole triple throw, 3 position switch, SP3T | [Datasheet](~) |
 | GameBoy_Transformer_DMG | Power Transformer, original Game Boy (DMG) |  |
+| IR3E02 | LCD bias regulator, original Game Boy (DMG) |  |
+| IR3R53N | Audio amplifier, Game Boy Pocket (MGB), SSOP-18 |  |
 | IS61C1024AL-12T | 1Mb (128k x 8), 5V, 12ns, High-Speed CMOS Static RAM, TSOP-I 32-pin | [Datasheet](http://www.issi.com/WW/pdf/62-65C1024AL.pdf) |
 | IS61C256AL-xxJ | 256kb (32K x 8), 5V, 10/12 ns, High-Speed CMOS Static RAM, SOIC-28W | [Datasheet](http://www.issi.com/WW/pdf/61C256AL.pdf) |
 | IS61C256AL-xxT | 256kb (32k x 8), 5V, 10/12 ns, High-Speed CMOS Static RAM, TSOP-I 28-pin | [Datasheet](http://www.issi.com/WW/pdf/61C256AL.pdf) |
@@ -230,6 +234,7 @@ Licensed under Creative Commons Attribution 4.0 International.
 | RS8752XM | Dual 250MHz, Rail-to-Rail Output CMOS Operational Amplifier, MSOP-8 | [Datasheet](https://datasheet.lcsc.com/szlcsc/Jiangsu-RUNIC-Tech-RS8752XQ_C255422.pdf) |
 | RS8752XQ | Dual 250MHz, Rail-to-Rail Output CMOS Operational Amplifier, TSSOP-8 | [Datasheet](https://datasheet.lcsc.com/szlcsc/Jiangsu-RUNIC-Tech-RS8752XQ_C255422.pdf) |
 | RT7295C | 3.5A, 18V, 500kHz ACOT Synchronous Step-Down Converter, TSOT-23-6 | [Datasheet](https://www.richtek.com/assets/product_file/RT7295C/DS7295C-04.pdf) |
+| R_POT_GameBoy_Volume_MGB | Audio volume potentiometer, Game Boy Pocket (MGB) | [Datasheet](~) |
 | SE3608 | 2A/1.2MHz Output Current, Boost Converter, SOT-23-6 | [Datasheet](https://datasheet.lcsc.com/szlcsc/Seaward-Elec-SE3608_C114986.pdf) |
 | SE8117TA | 3.3V 1A Low Noise CMOS LDO Regulator, SOT-223 | [Datasheet](https://www.diodes.com/assets/Datasheets/AP2114.pdf) |
 | SN74CB3T16211DGG | 24-bit FET bus switch, 2.5-V/3.3-V low-voltage bus switch with 5-V tolerant level shifter | [Datasheet](http://www.ti.com/lit/ds/symlink/sn74cb3t16211.pdf) |
