@@ -324,6 +324,8 @@ Licensed under Creative Commons Attribution 4.0 International.
 | TLV4316IPW | Quad 10-MHz, Rail-to-Rail Input/Output, Low-Voltage, 1.8-V CMOS Operational Amplifier, TSSOP-14 | [Datasheet](http://www.ti.com/lit/ds/symlink/tlv4316.pdf) |
 | TPS3613-01 | Adjustable Battery-Backup Supervisor for RAM Retention, MSOP-10 | [Datasheet](http://www.ti.com/lit/ds/symlink/tps3613-01.pdf) |
 | UMP1N | High-speed switching diodes 2 pair Com A, SC-70-5 | [Datasheet](https://fscdn.rohm.com/en/products/databook/datasheet/discrete/diode/switching/ump1ntr-e.pdf) |
+| XC2C32A-xVQ44 | Coolrunner-II CPLD, 32 Macrocells, VQFP-44 | [Datasheet](https://www.xilinx.com/support/documentation/data_sheets/ds310.pdf) |
+| XC2C64A-xVQ44 | Coolrunner-II CPLD, 64 Macrocells, VQFP-44 | [Datasheet](https://www.xilinx.com/support/documentation/data_sheets/ds311.pdf) |
 | XC6420ABxxMR | 150mA Small Dual LDO Regulator with ON/OFF Switch, SOT-23-6 | [Datasheet](https://www.torexsemi.com/file/xc6420/XC6420.pdf) |
 <!-- SYMBOLS END -->
 

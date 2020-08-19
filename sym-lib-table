@@ -10,6 +10,7 @@
   (lib (name Gekkio_CPLD_Intel)(type Legacy)(uri "$(KIPRJMOD)/Gekkio_CPLD_Intel.lib")(options "")(descr ""))
   (lib (name Gekkio_CPLD_Lattice)(type Legacy)(uri "$(KIPRJMOD)/Gekkio_CPLD_Lattice.lib")(options "")(descr ""))
   (lib (name Gekkio_CPLD_Microchip)(type Legacy)(uri "$(KIPRJMOD)/Gekkio_CPLD_Microchip.lib")(options "")(descr ""))
+  (lib (name Gekkio_CPLD_Xilinx)(type Legacy)(uri "$(KIPRJMOD)/Gekkio_CPLD_Xilinx.lib")(options "")(descr ""))
   (lib (name Gekkio_CPU_Nintendo)(type Legacy)(uri "$(KIPRJMOD)/Gekkio_CPU_Nintendo.lib")(options "")(descr ""))
   (lib (name Gekkio_Connector_Specialized)(type Legacy)(uri "$(KIPRJMOD)/Gekkio_Connector_Specialized.lib")(options "")(descr ""))
   (lib (name Gekkio_Device)(type Legacy)(uri "$(KIPRJMOD)/Gekkio_Device.lib")(options "")(descr ""))
