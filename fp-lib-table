@@ -15,5 +15,6 @@
   (lib (name Gekkio_Package_SO)(type KiCad)(uri "$(KIPRJMOD)/Gekkio_Package_SO.pretty")(options "")(descr ""))
   (lib (name Gekkio_Package_TO_SOT_SMD)(type KiCad)(uri "$(KIPRJMOD)/Gekkio_Package_TO_SOT_SMD.pretty")(options "")(descr ""))
   (lib (name Gekkio_Potentiometer_SMD)(type KiCad)(uri "$(KIPRJMOD)/Gekkio_Potentiometer_SMD.pretty")(options "")(descr ""))
+  (lib (name Gekkio_RF_GPS)(type KiCad)(uri "$(KIPRJMOD)/Gekkio_RF_GPS.pretty")(options "")(descr ""))
   (lib (name Gekkio_Transformer_THT)(type KiCad)(uri "$(KIPRJMOD)/Gekkio_Transformer_THT.pretty")(options "")(descr ""))
 )

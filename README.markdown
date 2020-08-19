@@ -102,6 +102,7 @@ Licensed under Creative Commons Attribution 4.0 International.
 | Bus_PCIExpress_8x | PCI Express 8x connector | [Datasheet](https://en.wikipedia.org/wiki/PCI_Express) |
 | CBT3125PW | Quadruple FET bus switch, TSSOP-14 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/CBT3125.pdf) |
 | EMI_Filter_LLL | EMI 3-inductor filter |  |
+| FGPMMOPA6H | GPS Module | [Datasheet](https://cdn-shop.adafruit.com/datasheets/GlobalTop-FGPMMOPA6H-Datasheet-V0A.pdf) |
 | FMN1 | High-speed switching diodes 2 pair Com K, SOT-23-5 | [Datasheet](https://fscdn.rohm.com/en/products/databook/datasheet/discrete/diode/switching/fmn1t148-e.pdf) |
 | Ferrite_Bead_Pack04 | 4 ferrite bead array, parallel topology |  |
 | GameBoy_Amplifier_AGB | Audio amplifier, Game Boy Advance (AGB), SSOP-18 |  |
@@ -356,6 +357,7 @@ Licensed under Creative Commons Attribution 4.0 International.
 | GameBoy_Cartridge_SGB-SGB2_1x32_P1.50mm_Socket_Horizontal <br> ![GameBoy_Cartridge_SGB-SGB2_1x32_P1.50mm_Socket_Horizontal](photos/GameBoy_Cartridge_SGB-SGB2_1x32_P1.50mm_Socket_Horizontal.jpg) |  |  |
 | GameBoy_LinkPort_DMG_Horizontal |  |  |
 | GameBoy_LinkPort_MGB_Horizontal |  |  |
+| GlobalTop_FGPMMOPA6H |  |  |
 | ISSI_TSOP-I-28_11.8x8mm_P0.55mm | :heavy_check_mark: | :heavy_check_mark: |
 | Infineon_SOT-343_SC-82 |  |  |
 | JEITA_QFP-64_12x12mm_P0.65mm | :heavy_check_mark: | :heavy_check_mark: |
