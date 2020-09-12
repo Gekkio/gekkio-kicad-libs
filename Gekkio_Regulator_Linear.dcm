@@ -30,6 +30,36 @@ K ldo regulator
 F https://www.diodes.com/assets/Datasheets/AP2114.pdf
 $ENDCMP
 #
+$CMP AP2138N-1.2
+D 1.2V 250mA Ultra Low Quiescent Current CMOS LDO, SOT-23-3
+K ldo regulator
+F https://www.diodes.com/assets/Datasheets/AP2138-9.pdf
+$ENDCMP
+#
+$CMP AP2138N-1.5
+D 1.5V 250mA Ultra Low Quiescent Current CMOS LDO, SOT-23-3
+K ldo regulator
+F https://www.diodes.com/assets/Datasheets/AP2138-9.pdf
+$ENDCMP
+#
+$CMP AP2138N-1.8
+D 1.8V 250mA Ultra Low Quiescent Current CMOS LDO, SOT-23-3
+K ldo regulator
+F https://www.diodes.com/assets/Datasheets/AP2138-9.pdf
+$ENDCMP
+#
+$CMP AP2138N-2.5
+D 2.5V 250mA Ultra Low Quiescent Current CMOS LDO, SOT-23-3
+K ldo regulator
+F https://www.diodes.com/assets/Datasheets/AP2138-9.pdf
+$ENDCMP
+#
+$CMP AP2138N-3.3
+D 3.3V 250mA Ultra Low Quiescent Current CMOS LDO, SOT-23-3
+K ldo regulator
+F https://www.diodes.com/assets/Datasheets/AP2138-9.pdf
+$ENDCMP
+#
 $CMP BA3258HFP
 D 3.3V/1.5V 1A, Dual Output Fixed Output LDO Regulator, HRP5
 K dual regulator LDO
