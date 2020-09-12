@@ -277,8 +277,12 @@ Licensed under Creative Commons Attribution 4.0 International.
 | PIC18LF45K50-IP | 32K Flash, 2K RAM, 256B EEPROM, Microchip PIC18F series enhanced flash microcontroller with USB, DIP-40 | [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/30000684B.pdf) |
 | PST9135N | System Reset | [Datasheet](https://www.semiee.com/file/EOL2/Mitsumi-PST9119N.pdf) |
 | RN4986 | Dual Digital NPN+NPN Transistor, 4k7/47k, SC-70-6 | [Datasheet](https://toshiba.semicon-storage.com/info/docget.jsp?did=18983&prodName=RN4986) |
-| RS2057XC6 | 4.5Ohm Low Voltage SPDT Analog Switch, SC-70-6 | [Datasheet](http://www.run-ic.com/Public/attached/file/201807/1531365476_71827.pdf) |
-| RS2057XH | 4.5Ohm Low Voltage SPDT Analog Switch, SOT-23-6 | [Datasheet](http://www.run-ic.com/Public/attached/file/201807/1531365476_71827.pdf) |
+| RS2057XC6 | 4.5Ohm Low Voltage SPDT Analog Switch, SC-70-6 | [Datasheet](http://en.run-ic.com/action/download?file=219) |
+| RS2057XH | 4.5Ohm Low Voltage SPDT Analog Switch, SOT-23-6 | [Datasheet](http://en.run-ic.com/action/download?file=219) |
+| RS2103XC6 | 0.6Ohm Low Voltage SPDT Analog Switch, SC-70-6 | [Datasheet](http://en.run-ic.com/action/download?file=217) |
+| RS2103XH | 0.6Ohm Low Voltage SPDT Analog Switch, SOT-23-6 | [Datasheet](http://en.run-ic.com/action/download?file=217) |
+| RS2257XC6 | 0.6Ohm Low Voltage SPDT Analog Switch, SC-70-6 | [Datasheet](http://en.run-ic.com/action/download?file=224) |
+| RS2257XH | 0.6Ohm Low Voltage SPDT Analog Switch, SOT-23-6 | [Datasheet](http://en.run-ic.com/action/download?file=224) |
 | RS8751BXF | Single 250MHz, Rail-to-Rail Output CMOS Operational Amplifier, SOT-23-5 | [Datasheet](https://datasheet.lcsc.com/szlcsc/Jiangsu-RUNIC-Tech-RS8752XQ_C255422.pdf) |
 | RS8751XF | Single 250MHz, Rail-to-Rail Output CMOS Operational Amplifier, SOT-23-5 | [Datasheet](https://datasheet.lcsc.com/szlcsc/Jiangsu-RUNIC-Tech-RS8752XQ_C255422.pdf) |
 | RS8752XK | Dual 250MHz, Rail-to-Rail Output CMOS Operational Amplifier, SOIC-8 | [Datasheet](https://datasheet.lcsc.com/szlcsc/Jiangsu-RUNIC-Tech-RS8752XQ_C255422.pdf) |
