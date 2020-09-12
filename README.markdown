@@ -16,6 +16,8 @@ Licensed under Creative Commons Attribution 4.0 International.
 | 5M160ZE64 | MAX V CPLD, 160 LE, EQFP-64 | [Datasheet](https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/hb/max-v/mv51001.pdf) |
 | 5M40ZE64 | MAX V CPLD, 40 LE, EQFP-64 | [Datasheet](https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/hb/max-v/mv51001.pdf) |
 | 5M80ZE64 | MAX V CPLD, 80 LE, EQFP-64 | [Datasheet](https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/hb/max-v/mv51001.pdf) |
+| 74AXP4T245 | 4-bit dual supply translating transceiver, 3-state, TSSOP-16 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/74LVC_LVCH8T245.pdf) |
+| 74AXP8T245PW | 8-bit dual supply translating transceiver, 3-state, TSSOP-24 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/74LVC_LVCH8T245.pdf) |
 | 74LVC125APW | Quad buffer/line driver, 3-state, TSSOP-14 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/74LVC125A.pdf) |
 | 74LVC126APW | Quad buffer/line driver, 3-state, TSSOP-14 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/74LVC126A.pdf) |
 | 74LVC16244ADGG | 16-bit buffer/line driver, 5V input/output tolerant, 3-state, TSSOP-48 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/74LVC_LVCH16244A.pdf) |
