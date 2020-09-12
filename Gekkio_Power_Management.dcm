@@ -18,4 +18,16 @@ K power distribution switch
 F https://datasheet.lcsc.com/szlcsc/XI-AN-Aerosemi-Tech-MT9700_C89855.pdf
 $ENDCMP
 #
+$CMP SY6288AAAC
+D 0.6A, Active-High, Low Loss Power Distribution Switch, SOT-23-5
+K power distribution switch
+F https://datasheet.lcsc.com/szlcsc/Silergy-Corp-SY6288AAAC_C111829.pdf
+$ENDCMP
+#
+$CMP SY6288CAAC
+D 2A, Active-High, Low Loss Power Distribution Switch, SOT-23-5
+K power distribution switch
+F https://datasheet.lcsc.com/szlcsc/Silergy-Corp-SY6288AAAC_C111829.pdf
+$ENDCMP
+#
 #End Doc Library

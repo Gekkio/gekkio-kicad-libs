@@ -327,6 +327,8 @@ Licensed under Creative Commons Attribution 4.0 International.
 | STM806TM | 3 V Supervisor with Battery Switchover, 3.075V Threshold, Active-Low Reset, Manual Reset Input, Power-Fail Comparator, SOIC-8 | [Datasheet](https://www.st.com/resource/en/datasheet/stm802t-slsh-s-slsh-r.pdf) |
 | STM818LM | 5 V Supervisor with Battery Switchover, 4.65V Threshold, Watchdog Input, Active-Low Reset, Chip-enable Gating, SOIC-8 | [Datasheet](https://www.st.com/resource/en/datasheet/stm690a.pdf) |
 | STM818MM | 5 V Supervisor with Battery Switchover, 4.40V Threshold, Watchdog Input, Active-Low Reset, Chip-enable Gating, SOIC-8 | [Datasheet](https://www.st.com/resource/en/datasheet/stm690a.pdf) |
+| SY6288AAAC | 0.6A, Active-High, Low Loss Power Distribution Switch, SOT-23-5 | [Datasheet](https://datasheet.lcsc.com/szlcsc/Silergy-Corp-SY6288AAAC_C111829.pdf) |
+| SY6288CAAC | 2A, Active-High, Low Loss Power Distribution Switch, SOT-23-5 | [Datasheet](https://datasheet.lcsc.com/szlcsc/Silergy-Corp-SY6288AAAC_C111829.pdf) |
 | TLV2316ID | Dual 10-MHz, Rail-to-Rail Input/Output, Low-Voltage, 1.8-V CMOS Operational Amplifier, SOIC-8 | [Datasheet](http://www.ti.com/lit/ds/symlink/tlv2316.pdf) |
 | TLV2316IDGK | Dual 10-MHz, Rail-to-Rail Input/Output, Low-Voltage, 1.8-V CMOS Operational Amplifier, VSSOP-8 | [Datasheet](http://www.ti.com/lit/ds/symlink/tlv2316.pdf) |
 | TLV316IDBV | Single 10-MHz, Rail-to-Rail Input/Output, Low-Voltage, 1.8-V CMOS Operational Amplifier, SOT-23-5 | [Datasheet](http://www.ti.com/lit/ds/symlink/tlv316.pdf) |
