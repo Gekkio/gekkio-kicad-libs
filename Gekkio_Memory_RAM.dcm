@@ -6,10 +6,22 @@ K serial sram
 F http://ww1.microchip.com/downloads/en/DeviceDoc/22100F.pdf
 $ENDCMP
 #
+$CMP 23K256xST
+D 256k SPI Bus Low-Power Serial SRAM, TSSOP-8
+K serial sram
+F http://ww1.microchip.com/downloads/en/DeviceDoc/22100F.pdf
+$ENDCMP
+#
 $CMP AS4C16M16SA
 D 256Mb (16M x 16) Synchronous DRAM, TSOP-II 54-pin
 K memory sdram
 F https://www.alliancememory.com/wp-content/uploads/pdf/dram/256Mb-AS4C16M16SA-C&I_V3.0_March%202015.pdf
+$ENDCMP
+#
+$CMP CY62126EV30LL-xxBV
+D 1Mb (64k x 16) SRAM, VFBGA-48
+K memory sram
+F https://www.cypress.com/file/43721/download
 $ENDCMP
 #
 $CMP GameBoy_SRAM_64K
@@ -357,6 +369,12 @@ $CMP IS65WV2568FBLL-55CT
 D 2Mb (256k x 8), 2.2-3.6V, 55ns, Low Voltage Ultra Low Power CMOS Static RAM, TSOP-I 32-pin
 K memory sram
 F http://www.issi.com/WW/pdf/62-65WV2568FALL-BLL.pdf
+$ENDCMP
+#
+$CMP IS66WVE4M16ExLL-xxBL
+D 64Mb (4M x 16) Async/Page PSRAM, TFBGA-48
+K memory pseudo sram
+F http://www.issi.com/WW/pdf/66-67WVE4M16EALL-BLL-CLL.pdf
 $ENDCMP
 #
 $CMP MT48LC16M16A2F4

@@ -12,6 +12,7 @@ Licensed under Creative Commons Attribution 4.0 International.
 | 10M04SCE144 | MAX 10 FPGA, 4000 LE, single supply, EQFP-144 | [Datasheet](https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/hb/max-10/m10_overview.pdf) |
 | 10M50DAF256 | MAX 10 FPGA, 50000 LE, dual supply, FBGA-256 | [Datasheet](https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/hb/max-10/m10_overview.pdf) |
 | 23K256xSN | 256k SPI Bus Low-Power Serial SRAM, SOIC-8 | [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/22100F.pdf) |
+| 23K256xST | 256k SPI Bus Low-Power Serial SRAM, TSSOP-8 | [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/22100F.pdf) |
 | 5M160ZE64 | MAX V CPLD, 160 LE, EQFP-64 | [Datasheet](https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/hb/max-v/mv51001.pdf) |
 | 5M40ZE64 | MAX V CPLD, 40 LE, EQFP-64 | [Datasheet](https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/hb/max-v/mv51001.pdf) |
 | 5M80ZE64 | MAX V CPLD, 80 LE, EQFP-64 | [Datasheet](https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/hb/max-v/mv51001.pdf) |
@@ -101,6 +102,7 @@ Licensed under Creative Commons Attribution 4.0 International.
 | Bus_PCIExpress_4x | PCI Express 4x connector | [Datasheet](https://en.wikipedia.org/wiki/PCI_Express) |
 | Bus_PCIExpress_8x | PCI Express 8x connector | [Datasheet](https://en.wikipedia.org/wiki/PCI_Express) |
 | CBT3125PW | Quadruple FET bus switch, TSSOP-14 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/CBT3125.pdf) |
+| CY62126EV30LL-xxBV | 1Mb (64k x 16) SRAM, VFBGA-48 | [Datasheet](https://www.cypress.com/file/43721/download) |
 | EMI_Filter_LLL | EMI 3-inductor filter |  |
 | FGPMMOPA6H | GPS Module | [Datasheet](https://cdn-shop.adafruit.com/datasheets/GlobalTop-FGPMMOPA6H-Datasheet-V0A.pdf) |
 | FMN1 | High-speed switching diodes 2 pair Com K, SOT-23-5 | [Datasheet](https://fscdn.rohm.com/en/products/databook/datasheet/discrete/diode/switching/fmn1t148-e.pdf) |
@@ -177,6 +179,7 @@ Licensed under Creative Commons Attribution 4.0 International.
 | IS65WV1288FBLL-55T | 1Mb (128k x 8), 2.2-3.6V, 55ns, Low Voltage Ultra Low Power CMOS Static RAM, TSOP-I 32-pin | [Datasheet](http://www.issi.com/WW/pdf/62-65WV1288FALL-BLL.pdf) |
 | IS65WV2568EBLL-55CT | 2Mb (256k x 8), 2.2-3.6V, 55ns, Low Voltage Ultra Low Power CMOS Static RAM, TSOP-I 32-pin | [Datasheet](http://www.issi.com/WW/pdf/62-65WV2568EALL-BLL.pdf) |
 | IS65WV2568FBLL-55CT | 2Mb (256k x 8), 2.2-3.6V, 55ns, Low Voltage Ultra Low Power CMOS Static RAM, TSOP-I 32-pin | [Datasheet](http://www.issi.com/WW/pdf/62-65WV2568FALL-BLL.pdf) |
+| IS66WVE4M16ExLL-xxBL | 64Mb (4M x 16) Async/Page PSRAM, TFBGA-48 | [Datasheet](http://www.issi.com/WW/pdf/66-67WVE4M16EALL-BLL-CLL.pdf) |
 | LC4032ZE-xxTN48 | 1.8 V In-System Programmable Ultra Low Power PLD, 32 macrocells, TQFP-48 | [Datasheet](http://www.latticesemi.com/view_document?document_id=29095) |
 | LC4064ZE-xxTN100 | 1.8 V In-System Programmable Ultra Low Power PLD, 256 macrocells, TQFP-100 | [Datasheet](http://www.latticesemi.com/view_document?document_id=29095) |
 | LC4064ZE-xxTN48 | 1.8 V In-System Programmable Ultra Low Power PLD, 64 macrocells, TQFP-48 | [Datasheet](http://www.latticesemi.com/view_document?document_id=29095) |
@@ -392,4 +395,5 @@ Licensed under Creative Commons Attribution 4.0 International.
 | Sharp_SSOP-18_6x7.4mm_P0.8mm | :heavy_check_mark: | :heavy_check_mark: |
 | Transformer_GameBoy_DMG |  |  |
 | USB_Mini-B_Hirose_UX60SC-MB-5ST80_Horizontal |  |  |
+| VFBGA-48_6x8mm_Layout6x8_P0.75mm |  |  |
 <!-- FOOTPRINTS END -->
