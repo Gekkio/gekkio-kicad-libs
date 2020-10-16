@@ -18,6 +18,11 @@ K pci express connector
 F https://en.wikipedia.org/wiki/PCI_Express
 $ENDCMP
 #
+$CMP GameBoyAdvance_Cartridge_MountingPin
+D Game Boy cartridge edge connector with mounting pin
+K gameboy cartridge
+$ENDCMP
+#
 $CMP GameBoy_AudioJack3_SPST
 D Audio Jack, 3 Poles (Stereo / TRS), isolated SPST switch
 K gameboy audio jack

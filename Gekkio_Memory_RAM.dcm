@@ -24,6 +24,11 @@ K memory sram
 F https://www.cypress.com/file/43721/download
 $ENDCMP
 #
+$CMP GameBoyAdvance_SRAM_2M
+D 2Mb (128k x 16) Game Boy SRAM chip
+K gameboy sram
+$ENDCMP
+#
 $CMP GameBoy_SRAM_64K
 D 64kb (8K x 8) Game Boy SRAM chip, SOIC-28W
 K gameboy sram

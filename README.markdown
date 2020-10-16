@@ -114,8 +114,11 @@ Licensed under Creative Commons Attribution 4.0 International.
 | FGPMMOPA6H | GPS Module | [Datasheet](https://cdn-shop.adafruit.com/datasheets/GlobalTop-FGPMMOPA6H-Datasheet-V0A.pdf) |
 | FMN1 | High-speed switching diodes 2 pair Com K, SOT-23-5 | [Datasheet](https://fscdn.rohm.com/en/products/databook/datasheet/discrete/diode/switching/fmn1t148-e.pdf) |
 | Ferrite_Bead_Pack04 | 4 ferrite bead array, parallel topology |  |
+| GameBoyAdvance_Cartridge_MountingPin | Game Boy cartridge edge connector with mounting pin |  |
+| GameBoyAdvance_SRAM_2M | 2Mb (128k x 16) Game Boy SRAM chip |  |
 | GameBoy_Amplifier_AGB | Audio amplifier, Game Boy Advance (AGB), SSOP-18 |  |
 | GameBoy_AudioJack3_SPST | Audio Jack, 3 Poles (Stereo / TRS), isolated SPST switch | [Datasheet](~) |
+| GameBoy_CPU_AGB-B | CPU, Game Boy Advance SP (AGS), QFP-156 |  |
 | GameBoy_CPU_CGB | CPU, Game Boy Color (CGB), QFP-128 |  |
 | GameBoy_CPU_DMG <br> ![GameBoy_CPU_DMG](photos/GameBoy_CPU_DMG.jpg) | CPU, original Game Boy (DMG), QFP-80 |  |
 | GameBoy_CPU_MGB | CPU, Game Boy Pocket (MGB), Game Boy Light (MGL), QFP-80 |  |
@@ -125,7 +128,9 @@ Licensed under Creative Commons Attribution 4.0 International.
 | GameBoy_Cartridge_MountingPin | Game Boy cartridge edge connector with mounting pin |  |
 | GameBoy_LinkPort | Game Boy link port |  |
 | GameBoy_SRAM_64K <br> ![GameBoy_SRAM_64K](photos/GameBoy_SRAM_64K.jpg) | 64kb (8K x 8) Game Boy SRAM chip, SOIC-28W |  |
+| GameBoy_SW_DPST | Double Pole Single Throw (DPST) Switch | [Datasheet](~) |
 | GameBoy_SW_SP3T | Switch, three position, single pole triple throw, 3 position switch, SP3T | [Datasheet](~) |
+| GameBoy_SW_SPDT | Switch, three position, single pole triple throw, 3 position switch, SP3T | [Datasheet](~) |
 | GameBoy_Transformer_DMG | Power Transformer, original Game Boy (DMG) |  |
 | IR3E02 | LCD bias regulator, original Game Boy (DMG) |  |
 | IR3R53N | Audio amplifier, Game Boy Pocket (MGB), SSOP-18 |  |
@@ -276,7 +281,7 @@ Licensed under Creative Commons Attribution 4.0 International.
 | PIC18F45K50-IP | 32K Flash, 2K RAM, 256B EEPROM, Microchip PIC18F series enhanced flash microcontroller with USB, DIP-40 | [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/30000684B.pdf) |
 | PIC18LF45K50-IP | 32K Flash, 2K RAM, 256B EEPROM, Microchip PIC18F series enhanced flash microcontroller with USB, DIP-40 | [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/30000684B.pdf) |
 | PST9135N | System Reset | [Datasheet](https://www.semiee.com/file/EOL2/Mitsumi-PST9119N.pdf) |
-| RN4986 | Dual Digital NPN+NPN Transistor, 4k7/47k, SC-70-6 | [Datasheet](https://toshiba.semicon-storage.com/info/docget.jsp?did=18983&prodName=RN4986) |
+| RN4986 | Dual Digital NPN+PNP Transistor, 4k7/47k, SC-70-6 | [Datasheet](https://toshiba.semicon-storage.com/info/docget.jsp?did=18983&prodName=RN4986) |
 | RS2057XC6 | 4.5Ohm Low Voltage SPDT Analog Switch, SC-70-6 | [Datasheet](http://en.run-ic.com/action/download?file=219) |
 | RS2057XH | 4.5Ohm Low Voltage SPDT Analog Switch, SOT-23-6 | [Datasheet](http://en.run-ic.com/action/download?file=219) |
 | RS2103XC6 | 0.6Ohm Low Voltage SPDT Analog Switch, SC-70-6 | [Datasheet](http://en.run-ic.com/action/download?file=217) |
