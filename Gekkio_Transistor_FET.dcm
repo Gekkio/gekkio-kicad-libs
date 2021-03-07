@@ -18,6 +18,18 @@ K P-Channel MOSFET
 F https://www.vishay.com/docs/75339/si4435fdy.pdf
 $ENDCMP
 #
+$CMP SiRA01DP
+D -60A Id, -30V Vds, P-Channel MOSFET, PowerPAK-8
+K P-Channel MOSFET
+F https://www.vishay.com/docs/75510/sira01dp.pdf
+$ENDCMP
+#
+$CMP SiRA28BDP
+D 38A Id, 30V Vds, N-Channel MOSFET, PowerPAK-8
+K N-Channel MOSFET
+F https://www.vishay.com/docs/77395/sira28bdp.pdf
+$ENDCMP
+#
 $CMP SiRA88DP
 D 45.5A Id, 30V Vds, N-Channel MOSFET, PowerPAK-8
 K N-Channel MOSFET
