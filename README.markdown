@@ -110,6 +110,7 @@ Licensed under Creative Commons Attribution 4.0 International.
 | Bus_PCIExpress_8x | PCI Express 8x connector | [Datasheet](https://en.wikipedia.org/wiki/PCI_Express) |
 | CBT3125PW | Quadruple FET bus switch, TSSOP-14 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/CBT3125.pdf) |
 | CY62126EV30LL-xxBV | 1Mb (64k x 16) SRAM, VFBGA-48 | [Datasheet](https://www.cypress.com/file/43721/download) |
+| DMN3026LVT | 6.6A Id, 30V Vds, N-Channel MOSFET, TSOT-23-6 | [Datasheet](https://www.diodes.com/assets/Datasheets/DMN3026LVT.pdf) |
 | EMI_Filter_LLL | EMI 3-inductor filter |  |
 | FGPMMOPA6H | GPS Module | [Datasheet](https://cdn-shop.adafruit.com/datasheets/GlobalTop-FGPMMOPA6H-Datasheet-V0A.pdf) |
 | FMN1 | High-speed switching diodes 2 pair Com K, SOT-23-5 | [Datasheet](https://fscdn.rohm.com/en/products/databook/datasheet/discrete/diode/switching/fmn1t148-e.pdf) |
@@ -340,6 +341,8 @@ Licensed under Creative Commons Attribution 4.0 International.
 | STM818MM | 5 V Supervisor with Battery Switchover, 4.40V Threshold, Watchdog Input, Active-Low Reset, Chip-enable Gating, SOIC-8 | [Datasheet](https://www.st.com/resource/en/datasheet/stm690a.pdf) |
 | SY6288AAAC | 0.6A, Active-High, Low Loss Power Distribution Switch, SOT-23-5 | [Datasheet](https://datasheet.lcsc.com/szlcsc/Silergy-Corp-SY6288AAAC_C111829.pdf) |
 | SY6288CAAC | 2A, Active-High, Low Loss Power Distribution Switch, SOT-23-5 | [Datasheet](https://datasheet.lcsc.com/szlcsc/Silergy-Corp-SY6288AAAC_C111829.pdf) |
+| Si4435FDY | -12.6A Id, -30V Vds, P-Channel MOSFET, SO-8 | [Datasheet](https://www.vishay.com/docs/75339/si4435fdy.pdf) |
+| SiRA88DP | 45.5A Id, 30V Vds, N-Channel MOSFET, PowerPAK-8 | [Datasheet](https://www.vishay.com/docs/77777/sira88dp.pdf) |
 | TLV2316ID | Dual 10-MHz, Rail-to-Rail Input/Output, Low-Voltage, 1.8-V CMOS Operational Amplifier, SOIC-8 | [Datasheet](http://www.ti.com/lit/ds/symlink/tlv2316.pdf) |
 | TLV2316IDGK | Dual 10-MHz, Rail-to-Rail Input/Output, Low-Voltage, 1.8-V CMOS Operational Amplifier, VSSOP-8 | [Datasheet](http://www.ti.com/lit/ds/symlink/tlv2316.pdf) |
 | TLV316IDBV | Single 10-MHz, Rail-to-Rail Input/Output, Low-Voltage, 1.8-V CMOS Operational Amplifier, SOT-23-5 | [Datasheet](http://www.ti.com/lit/ds/symlink/tlv316.pdf) |
