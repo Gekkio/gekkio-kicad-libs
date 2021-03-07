@@ -384,6 +384,7 @@ Licensed under Creative Commons Attribution 4.0 International.
 | GameBoy_LinkPort_DMG_Horizontal |  |  |
 | GameBoy_LinkPort_MGB_Horizontal |  |  |
 | GlobalTop_FGPMMOPA6H |  |  |
+| Heatsink_AAVID_573100_TO-252 |  |  |
 | ISSI_TSOP-I-28_11.8x8mm_P0.55mm | :heavy_check_mark: | :heavy_check_mark: |
 | Infineon_SOT-343_SC-82 |  |  |
 | JEITA_QFP-64_12x12mm_P0.65mm | :heavy_check_mark: | :heavy_check_mark: |
