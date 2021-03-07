@@ -233,6 +233,7 @@ Licensed under Creative Commons Attribution 4.0 International.
 | LT1965xT-1.8 | 1.1A, 1.8V, Low Noise, Low Dropout Linear Regulator, TO-220 | [Datasheet](https://www.analog.com/media/en/technical-documentation/data-sheets/1965fb.pdf) |
 | LT1965xT-2.5 | 1.1A, 2.5V, Low Noise, Low Dropout Linear Regulator, TO-220 | [Datasheet](https://www.analog.com/media/en/technical-documentation/data-sheets/1965fb.pdf) |
 | LT1965xT-3.3 | 1.1A, 3.3V, Low Noise, Low Dropout Linear Regulator, TO-220 | [Datasheet](https://www.analog.com/media/en/technical-documentation/data-sheets/1965fb.pdf) |
+| LTC4011CFE | High Efficiency Standalone Nickel Battery Charger | [Datasheet](https://www.analog.com/media/en/technical-documentation/data-sheets/4011fb.pdf) |
 | MAX6029EUK21 | Ultra-Low-Power Precision Series Voltage Reference, 2.048V, SOT-23-5 | [Datasheet](https://datasheets.maximintegrated.com/en/ds/MAX6029.pdf) |
 | MAX6029EUK25 | Ultra-Low-Power Precision Series Voltage Reference, 2.500V, SOT-23-5 | [Datasheet](https://datasheets.maximintegrated.com/en/ds/MAX6029.pdf) |
 | MAX6029EUK30 | Ultra-Low-Power Precision Series Voltage Reference, 3.000V, SOT-23-5 | [Datasheet](https://datasheets.maximintegrated.com/en/ds/MAX6029.pdf) |
@@ -412,6 +413,7 @@ Licensed under Creative Commons Attribution 4.0 International.
 | Sharp_SOIC-24W_8.6x15.4mm_P1.27mm | :heavy_check_mark: | :heavy_check_mark: |
 | Sharp_SOIC-28W_8.6x18mm_P1.27mm | :heavy_check_mark: | :heavy_check_mark: |
 | Sharp_SSOP-18_6x7.4mm_P0.8mm | :heavy_check_mark: | :heavy_check_mark: |
+| TSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP2.74x3.86mm |  |  |
 | Transformer_GameBoy_DMG |  |  |
 | USB_Mini-B_Hirose_UX60SC-MB-5ST80_Horizontal |  |  |
 | VFBGA-48_6x8mm_Layout6x8_P0.75mm |  |  |
