@@ -25,6 +25,7 @@
   (lib (name Gekkio_Memory_EEPROM)(type Legacy)(uri "$(KIPRJMOD)/Gekkio_Memory_EEPROM.lib")(options "")(descr ""))
   (lib (name Gekkio_Memory_Flash)(type Legacy)(uri "$(KIPRJMOD)/Gekkio_Memory_Flash.lib")(options "")(descr ""))
   (lib (name Gekkio_Memory_RAM)(type Legacy)(uri "$(KIPRJMOD)/Gekkio_Memory_RAM.lib")(options "")(descr ""))
+  (lib (name Gekkio_Oscillator)(type Legacy)(uri "$(KIPRJMOD)/Gekkio_Oscillator.lib")(options "")(descr ""))
   (lib (name Gekkio_Power_Management)(type Legacy)(uri "$(KIPRJMOD)/Gekkio_Power_Management.lib")(options "")(descr ""))
   (lib (name Gekkio_Power_Protection)(type Legacy)(uri "$(KIPRJMOD)/Gekkio_Power_Protection.lib")(options "")(descr ""))
   (lib (name Gekkio_Power_Supervisor)(type Legacy)(uri "$(KIPRJMOD)/Gekkio_Power_Supervisor.lib")(options "")(descr ""))

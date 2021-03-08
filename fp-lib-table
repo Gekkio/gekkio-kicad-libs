@@ -10,6 +10,7 @@
   (lib (name Gekkio_Heatsink)(type KiCad)(uri "$(KIPRJMOD)/Gekkio_Heatsink.pretty")(options "")(descr ""))
   (lib (name Gekkio_Inductor_SMD)(type KiCad)(uri "$(KIPRJMOD)/Gekkio_Inductor_SMD.pretty")(options "")(descr ""))
   (lib (name Gekkio_MountingHole)(type KiCad)(uri "$(KIPRJMOD)/Gekkio_MountingHole.pretty")(options "")(descr ""))
+  (lib (name Gekkio_Oscillator)(type KiCad)(uri "$(KIPRJMOD)/Gekkio_Oscillator.pretty")(options "")(descr ""))
   (lib (name Gekkio_Package_BGA)(type KiCad)(uri "$(KIPRJMOD)/Gekkio_Package_BGA.pretty")(options "")(descr ""))
   (lib (name Gekkio_Package_DFN_QFN)(type KiCad)(uri "$(KIPRJMOD)/Gekkio_Package_DFN_QFN.pretty")(options "")(descr ""))
   (lib (name Gekkio_Package_QFP)(type KiCad)(uri "$(KIPRJMOD)/Gekkio_Package_QFP.pretty")(options "")(descr ""))

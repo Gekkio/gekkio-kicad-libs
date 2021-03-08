@@ -345,6 +345,7 @@ Licensed under Creative Commons Attribution 4.0 International.
 | SiRA01DP | -60A Id, -30V Vds, P-Channel MOSFET, PowerPAK-8 | [Datasheet](https://www.vishay.com/docs/75510/sira01dp.pdf) |
 | SiRA28BDP | 38A Id, 30V Vds, N-Channel MOSFET, PowerPAK-8 | [Datasheet](https://www.vishay.com/docs/77395/sira28bdp.pdf) |
 | SiRA88DP | 45.5A Id, 30V Vds, N-Channel MOSFET, PowerPAK-8 | [Datasheet](https://www.vishay.com/docs/77777/sira88dp.pdf) |
+| TG-3541CE | 32.768 kHz TCXO oscillator | [Datasheet](https://support.epson.biz/td/api/doc_check.php?mode=dl&lang=en&Parts=SG-8002DC) |
 | TLV2316ID | Dual 10-MHz, Rail-to-Rail Input/Output, Low-Voltage, 1.8-V CMOS Operational Amplifier, SOIC-8 | [Datasheet](http://www.ti.com/lit/ds/symlink/tlv2316.pdf) |
 | TLV2316IDGK | Dual 10-MHz, Rail-to-Rail Input/Output, Low-Voltage, 1.8-V CMOS Operational Amplifier, VSSOP-8 | [Datasheet](http://www.ti.com/lit/ds/symlink/tlv2316.pdf) |
 | TLV316IDBV | Single 10-MHz, Rail-to-Rail Input/Output, Low-Voltage, 1.8-V CMOS Operational Amplifier, SOT-23-5 | [Datasheet](http://www.ti.com/lit/ds/symlink/tlv316.pdf) |
@@ -407,6 +408,7 @@ Licensed under Creative Commons Attribution 4.0 International.
 | MountingHole_2.3mm |  |  |
 | MountingHole_7.2mm |  |  |
 | OnSemi_DFN-6-1EP_3x3mm_P0.95mm_EP1.2x2.0mm |  |  |
+| Oscillator_SMD_SeikoEpson_TG-3541CE_3.2x2.5mm |  |  |
 | PCIExpress_x1_2x18_P1.00mm_Edge |  |  |
 | PCIExpress_x4_2x32_P1.00mm_Edge |  |  |
 | PCIExpress_x8_2x49_P1.00mm_Edge |  |  |
