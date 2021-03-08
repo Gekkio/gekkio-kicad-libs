@@ -393,6 +393,8 @@ Licensed under Creative Commons Attribution 4.0 International.
 | L_Coilcraft_SER1512 |  |  |
 | L_CommonMode_TDK_ACM2520-3P_L2.5mm_W2.0mm_Px2.3mm_Py0.65mm |  |  |
 | L_CommonMode_TDK_ACM4532-3P_L4.5mm_W3.2mm_Px4.1mm_Py1.7mm |  |  |
+| L_Eaton_DRQ73 |  |  |
+| L_Eaton_DRQ74 |  |  |
 | L_Hotland_MCW-0630 | :heavy_check_mark: | :heavy_check_mark: |
 | L_Hotland_MCW-0650 | :heavy_check_mark: | :heavy_check_mark: |
 | L_Sunltech_SLO0520H |  |  |
