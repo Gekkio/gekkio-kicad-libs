@@ -413,6 +413,8 @@ Licensed under Creative Commons Attribution 4.0 International.
 | Potentiometer_Hokuriku_VG039NCH_Vertical |  |  |
 | Rohm_HRP5 |  |  |
 | Rohm_QFP-56_10x10mm_P0.65mm | :heavy_check_mark: | :heavy_check_mark: |
+| SW_SPST_Circle_D6mm_2Segments |  |  |
+| SW_SPST_Circle_D6mm_4Segments |  |  |
 | SW_SPST_PTS540 |  |  |
 | Sharp_QFP-128_14x20mm_P0.5mm | :heavy_check_mark: | :heavy_check_mark: |
 | Sharp_QFP-156_14x20mm_P0.4mm | :heavy_check_mark: | :heavy_check_mark: |
