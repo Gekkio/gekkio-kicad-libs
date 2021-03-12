@@ -24,8 +24,32 @@ K power distribution switch
 F https://datasheet.lcsc.com/szlcsc/Silergy-Corp-SY6288AAAC_C111829.pdf
 $ENDCMP
 #
+$CMP SY6288BAAC
+D 0.6A, Active-Low, Low Loss Power Distribution Switch, SOT-23-5
+K power distribution switch
+F https://datasheet.lcsc.com/szlcsc/Silergy-Corp-SY6288AAAC_C111829.pdf
+$ENDCMP
+#
 $CMP SY6288CAAC
 D 2A, Active-High, Low Loss Power Distribution Switch, SOT-23-5
+K power distribution switch
+F https://datasheet.lcsc.com/szlcsc/Silergy-Corp-SY6288AAAC_C111829.pdf
+$ENDCMP
+#
+$CMP SY6288D1AAC
+D 1.5A, Active-Low, Low Loss Power Distribution Switch, SOT-23-5
+K power distribution switch
+F https://datasheet.lcsc.com/szlcsc/Silergy-Corp-SY6288AAAC_C111829.pdf
+$ENDCMP
+#
+$CMP SY6288DAAC
+D 2A, Active-Low, Low Loss Power Distribution Switch, SOT-23-5
+K power distribution switch
+F https://datasheet.lcsc.com/szlcsc/Silergy-Corp-SY6288AAAC_C111829.pdf
+$ENDCMP
+#
+$CMP SY6288EAAC
+D 2A, Active-Low, Low Loss Power Distribution Switch, SOT-23-5
 K power distribution switch
 F https://datasheet.lcsc.com/szlcsc/Silergy-Corp-SY6288AAAC_C111829.pdf
 $ENDCMP

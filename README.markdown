@@ -354,7 +354,11 @@ Licensed under Creative Commons Attribution 4.0 International.
 | STM818LM | 5 V Supervisor with Battery Switchover, 4.65V Threshold, Watchdog Input, Active-Low Reset, Chip-enable Gating, SOIC-8 | [Datasheet](https://www.st.com/resource/en/datasheet/stm690a.pdf) |
 | STM818MM | 5 V Supervisor with Battery Switchover, 4.40V Threshold, Watchdog Input, Active-Low Reset, Chip-enable Gating, SOIC-8 | [Datasheet](https://www.st.com/resource/en/datasheet/stm690a.pdf) |
 | SY6288AAAC | 0.6A, Active-High, Low Loss Power Distribution Switch, SOT-23-5 | [Datasheet](https://datasheet.lcsc.com/szlcsc/Silergy-Corp-SY6288AAAC_C111829.pdf) |
+| SY6288BAAC | 0.6A, Active-Low, Low Loss Power Distribution Switch, SOT-23-5 | [Datasheet](https://datasheet.lcsc.com/szlcsc/Silergy-Corp-SY6288AAAC_C111829.pdf) |
 | SY6288CAAC | 2A, Active-High, Low Loss Power Distribution Switch, SOT-23-5 | [Datasheet](https://datasheet.lcsc.com/szlcsc/Silergy-Corp-SY6288AAAC_C111829.pdf) |
+| SY6288D1AAC | 1.5A, Active-Low, Low Loss Power Distribution Switch, SOT-23-5 | [Datasheet](https://datasheet.lcsc.com/szlcsc/Silergy-Corp-SY6288AAAC_C111829.pdf) |
+| SY6288DAAC | 2A, Active-Low, Low Loss Power Distribution Switch, SOT-23-5 | [Datasheet](https://datasheet.lcsc.com/szlcsc/Silergy-Corp-SY6288AAAC_C111829.pdf) |
+| SY6288EAAC | 2A, Active-Low, Low Loss Power Distribution Switch, SOT-23-5 | [Datasheet](https://datasheet.lcsc.com/szlcsc/Silergy-Corp-SY6288AAAC_C111829.pdf) |
 | Si4435FDY | -12.6A Id, -30V Vds, P-Channel MOSFET, SO-8 | [Datasheet](https://www.vishay.com/docs/75339/si4435fdy.pdf) |
 | SiRA01DP | -60A Id, -30V Vds, P-Channel MOSFET, PowerPAK-8 | [Datasheet](https://www.vishay.com/docs/75510/sira01dp.pdf) |
 | SiRA28BDP | 38A Id, 30V Vds, N-Channel MOSFET, PowerPAK-8 | [Datasheet](https://www.vishay.com/docs/77395/sira28bdp.pdf) |
