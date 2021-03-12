@@ -36,6 +36,12 @@ K ldo regulator
 F https://www.diodes.com/assets/Datasheets/AP2138-9.pdf
 $ENDCMP
 #
+$CMP AP2138N-1.4
+D 1.4V 250mA Ultra Low Quiescent Current CMOS LDO, SOT-23-3
+K ldo regulator
+F https://www.diodes.com/assets/Datasheets/AP2138-9.pdf
+$ENDCMP
+#
 $CMP AP2138N-1.5
 D 1.5V 250mA Ultra Low Quiescent Current CMOS LDO, SOT-23-3
 K ldo regulator
@@ -48,14 +54,92 @@ K ldo regulator
 F https://www.diodes.com/assets/Datasheets/AP2138-9.pdf
 $ENDCMP
 #
+$CMP AP2138N-2.1
+D 2.1V 250mA Ultra Low Quiescent Current CMOS LDO, SOT-23-3
+K ldo regulator
+F https://www.diodes.com/assets/Datasheets/AP2138-9.pdf
+$ENDCMP
+#
+$CMP AP2138N-2.2
+D 2.2V 250mA Ultra Low Quiescent Current CMOS LDO, SOT-23-3
+K ldo regulator
+F https://www.diodes.com/assets/Datasheets/AP2138-9.pdf
+$ENDCMP
+#
 $CMP AP2138N-2.5
 D 2.5V 250mA Ultra Low Quiescent Current CMOS LDO, SOT-23-3
 K ldo regulator
 F https://www.diodes.com/assets/Datasheets/AP2138-9.pdf
 $ENDCMP
 #
+$CMP AP2138N-2.8
+D 2.8V 250mA Ultra Low Quiescent Current CMOS LDO, SOT-23-3
+K ldo regulator
+F https://www.diodes.com/assets/Datasheets/AP2138-9.pdf
+$ENDCMP
+#
+$CMP AP2138N-3.0
+D 3.0V 250mA Ultra Low Quiescent Current CMOS LDO, SOT-23-3
+K ldo regulator
+F https://www.diodes.com/assets/Datasheets/AP2138-9.pdf
+$ENDCMP
+#
 $CMP AP2138N-3.3
 D 3.3V 250mA Ultra Low Quiescent Current CMOS LDO, SOT-23-3
+K ldo regulator
+F https://www.diodes.com/assets/Datasheets/AP2138-9.pdf
+$ENDCMP
+#
+$CMP AP2138N-3.6
+D 3.6V 250mA Ultra Low Quiescent Current CMOS LDO, SOT-23-3
+K ldo regulator
+F https://www.diodes.com/assets/Datasheets/AP2138-9.pdf
+$ENDCMP
+#
+$CMP AP2139AK-1.2
+D 1.2V 250mA Ultra Low Quiescent Current CMOS LDO, Active High Enable with Quick Discharge, SOT-23-5
+K ldo regulator
+F https://www.diodes.com/assets/Datasheets/AP2138-9.pdf
+$ENDCMP
+#
+$CMP AP2139AK-1.4
+D 1.4V 250mA Ultra Low Quiescent Current CMOS LDO, Active High Enable with Quick Discharge, SOT-23-5
+K ldo regulator
+F https://www.diodes.com/assets/Datasheets/AP2138-9.pdf
+$ENDCMP
+#
+$CMP AP2139AK-1.5
+D 1.5V 250mA Ultra Low Quiescent Current CMOS LDO, Active High Enable with Quick Discharge, SOT-23-5
+K ldo regulator
+F https://www.diodes.com/assets/Datasheets/AP2138-9.pdf
+$ENDCMP
+#
+$CMP AP2139AK-1.8
+D 1.8V 250mA Ultra Low Quiescent Current CMOS LDO, Active High Enable with Quick Discharge, SOT-23-5
+K ldo regulator
+F https://www.diodes.com/assets/Datasheets/AP2138-9.pdf
+$ENDCMP
+#
+$CMP AP2139AK-2.5
+D 2.5V 250mA Ultra Low Quiescent Current CMOS LDO, Active High Enable with Quick Discharge, SOT-23-5
+K ldo regulator
+F https://www.diodes.com/assets/Datasheets/AP2138-9.pdf
+$ENDCMP
+#
+$CMP AP2139AK-2.8
+D 2.8V 250mA Ultra Low Quiescent Current CMOS LDO, Active High Enable with Quick Discharge, SOT-23-5
+K ldo regulator
+F https://www.diodes.com/assets/Datasheets/AP2138-9.pdf
+$ENDCMP
+#
+$CMP AP2139AK-3.0
+D 3.0V 250mA Ultra Low Quiescent Current CMOS LDO, Active High Enable with Quick Discharge, SOT-23-5
+K ldo regulator
+F https://www.diodes.com/assets/Datasheets/AP2138-9.pdf
+$ENDCMP
+#
+$CMP AP2139AK-3.3
+D 3.3V 250mA Ultra Low Quiescent Current CMOS LDO, Active High Enable with Quick Discharge, SOT-23-5
 K ldo regulator
 F https://www.diodes.com/assets/Datasheets/AP2138-9.pdf
 $ENDCMP
