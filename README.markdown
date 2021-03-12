@@ -23,6 +23,7 @@ Licensed under Creative Commons Attribution 4.0 International.
 | 74LVC16244ADGG | 16-bit buffer/line driver, 5V input/output tolerant, 3-state, TSSOP-48 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/74LVC_LVCH16244A.pdf) |
 | 74LVC244APW | Octal buffer/line driver, 3-state, TSSOP-20 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/74LVC_LVCH244A.pdf) |
 | 74LVC245APW | Octal bus transceiver, 3-state, TSSOP-20 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/74LVC_LVCH245A.pdf) |
+| 74LVC540APW | Octal inverting buffer/line driver, 3-state, TSSOP-20 | [Datasheet](https://www.ti.com/lit/ds/symlink/sn74lvc540a.pdf) |
 | 74LVC8T245PW | 8-bit dual supply translating transceiver, 3-state, TSSOP-24 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/74LVC_LVCH8T245.pdf) |
 | 74LVCH16244ADGG | 16-bit buffer/line driver, 5V input/output tolerant, 3-state, bus hold, TSSOP-48 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/74LVC_LVCH16244A.pdf) |
 | 74LVCH244APW | Octal buffer/line driver, 3-state, bus hold, TSSOP-20 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/74LVC_LVCH244A.pdf) |

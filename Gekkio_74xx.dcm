@@ -30,6 +30,12 @@ K bus 3state
 F https://assets.nexperia.com/documents/data-sheet/74LVC_LVCH245A.pdf
 $ENDCMP
 #
+$CMP 74LVC540APW
+D Octal inverting buffer/line driver, 3-state, TSSOP-20
+K bus 3state
+F https://www.ti.com/lit/ds/symlink/sn74lvc540a.pdf
+$ENDCMP
+#
 $CMP 74LVCH16244ADGG
 D 16-bit buffer/line driver, 5V input/output tolerant, 3-state, bus hold, TSSOP-48
 K bus 3state hold
