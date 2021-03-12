@@ -72,6 +72,7 @@ Licensed under Creative Commons Attribution 4.0 International.
 | AT49F002N-xxJx | 2Mb (256K x 8) 5-volt Only Flash Memory, PLCC-32 | [Datasheet](https://datasheet.octopart.com/AT49F002T-90JC-Atmel-datasheet-821.pdf) |
 | AT49F002NT-xxJx | 2Mb (256K x 8) 5-volt Only Flash Memory, PLCC-32 | [Datasheet](https://datasheet.octopart.com/AT49F002T-90JC-Atmel-datasheet-821.pdf) |
 | AT49F002T-xxJx | 2Mb (256K x 8) 5-volt Only Flash Memory, PLCC-32 | [Datasheet](https://datasheet.octopart.com/AT49F002T-90JC-Atmel-datasheet-821.pdf) |
+| ATA6561-GAQW | High-Speed CAN Transceiver with Standby Mode, CAN FD Ready, SOIC-8 | [Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/20005991B.pdf) |
 | ATF1504AS-xAx100 | High-performance Complex Programmable Logic Device, 64 Macrocells, TQFP-100 | [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/doc0784.pdf) |
 | ATF1504ASL-xAx100 | High-performance Complex Programmable Logic Device, 64 Macrocells, TQFP-100 | [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/doc0784.pdf) |
 | ATF1508AS-xAx100 | High-performance Complex Programmable Logic Device, 128 Macrocells, TQFP-100 | [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/doc0784.pdf) |
