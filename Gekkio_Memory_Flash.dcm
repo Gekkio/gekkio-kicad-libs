@@ -132,4 +132,154 @@ K 8mbit flash rom
 F http://www.macronix.com/Lists/Datasheet/Attachments/7235/MX29SL802C%20T-B,%201.8V,%208Mb,%20v2.0.pdf
 $ENDCMP
 #
+$CMP SST39LF010-70-4x-NH
+D 1 Mbit (128k x 8) 2.7-3.6V Multi-Purpose Flash, 70 ns, PLCC-32
+K 1mbit flash rom
+F https://ww1.microchip.com/downloads/en/DeviceDoc/20005023B.pdf
+$ENDCMP
+#
+$CMP SST39LF010-70-4x-WH
+D 1 Mbit (128k x 8) 2.7-3.6V Multi-Purpose Flash, 70 ns, TSOP-I 32-pin
+K 1mbit flash rom
+F https://ww1.microchip.com/downloads/en/DeviceDoc/20005023B.pdf
+$ENDCMP
+#
+$CMP SST39LF020-70-4x-NH
+D 2 Mbit (256k x 8) 2.7-3.6V Multi-Purpose Flash, 70 ns, PLCC-32
+K 2mbit flash rom
+F https://ww1.microchip.com/downloads/en/DeviceDoc/20005023B.pdf
+$ENDCMP
+#
+$CMP SST39LF020-70-4x-WH
+D 2 Mbit (256k x 8) 3.0-3.6V Multi-Purpose Flash, 70 ns, TSOP-I 32-pin
+K 2mbit flash rom
+F https://ww1.microchip.com/downloads/en/DeviceDoc/20005023B.pdf
+$ENDCMP
+#
+$CMP SST39LF040-70-4x-NH
+D 4 Mbit (512k x 8) 2.7-3.6V Multi-Purpose Flash, 70 ns, PLCC-32
+K 4mbit flash rom
+F https://ww1.microchip.com/downloads/en/DeviceDoc/20005023B.pdf
+$ENDCMP
+#
+$CMP SST39LF040-70-4x-WH
+D 4 Mbit (512k x 8) 3.0-3.6V Multi-Purpose Flash, 70 ns, TSOP-I 32-pin
+K 4mbit flash rom
+F https://ww1.microchip.com/downloads/en/DeviceDoc/20005023B.pdf
+$ENDCMP
+#
+$CMP SST39SF010A-70-4x-NH
+D 1 Mbit (128k x 8) 4.5-5.5V Multi-Purpose Flash, 70 ns, PLCC-32
+K 1mbit flash rom
+F https://ww1.microchip.com/downloads/en/DeviceDoc/20005022C.pdf
+$ENDCMP
+#
+$CMP SST39SF010A-70-4x-PH
+D 1 Mbit (128k x 8) 4.5-5.5V Multi-Purpose Flash, 70 ns, PDIP-32
+K 1mbit flash rom
+F https://ww1.microchip.com/downloads/en/DeviceDoc/20005022C.pdf
+$ENDCMP
+#
+$CMP SST39SF010A-70-4x-WH
+D 1 Mbit (128k x 8) 4.5-5.5V Multi-Purpose Flash, 70 ns, TSOP-I 32-pin
+K 1mbit flash rom
+F https://ww1.microchip.com/downloads/en/DeviceDoc/20005022C.pdf
+$ENDCMP
+#
+$CMP SST39SF020A-70-4x-NH
+D 2 Mbit (256k x 8) 4.5-5.5V Multi-Purpose Flash, 70 ns, PLCC-32
+K 2mbit flash rom
+F https://ww1.microchip.com/downloads/en/DeviceDoc/20005022C.pdf
+$ENDCMP
+#
+$CMP SST39SF020A-70-4x-PH
+D 2 Mbit (256k x 8) 4.5-5.5V Multi-Purpose Flash, 70 ns, PDIP-32
+K 2mbit flash rom
+F https://ww1.microchip.com/downloads/en/DeviceDoc/20005022C.pdf
+$ENDCMP
+#
+$CMP SST39SF020A-70-4x-WH
+D 2 Mbit (256k x 8) 4.5-5.5V Multi-Purpose Flash, 70 ns, TSOP-I 32-pin
+K 2mbit flash rom
+F https://ww1.microchip.com/downloads/en/DeviceDoc/20005022C.pdf
+$ENDCMP
+#
+$CMP SST39SF040-70-4x-PH
+D 4 Mbit (512k x 8) 4.5-5.5V Multi-Purpose Flash, 70 ns, PDIP-32
+K 4mbit flash rom
+F https://ww1.microchip.com/downloads/en/DeviceDoc/20005022C.pdf
+$ENDCMP
+#
+$CMP SST39SF040-70-4x-WH
+D 4 Mbit (512k x 8) 4.5-5.5V Multi-Purpose Flash, 70 ns, TSOP-I 32-pin
+K 4mbit flash rom
+F https://ww1.microchip.com/downloads/en/DeviceDoc/20005022C.pdf
+$ENDCMP
+#
+$CMP SST39SF040A-70-4x-NH
+D 4 Mbit (512k x 8) 4.5-5.5V Multi-Purpose Flash, 70 ns, PLCC-32
+K 4mbit flash rom
+F https://ww1.microchip.com/downloads/en/DeviceDoc/20005022C.pdf
+$ENDCMP
+#
+$CMP SST39VF010-70-4x-NH
+D 1 Mbit (128k x 8) 2.7-3.6V Multi-Purpose Flash, 70 ns, PLCC-32
+K 1mbit flash rom
+F https://ww1.microchip.com/downloads/en/DeviceDoc/20005023B.pdf
+$ENDCMP
+#
+$CMP SST39VF010-70-4x-WH
+D 1 Mbit (128k x 8) 2.7-3.6V Multi-Purpose Flash, 70 ns, TSOP-I 32-pin
+K 1mbit flash rom
+F https://ww1.microchip.com/downloads/en/DeviceDoc/20005023B.pdf
+$ENDCMP
+#
+$CMP SST39VF020-70-4x-NH
+D 2 Mbit (256k x 8) 2.7-3.6V Multi-Purpose Flash, 70 ns, PLCC-32
+K 2mbit flash rom
+F https://ww1.microchip.com/downloads/en/DeviceDoc/20005023B.pdf
+$ENDCMP
+#
+$CMP SST39VF020-70-4x-WH
+D 2 Mbit (256k x 8) 2.7-3.6V Multi-Purpose Flash, 70 ns, TSOP-I 32-pin
+K 2mbit flash rom
+F https://ww1.microchip.com/downloads/en/DeviceDoc/20005023B.pdf
+$ENDCMP
+#
+$CMP SST39VF040-70-4x-NH
+D 4 Mbit (512k x 8) 2.7-3.6V Multi-Purpose Flash, 70 ns, PLCC-32
+K 4mbit flash rom
+F https://ww1.microchip.com/downloads/en/DeviceDoc/20005023B.pdf
+$ENDCMP
+#
+$CMP SST39VF040-70-4x-WH
+D 4 Mbit (512k x 8) 2.7-3.6V Multi-Purpose Flash, 70 ns, TSOP-I 32-pin
+K 4mbit flash rom
+F https://ww1.microchip.com/downloads/en/DeviceDoc/20005023B.pdf
+$ENDCMP
+#
+$CMP SST39VF1681-70-4x-B3K
+D 16 Mbit (2M x 8) 2.7-3.6V Multi-Purpose Flash Plus, Bottom Boot Block, 70 ns, TFBGA-48
+K 16mbit flash rom
+F https://ww1.microchip.com/downloads/en/DeviceDoc/25040A.pdf
+$ENDCMP
+#
+$CMP SST39VF1681-70-4x-EK
+D 16 Mbit (2M x 8) 2.7-3.6V Multi-Purpose Flash Plus, Bottom Boot Block, 70 ns, TSOP-I 48-pin
+K 16mbit flash rom
+F https://ww1.microchip.com/downloads/en/DeviceDoc/25040A.pdf
+$ENDCMP
+#
+$CMP SST39VF1682-70-4x-B3K
+D 16 Mbit (2M x 8) 2.7-3.6V Multi-Purpose Flash Plus, Top Boot Block, 70 ns, TFBGA-48
+K 16mbit flash rom
+F https://ww1.microchip.com/downloads/en/DeviceDoc/20005022C.pdf
+$ENDCMP
+#
+$CMP SST39VF1682-70-4x-EK
+D 16 Mbit (2M x 8) 2.7-3.6V Multi-Purpose Flash Plus, Top Boot Block, 70 ns, TSOP-I 48-pin
+K 16mbit flash rom
+F https://ww1.microchip.com/downloads/en/DeviceDoc/20005022C.pdf
+$ENDCMP
+#
 #End Doc Library

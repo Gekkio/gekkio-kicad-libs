@@ -330,6 +330,31 @@ Licensed under Creative Commons Attribution 4.0 International.
 | SN74LVCH8T245PW | 8-bit dual supply translating transceiver, 3-state, bus hold, TSSOP-24 | [Datasheet](http://www.ti.com/lit/ds/symlink/sn74lvch8t245.pdf) |
 | SP0504SHTG | 0.85pF TVS Diode Array, SOT-23-6 | [Datasheet](https://m.littelfuse.com/~/media/electronics/datasheets/tvs_diode_arrays/littelfuse_tvs_diode_array_sp0504s_datasheet.pdf.pdf) |
 | SP3003-02JTG | 0.65 pF TVS Diode Array, SC-70-5 | [Datasheet](https://www.littelfuse.com/~/media/electronics/datasheets/tvs_diode_arrays/littelfuse_tvs_diode_array_sp3003_datasheet.pdf.pdf) |
+| SST39LF010-70-4x-NH | 1 Mbit (128k x 8) 2.7-3.6V Multi-Purpose Flash, 70 ns, PLCC-32 | [Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/20005023B.pdf) |
+| SST39LF010-70-4x-WH | 1 Mbit (128k x 8) 2.7-3.6V Multi-Purpose Flash, 70 ns, TSOP-I 32-pin | [Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/20005023B.pdf) |
+| SST39LF020-70-4x-NH | 2 Mbit (256k x 8) 2.7-3.6V Multi-Purpose Flash, 70 ns, PLCC-32 | [Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/20005023B.pdf) |
+| SST39LF020-70-4x-WH | 2 Mbit (256k x 8) 3.0-3.6V Multi-Purpose Flash, 70 ns, TSOP-I 32-pin | [Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/20005023B.pdf) |
+| SST39LF040-70-4x-NH | 4 Mbit (512k x 8) 2.7-3.6V Multi-Purpose Flash, 70 ns, PLCC-32 | [Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/20005023B.pdf) |
+| SST39LF040-70-4x-WH | 4 Mbit (512k x 8) 3.0-3.6V Multi-Purpose Flash, 70 ns, TSOP-I 32-pin | [Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/20005023B.pdf) |
+| SST39SF010A-70-4x-NH | 1 Mbit (128k x 8) 4.5-5.5V Multi-Purpose Flash, 70 ns, PLCC-32 | [Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/20005022C.pdf) |
+| SST39SF010A-70-4x-PH | 1 Mbit (128k x 8) 4.5-5.5V Multi-Purpose Flash, 70 ns, PDIP-32 | [Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/20005022C.pdf) |
+| SST39SF010A-70-4x-WH | 1 Mbit (128k x 8) 4.5-5.5V Multi-Purpose Flash, 70 ns, TSOP-I 32-pin | [Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/20005022C.pdf) |
+| SST39SF020A-70-4x-NH | 2 Mbit (256k x 8) 4.5-5.5V Multi-Purpose Flash, 70 ns, PLCC-32 | [Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/20005022C.pdf) |
+| SST39SF020A-70-4x-PH | 2 Mbit (256k x 8) 4.5-5.5V Multi-Purpose Flash, 70 ns, PDIP-32 | [Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/20005022C.pdf) |
+| SST39SF020A-70-4x-WH | 2 Mbit (256k x 8) 4.5-5.5V Multi-Purpose Flash, 70 ns, TSOP-I 32-pin | [Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/20005022C.pdf) |
+| SST39SF040-70-4x-PH | 4 Mbit (512k x 8) 4.5-5.5V Multi-Purpose Flash, 70 ns, PDIP-32 | [Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/20005022C.pdf) |
+| SST39SF040-70-4x-WH | 4 Mbit (512k x 8) 4.5-5.5V Multi-Purpose Flash, 70 ns, TSOP-I 32-pin | [Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/20005022C.pdf) |
+| SST39SF040A-70-4x-NH | 4 Mbit (512k x 8) 4.5-5.5V Multi-Purpose Flash, 70 ns, PLCC-32 | [Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/20005022C.pdf) |
+| SST39VF010-70-4x-NH | 1 Mbit (128k x 8) 2.7-3.6V Multi-Purpose Flash, 70 ns, PLCC-32 | [Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/20005023B.pdf) |
+| SST39VF010-70-4x-WH | 1 Mbit (128k x 8) 2.7-3.6V Multi-Purpose Flash, 70 ns, TSOP-I 32-pin | [Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/20005023B.pdf) |
+| SST39VF020-70-4x-NH | 2 Mbit (256k x 8) 2.7-3.6V Multi-Purpose Flash, 70 ns, PLCC-32 | [Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/20005023B.pdf) |
+| SST39VF020-70-4x-WH | 2 Mbit (256k x 8) 2.7-3.6V Multi-Purpose Flash, 70 ns, TSOP-I 32-pin | [Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/20005023B.pdf) |
+| SST39VF040-70-4x-NH | 4 Mbit (512k x 8) 2.7-3.6V Multi-Purpose Flash, 70 ns, PLCC-32 | [Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/20005023B.pdf) |
+| SST39VF040-70-4x-WH | 4 Mbit (512k x 8) 2.7-3.6V Multi-Purpose Flash, 70 ns, TSOP-I 32-pin | [Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/20005023B.pdf) |
+| SST39VF1681-70-4x-B3K | 16 Mbit (2M x 8) 2.7-3.6V Multi-Purpose Flash Plus, Bottom Boot Block, 70 ns, TFBGA-48 | [Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/25040A.pdf) |
+| SST39VF1681-70-4x-EK | 16 Mbit (2M x 8) 2.7-3.6V Multi-Purpose Flash Plus, Bottom Boot Block, 70 ns, TSOP-I 48-pin | [Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/25040A.pdf) |
+| SST39VF1682-70-4x-B3K | 16 Mbit (2M x 8) 2.7-3.6V Multi-Purpose Flash Plus, Top Boot Block, 70 ns, TFBGA-48 | [Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/20005022C.pdf) |
+| SST39VF1682-70-4x-EK | 16 Mbit (2M x 8) 2.7-3.6V Multi-Purpose Flash Plus, Top Boot Block, 70 ns, TSOP-I 48-pin | [Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/20005022C.pdf) |
 | STM690RM | 3 V Supervisor with Battery Switchover, 2.625V Threshold, Active-Low Reset, Watchdog Input, Power-Fail Comparator, SOIC-8 | [Datasheet](https://www.st.com/resource/en/datasheet/stm802t-slsh-s-slsh-r.pdf) |
 | STM690SDS | 3 V Supervisor with Battery Switchover, 2.625V Threshold, Active-Low Reset, Watchdog Input, Power-Fail Comparator, TSSOP-8 | [Datasheet](https://www.st.com/resource/en/datasheet/stm802t-slsh-s-slsh-r.pdf) |
 | STM690SM | 3 V Supervisor with Battery Switchover, 2.925V Threshold, Active-Low Reset, Watchdog Input, Power-Fail Comparator, SOIC-8 | [Datasheet](https://www.st.com/resource/en/datasheet/stm802t-slsh-s-slsh-r.pdf) |
