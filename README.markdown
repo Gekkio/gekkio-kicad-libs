@@ -447,6 +447,28 @@ Licensed under Creative Commons Attribution 4.0 International.
 | Sharp_SOIC-24W_8.6x15.4mm_P1.27mm | :heavy_check_mark: | :heavy_check_mark: |
 | Sharp_SOIC-28W_8.6x18mm_P1.27mm | :heavy_check_mark: | :heavy_check_mark: |
 | Sharp_SSOP-18_6x7.4mm_P0.8mm | :heavy_check_mark: | :heavy_check_mark: |
+| TFBGA-40_8x15mm_Layout6x10_P0.8mm_Ball0.3mm_Pad0.25mm_NSMD |  |  |
+| TFBGA-48_6x12mm_Layout6x8_P0.8mm_Ball0.3mm_Pad0.25mm_NSMD |  |  |
+| TFBGA-48_6x8mm_Layout6x8_P0.8mm_Ball0.45mm_Pad0.4mm_NSMD |  |  |
+| TFBGA-48_6x9mm_Layout6x8_P0.8mm_Ball0.3mm_Pad0.25mm_NSMD |  |  |
+| TFBGA-48_6x9mm_Layout6x8_P0.8mm_Ball0.45mm_Pad0.4mm_NSMD |  |  |
+| TFBGA-48_7x12mm_Layout6x8_P0.8mm_Ball0.45mm_Pad0.4mm_NSMD |  |  |
+| TFBGA-48_8x9mm_Layout6x8_P0.8mm_Ball0.3mm_Pad0.25mm_NSMD |  |  |
+| TFBGA-48_8x9mm_Layout6x8_P0.8mm_Ball0.45mm_Pad0.4mm_NSMD |  |  |
+| TFBGA-48_8x9mm_Layout8x8_P0.8mm_Ball0.3mm_Pad0.25mm_NSMD |  |  |
+| TFBGA-60_10x10mm_Layout9x11_P0.8mm_Ball0.45mm_Pad0.4mm_NSMD |  |  |
+| TFBGA-60_10x16mm_Layout8x8_P0.8mm_Ball0.3mm_Pad0.25mm_NSMD |  |  |
+| TFBGA-60_8x10mm_Layout9x11_P0.8mm_Ball0.45mm_Pad0.4mm_NSMD |  |  |
+| TFBGA-60_8x11.5mm_Layout9x11_P0.8mm_Ball0.45mm_Pad0.4mm_NSMD |  |  |
+| TFBGA-60_8x12mm_Layout9x11_P0.8mm_Ball0.45mm_Pad0.4mm_NSMD |  |  |
+| TFBGA-60_9x11mm_Layout9x13_P0.8mm_Ball0.45mm_Pad0.4mm_NSMD |  |  |
+| TFBGA-63_10.5x13mm_Layout10x12_P0.8mm_Ball0.45mm_Pad0.4mm_NSMD |  |  |
+| TFBGA-63_11x12mm_Layout8x12_P0.8mm_Ball0.3mm_Pad0.25mm_NSMD |  |  |
+| TFBGA-63_8x14mm_Layout8x12_P0.8mm_Ball0.3mm_Pad0.25mm_NSMD |  |  |
+| TFBGA-84_10x12.5mm_Layout9x15_P0.8mm_Ball0.45mm_Pad0.4mm_NSMD |  |  |
+| TFBGA-84_12x9mm_Layout10x9_P0.8mm_Ball0.3mm_Pad0.25mm_NSMD |  |  |
+| TFBGA-84_8x12.5mm_Layout9x15_P0.8mm_Ball0.45mm_Pad0.4mm_NSMD |  |  |
+| TFBGA-90_8x13mm_Layout9x15_P0.8mm_Ball0.45mm_Pad0.4mm_NSMD |  |  |
 | TSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP2.74x3.86mm |  |  |
 | Transformer_GameBoy_DMG |  |  |
 | USB_Mini-B_Hirose_UX60SC-MB-5ST80_Horizontal |  |  |
