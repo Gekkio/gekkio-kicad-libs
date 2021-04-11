@@ -342,9 +342,9 @@ Licensed under Creative Commons Attribution 4.0 International.
 | SST39SF020A-70-4x-NH | 2 Mbit (256k x 8) 4.5-5.5V Multi-Purpose Flash, 70 ns, PLCC-32 | [Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/20005022C.pdf) |
 | SST39SF020A-70-4x-PH | 2 Mbit (256k x 8) 4.5-5.5V Multi-Purpose Flash, 70 ns, PDIP-32 | [Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/20005022C.pdf) |
 | SST39SF020A-70-4x-WH | 2 Mbit (256k x 8) 4.5-5.5V Multi-Purpose Flash, 70 ns, TSOP-I 32-pin | [Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/20005022C.pdf) |
+| SST39SF040-70-4x-NH | 4 Mbit (512k x 8) 4.5-5.5V Multi-Purpose Flash, 70 ns, PLCC-32 | [Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/20005022C.pdf) |
 | SST39SF040-70-4x-PH | 4 Mbit (512k x 8) 4.5-5.5V Multi-Purpose Flash, 70 ns, PDIP-32 | [Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/20005022C.pdf) |
 | SST39SF040-70-4x-WH | 4 Mbit (512k x 8) 4.5-5.5V Multi-Purpose Flash, 70 ns, TSOP-I 32-pin | [Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/20005022C.pdf) |
-| SST39SF040A-70-4x-NH | 4 Mbit (512k x 8) 4.5-5.5V Multi-Purpose Flash, 70 ns, PLCC-32 | [Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/20005022C.pdf) |
 | SST39VF010-70-4x-NH | 1 Mbit (128k x 8) 2.7-3.6V Multi-Purpose Flash, 70 ns, PLCC-32 | [Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/20005023B.pdf) |
 | SST39VF010-70-4x-WH | 1 Mbit (128k x 8) 2.7-3.6V Multi-Purpose Flash, 70 ns, TSOP-I 32-pin | [Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/20005023B.pdf) |
 | SST39VF020-70-4x-NH | 2 Mbit (256k x 8) 2.7-3.6V Multi-Purpose Flash, 70 ns, PLCC-32 | [Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/20005023B.pdf) |
