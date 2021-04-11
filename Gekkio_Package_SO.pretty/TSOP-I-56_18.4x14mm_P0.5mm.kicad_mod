@@ -1,4 +1,4 @@
-(module TSOP-I-56_18.4x14mm_P0.5mm (layer F.Cu) (tedit 605C9D18)
+(module TSOP-I-56_18.4x14mm_P0.5mm (layer F.Cu) (tedit 6072E3EC)
   (descr "TSOP-I, 56 Pin (https://www.jedec.org/standards-documents/docs/mo-142-d), generated with kicad-footprint-generator ipc_gullwing_generator.py")
   (tags "TSOP-I SO")
   (attr smd)
