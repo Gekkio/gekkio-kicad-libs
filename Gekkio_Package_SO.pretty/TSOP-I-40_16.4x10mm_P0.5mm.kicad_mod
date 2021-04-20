@@ -1,5 +1,5 @@
-(module TSOP-I-40_16.4x10mm_P0.5mm (layer F.Cu) (tedit 6072E3EC)
-  (descr "TSOP-I, 40 Pin (https://www.jedec.org/standards-documents/docs/mo-142-d), generated with kicad-footprint-generator ipc_gullwing_generator.py")
+(module TSOP-I-40_16.4x10mm_P0.5mm (layer F.Cu) (tedit 607F3140)
+  (descr "TSOP-I, 40 Pin (https://www.jedec.org/standards-documents/docs/mo-142-d variation CC), generated with kicad-footprint-generator ipc_gullwing_generator.py")
   (tags "TSOP-I SO")
   (attr smd)
   (fp_text reference REF** (at 0 -5.95) (layer F.SilkS)
