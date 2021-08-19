@@ -21,6 +21,7 @@
   (lib (name Gekkio_FPGA_Lattice)(type Legacy)(uri "$(KIPRJMOD)/Gekkio_FPGA_Lattice.lib")(options "")(descr ""))
   (lib (name Gekkio_Interface)(type Legacy)(uri "$(KIPRJMOD)/Gekkio_Interface.lib")(options "")(descr ""))
   (lib (name Gekkio_Interface_CAN_LIN)(type Legacy)(uri "$(KIPRJMOD)/Gekkio_Interface_CAN_LIN.lib")(options "")(descr ""))
+  (lib (name Gekkio_Interface_USB)(type Legacy)(uri "$(KIPRJMOD)/Gekkio_Interface_USB.lib")(options "")(descr ""))
   (lib (name Gekkio_Logic_LevelTranslator)(type Legacy)(uri "$(KIPRJMOD)/Gekkio_Logic_LevelTranslator.lib")(options "")(descr ""))
   (lib (name Gekkio_MCU_Microchip_PIC18)(type Legacy)(uri "$(KIPRJMOD)/Gekkio_MCU_Microchip_PIC18.lib")(options "")(descr ""))
   (lib (name Gekkio_Memory_EEPROM)(type Legacy)(uri "$(KIPRJMOD)/Gekkio_Memory_EEPROM.lib")(options "")(descr ""))
