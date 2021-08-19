@@ -520,6 +520,7 @@ Licensed under Creative Commons Attribution 4.0 International.
 | Micron_VFBGA-54_8x8mm_Layout9x9_P0.8mm |  |  |
 | Molex_19708-400X_Vertical | :heavy_check_mark: |  |
 | Molex_19708-401X_Vertical <br> ![Molex_19708-401X_Vertical](photos/Molex_19708-401X_Vertical.jpg) | :heavy_check_mark: |  |
+| Molex_CLIK-Mate_213227-32xx_2x16-1MP_P1.50mm_Vertical |  |  |
 | MountingHole_2.3mm |  |  |
 | MountingHole_7.2mm |  |  |
 | OnSemi_DFN-6-1EP_3x3mm_P0.95mm_EP1.2x2.0mm |  |  |
