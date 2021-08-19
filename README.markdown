@@ -247,6 +247,7 @@ Licensed under Creative Commons Attribution 4.0 International.
 | LCMXO2-640xx-xTG100 | MachXO2 FPGA, 640 LUT, TQFP-100 | [Datasheet](https://www.latticesemi.com/view_document?document_id=38834) |
 | LCMXO2-7000xx-xTG144 | MachXO2 FPGA, 7000 LUT, TQFP-144 | [Datasheet](https://www.latticesemi.com/view_document?document_id=38834) |
 | LM4818 | 350mW Audio Power Amplifier with Shutdown Mode, SOIC-8 | [Datasheet](http://www.ti.com/lit/ds/symlink/lm4818.pdf) |
+| LM66100 | 5.5-V, 1.5-A 79-mΩ, Low IQ Ideal Diode With Input Polarity Protection, SOT-363 | [Datasheet](https://www.ti.com/lit/ds/symlink/lm66100.pdf) |
 | LN1132PxxxM | 300mA Low Dropout CMOS Voltage Regulator, SOT-23-3 | [Datasheet](http://www.natlinear.com/uploadfiles/2014/LN/LN1132_E.pdf) |
 | LT1965xDD | 1.1A, Adjustable, Low Noise, Low Dropout Linear Regulator, DFN-8 | [Datasheet](https://www.analog.com/media/en/technical-documentation/data-sheets/1965fb.pdf) |
 | LT1965xDD-1.5 | 1.1A, 1.5V, Low Noise, Low Dropout Linear Regulator, DFN-8 | [Datasheet](https://www.analog.com/media/en/technical-documentation/data-sheets/1965fb.pdf) |

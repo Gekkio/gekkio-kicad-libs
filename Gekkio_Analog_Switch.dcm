@@ -6,6 +6,12 @@ K quad fet switch
 F https://assets.nexperia.com/documents/data-sheet/CBT3125.pdf
 $ENDCMP
 #
+$CMP LM66100
+D 5.5-V, 1.5-A 79-mΩ, Low IQ Ideal Diode With Input Polarity Protection, SOT-363
+K ideal diode
+F https://www.ti.com/lit/ds/symlink/lm66100.pdf
+$ENDCMP
+#
 $CMP RS2057XC6
 D 4.5Ohm Low Voltage SPDT Analog Switch, SC-70-6
 K CMOS Analog Switch
