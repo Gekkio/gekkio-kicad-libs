@@ -1,5 +1,17 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP AP3019AK
+D White LED step-up converter
+K led driver boost
+F https://www.diodes.com/assets/Datasheets/AP3019A.pdf
+$ENDCMP
+#
+$CMP AP3019AKT
+D White LED step-up converter
+K led driver boost
+F https://www.diodes.com/assets/Datasheets/AP3019A.pdf
+$ENDCMP
+#
 $CMP BCR401W
 D LED Driver, SC-82
 K led driver

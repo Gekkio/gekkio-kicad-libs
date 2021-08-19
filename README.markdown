@@ -62,6 +62,8 @@ Licensed under Creative Commons Attribution 4.0 International.
 | AP2139AK-2.8 | 2.8V 250mA Ultra Low Quiescent Current CMOS LDO, Active High Enable with Quick Discharge, SOT-23-5 | [Datasheet](https://www.diodes.com/assets/Datasheets/AP2138-9.pdf) |
 | AP2139AK-3.0 | 3.0V 250mA Ultra Low Quiescent Current CMOS LDO, Active High Enable with Quick Discharge, SOT-23-5 | [Datasheet](https://www.diodes.com/assets/Datasheets/AP2138-9.pdf) |
 | AP2139AK-3.3 | 3.3V 250mA Ultra Low Quiescent Current CMOS LDO, Active High Enable with Quick Discharge, SOT-23-5 | [Datasheet](https://www.diodes.com/assets/Datasheets/AP2138-9.pdf) |
+| AP3019AK | White LED step-up converter | [Datasheet](https://www.diodes.com/assets/Datasheets/AP3019A.pdf) |
+| AP3019AKT | White LED step-up converter | [Datasheet](https://www.diodes.com/assets/Datasheets/AP3019A.pdf) |
 | AP4953GM | Dual P-Channel Enchancement Mode MOSFET, SOIC-8 | [Datasheet](https://datasheet.lcsc.com/szlcsc/Advanced-Power-Elec-AP4953GM_C6193.pdf) |
 | AS4C16M16SA | 256Mb (16M x 16) Synchronous DRAM, TSOP-II 54-pin | [Datasheet](https://www.alliancememory.com/wp-content/uploads/pdf/dram/256Mb-AS4C16M16SA-C&I_V3.0_March%202015.pdf) |
 | AT49F001-xxJx | 1Mb (128K x 8) 5-volt Only Flash Memory, PLCC-32 | [Datasheet](https://datasheet.octopart.com/AT49F001-55PC-Atmel-datasheet-10108.pdf) |
