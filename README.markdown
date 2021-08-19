@@ -21,11 +21,24 @@ Licensed under Creative Commons Attribution 4.0 International.
 | 74LVC125APW | Quad buffer/line driver, 3-state, TSSOP-14 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/74LVC125A.pdf) |
 | 74LVC126APW | Quad buffer/line driver, 3-state, TSSOP-14 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/74LVC126A.pdf) |
 | 74LVC16244ADGG | 16-bit buffer/line driver, 5V input/output tolerant, 3-state, TSSOP-48 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/74LVC_LVCH16244A.pdf) |
+| 74LVC16373ADGG | 16-bit D-type transparent latch with 5V tolerant inputs/outputs, 3-state, TSSOP-48 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/74LVC_LVCH16373A.pdf) |
+| 74LVC16373ADGV | 16-bit D-type transparent latch with 5V tolerant inputs/outputs, 3-state, TSSOP-48 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/74LVC_LVCH16373A.pdf) |
+| 74LVC16373ADL | 16-bit D-type transparent latch with 5V tolerant inputs/outputs, 3-state, SSOP-48 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/74LVC_LVCH16373A.pdf) |
 | 74LVC244APW | Octal buffer/line driver, 3-state, TSSOP-20 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/74LVC_LVCH244A.pdf) |
 | 74LVC245APW | Octal bus transceiver, 3-state, TSSOP-20 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/74LVC_LVCH245A.pdf) |
+| 74LVC32AD | Quad 2-input OR gate, SO-14 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/74LVC32A.pdf) |
+| 74LVC32ADB | Quad 2-input OR gate, SSOP-14 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/74LVC32A.pdf) |
+| 74LVC32APW | Quad 2-input OR gate, TSSOP-14 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/74LVC32A.pdf) |
 | 74LVC540APW | Octal inverting buffer/line driver, 3-state, TSSOP-20 | [Datasheet](https://www.ti.com/lit/ds/symlink/sn74lvc540a.pdf) |
+| 74LVC573ABQ | Octal D-type transparent latch with 5 V tolerant inputs/outputs, 3-state, DHVQFN-20 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/74LVC573A.pdf) |
+| 74LVC573AD | Octal D-type transparent latch with 5 V tolerant inputs/outputs, 3-state, SO-20 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/74LVC573A.pdf) |
+| 74LVC573ADB | Octal D-type transparent latch with 5 V tolerant inputs/outputs, 3-state, SSOP-20 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/74LVC573A.pdf) |
+| 74LVC573APW | Octal D-type transparent latch with 5 V tolerant inputs/outputs, 3-state, TSSOP-20 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/74LVC573A.pdf) |
 | 74LVC8T245PW | 8-bit dual supply translating transceiver, 3-state, TSSOP-24 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/74LVC_LVCH8T245.pdf) |
 | 74LVCH16244ADGG | 16-bit buffer/line driver, 5V input/output tolerant, 3-state, bus hold, TSSOP-48 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/74LVC_LVCH16244A.pdf) |
+| 74LVCH16373ADGG | 16-bit D-type transparent latch with 5V tolerant inputs/outputs, 3-state, bus hold, TSSOP-48 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/74LVC_LVCH16373A.pdf) |
+| 74LVCH16373ADGV | 16-bit D-type transparent latch with 5V tolerant inputs/outputs, 3-state, bus hold, TSSOP-48 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/74LVC_LVCH16373A.pdf) |
+| 74LVCH16373ADL | 16-bit D-type transparent latch with 5V tolerant inputs/outputs, 3-state, bus hold, SSOP-48 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/74LVC_LVCH16373A.pdf) |
 | 74LVCH244APW | Octal buffer/line driver, 3-state, bus hold, TSSOP-20 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/74LVC_LVCH244A.pdf) |
 | 74LVCH245APW | Octal bus transceiver, 3-state, bus hold, TSSOP-20 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/74LVC_LVCH245A.pdf) |
 | 74LVCH8T245PW | 8-bit dual supply translating transceiver, 3-state, bus hold, TSSOP-24 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/74LVC_LVCH8T245.pdf) |
