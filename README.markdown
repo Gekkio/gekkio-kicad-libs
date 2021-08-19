@@ -165,6 +165,7 @@ Licensed under Creative Commons Attribution 4.0 International.
 | GameBoy_SW_SPDT | Switch, three position, single pole triple throw, 3 position switch, SP3T | [Datasheet](~) |
 | GameBoy_Transformer_AGS | Power Transformer, Game Boy Advance SP (AGS) |  |
 | GameBoy_Transformer_DMG | Power Transformer, original Game Boy (DMG) |  |
+| ICE40LP1K-QN84 | iCE40 LP FPGA, 1280 LUTs, 1.2V, QFN-84 | [Datasheet](http://www.latticesemi.com/Products/FPGAandCPLD/iCE40) |
 | IR3E02 | LCD bias regulator, original Game Boy (DMG) |  |
 | IR3R53N | Audio amplifier, Game Boy Pocket (MGB), SSOP-18 |  |
 | IS61C1024AL-12T | 1Mb (128k x 8), 5V, 12ns, High-Speed CMOS Static RAM, TSOP-I 32-pin | [Datasheet](http://www.issi.com/WW/pdf/62-65C1024AL.pdf) |
@@ -462,6 +463,7 @@ Licensed under Creative Commons Attribution 4.0 International.
 | L_Hotland_MCW-0650 | :heavy_check_mark: | :heavy_check_mark: |
 | L_Sunltech_SLO0520H |  |  |
 | L_Sunltech_SLW40xx |  |  |
+| Lattice_QFN-84-1EP_7x7mm_P0.5mm_EP4.4x4.4mm |  |  |
 | Micron_TFBGA-60_8x16mm_Layout8x15_P0.8mm |  |  |
 | Micron_VFBGA-54_8x14mm_Layout9x9_P0.8mm |  |  |
 | Micron_VFBGA-54_8x8mm_Layout9x9_P0.8mm |  |  |
