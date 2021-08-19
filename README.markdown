@@ -276,6 +276,42 @@ Licensed under Creative Commons Attribution 4.0 International.
 | MBC1 | Nintendo MBC1, SOIC-24 |  |
 | MBC2 | Nintendo MBC2, SOIC-28 |  |
 | MBC5 | Nintendo MBC5, TQFP-32 |  |
+| MCP1811Ax-010LT | 1.0V, 150mA, Ultra-Low Quiescent Current LDO Regulator with Output Discharge, SOT-353 | [Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/MCP1811A-11B-12A-12B-Family-Data-Sheet-DS20006088C.pdf) |
+| MCP1811Ax-012LT | 1.2V, 150mA, Ultra-Low Quiescent Current LDO Regulator with Output Discharge, SOT-353 | [Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/MCP1811A-11B-12A-12B-Family-Data-Sheet-DS20006088C.pdf) |
+| MCP1811Ax-018LT | 1.8V, 150mA, Ultra-Low Quiescent Current LDO Regulator with Output Discharge, SOT-353 | [Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/MCP1811A-11B-12A-12B-Family-Data-Sheet-DS20006088C.pdf) |
+| MCP1811Ax-020LT | 2.0V, 150mA, Ultra-Low Quiescent Current LDO Regulator with Output Discharge, SOT-353 | [Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/MCP1811A-11B-12A-12B-Family-Data-Sheet-DS20006088C.pdf) |
+| MCP1811Ax-025LT | 2.5V, 150mA, Ultra-Low Quiescent Current LDO Regulator with Output Discharge, SOT-353 | [Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/MCP1811A-11B-12A-12B-Family-Data-Sheet-DS20006088C.pdf) |
+| MCP1811Ax-028LT | 2.8V, 150mA, Ultra-Low Quiescent Current LDO Regulator with Output Discharge, SOT-353 | [Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/MCP1811A-11B-12A-12B-Family-Data-Sheet-DS20006088C.pdf) |
+| MCP1811Ax-030LT | 3.0V, 150mA, Ultra-Low Quiescent Current LDO Regulator with Output Discharge, SOT-353 | [Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/MCP1811A-11B-12A-12B-Family-Data-Sheet-DS20006088C.pdf) |
+| MCP1811Ax-033LT | 3.3V, 150mA, Ultra-Low Quiescent Current LDO Regulator with Output Discharge, SOT-353 | [Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/MCP1811A-11B-12A-12B-Family-Data-Sheet-DS20006088C.pdf) |
+| MCP1811Ax-040LT | 4.0V, 150mA, Ultra-Low Quiescent Current LDO Regulator with Output Discharge, SOT-353 | [Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/MCP1811A-11B-12A-12B-Family-Data-Sheet-DS20006088C.pdf) |
+| MCP1811Bx-010LT | 1.0V, 150mA, Ultra-Low Quiescent Current LDO Regulator, SOT-353 | [Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/MCP1811A-11B-12A-12B-Family-Data-Sheet-DS20006088C.pdf) |
+| MCP1811Bx-012LT | 1.2V, 150mA, Ultra-Low Quiescent Current LDO Regulator, SOT-353 | [Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/MCP1811A-11B-12A-12B-Family-Data-Sheet-DS20006088C.pdf) |
+| MCP1811Bx-018LT | 1.8V, 150mA, Ultra-Low Quiescent Current LDO Regulator, SOT-353 | [Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/MCP1811A-11B-12A-12B-Family-Data-Sheet-DS20006088C.pdf) |
+| MCP1811Bx-020LT | 2.0V, 150mA, Ultra-Low Quiescent Current LDO Regulator, SOT-353 | [Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/MCP1811A-11B-12A-12B-Family-Data-Sheet-DS20006088C.pdf) |
+| MCP1811Bx-025LT | 2.5V, 150mA, Ultra-Low Quiescent Current LDO Regulator, SOT-353 | [Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/MCP1811A-11B-12A-12B-Family-Data-Sheet-DS20006088C.pdf) |
+| MCP1811Bx-028LT | 2.8V, 150mA, Ultra-Low Quiescent Current LDO Regulator, SOT-353 | [Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/MCP1811A-11B-12A-12B-Family-Data-Sheet-DS20006088C.pdf) |
+| MCP1811Bx-030LT | 3.0V, 150mA, Ultra-Low Quiescent Current LDO Regulator, SOT-353 | [Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/MCP1811A-11B-12A-12B-Family-Data-Sheet-DS20006088C.pdf) |
+| MCP1811Bx-033LT | 3.3V, 150mA, Ultra-Low Quiescent Current LDO Regulator, SOT-353 | [Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/MCP1811A-11B-12A-12B-Family-Data-Sheet-DS20006088C.pdf) |
+| MCP1811Bx-040LT | 4.0V, 150mA, Ultra-Low Quiescent Current LDO Regulator, SOT-353 | [Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/MCP1811A-11B-12A-12B-Family-Data-Sheet-DS20006088C.pdf) |
+| MCP1812Ax-010LT | 1.0V, 300mA, Ultra-Low Quiescent Current LDO Regulator with Output Discharge, SOT-353 | [Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/MCP1811A-11B-12A-12B-Family-Data-Sheet-DS20006088C.pdf) |
+| MCP1812Ax-012LT | 1.2V, 300mA, Ultra-Low Quiescent Current LDO Regulator with Output Discharge, SOT-353 | [Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/MCP1811A-11B-12A-12B-Family-Data-Sheet-DS20006088C.pdf) |
+| MCP1812Ax-018LT | 1.8V, 300mA, Ultra-Low Quiescent Current LDO Regulator with Output Discharge, SOT-353 | [Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/MCP1811A-11B-12A-12B-Family-Data-Sheet-DS20006088C.pdf) |
+| MCP1812Ax-020LT | 2.0V, 300mA, Ultra-Low Quiescent Current LDO Regulator with Output Discharge, SOT-353 | [Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/MCP1811A-11B-12A-12B-Family-Data-Sheet-DS20006088C.pdf) |
+| MCP1812Ax-025LT | 2.5V, 300mA, Ultra-Low Quiescent Current LDO Regulator with Output Discharge, SOT-353 | [Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/MCP1811A-11B-12A-12B-Family-Data-Sheet-DS20006088C.pdf) |
+| MCP1812Ax-028LT | 2.8V, 300mA, Ultra-Low Quiescent Current LDO Regulator with Output Discharge, SOT-353 | [Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/MCP1811A-11B-12A-12B-Family-Data-Sheet-DS20006088C.pdf) |
+| MCP1812Ax-030LT | 3.0V, 300mA, Ultra-Low Quiescent Current LDO Regulator with Output Discharge, SOT-353 | [Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/MCP1811A-11B-12A-12B-Family-Data-Sheet-DS20006088C.pdf) |
+| MCP1812Ax-033LT | 3.3V, 300mA, Ultra-Low Quiescent Current LDO Regulator with Output Discharge, SOT-353 | [Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/MCP1811A-11B-12A-12B-Family-Data-Sheet-DS20006088C.pdf) |
+| MCP1812Ax-040LT | 4.0V, 300mA, Ultra-Low Quiescent Current LDO Regulator with Output Discharge, SOT-353 | [Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/MCP1811A-11B-12A-12B-Family-Data-Sheet-DS20006088C.pdf) |
+| MCP1812Bx-010LT | 1.0V, 300mA, Ultra-Low Quiescent Current LDO Regulator, SOT-353 | [Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/MCP1811A-11B-12A-12B-Family-Data-Sheet-DS20006088C.pdf) |
+| MCP1812Bx-012LT | 1.2V, 300mA, Ultra-Low Quiescent Current LDO Regulator, SOT-353 | [Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/MCP1811A-11B-12A-12B-Family-Data-Sheet-DS20006088C.pdf) |
+| MCP1812Bx-018LT | 1.8V, 300mA, Ultra-Low Quiescent Current LDO Regulator, SOT-353 | [Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/MCP1811A-11B-12A-12B-Family-Data-Sheet-DS20006088C.pdf) |
+| MCP1812Bx-020LT | 2.0V, 300mA, Ultra-Low Quiescent Current LDO Regulator, SOT-353 | [Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/MCP1811A-11B-12A-12B-Family-Data-Sheet-DS20006088C.pdf) |
+| MCP1812Bx-025LT | 2.5V, 300mA, Ultra-Low Quiescent Current LDO Regulator, SOT-353 | [Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/MCP1811A-11B-12A-12B-Family-Data-Sheet-DS20006088C.pdf) |
+| MCP1812Bx-028LT | 2.8V, 300mA, Ultra-Low Quiescent Current LDO Regulator, SOT-353 | [Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/MCP1811A-11B-12A-12B-Family-Data-Sheet-DS20006088C.pdf) |
+| MCP1812Bx-030LT | 3.0V, 300mA, Ultra-Low Quiescent Current LDO Regulator, SOT-353 | [Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/MCP1811A-11B-12A-12B-Family-Data-Sheet-DS20006088C.pdf) |
+| MCP1812Bx-033LT | 3.3V, 300mA, Ultra-Low Quiescent Current LDO Regulator, SOT-353 | [Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/MCP1811A-11B-12A-12B-Family-Data-Sheet-DS20006088C.pdf) |
+| MCP1812Bx-040LT | 4.0V, 300mA, Ultra-Low Quiescent Current LDO Regulator, SOT-353 | [Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/MCP1811A-11B-12A-12B-Family-Data-Sheet-DS20006088C.pdf) |
 | MCP6411T-xLT | Single 1-MHz, Rail-to-Rail Input/Output, Operational Amplifier with EMI filtering, SC-70-5 | [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/20005791B.pdf) |
 | MCP6411T-xOT | Single 1-MHz, Rail-to-Rail Input/Output, Operational Amplifier with EMI filtering, SOT-23-5 | [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/20005791B.pdf) |
 | MIC2005A-1YM6 | Fixed current limiting power distribution switch, SOT-23-6 | [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/mic20xx.pdf) |

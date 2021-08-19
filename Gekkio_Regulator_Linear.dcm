@@ -293,6 +293,222 @@ K low noise voltage regulator
 F https://www.analog.com/media/en/technical-documentation/data-sheets/1965fb.pdf
 $ENDCMP
 #
+$CMP MCP1811Ax-010LT
+D 1.0V, 150mA, Ultra-Low Quiescent Current LDO Regulator with Output Discharge, SOT-353
+K ldo regulator
+F https://ww1.microchip.com/downloads/en/DeviceDoc/MCP1811A-11B-12A-12B-Family-Data-Sheet-DS20006088C.pdf
+$ENDCMP
+#
+$CMP MCP1811Ax-012LT
+D 1.2V, 150mA, Ultra-Low Quiescent Current LDO Regulator with Output Discharge, SOT-353
+K ldo regulator
+F https://ww1.microchip.com/downloads/en/DeviceDoc/MCP1811A-11B-12A-12B-Family-Data-Sheet-DS20006088C.pdf
+$ENDCMP
+#
+$CMP MCP1811Ax-018LT
+D 1.8V, 150mA, Ultra-Low Quiescent Current LDO Regulator with Output Discharge, SOT-353
+K ldo regulator
+F https://ww1.microchip.com/downloads/en/DeviceDoc/MCP1811A-11B-12A-12B-Family-Data-Sheet-DS20006088C.pdf
+$ENDCMP
+#
+$CMP MCP1811Ax-020LT
+D 2.0V, 150mA, Ultra-Low Quiescent Current LDO Regulator with Output Discharge, SOT-353
+K ldo regulator
+F https://ww1.microchip.com/downloads/en/DeviceDoc/MCP1811A-11B-12A-12B-Family-Data-Sheet-DS20006088C.pdf
+$ENDCMP
+#
+$CMP MCP1811Ax-025LT
+D 2.5V, 150mA, Ultra-Low Quiescent Current LDO Regulator with Output Discharge, SOT-353
+K ldo regulator
+F https://ww1.microchip.com/downloads/en/DeviceDoc/MCP1811A-11B-12A-12B-Family-Data-Sheet-DS20006088C.pdf
+$ENDCMP
+#
+$CMP MCP1811Ax-028LT
+D 2.8V, 150mA, Ultra-Low Quiescent Current LDO Regulator with Output Discharge, SOT-353
+K ldo regulator
+F https://ww1.microchip.com/downloads/en/DeviceDoc/MCP1811A-11B-12A-12B-Family-Data-Sheet-DS20006088C.pdf
+$ENDCMP
+#
+$CMP MCP1811Ax-030LT
+D 3.0V, 150mA, Ultra-Low Quiescent Current LDO Regulator with Output Discharge, SOT-353
+K ldo regulator
+F https://ww1.microchip.com/downloads/en/DeviceDoc/MCP1811A-11B-12A-12B-Family-Data-Sheet-DS20006088C.pdf
+$ENDCMP
+#
+$CMP MCP1811Ax-033LT
+D 3.3V, 150mA, Ultra-Low Quiescent Current LDO Regulator with Output Discharge, SOT-353
+K ldo regulator
+F https://ww1.microchip.com/downloads/en/DeviceDoc/MCP1811A-11B-12A-12B-Family-Data-Sheet-DS20006088C.pdf
+$ENDCMP
+#
+$CMP MCP1811Ax-040LT
+D 4.0V, 150mA, Ultra-Low Quiescent Current LDO Regulator with Output Discharge, SOT-353
+K ldo regulator
+F https://ww1.microchip.com/downloads/en/DeviceDoc/MCP1811A-11B-12A-12B-Family-Data-Sheet-DS20006088C.pdf
+$ENDCMP
+#
+$CMP MCP1811Bx-010LT
+D 1.0V, 150mA, Ultra-Low Quiescent Current LDO Regulator, SOT-353
+K ldo regulator
+F https://ww1.microchip.com/downloads/en/DeviceDoc/MCP1811A-11B-12A-12B-Family-Data-Sheet-DS20006088C.pdf
+$ENDCMP
+#
+$CMP MCP1811Bx-012LT
+D 1.2V, 150mA, Ultra-Low Quiescent Current LDO Regulator, SOT-353
+K ldo regulator
+F https://ww1.microchip.com/downloads/en/DeviceDoc/MCP1811A-11B-12A-12B-Family-Data-Sheet-DS20006088C.pdf
+$ENDCMP
+#
+$CMP MCP1811Bx-018LT
+D 1.8V, 150mA, Ultra-Low Quiescent Current LDO Regulator, SOT-353
+K ldo regulator
+F https://ww1.microchip.com/downloads/en/DeviceDoc/MCP1811A-11B-12A-12B-Family-Data-Sheet-DS20006088C.pdf
+$ENDCMP
+#
+$CMP MCP1811Bx-020LT
+D 2.0V, 150mA, Ultra-Low Quiescent Current LDO Regulator, SOT-353
+K ldo regulator
+F https://ww1.microchip.com/downloads/en/DeviceDoc/MCP1811A-11B-12A-12B-Family-Data-Sheet-DS20006088C.pdf
+$ENDCMP
+#
+$CMP MCP1811Bx-025LT
+D 2.5V, 150mA, Ultra-Low Quiescent Current LDO Regulator, SOT-353
+K ldo regulator
+F https://ww1.microchip.com/downloads/en/DeviceDoc/MCP1811A-11B-12A-12B-Family-Data-Sheet-DS20006088C.pdf
+$ENDCMP
+#
+$CMP MCP1811Bx-028LT
+D 2.8V, 150mA, Ultra-Low Quiescent Current LDO Regulator, SOT-353
+K ldo regulator
+F https://ww1.microchip.com/downloads/en/DeviceDoc/MCP1811A-11B-12A-12B-Family-Data-Sheet-DS20006088C.pdf
+$ENDCMP
+#
+$CMP MCP1811Bx-030LT
+D 3.0V, 150mA, Ultra-Low Quiescent Current LDO Regulator, SOT-353
+K ldo regulator
+F https://ww1.microchip.com/downloads/en/DeviceDoc/MCP1811A-11B-12A-12B-Family-Data-Sheet-DS20006088C.pdf
+$ENDCMP
+#
+$CMP MCP1811Bx-033LT
+D 3.3V, 150mA, Ultra-Low Quiescent Current LDO Regulator, SOT-353
+K ldo regulator
+F https://ww1.microchip.com/downloads/en/DeviceDoc/MCP1811A-11B-12A-12B-Family-Data-Sheet-DS20006088C.pdf
+$ENDCMP
+#
+$CMP MCP1811Bx-040LT
+D 4.0V, 150mA, Ultra-Low Quiescent Current LDO Regulator, SOT-353
+K ldo regulator
+F https://ww1.microchip.com/downloads/en/DeviceDoc/MCP1811A-11B-12A-12B-Family-Data-Sheet-DS20006088C.pdf
+$ENDCMP
+#
+$CMP MCP1812Ax-010LT
+D 1.0V, 300mA, Ultra-Low Quiescent Current LDO Regulator with Output Discharge, SOT-353
+K ldo regulator
+F https://ww1.microchip.com/downloads/en/DeviceDoc/MCP1811A-11B-12A-12B-Family-Data-Sheet-DS20006088C.pdf
+$ENDCMP
+#
+$CMP MCP1812Ax-012LT
+D 1.2V, 300mA, Ultra-Low Quiescent Current LDO Regulator with Output Discharge, SOT-353
+K ldo regulator
+F https://ww1.microchip.com/downloads/en/DeviceDoc/MCP1811A-11B-12A-12B-Family-Data-Sheet-DS20006088C.pdf
+$ENDCMP
+#
+$CMP MCP1812Ax-018LT
+D 1.8V, 300mA, Ultra-Low Quiescent Current LDO Regulator with Output Discharge, SOT-353
+K ldo regulator
+F https://ww1.microchip.com/downloads/en/DeviceDoc/MCP1811A-11B-12A-12B-Family-Data-Sheet-DS20006088C.pdf
+$ENDCMP
+#
+$CMP MCP1812Ax-020LT
+D 2.0V, 300mA, Ultra-Low Quiescent Current LDO Regulator with Output Discharge, SOT-353
+K ldo regulator
+F https://ww1.microchip.com/downloads/en/DeviceDoc/MCP1811A-11B-12A-12B-Family-Data-Sheet-DS20006088C.pdf
+$ENDCMP
+#
+$CMP MCP1812Ax-025LT
+D 2.5V, 300mA, Ultra-Low Quiescent Current LDO Regulator with Output Discharge, SOT-353
+K ldo regulator
+F https://ww1.microchip.com/downloads/en/DeviceDoc/MCP1811A-11B-12A-12B-Family-Data-Sheet-DS20006088C.pdf
+$ENDCMP
+#
+$CMP MCP1812Ax-028LT
+D 2.8V, 300mA, Ultra-Low Quiescent Current LDO Regulator with Output Discharge, SOT-353
+K ldo regulator
+F https://ww1.microchip.com/downloads/en/DeviceDoc/MCP1811A-11B-12A-12B-Family-Data-Sheet-DS20006088C.pdf
+$ENDCMP
+#
+$CMP MCP1812Ax-030LT
+D 3.0V, 300mA, Ultra-Low Quiescent Current LDO Regulator with Output Discharge, SOT-353
+K ldo regulator
+F https://ww1.microchip.com/downloads/en/DeviceDoc/MCP1811A-11B-12A-12B-Family-Data-Sheet-DS20006088C.pdf
+$ENDCMP
+#
+$CMP MCP1812Ax-033LT
+D 3.3V, 300mA, Ultra-Low Quiescent Current LDO Regulator with Output Discharge, SOT-353
+K ldo regulator
+F https://ww1.microchip.com/downloads/en/DeviceDoc/MCP1811A-11B-12A-12B-Family-Data-Sheet-DS20006088C.pdf
+$ENDCMP
+#
+$CMP MCP1812Ax-040LT
+D 4.0V, 300mA, Ultra-Low Quiescent Current LDO Regulator with Output Discharge, SOT-353
+K ldo regulator
+F https://ww1.microchip.com/downloads/en/DeviceDoc/MCP1811A-11B-12A-12B-Family-Data-Sheet-DS20006088C.pdf
+$ENDCMP
+#
+$CMP MCP1812Bx-010LT
+D 1.0V, 300mA, Ultra-Low Quiescent Current LDO Regulator, SOT-353
+K ldo regulator
+F https://ww1.microchip.com/downloads/en/DeviceDoc/MCP1811A-11B-12A-12B-Family-Data-Sheet-DS20006088C.pdf
+$ENDCMP
+#
+$CMP MCP1812Bx-012LT
+D 1.2V, 300mA, Ultra-Low Quiescent Current LDO Regulator, SOT-353
+K ldo regulator
+F https://ww1.microchip.com/downloads/en/DeviceDoc/MCP1811A-11B-12A-12B-Family-Data-Sheet-DS20006088C.pdf
+$ENDCMP
+#
+$CMP MCP1812Bx-018LT
+D 1.8V, 300mA, Ultra-Low Quiescent Current LDO Regulator, SOT-353
+K ldo regulator
+F https://ww1.microchip.com/downloads/en/DeviceDoc/MCP1811A-11B-12A-12B-Family-Data-Sheet-DS20006088C.pdf
+$ENDCMP
+#
+$CMP MCP1812Bx-020LT
+D 2.0V, 300mA, Ultra-Low Quiescent Current LDO Regulator, SOT-353
+K ldo regulator
+F https://ww1.microchip.com/downloads/en/DeviceDoc/MCP1811A-11B-12A-12B-Family-Data-Sheet-DS20006088C.pdf
+$ENDCMP
+#
+$CMP MCP1812Bx-025LT
+D 2.5V, 300mA, Ultra-Low Quiescent Current LDO Regulator, SOT-353
+K ldo regulator
+F https://ww1.microchip.com/downloads/en/DeviceDoc/MCP1811A-11B-12A-12B-Family-Data-Sheet-DS20006088C.pdf
+$ENDCMP
+#
+$CMP MCP1812Bx-028LT
+D 2.8V, 300mA, Ultra-Low Quiescent Current LDO Regulator, SOT-353
+K ldo regulator
+F https://ww1.microchip.com/downloads/en/DeviceDoc/MCP1811A-11B-12A-12B-Family-Data-Sheet-DS20006088C.pdf
+$ENDCMP
+#
+$CMP MCP1812Bx-030LT
+D 3.0V, 300mA, Ultra-Low Quiescent Current LDO Regulator, SOT-353
+K ldo regulator
+F https://ww1.microchip.com/downloads/en/DeviceDoc/MCP1811A-11B-12A-12B-Family-Data-Sheet-DS20006088C.pdf
+$ENDCMP
+#
+$CMP MCP1812Bx-033LT
+D 3.3V, 300mA, Ultra-Low Quiescent Current LDO Regulator, SOT-353
+K ldo regulator
+F https://ww1.microchip.com/downloads/en/DeviceDoc/MCP1811A-11B-12A-12B-Family-Data-Sheet-DS20006088C.pdf
+$ENDCMP
+#
+$CMP MCP1812Bx-040LT
+D 4.0V, 300mA, Ultra-Low Quiescent Current LDO Regulator, SOT-353
+K ldo regulator
+F https://ww1.microchip.com/downloads/en/DeviceDoc/MCP1811A-11B-12A-12B-Family-Data-Sheet-DS20006088C.pdf
+$ENDCMP
+#
 $CMP MIC5370
 D High-Performance Dual 150mA LDO, MLF-6
 K Micrel LDO voltage regulator
