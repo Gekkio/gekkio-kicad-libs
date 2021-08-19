@@ -78,6 +78,8 @@ Licensed under Creative Commons Attribution 4.0 International.
 | AP3019AK | White LED step-up converter | [Datasheet](https://www.diodes.com/assets/Datasheets/AP3019A.pdf) |
 | AP3019AKT | White LED step-up converter | [Datasheet](https://www.diodes.com/assets/Datasheets/AP3019A.pdf) |
 | AP4953GM | Dual P-Channel Enchancement Mode MOSFET, SOIC-8 | [Datasheet](https://datasheet.lcsc.com/szlcsc/Advanced-Power-Elec-AP4953GM_C6193.pdf) |
+| AP61100 | 2.3V to 5.5V Input, 1A Low IQ Synchronous Buck Converter | [Datasheet](https://www.diodes.com/assets/Datasheets/AP61100-AP61102.pdf) |
+| AP61102 | 2.3V to 5.5V Input, 1A Low IQ Synchronous Buck Converter | [Datasheet](https://www.diodes.com/assets/Datasheets/AP61100-AP61102.pdf) |
 | AS4C16M16SA | 256Mb (16M x 16) Synchronous DRAM, TSOP-II 54-pin | [Datasheet](https://www.alliancememory.com/wp-content/uploads/pdf/dram/256Mb-AS4C16M16SA-C&I_V3.0_March%202015.pdf) |
 | AT49F001-xxJx | 1Mb (128K x 8) 5-volt Only Flash Memory, PLCC-32 | [Datasheet](https://datasheet.octopart.com/AT49F001-55PC-Atmel-datasheet-10108.pdf) |
 | AT49F001N-xxJx | 1Mb (128K x 8) 5-volt Only Flash Memory, PLCC-32 | [Datasheet](https://datasheet.octopart.com/AT49F001-55PC-Atmel-datasheet-10108.pdf) |
@@ -266,6 +268,7 @@ Licensed under Creative Commons Attribution 4.0 International.
 | LT1965xT-1.8 | 1.1A, 1.8V, Low Noise, Low Dropout Linear Regulator, TO-220 | [Datasheet](https://www.analog.com/media/en/technical-documentation/data-sheets/1965fb.pdf) |
 | LT1965xT-2.5 | 1.1A, 2.5V, Low Noise, Low Dropout Linear Regulator, TO-220 | [Datasheet](https://www.analog.com/media/en/technical-documentation/data-sheets/1965fb.pdf) |
 | LT1965xT-3.3 | 1.1A, 3.3V, Low Noise, Low Dropout Linear Regulator, TO-220 | [Datasheet](https://www.analog.com/media/en/technical-documentation/data-sheets/1965fb.pdf) |
+| LT8580xMS8E | Boost/SEPIC/Inverting DC/DC Converter with 1A, 65V Switch, Soft-Start and Synchronization, MSOP-8 | [Datasheet](https://www.analog.com/media/en/technical-documentation/data-sheets/lt8580.pdf) |
 | LTC4011CFE | High Efficiency Standalone Nickel Battery Charger | [Datasheet](https://www.analog.com/media/en/technical-documentation/data-sheets/4011fb.pdf) |
 | MAX6029EUK21 | Ultra-Low-Power Precision Series Voltage Reference, 2.048V, SOT-23-5 | [Datasheet](https://datasheets.maximintegrated.com/en/ds/MAX6029.pdf) |
 | MAX6029EUK25 | Ultra-Low-Power Precision Series Voltage Reference, 2.500V, SOT-23-5 | [Datasheet](https://datasheets.maximintegrated.com/en/ds/MAX6029.pdf) |

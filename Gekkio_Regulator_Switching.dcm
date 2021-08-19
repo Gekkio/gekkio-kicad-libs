@@ -1,5 +1,23 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP AP61100
+D 2.3V to 5.5V Input, 1A Low IQ Synchronous Buck Converter
+K regulator dc-dc buck step-down
+F https://www.diodes.com/assets/Datasheets/AP61100-AP61102.pdf
+$ENDCMP
+#
+$CMP AP61102
+D 2.3V to 5.5V Input, 1A Low IQ Synchronous Buck Converter
+K regulator dc-dc buck step-down
+F https://www.diodes.com/assets/Datasheets/AP61100-AP61102.pdf
+$ENDCMP
+#
+$CMP LT8580xMS8E
+D Boost/SEPIC/Inverting DC/DC Converter with 1A, 65V Switch, Soft-Start and Synchronization, MSOP-8
+K boost sepic inverting
+F https://www.analog.com/media/en/technical-documentation/data-sheets/lt8580.pdf
+$ENDCMP
+#
 $CMP MIC23158
 D 3 MHz PWM Dual 2A Buck Regulator with HyperLight Load and Power Good, QFN-20
 K regulator dc-dc buck step-down dual
