@@ -10,10 +10,10 @@ def prepare_table(project_dir, table_type, entry_type, paths):
     result = '({}\n'.format(table_type)
     for path in paths:
         try:
-            uri = '"$(KIPRJMOD)/{}"'.format(path.relative_to(project_dir))
+            uri = '$(KIPRJMOD)/{}'.format(path.relative_to(project_dir))
         except ValueError:
             uri = path
-        result += '  (lib (name {})(type {})(uri {})(options "")(descr ""))\n'.format(path.stem, entry_type, uri)
+        result += '  (lib (name "{}")(type "{}")(uri "{}")(options "")(descr ""))\n'.format(path.stem, entry_type, uri)
     result += ')'
     return result
 
@@ -25,8 +25,8 @@ with io.open(project_dir / 'fp-lib-table', 'w', encoding='utf-8') as fp_lib_tabl
 
 print('Wrote {} entries to fp-lib-table'.format(len(footprints)))
 
-symbols = sorted(project_dir.glob('*.lib'))
-symbol_table = prepare_table(project_dir, 'sym_lib_table', 'Legacy', symbols)
+symbols = sorted(project_dir.glob('*.kicad_sym'))
+symbol_table = prepare_table(project_dir, 'sym_lib_table', 'KiCad', symbols)
 
 with io.open(project_dir / 'sym-lib-table', 'w', encoding='utf-8') as sym_lib_table:
     sym_lib_table.write(symbol_table)

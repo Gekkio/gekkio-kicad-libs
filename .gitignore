@@ -6,6 +6,7 @@ fp-info-cache
 *.bak
 *.bck
 *.kicad_pcb-bak
+*.kicad_prl
 _autosave-*
 *.tmp
 

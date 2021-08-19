@@ -1,67 +1,38 @@
 #!/usr/bin/env python3
-
+import sexpdata
 import io
+from sexpdata import Symbol
 from pathlib import Path
 from enum import Enum
 
 script_dir = Path(__file__).parent
 project_dir = (script_dir / '..').resolve()
 
-def parse_dcm(path):
+def parse_kicad_sym(path):
     result = {}
     with io.open(path, 'r', encoding='utf-8') as dcm:
-        comp = None
-        for raw_line in dcm:
-            line = raw_line.strip()
-            if line.startswith('$CMP '):
-                if comp:
-                    result[comp[0]] = comp
-                name = line.split(' ', 1)[1]
-                comp = (name, '', '')
-            elif line.startswith('D '):
-                desc = line.split(' ', 1)[1]
-                comp = (comp[0], desc, comp[1])
-            elif line.startswith('F '):
-                doc = line.split(' ', 1)[1]
-                comp = (comp[0], comp[1], doc)
-        if comp:
-            result[comp[0]] = comp
-    return result
-
-def parse_lib(path):
-    result = {}
-    with io.open(path, 'r', encoding='utf-8') as dcm:
-        comp = None
-        for raw_line in dcm:
-            line = raw_line.strip()
-            if line.startswith('DEF '):
-                comp = line.split(' ')[1]
-                result[comp] = comp
-            elif line.startswith('ALIAS '):
-                for alias in line.split(' ')[1:]:
-                    result[alias] = comp
-            elif line.startswith('ENDDEF '):
-                comp = None
+        top = sexpdata.load(dcm)
+        assert(top[0] == Symbol('kicad_symbol_lib'))
+        for symbol in [s for s in top[1:] if s[0] == Symbol('symbol')]:
+            comp = None
+            datasheet = ''
+            description = ''
+            for prop in [p for p in symbol[1:] if p[0] == Symbol('property')]:
+                if prop[1] == "Value":
+                    comp = prop[2]
+                elif prop[1] == "Datasheet":
+                    datasheet = prop[2]
+                elif prop[1] == "ki_description":
+                    description = prop[2]
+            if comp is not None:
+                result[comp] = (description, '' if datasheet == '' else f'[Datasheet]({datasheet})')
     return result
 
 def generate_symbol_table():
-    dcm_data = {}
-    for path in project_dir.glob('*.dcm'):
-        dcm_data.update(parse_dcm(path))
-
-    result = []
-    for path in project_dir.glob('*.lib'):
-        for alias, name in parse_lib(path).items():
-            doc = dcm_data.get(alias)
-            if doc:
-                description = doc[1]
-                datasheet = doc[2]
-                if datasheet:
-                    datasheet = '[Datasheet]({})'.format(datasheet)
-                result.append((alias, description, datasheet))
-            else:
-                result.append((alias, '', ''))
-    return sorted(result, key=lambda symbol: symbol[0])
+    result = {}
+    for path in project_dir.glob('*.kicad_sym'):
+        result.update(parse_kicad_sym(path))
+    return sorted([(comp, description, datasheet) for comp, (description, datasheet) in result.items()], key=lambda symbol: symbol[0])
 
 def generate_footprint_table():
     wrls = {}
