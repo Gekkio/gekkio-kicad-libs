@@ -148,6 +148,7 @@ Licensed under Creative Commons Attribution 4.0 International.
 | CBT3125PW | Quadruple FET bus switch, TSSOP-14 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/CBT3125.pdf) |
 | CY62126EV30LL-xxBV | 1Mb (64k x 16) SRAM, VFBGA-48 | [Datasheet](https://www.cypress.com/file/43721/download) |
 | DMN3026LVT | 6.6A Id, 30V Vds, N-Channel MOSFET, TSOT-23-6 | [Datasheet](https://www.diodes.com/assets/Datasheets/DMN3026LVT.pdf) |
+| DRV8426RGER | Stepper Driver With Integrated Current Sense, 1/256 Microstepping, STEP/DIR Interface and smart tune Technology, VQFN-24 | [Datasheet](https://www.ti.com/lit/ds/symlink/drv8426.pdf) |
 | EMI_Filter_LLL | EMI 3-inductor filter |  |
 | FGPMMOPA6H | GPS Module | [Datasheet](https://cdn-shop.adafruit.com/datasheets/GlobalTop-FGPMMOPA6H-Datasheet-V0A.pdf) |
 | FMN1 | High-speed switching diodes 2 pair Com K, SOT-23-5 | [Datasheet](https://fscdn.rohm.com/en/products/databook/datasheet/discrete/diode/switching/fmn1t148-e.pdf) |

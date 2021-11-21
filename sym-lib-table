@@ -17,6 +17,7 @@
   (lib (name "Gekkio_Device_Specialized")(type "KiCad")(uri "$(KIPRJMOD)/Gekkio_Device_Specialized.kicad_sym")(options "")(descr ""))
   (lib (name "Gekkio_Diode")(type "KiCad")(uri "$(KIPRJMOD)/Gekkio_Diode.kicad_sym")(options "")(descr ""))
   (lib (name "Gekkio_Driver_LED")(type "KiCad")(uri "$(KIPRJMOD)/Gekkio_Driver_LED.kicad_sym")(options "")(descr ""))
+  (lib (name "Gekkio_Driver_Motor")(type "KiCad")(uri "$(KIPRJMOD)/Gekkio_Driver_Motor.kicad_sym")(options "")(descr ""))
   (lib (name "Gekkio_FPGA_Intel")(type "KiCad")(uri "$(KIPRJMOD)/Gekkio_FPGA_Intel.kicad_sym")(options "")(descr ""))
   (lib (name "Gekkio_FPGA_Lattice")(type "KiCad")(uri "$(KIPRJMOD)/Gekkio_FPGA_Lattice.kicad_sym")(options "")(descr ""))
   (lib (name "Gekkio_Interface")(type "KiCad")(uri "$(KIPRJMOD)/Gekkio_Interface.kicad_sym")(options "")(descr ""))
