@@ -9,7 +9,7 @@
     (property "Footprint" "Package_DFN_QFN:Texas_R-PUQFN-N10" (id 2) (at 0 -20.32 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "https://www.ti.com/lit/gpn/ts3usb221" (id 3) (at 0 -2.54 0)
+    (property "Datasheet" "https://www.ti.com/lit/gpn/ts3usb221" (id 3) (at 0 -22.86 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "ki_keywords" "USB high speed mux" (id 4) (at 0 0 0)
