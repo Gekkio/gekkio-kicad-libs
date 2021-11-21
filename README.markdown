@@ -77,8 +77,8 @@ Licensed under Creative Commons Attribution 4.0 International.
 | AP2139AK-2.8 | 2.8V 250mA Ultra Low Quiescent Current CMOS LDO, Active High Enable with Quick Discharge, SOT-23-5 | [Datasheet](https://www.diodes.com/assets/Datasheets/AP2138-9.pdf) |
 | AP2139AK-3.0 | 3.0V 250mA Ultra Low Quiescent Current CMOS LDO, Active High Enable with Quick Discharge, SOT-23-5 | [Datasheet](https://www.diodes.com/assets/Datasheets/AP2138-9.pdf) |
 | AP2139AK-3.3 | 3.3V 250mA Ultra Low Quiescent Current CMOS LDO, Active High Enable with Quick Discharge, SOT-23-5 | [Datasheet](https://www.diodes.com/assets/Datasheets/AP2138-9.pdf) |
-| AP3019AK | White LED step-up converter | [Datasheet](https://www.diodes.com/assets/Datasheets/AP3019A.pdf) |
-| AP3019AKT | White LED step-up converter | [Datasheet](https://www.diodes.com/assets/Datasheets/AP3019A.pdf) |
+| AP3019AK | White LED step-up converter, SOT-23-6 | [Datasheet](https://www.diodes.com/assets/Datasheets/AP3019A.pdf) |
+| AP3019AKT | White LED step-up converter, TSOT-23-6 | [Datasheet](https://www.diodes.com/assets/Datasheets/AP3019A.pdf) |
 | AP4953GM | Dual P-Channel Enchancement Mode MOSFET, SOIC-8 | [Datasheet](https://datasheet.lcsc.com/szlcsc/Advanced-Power-Elec-AP4953GM_C6193.pdf) |
 | AP61100 | 2.3V to 5.5V Input, 1A Low IQ Synchronous Buck Converter, SOT-563 | [Datasheet](https://www.diodes.com/assets/Datasheets/AP61100-AP61102.pdf) |
 | AP61102 | 2.3V to 5.5V Input, 1A Low IQ Synchronous Buck Converter, with Power Good, SOT-563 | [Datasheet](https://www.diodes.com/assets/Datasheets/AP61100-AP61102.pdf) |
