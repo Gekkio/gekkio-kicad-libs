@@ -335,7 +335,7 @@ Licensed under Creative Commons Attribution 4.0 International.
 | MIC23250-AAYMT | 4 MHz Dual 400 mA Synchronous Buck Regulator with Hyperlight Load™, DFN-12 | [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/mic23250.pdf) |
 | MIC5370 | High-Performance Dual 150mA LDO, MLF-6 | [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/mic5370.pdf) |
 | MIC920xC5 | 80 MHz Low-Power Op Amp, SC-70-5 | [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/mic920.pdf) |
-| MM1134 | System Reset (with battery back-up) | [Datasheet](https://www.mitsumi.co.jp/latest/Catalog/ic/common/stop/micro_mm_1134_e.pdf) |
+| MM1134 | System Reset (with battery back-up), SOP-8 | [Datasheet](https://www.mitsumi.co.jp/latest/Catalog/ic/common/stop/micro_mm_1134_e.pdf) |
 | MM1581 | Lithium-Ion Battery Charge Control, TSSOP-16 | [Datasheet](https://www.mitsumi.co.jp/latest/Catalog/ic/common/stop/battery_mm_1581_e.pdf) |
 | MP2122GJ | 6V, 2A, Low Quiescent Current Dual, Sync Buck Regulator, TSOT23-8 | [Datasheet](https://www.monolithicpower.com/en/documentview/productdocument/index/version/2/document_type/Datasheet/lang/en/sku/MP2122/document_id/413) |
 | MP2155GQ | High Efficiency Single Inductor Buck-Boost Converter with 2.2A Switches, DFN-10 | [Datasheet](https://www.monolithicpower.com/en/documentview/productdocument/index/version/2/document_type/Datasheet/lang/en/sku/MP2155/document_id/1760/) |
@@ -379,7 +379,7 @@ Licensed under Creative Commons Attribution 4.0 International.
 | PCA9517ADP | Level translating I2C-bus repeater, TSSOP-8 | [Datasheet](https://www.nxp.com/docs/en/data-sheet/PCA9517.pdf) |
 | PIC18F45K50-IP | 32K Flash, 2K RAM, 256B EEPROM, Microchip PIC18F series enhanced flash microcontroller with USB, DIP-40 | [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/30000684B.pdf) |
 | PIC18LF45K50-IP | 32K Flash, 2K RAM, 256B EEPROM, Microchip PIC18F series enhanced flash microcontroller with USB, DIP-40 | [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/30000684B.pdf) |
-| PST9135N | System Reset | [Datasheet](https://www.semiee.com/file/EOL2/Mitsumi-PST9119N.pdf) |
+| PST9135N | System Reset, SOT-23-5 | [Datasheet](https://www.semiee.com/file/EOL2/Mitsumi-PST9119N.pdf) |
 | RN4986 | Dual Digital NPN+PNP Transistor, 4k7/47k, SC-70-6 | [Datasheet](https://toshiba.semicon-storage.com/info/docget.jsp?did=18983&prodName=RN4986) |
 | RS2057XC6 | 4.5Ohm Low Voltage SPDT Analog Switch, SC-70-6 | [Datasheet](http://en.run-ic.com/action/download?file=219) |
 | RS2057XH | 4.5Ohm Low Voltage SPDT Analog Switch, SOT-23-6 | [Datasheet](http://en.run-ic.com/action/download?file=219) |
@@ -494,7 +494,7 @@ Licensed under Creative Commons Attribution 4.0 International.
 | TLV316IDCK | Single 10-MHz, Rail-to-Rail Input/Output, Low-Voltage, 1.8-V CMOS Operational Amplifier, SC-70-5 | [Datasheet](http://www.ti.com/lit/ds/symlink/tlv316.pdf) |
 | TLV4316ID | Quad 10-MHz, Rail-to-Rail Input/Output, Low-Voltage, 1.8-V CMOS Operational Amplifier, SOIC-14 | [Datasheet](http://www.ti.com/lit/ds/symlink/tlv4316.pdf) |
 | TLV4316IPW | Quad 10-MHz, Rail-to-Rail Input/Output, Low-Voltage, 1.8-V CMOS Operational Amplifier, TSSOP-14 | [Datasheet](http://www.ti.com/lit/ds/symlink/tlv4316.pdf) |
-| TPS3613-01 | Adjustable Battery-Backup Supervisor for RAM Retention, MSOP-10 | [Datasheet](http://www.ti.com/lit/ds/symlink/tps3613-01.pdf) |
+| TPS3613-01 | Adjustable Battery-Backup Supervisor for RAM Retention, VSSOP-10 | [Datasheet](http://www.ti.com/lit/ds/symlink/tps3613-01.pdf) |
 | TS3USB221RSER | High-Speed USB 2.0 1:2 Multiplexer/Demultiplexer Switch with Single Enable, UQFN-10 | [Datasheet](https://www.ti.com/lit/gpn/ts3usb221) |
 | UMP1N | High-speed switching diodes 2 pair Com A, SC-70-5 | [Datasheet](https://fscdn.rohm.com/en/products/databook/datasheet/discrete/diode/switching/ump1ntr-e.pdf) |
 | XC2C32A-xVQ44 | Coolrunner-II CPLD, 32 Macrocells, VQFP-44 | [Datasheet](https://www.xilinx.com/support/documentation/data_sheets/ds310.pdf) |
