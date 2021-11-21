@@ -393,7 +393,7 @@ Licensed under Creative Commons Attribution 4.0 International.
 | RS8752XM | Dual 250MHz, Rail-to-Rail Output CMOS Operational Amplifier, MSOP-8 | [Datasheet](https://datasheet.lcsc.com/szlcsc/Jiangsu-RUNIC-Tech-RS8752XQ_C255422.pdf) |
 | RS8752XQ | Dual 250MHz, Rail-to-Rail Output CMOS Operational Amplifier, TSSOP-8 | [Datasheet](https://datasheet.lcsc.com/szlcsc/Jiangsu-RUNIC-Tech-RS8752XQ_C255422.pdf) |
 | RT7295C | 3.5A, 18V, 500kHz ACOT Synchronous Step-Down Converter, TSOT-23-6 | [Datasheet](https://www.richtek.com/assets/product_file/RT7295C/DS7295C-04.pdf) |
-| R_POT_GameBoy_Volume_MGB | Audio volume potentiometer, Game Boy Pocket (MGB) | [Datasheet](~) |
+| R_Potentiometer_GameBoy_Volume_MGB | Audio volume potentiometer, Game Boy Pocket (MGB) |  |
 | SE3608 | 2A/1.2MHz Output Current, Boost Converter, SOT-23-6 | [Datasheet](http://www.seawardinc.com.cn/webeditor/uploadfile/20200907180455365.pdf) |
 | SE8117TA-HF-1.5V | 1.5V, 1A, Positive Voltage Regulator, SOT-223 | [Datasheet](http://www.seawardinc.com.cn/webeditor/uploadfile/20200423183538362.pdf) |
 | SE8117TA-HF-1.8V | 1.8V, 1A, Positive Voltage Regulator, SOT-223 | [Datasheet](http://www.seawardinc.com.cn/webeditor/uploadfile/20200423183538362.pdf) |
