@@ -17,3 +17,5 @@ _autosave-*
 
 *.xml
 *.csv
+
+gekkio-kicad-libs-backups/
