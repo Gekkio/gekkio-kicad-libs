@@ -49,6 +49,8 @@ Licensed under Creative Commons Attribution 4.0 International.
 | 93LC56A-xOT | 2kb (256 x 8) 2.5V Microwire Compatible Serial EEPROM, SOT-23-6 | [Datasheet](http://ww1.microchip.com/downloads/en/devicedoc/21794b.pdf) |
 | 93LC56B-xOT | 2kb (128 x 16) 2.5V Microwire Compatible Serial EEPROM, SOT-23-6 | [Datasheet](http://ww1.microchip.com/downloads/en/devicedoc/21794b.pdf) |
 | AD8428 | Single Low Noise, Low Gain Drift, G=2000 Instrumentation Amplifier, SOIC-8 | [Datasheet](https://www.analog.com/media/en/technical-documentation/data-sheets/AD8428.PDF) |
+| AD8428ARZ | Single Low Noise, Low Gain Drift, G=2000 Instrumentation Amplifier, A Grade, SOIC-8 | [Datasheet](https://www.analog.com/media/en/technical-documentation/data-sheets/AD8428.PDF) |
+| AD8428BRZ | Single Low Noise, Low Gain Drift, G=2000 Instrumentation Amplifier, B Grade, SOIC-8 | [Datasheet](https://www.analog.com/media/en/technical-documentation/data-sheets/AD8428.PDF) |
 | ADS1274 | Quad, Simultaneous Sampling, 24-Bit Analog-to-Digital Converters, HTQFP-64 | [Datasheet](http://www.ti.com/lit/ds/symlink/ads1274.pdf) |
 | ADS1278 | Octal, Simultaneous Sampling, 24-Bit Analog-to-Digital Converters, HTQFP-64 | [Datasheet](http://www.ti.com/lit/ds/symlink/ads1278.pdf) |
 | AP2114H-1.2 | 1.2V 1A Low Noise CMOS LDO Regulator, SOT-223 | [Datasheet](https://www.diodes.com/assets/Datasheets/AP2114.pdf) |
@@ -371,7 +373,7 @@ Licensed under Creative Commons Attribution 4.0 International.
 | NCP606MNADJ | Adjustable, 500mA, Low IGND, CMOS LDO Regulator with Enable and with Enhanced ESD Protection, DFN-6 | [Datasheet](https://www.onsemi.com/pub/Collateral/NCP605-D.PDF) |
 | NSR0530H | 30V 500mA Schottky diode, SOD-323 | [Datasheet](http://www.onsemi.com/pub/Collateral/NSR0530H-D.PDF) |
 | NT5DS32M16CS | 512Mb (32M x 16) DDR SDRAM, TSOP-II 66-pin | [Datasheet](https://elinux.org/images/e/e0/Nt5d32m16cs-5t.pdf) |
-| OPA1632DR | High-Performance, Fully-Differential Audio Operational Amplifier, SOIC-8 | [Datasheet](http://www.ti.com/lit/ds/sbos286c/sbos286c.pdf) |
+| OPA1632D | High-Performance, Fully-Differential Audio Operational Amplifier, SOIC-8 | [Datasheet](http://www.ti.com/lit/ds/sbos286c/sbos286c.pdf) |
 | OPA350UA | High-Speed, Single-Supply, Rail-to-Rail Operational Amplifiers MicroAmplifier Series, SOIC-8 | [Datasheet](http://www.ti.com/lit/ds/symlink/opa4350.pdf) |
 | PAM2308BYMAA | Dual high-efficiency PWM step-down DC-DC converter, DFN-10 | [Datasheet](https://www.diodes.com/assets/Datasheets/products_inactive_data/PAM2308.pdf) |
 | PCA9517ADP | Level translating I2C-bus repeater, TSSOP-8 | [Datasheet](https://www.nxp.com/docs/en/data-sheet/PCA9517.pdf) |
