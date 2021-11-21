@@ -9,7 +9,7 @@
     (property "Footprint" "Gekkio_Oscillator:Oscillator_SMD_SeikoEpson_TG-3541CE_3.2x2.5mm" (id 2) (at 0 -17.78 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "https://support.epson.biz/td/api/doc_check.php?mode=dl&lang=en&Parts=SG-8002DC" (id 3) (at -2.54 0 0)
+    (property "Datasheet" "https://support.epson.biz/td/api/doc_check.php?dl=app_TG-3541CE&lang=en" (id 3) (at 0 -20.32 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "ki_keywords" "tcxo" (id 4) (at 0 0 0)

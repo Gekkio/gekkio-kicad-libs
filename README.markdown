@@ -487,7 +487,7 @@ Licensed under Creative Commons Attribution 4.0 International.
 | SiRA01DP | -60A Id, -30V Vds, P-Channel MOSFET, PowerPAK-8 | [Datasheet](https://www.vishay.com/docs/75510/sira01dp.pdf) |
 | SiRA28BDP | 38A Id, 30V Vds, N-Channel MOSFET, PowerPAK-8 | [Datasheet](https://www.vishay.com/docs/77395/sira28bdp.pdf) |
 | SiRA88DP | 45.5A Id, 30V Vds, N-Channel MOSFET, PowerPAK-8 | [Datasheet](https://www.vishay.com/docs/77777/sira88dp.pdf) |
-| TG-3541CE | 32.768 kHz TCXO oscillator | [Datasheet](https://support.epson.biz/td/api/doc_check.php?mode=dl&lang=en&Parts=SG-8002DC) |
+| TG-3541CE | 32.768 kHz TCXO oscillator | [Datasheet](https://support.epson.biz/td/api/doc_check.php?dl=app_TG-3541CE&lang=en) |
 | TLV2316ID | Dual 10-MHz, Rail-to-Rail Input/Output, Low-Voltage, 1.8-V CMOS Operational Amplifier, SOIC-8 | [Datasheet](http://www.ti.com/lit/ds/symlink/tlv2316.pdf) |
 | TLV2316IDGK | Dual 10-MHz, Rail-to-Rail Input/Output, Low-Voltage, 1.8-V CMOS Operational Amplifier, VSSOP-8 | [Datasheet](http://www.ti.com/lit/ds/symlink/tlv2316.pdf) |
 | TLV316IDBV | Single 10-MHz, Rail-to-Rail Input/Output, Low-Voltage, 1.8-V CMOS Operational Amplifier, SOT-23-5 | [Datasheet](http://www.ti.com/lit/ds/symlink/tlv316.pdf) |
