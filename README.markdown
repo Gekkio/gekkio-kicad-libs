@@ -7,10 +7,21 @@ Licensed under Creative Commons Attribution 4.0 International.
 <!-- SYMBOLS START -->
 | Name | Description | Datasheet |
 | - | - | - |
-| 10M04DAF256 | MAX 10 FPGA, 4000 LE, dual supply, FBGA-256 | [Datasheet](https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/hb/max-10/m10_overview.pdf) |
-| 10M04SAE144 | MAX 10 FPGA, 4000 LE, single supply, EQFP-144 | [Datasheet](https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/hb/max-10/m10_overview.pdf) |
+| 10M02SCE144 | MAX 10 FPGA, 2000 LE, single supply, EQFP-144 | [Datasheet](https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/hb/max-10/m10_overview.pdf) |
+| 10M04DAF256 | MAX 10 FPGA, 4000 LE, dual supply, analog and flash, FBGA-256 | [Datasheet](https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/hb/max-10/m10_overview.pdf) |
+| 10M04SAE144 | MAX 10 FPGA, 4000 LE, single supply, analog and flash, EQFP-144 | [Datasheet](https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/hb/max-10/m10_overview.pdf) |
 | 10M04SCE144 | MAX 10 FPGA, 4000 LE, single supply, EQFP-144 | [Datasheet](https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/hb/max-10/m10_overview.pdf) |
-| 10M50DAF256 | MAX 10 FPGA, 50000 LE, dual supply, FBGA-256 | [Datasheet](https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/hb/max-10/m10_overview.pdf) |
+| 10M08DAF256 | MAX 10 FPGA, 8000 LE, dual supply, analog and flash, FBGA-256 | [Datasheet](https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/hb/max-10/m10_overview.pdf) |
+| 10M08SAE144 | MAX 10 FPGA, 8000 LE, single supply, analog and flash, EQFP-144 | [Datasheet](https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/hb/max-10/m10_overview.pdf) |
+| 10M08SCE144 | MAX 10 FPGA, 8000 LE, single supply, EQFP-144 | [Datasheet](https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/hb/max-10/m10_overview.pdf) |
+| 10M16DAF256 | MAX 10 FPGA, 16000 LE, dual supply, analog and flash, FBGA-256 | [Datasheet](https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/hb/max-10/m10_overview.pdf) |
+| 10M16SAE144 | MAX 10 FPGA, 16000 LE, single supply, analog and flash, EQFP-144 | [Datasheet](https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/hb/max-10/m10_overview.pdf) |
+| 10M16SCE144 | MAX 10 FPGA, 16000 LE, single supply, EQFP-144 | [Datasheet](https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/hb/max-10/m10_overview.pdf) |
+| 10M25DAF256 | MAX 10 FPGA, 25000 LE, dual supply, analog and flash, FBGA-256 | [Datasheet](https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/hb/max-10/m10_overview.pdf) |
+| 10M25SAE144 | MAX 10 FPGA, 25000 LE, single supply, analog and flash, EQFP-144 | [Datasheet](https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/hb/max-10/m10_overview.pdf) |
+| 10M25SCE144 | MAX 10 FPGA, 25000 LE, single supply, EQFP-144 | [Datasheet](https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/hb/max-10/m10_overview.pdf) |
+| 10M40DAF256 | MAX 10 FPGA, 40000 LE, dual supply, analog and flash, FBGA-256 | [Datasheet](https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/hb/max-10/m10_overview.pdf) |
+| 10M50DAF256 | MAX 10 FPGA, 50000 LE, dual supply, analog and flash, FBGA-256 | [Datasheet](https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/hb/max-10/m10_overview.pdf) |
 | 23K256xSN | 256k SPI Bus Low-Power Serial SRAM, SOIC-8 | [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/22100F.pdf) |
 | 23K256xST | 256k SPI Bus Low-Power Serial SRAM, TSSOP-8 | [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/22100F.pdf) |
 | 5M160ZE64 | MAX V CPLD, 160 LE, EQFP-64 | [Datasheet](https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/hb/max-v/mv51001.pdf) |
