@@ -151,10 +151,11 @@ Licensed under Creative Commons Attribution 4.0 International.
 | CY62126EV30LL-xxBV | 1Mb (64k x 16) SRAM, VFBGA-48 | [Datasheet](https://www.cypress.com/file/43721/download) |
 | DMN3026LVT | 6.6A Id, 30V Vds, N-Channel MOSFET, TSOT-23-6 | [Datasheet](https://www.diodes.com/assets/Datasheets/DMN3026LVT.pdf) |
 | DRV8426RGER | Stepper Driver With Integrated Current Sense, 1/256 Microstepping, STEP/DIR Interface and smart tune Technology, VQFN-24 | [Datasheet](https://www.ti.com/lit/ds/symlink/drv8426.pdf) |
-| EMI_Filter_LLL | EMI 3-inductor filter |  |
 | FGPMMOPA6H | GPS Module | [Datasheet](https://cdn-shop.adafruit.com/datasheets/GlobalTop-FGPMMOPA6H-Datasheet-V0A.pdf) |
 | FMN1 | High-speed switching diodes 2 pair Com K, SOT-23-5 | [Datasheet](https://fscdn.rohm.com/en/products/databook/datasheet/discrete/diode/switching/fmn1t148-e.pdf) |
-| Ferrite_Bead_Pack04 | 4 ferrite bead array, parallel topology |  |
+| FerriteBead_Pack04 | 4 ferrite bead array, parallel topology |  |
+| FerriteBead_Pack04_Split | 4 ferrite bead array, parallel topology, split |  |
+| Filter_EMI_LLL | EMI 3-inductor filter |  |
 | GameBoyAdvance_Cartridge_MountingPin | Game Boy cartridge edge connector with mounting pin |  |
 | GameBoyAdvance_SRAM_2M | 2Mb (128k x 16) Game Boy SRAM chip |  |
 | GameBoy_Amplifier_AGB | Audio amplifier, Game Boy Advance (AGB), SSOP-18 |  |
