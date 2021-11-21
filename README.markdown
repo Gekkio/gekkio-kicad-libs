@@ -163,8 +163,8 @@ Licensed under Creative Commons Attribution 4.0 International.
 | GameBoy_CPU_CGB | CPU, Game Boy Color (CGB), QFP-128 |  |
 | GameBoy_CPU_DMG <br> ![GameBoy_CPU_DMG](photos/GameBoy_CPU_DMG.jpg) | CPU, original Game Boy (DMG), QFP-80 |  |
 | GameBoy_CPU_MGB | CPU, Game Boy Pocket (MGB), Game Boy Light (MGL), QFP-80 |  |
-| GameBoy_CPU_SGB | CPU, Super Game Boy (SGB) |  |
-| GameBoy_CPU_SGB2 | CPU, Super Game Boy 2 (SGB2) |  |
+| GameBoy_CPU_SGB | CPU, Super Game Boy (SGB), QFP-80 |  |
+| GameBoy_CPU_SGB2 | CPU, Super Game Boy 2 (SGB2), QFP-80 |  |
 | GameBoy_Cartridge | Game Boy cartridge edge connector |  |
 | GameBoy_Cartridge_MountingPin | Game Boy cartridge edge connector with mounting pin |  |
 | GameBoy_LinkPort | Game Boy link port |  |
