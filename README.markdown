@@ -78,8 +78,8 @@ Licensed under Creative Commons Attribution 4.0 International.
 | AP3019AK | White LED step-up converter | [Datasheet](https://www.diodes.com/assets/Datasheets/AP3019A.pdf) |
 | AP3019AKT | White LED step-up converter | [Datasheet](https://www.diodes.com/assets/Datasheets/AP3019A.pdf) |
 | AP4953GM | Dual P-Channel Enchancement Mode MOSFET, SOIC-8 | [Datasheet](https://datasheet.lcsc.com/szlcsc/Advanced-Power-Elec-AP4953GM_C6193.pdf) |
-| AP61100 | 2.3V to 5.5V Input, 1A Low IQ Synchronous Buck Converter | [Datasheet](https://www.diodes.com/assets/Datasheets/AP61100-AP61102.pdf) |
-| AP61102 | 2.3V to 5.5V Input, 1A Low IQ Synchronous Buck Converter | [Datasheet](https://www.diodes.com/assets/Datasheets/AP61100-AP61102.pdf) |
+| AP61100 | 2.3V to 5.5V Input, 1A Low IQ Synchronous Buck Converter, SOT-563 | [Datasheet](https://www.diodes.com/assets/Datasheets/AP61100-AP61102.pdf) |
+| AP61102 | 2.3V to 5.5V Input, 1A Low IQ Synchronous Buck Converter, with Power Good, SOT-563 | [Datasheet](https://www.diodes.com/assets/Datasheets/AP61100-AP61102.pdf) |
 | AS4C16M16SA | 256Mb (16M x 16) Synchronous DRAM, TSOP-II 54-pin | [Datasheet](https://www.alliancememory.com/wp-content/uploads/pdf/dram/256Mb-AS4C16M16SA-C&I_V3.0_March%202015.pdf) |
 | AT49F001-xxJx | 1Mb (128K x 8) 5-volt Only Flash Memory, PLCC-32 | [Datasheet](https://datasheet.octopart.com/AT49F001-55PC-Atmel-datasheet-10108.pdf) |
 | AT49F001N-xxJx | 1Mb (128K x 8) 5-volt Only Flash Memory, PLCC-32 | [Datasheet](https://datasheet.octopart.com/AT49F001-55PC-Atmel-datasheet-10108.pdf) |
@@ -335,8 +335,8 @@ Licensed under Creative Commons Attribution 4.0 International.
 | MIC920xC5 | 80 MHz Low-Power Op Amp, SC-70-5 | [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/mic920.pdf) |
 | MM1134 | System Reset (with battery back-up) | [Datasheet](https://www.mitsumi.co.jp/latest/Catalog/ic/common/stop/micro_mm_1134_e.pdf) |
 | MM1581 | Lithium-Ion Battery Charge Control, TSSOP-16 | [Datasheet](https://www.mitsumi.co.jp/latest/Catalog/ic/common/stop/battery_mm_1581_e.pdf) |
-| MP2122GJ | 6V, 2A, Low Quiescent Current Dual, Sync Buck Regulator, TSOT23-8 | [Datasheet](https://media.monolithicpower.com/document/MP2122_r1.02.pdf) |
-| MP2155GQ | High Efficiency Single Inductor Buck-Boost Converter with 2.2A Switches, DFN-10 | [Datasheet](https://www.monolithicpower.com/pub/media/document/MP2155_r1.0.pdf) |
+| MP2122GJ | 6V, 2A, Low Quiescent Current Dual, Sync Buck Regulator, TSOT23-8 | [Datasheet](https://www.monolithicpower.com/en/documentview/productdocument/index/version/2/document_type/Datasheet/lang/en/sku/MP2122/document_id/413) |
+| MP2155GQ | High Efficiency Single Inductor Buck-Boost Converter with 2.2A Switches, DFN-10 | [Datasheet](https://www.monolithicpower.com/en/documentview/productdocument/index/version/2/document_type/Datasheet/lang/en/sku/MP2155/document_id/1760/) |
 | MT48LC16M16A2F4 | 256Mb (16M x 16) Synchronous DRAM, VFBGA 54-ball | [Datasheet](https://www.micron.com/-/media/client/global/documents/products/data-sheet/dram/256mb_sdr.pdf) |
 | MT9700 | 80mΩ, Adjustable Fast Response Current-Limited Power-Distribution Switch, SOT-23-5 | [Datasheet](https://datasheet.lcsc.com/szlcsc/XI-AN-Aerosemi-Tech-MT9700_C89855.pdf) |
 | MX25L12805D | 128Mb (128M x 1) CMOS SPI Serial Flash, SOP-16 | [Datasheet](https://datasheet.octopart.com/MX25L12805DMI-20G-Macronix-datasheet-8332919.pdf) |
@@ -373,7 +373,7 @@ Licensed under Creative Commons Attribution 4.0 International.
 | NT5DS32M16CS | 512Mb (32M x 16) DDR SDRAM, TSOP-II 66-pin | [Datasheet](https://elinux.org/images/e/e0/Nt5d32m16cs-5t.pdf) |
 | OPA1632DR | High-Performance, Fully-Differential Audio Operational Amplifier, SOIC-8 | [Datasheet](http://www.ti.com/lit/ds/sbos286c/sbos286c.pdf) |
 | OPA350UA | High-Speed, Single-Supply, Rail-to-Rail Operational Amplifiers MicroAmplifier Series, SOIC-8 | [Datasheet](http://www.ti.com/lit/ds/symlink/opa4350.pdf) |
-| PAM2308BYMAA | Dual high-efficiency PWM step-down DC-DC converter, DFN-10 | [Datasheet](https://www.diodes.com/assets/Datasheets/PAM2308.pdf) |
+| PAM2308BYMAA | Dual high-efficiency PWM step-down DC-DC converter, DFN-10 | [Datasheet](https://www.diodes.com/assets/Datasheets/products_inactive_data/PAM2308.pdf) |
 | PCA9517ADP | Level translating I2C-bus repeater, TSSOP-8 | [Datasheet](https://www.nxp.com/docs/en/data-sheet/PCA9517.pdf) |
 | PIC18F45K50-IP | 32K Flash, 2K RAM, 256B EEPROM, Microchip PIC18F series enhanced flash microcontroller with USB, DIP-40 | [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/30000684B.pdf) |
 | PIC18LF45K50-IP | 32K Flash, 2K RAM, 256B EEPROM, Microchip PIC18F series enhanced flash microcontroller with USB, DIP-40 | [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/30000684B.pdf) |
@@ -392,7 +392,7 @@ Licensed under Creative Commons Attribution 4.0 International.
 | RS8752XQ | Dual 250MHz, Rail-to-Rail Output CMOS Operational Amplifier, TSSOP-8 | [Datasheet](https://datasheet.lcsc.com/szlcsc/Jiangsu-RUNIC-Tech-RS8752XQ_C255422.pdf) |
 | RT7295C | 3.5A, 18V, 500kHz ACOT Synchronous Step-Down Converter, TSOT-23-6 | [Datasheet](https://www.richtek.com/assets/product_file/RT7295C/DS7295C-04.pdf) |
 | R_POT_GameBoy_Volume_MGB | Audio volume potentiometer, Game Boy Pocket (MGB) | [Datasheet](~) |
-| SE3608 | 2A/1.2MHz Output Current, Boost Converter, SOT-23-6 | [Datasheet](https://datasheet.lcsc.com/szlcsc/Seaward-Elec-SE3608_C114986.pdf) |
+| SE3608 | 2A/1.2MHz Output Current, Boost Converter, SOT-23-6 | [Datasheet](http://www.seawardinc.com.cn/webeditor/uploadfile/20200907180455365.pdf) |
 | SE8117TA-HF-1.5V | 1.5V, 1A, Positive Voltage Regulator, SOT-223 | [Datasheet](http://www.seawardinc.com.cn/webeditor/uploadfile/20200423183538362.pdf) |
 | SE8117TA-HF-1.8V | 1.8V, 1A, Positive Voltage Regulator, SOT-223 | [Datasheet](http://www.seawardinc.com.cn/webeditor/uploadfile/20200423183538362.pdf) |
 | SE8117TA-HF-2.5V | 2.5V, 1A, Positive Voltage Regulator, SOT-223 | [Datasheet](http://www.seawardinc.com.cn/webeditor/uploadfile/20200423183538362.pdf) |
@@ -546,6 +546,7 @@ Licensed under Creative Commons Attribution 4.0 International.
 | L_Sunltech_SLO0520H |  |  |
 | L_Sunltech_SLW40xx |  |  |
 | Lattice_QFN-84-1EP_7x7mm_P0.5mm_EP4.4x4.4mm |  |  |
+| Micrel_VQFN-20-1EP_3x4mm_P0.5mm_EP1.6x2.6mm |  |  |
 | Micron_TFBGA-60_8x16mm_Layout8x15_P0.8mm |  |  |
 | Micron_VFBGA-54_8x14mm_Layout9x9_P0.8mm |  |  |
 | Micron_VFBGA-54_8x8mm_Layout9x9_P0.8mm |  |  |
@@ -647,4 +648,5 @@ Licensed under Creative Commons Attribution 4.0 International.
 | Transformer_GameBoy_DMG |  |  |
 | USB_Mini-B_Hirose_UX60SC-MB-5ST80_Horizontal |  |  |
 | VFBGA-48_6x8mm_Layout6x8_P0.75mm |  |  |
+| WDFN-10-1EP_3x3mm_P0.5mm_EP1.2x2.2mm |  |  |
 <!-- FOOTPRINTS END -->
