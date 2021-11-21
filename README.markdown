@@ -24,6 +24,7 @@ Licensed under Creative Commons Attribution 4.0 International.
 | 74LVC16373ADGG | 16-bit D-type transparent latch with 5V tolerant inputs/outputs, 3-state, TSSOP-48 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/74LVC_LVCH16373A.pdf) |
 | 74LVC16373ADGV | 16-bit D-type transparent latch with 5V tolerant inputs/outputs, 3-state, TSSOP-48 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/74LVC_LVCH16373A.pdf) |
 | 74LVC16373ADL | 16-bit D-type transparent latch with 5V tolerant inputs/outputs, 3-state, SSOP-48 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/74LVC_LVCH16373A.pdf) |
+| 74LVC1G157GW | Single 2-input multiplexer, SOT-363 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/74LVC1G157.pdf) |
 | 74LVC244APW | Octal buffer/line driver, 3-state, TSSOP-20 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/74LVC_LVCH244A.pdf) |
 | 74LVC245APW | Octal bus transceiver, 3-state, TSSOP-20 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/74LVC_LVCH245A.pdf) |
 | 74LVC32AD | Quad 2-input OR gate, SO-14 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/74LVC32A.pdf) |
