@@ -353,8 +353,22 @@ Licensed under Creative Commons Attribution 4.0 International.
 | MX29LV800CxT | 8 Mb (1M x 8 / 512k x 16) Single Voltage 3V Only Flash Memory, TSOP-I 48-pin | [Datasheet](http://www.macronix.com/Lists/Datasheet/Attachments/7258/MX29LV800C%20T-B,%203V,%208Mb,%20v2.6.pdf) |
 | MX29SL402CxT | 4 Mb (512k x 8 / 256k x 16) Single Voltage 1.8V Only Flash Memory, TSOP-I 48-pin | [Datasheet](http://www.macronix.com/Lists/Datasheet/Attachments/7237/MX29SL402C%20T-B,%201.8V,%204Mb,%20v1.0.pdf) |
 | MX29SL800CxT | 8 Mb (1M x 8 / 512k x 16) Single Voltage 1.8V Only Flash Memory, TSOP-I 48-pin | [Datasheet](http://www.macronix.com/Lists/Datasheet/Attachments/7235/MX29SL802C%20T-B,%201.8V,%208Mb,%20v2.0.pdf) |
-| NCP605 | 500mA, Low IGND, CMOS LDO Regulator with Enhanced ESD Protection, DFN-6 | [Datasheet](https://www.onsemi.com/pub/Collateral/NCP605-D.PDF) |
-| NCP606 | 500mA, Low IGND, CMOS LDO Regulator with Enable and with Enhanced ESD Protection, DFN-6 | [Datasheet](https://www.onsemi.com/pub/Collateral/NCP605-D.PDF) |
+| NCP605MN15 | 1.5V, 500mA, Low IGND, CMOS LDO Regulator with Enhanced ESD Protection, DFN-6 | [Datasheet](https://www.onsemi.com/pub/Collateral/NCP605-D.PDF) |
+| NCP605MN18 | 1.8V, 500mA, Low IGND, CMOS LDO Regulator with Enhanced ESD Protection, DFN-6 | [Datasheet](https://www.onsemi.com/pub/Collateral/NCP605-D.PDF) |
+| NCP605MN25 | 2.5V, 500mA, Low IGND, CMOS LDO Regulator with Enhanced ESD Protection, DFN-6 | [Datasheet](https://www.onsemi.com/pub/Collateral/NCP605-D.PDF) |
+| NCP605MN28 | 2.8V, 500mA, Low IGND, CMOS LDO Regulator with Enhanced ESD Protection, DFN-6 | [Datasheet](https://www.onsemi.com/pub/Collateral/NCP605-D.PDF) |
+| NCP605MN30 | 3.0V, 500mA, Low IGND, CMOS LDO Regulator with Enhanced ESD Protection, DFN-6 | [Datasheet](https://www.onsemi.com/pub/Collateral/NCP605-D.PDF) |
+| NCP605MN33 | 3.3V, 500mA, Low IGND, CMOS LDO Regulator with Enhanced ESD Protection, DFN-6 | [Datasheet](https://www.onsemi.com/pub/Collateral/NCP605-D.PDF) |
+| NCP605MN50 | 5.0V, 500mA, Low IGND, CMOS LDO Regulator with Enhanced ESD Protection, DFN-6 | [Datasheet](https://www.onsemi.com/pub/Collateral/NCP605-D.PDF) |
+| NCP605MNADJ | Adjustable, 500mA, Low IGND, CMOS LDO Regulator with Enhanced ESD Protection, DFN-6 | [Datasheet](https://www.onsemi.com/pub/Collateral/NCP605-D.PDF) |
+| NCP606MN15 | 1.5V, 500mA, Low IGND, CMOS LDO Regulator with Enable and with Enhanced ESD Protection, DFN-6 | [Datasheet](https://www.onsemi.com/pub/Collateral/NCP605-D.PDF) |
+| NCP606MN18 | 1.8V, 500mA, Low IGND, CMOS LDO Regulator with Enable and with Enhanced ESD Protection, DFN-6 | [Datasheet](https://www.onsemi.com/pub/Collateral/NCP605-D.PDF) |
+| NCP606MN25 | 2.5V, 500mA, Low IGND, CMOS LDO Regulator with Enable and with Enhanced ESD Protection, DFN-6 | [Datasheet](https://www.onsemi.com/pub/Collateral/NCP605-D.PDF) |
+| NCP606MN28 | 2.8V, 500mA, Low IGND, CMOS LDO Regulator with Enable and with Enhanced ESD Protection, DFN-6 | [Datasheet](https://www.onsemi.com/pub/Collateral/NCP605-D.PDF) |
+| NCP606MN30 | 3.0V, 500mA, Low IGND, CMOS LDO Regulator with Enable and with Enhanced ESD Protection, DFN-6 | [Datasheet](https://www.onsemi.com/pub/Collateral/NCP605-D.PDF) |
+| NCP606MN33 | 3.3V, 500mA, Low IGND, CMOS LDO Regulator with Enable and with Enhanced ESD Protection, DFN-6 | [Datasheet](https://www.onsemi.com/pub/Collateral/NCP605-D.PDF) |
+| NCP606MN50 | 5.0V, 500mA, Low IGND, CMOS LDO Regulator with Enable and with Enhanced ESD Protection, DFN-6 | [Datasheet](https://www.onsemi.com/pub/Collateral/NCP605-D.PDF) |
+| NCP606MNADJ | Adjustable, 500mA, Low IGND, CMOS LDO Regulator with Enable and with Enhanced ESD Protection, DFN-6 | [Datasheet](https://www.onsemi.com/pub/Collateral/NCP605-D.PDF) |
 | NSR0530H | 30V 500mA Schottky diode, SOD-323 | [Datasheet](http://www.onsemi.com/pub/Collateral/NSR0530H-D.PDF) |
 | NT5DS32M16CS | 512Mb (32M x 16) DDR SDRAM, TSOP-II 66-pin | [Datasheet](https://elinux.org/images/e/e0/Nt5d32m16cs-5t.pdf) |
 | OPA1632DR | High-Performance, Fully-Differential Audio Operational Amplifier, SOIC-8 | [Datasheet](http://www.ti.com/lit/ds/sbos286c/sbos286c.pdf) |
@@ -379,7 +393,12 @@ Licensed under Creative Commons Attribution 4.0 International.
 | RT7295C | 3.5A, 18V, 500kHz ACOT Synchronous Step-Down Converter, TSOT-23-6 | [Datasheet](https://www.richtek.com/assets/product_file/RT7295C/DS7295C-04.pdf) |
 | R_POT_GameBoy_Volume_MGB | Audio volume potentiometer, Game Boy Pocket (MGB) | [Datasheet](~) |
 | SE3608 | 2A/1.2MHz Output Current, Boost Converter, SOT-23-6 | [Datasheet](https://datasheet.lcsc.com/szlcsc/Seaward-Elec-SE3608_C114986.pdf) |
-| SE8117TA | 3.3V 1A Low Noise CMOS LDO Regulator, SOT-223 | [Datasheet](https://www.diodes.com/assets/Datasheets/AP2114.pdf) |
+| SE8117TA-HF-1.5V | 1.5V, 1A, Positive Voltage Regulator, SOT-223 | [Datasheet](http://www.seawardinc.com.cn/webeditor/uploadfile/20200423183538362.pdf) |
+| SE8117TA-HF-1.8V | 1.8V, 1A, Positive Voltage Regulator, SOT-223 | [Datasheet](http://www.seawardinc.com.cn/webeditor/uploadfile/20200423183538362.pdf) |
+| SE8117TA-HF-2.5V | 2.5V, 1A, Positive Voltage Regulator, SOT-223 | [Datasheet](http://www.seawardinc.com.cn/webeditor/uploadfile/20200423183538362.pdf) |
+| SE8117TA-HF-3.3V | 3.3V, 1A, Positive Voltage Regulator, SOT-223 | [Datasheet](http://www.seawardinc.com.cn/webeditor/uploadfile/20200423183538362.pdf) |
+| SE8117TA-HF-5.0V | 5.0V, 1A, Positive Voltage Regulator, SOT-223 | [Datasheet](http://www.seawardinc.com.cn/webeditor/uploadfile/20200423183538362.pdf) |
+| SE8117TA-HF-ADJ | Adjustable, 1A, Positive Voltage Regulator, SOT-223 | [Datasheet](http://www.seawardinc.com.cn/webeditor/uploadfile/20200423183538362.pdf) |
 | SN74CB3T16211DGG | 24-bit FET bus switch, 2.5-V/3.3-V low-voltage bus switch with 5-V tolerant level shifter | [Datasheet](http://www.ti.com/lit/ds/symlink/sn74cb3t16211.pdf) |
 | SN74LV1T125DBV | Single Power Supply Single Buffer Gate with 3-state Output CMOS Logic Level Shifter, SOT-23-5 | [Datasheet](http://www.ti.com/lit/ds/symlink/sn74lv1t125.pdf) |
 | SN74LV1T125DCK | Single Power Supply Single Buffer Gate with 3-state Output CMOS Logic Level Shifter, SC-70-5 | [Datasheet](http://www.ti.com/lit/ds/symlink/sn74lv1t125.pdf) |
