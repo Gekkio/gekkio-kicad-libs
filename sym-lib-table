@@ -31,6 +31,7 @@
   (lib (name "Gekkio_Power_Management")(type "KiCad")(uri "$(KIPRJMOD)/Gekkio_Power_Management.kicad_sym")(options "")(descr ""))
   (lib (name "Gekkio_Power_Protection")(type "KiCad")(uri "$(KIPRJMOD)/Gekkio_Power_Protection.kicad_sym")(options "")(descr ""))
   (lib (name "Gekkio_Power_Supervisor")(type "KiCad")(uri "$(KIPRJMOD)/Gekkio_Power_Supervisor.kicad_sym")(options "")(descr ""))
+  (lib (name "Gekkio_RF_Bluetooth")(type "KiCad")(uri "$(KIPRJMOD)/Gekkio_RF_Bluetooth.kicad_sym")(options "")(descr ""))
   (lib (name "Gekkio_RF_GPS")(type "KiCad")(uri "$(KIPRJMOD)/Gekkio_RF_GPS.kicad_sym")(options "")(descr ""))
   (lib (name "Gekkio_Reference_Voltage")(type "KiCad")(uri "$(KIPRJMOD)/Gekkio_Reference_Voltage.kicad_sym")(options "")(descr ""))
   (lib (name "Gekkio_Regulator_Linear")(type "KiCad")(uri "$(KIPRJMOD)/Gekkio_Regulator_Linear.kicad_sym")(options "")(descr ""))

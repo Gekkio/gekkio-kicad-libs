@@ -98,6 +98,10 @@ Licensed under Creative Commons Attribution 4.0 International.
 | BA33D15HFP | 3.3V/1.5V 0.5A, Dual Output Fixed Output LDO Regulator, HRP5 | [Datasheet](http://rohmfs.rohm.com/en/products/databook/datasheet/ic/power/linear_regulator/ba3258hfp-e.pdf) |
 | BA33D18HFP | 3.3V/1.8V 0.5A, Dual Output Fixed Output LDO Regulator, HRP5 | [Datasheet](http://rohmfs.rohm.com/en/products/databook/datasheet/ic/power/linear_regulator/ba3258hfp-e.pdf) |
 | BCR401W | LED Driver, SC-82 | [Datasheet](https://www.infineon.com/dgdl/Infineon-BCR401W-DS-v02_00-en.pdf?fileId=db3a30431400ef68011407b0f84a0188) |
+| BT832 | Ultra low power Bluetooth Low Energy (BLE) module with Nordic nRF52832 SoC | [Datasheet](https://www.fanstel.com/s/BT832_datasheets.pdf) |
+| BT832A | Ultra low power Bluetooth Low Energy (BLE) module with Nordic nRF52810 SoC | [Datasheet](https://www.fanstel.com/s/BT832_datasheets.pdf) |
+| BT832AF | Ultra low power Bluetooth Low Energy (BLE) module with Nordic nRF52810 SoC | [Datasheet](https://www.fanstel.com/s/BT832_datasheets.pdf) |
+| BT832F | Ultra low power Bluetooth Low Energy (BLE) module with Nordic nRF52832 SoC | [Datasheet](https://www.fanstel.com/s/BT832_datasheets.pdf) |
 | BU4809G | Low Voltage Standard CMOS Voltage Detector, 0.9V threshold, active low output (open drain), SOT-23-5 | [Datasheet](http://rohmfs.rohm.com/en/products/databook/datasheet/ic/power/voltage_detector/bu48xxg-e.pdf) |
 | BU4810G | Low Voltage Standard CMOS Voltage Detector, 1.0V threshold, active low output (open drain), SOT-23-5 | [Datasheet](http://rohmfs.rohm.com/en/products/databook/datasheet/ic/power/voltage_detector/bu48xxg-e.pdf) |
 | BU4811G | Low Voltage Standard CMOS Voltage Detector, 1.1V threshold, active low output (open drain), SOT-23-5 | [Datasheet](http://rohmfs.rohm.com/en/products/databook/datasheet/ic/power/voltage_detector/bu48xxg-e.pdf) |
@@ -495,6 +499,8 @@ Licensed under Creative Commons Attribution 4.0 International.
 | E-Switch_RA12131100 <br> ![E-Switch_RA12131100](photos/E-Switch_RA12131100.jpg) | :heavy_check_mark: |  |
 | EQFP-64-1EP_7x7mm_P0.4mm_EP4.5x4.5mm | :heavy_check_mark: | :heavy_check_mark: |
 | EQFP-64-1EP_7x7mm_P0.4mm_EP4.5x4.5mm_ThermalVias |  |  |
+| Fanstel_BT832 |  |  |
+| Fanstel_BT832F |  |  |
 | GameBoy_Cartridge_1x32_P1.50mm_Edge |  |  |
 | GameBoy_Cartridge_AGB_1x32_P1.50mm_Socket_Horizontal |  |  |
 | GameBoy_Cartridge_AGS_1x32-1MP_P1.50mm_Socket_Horizontal |  |  |
