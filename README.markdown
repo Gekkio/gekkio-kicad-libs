@@ -158,7 +158,7 @@ Licensed under Creative Commons Attribution 4.0 International.
 | GameBoyAdvance_Cartridge_MountingPin | Game Boy cartridge edge connector with mounting pin |  |
 | GameBoyAdvance_SRAM_2M | 2Mb (128k x 16) Game Boy SRAM chip |  |
 | GameBoy_Amplifier_AGB | Audio amplifier, Game Boy Advance (AGB), SSOP-18 |  |
-| GameBoy_AudioJack3_SPST | Audio Jack, 3 Poles (Stereo / TRS), isolated SPST switch | [Datasheet](~) |
+| GameBoy_AudioJack3_SPST | Audio Jack, 3 Poles (Stereo / TRS), isolated SPST switch |  |
 | GameBoy_CPU_AGB-B | CPU, Game Boy Advance SP (AGS), QFP-156 |  |
 | GameBoy_CPU_CGB | CPU, Game Boy Color (CGB), QFP-128 |  |
 | GameBoy_CPU_DMG <br> ![GameBoy_CPU_DMG](photos/GameBoy_CPU_DMG.jpg) | CPU, original Game Boy (DMG), QFP-80 |  |
