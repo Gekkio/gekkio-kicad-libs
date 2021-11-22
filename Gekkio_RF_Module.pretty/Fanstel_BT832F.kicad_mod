@@ -1,4 +1,5 @@
-(footprint "Fanstel_BT832F" (version 20210925) (generator pcbnew) (layer "F.Cu")
+(footprint "Fanstel_BT832F" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
   (tedit 61768B24)
   (descr "Ultra low power Bluetooth Low Energy (BLE) module with Nordic nRF52832 SoC")
   (tags "bluetooth module ble nrf52")
