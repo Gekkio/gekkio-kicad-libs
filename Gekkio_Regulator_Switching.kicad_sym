@@ -1,5 +1,5 @@
-(kicad_symbol_lib (version 20210619) (generator kicad_symbol_editor)
-  (symbol "Gekkio_Regulator_Switching:AP61100" (in_bom yes) (on_board yes)
+(kicad_symbol_lib (version 20211014) (generator kicad_symbol_editor)
+  (symbol "AP61100" (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at 0 8.89 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -23,7 +23,8 @@
     )
     (symbol "AP61100_0_1"
       (rectangle (start 7.62 5.08) (end -7.62 -5.08)
-        (stroke (width 0.254)) (fill (type background))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type background))
       )
     )
     (symbol "AP61100_1_1"
@@ -53,7 +54,7 @@
       )
     )
   )
-  (symbol "Gekkio_Regulator_Switching:AP61102" (in_bom yes) (on_board yes)
+  (symbol "AP61102" (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at 0 8.89 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -77,7 +78,8 @@
     )
     (symbol "AP61102_0_1"
       (rectangle (start 7.62 5.08) (end -7.62 -5.08)
-        (stroke (width 0.254)) (fill (type background))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type background))
       )
     )
     (symbol "AP61102_1_1"
@@ -107,7 +109,7 @@
       )
     )
   )
-  (symbol "Gekkio_Regulator_Switching:LT8580xMS8E" (in_bom yes) (on_board yes)
+  (symbol "LT8580xMS8E" (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at 0 11.43 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -131,7 +133,8 @@
     )
     (symbol "LT8580xMS8E_0_1"
       (rectangle (start -7.62 7.62) (end 7.62 -7.62)
-        (stroke (width 0.254)) (fill (type background))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type background))
       )
     )
     (symbol "LT8580xMS8E_1_1"
@@ -173,7 +176,7 @@
       )
     )
   )
-  (symbol "Gekkio_Regulator_Switching:MIC23158" (in_bom yes) (on_board yes)
+  (symbol "MIC23158" (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at 0 19.05 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -197,7 +200,8 @@
     )
     (symbol "MIC23158_0_1"
       (rectangle (start -12.7 15.24) (end 12.7 -15.24)
-        (stroke (width 0.254)) (fill (type background))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type background))
       )
     )
     (symbol "MIC23158_1_1"
@@ -287,7 +291,7 @@
       )
     )
   )
-  (symbol "Gekkio_Regulator_Switching:MIC23159" (extends "MIC23158")
+  (symbol "MIC23159" (extends "MIC23158")
     (property "Reference" "U" (id 0) (at -7.62 17.78 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -310,7 +314,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "Gekkio_Regulator_Switching:MIC23250-AAYMT" (in_bom yes) (on_board yes)
+  (symbol "MIC23250-AAYMT" (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at 0 13.97 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -334,7 +338,8 @@
     )
     (symbol "MIC23250-AAYMT_0_1"
       (rectangle (start -10.16 10.16) (end 10.16 -10.16)
-        (stroke (width 0.254)) (fill (type background))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type background))
       )
     )
     (symbol "MIC23250-AAYMT_1_1"
@@ -392,7 +397,7 @@
       )
     )
   )
-  (symbol "Gekkio_Regulator_Switching:MP2122GJ" (in_bom yes) (on_board yes)
+  (symbol "MP2122GJ" (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at 0 11.43 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -416,7 +421,8 @@
     )
     (symbol "MP2122GJ_0_1"
       (rectangle (start -7.62 7.62) (end 7.62 -7.62)
-        (stroke (width 0.254)) (fill (type background))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type background))
       )
     )
     (symbol "MP2122GJ_1_1"
@@ -454,7 +460,7 @@
       )
     )
   )
-  (symbol "Gekkio_Regulator_Switching:MP2155GQ" (in_bom yes) (on_board yes)
+  (symbol "MP2155GQ" (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at 0 13.97 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -478,7 +484,8 @@
     )
     (symbol "MP2155GQ_0_1"
       (rectangle (start -10.16 10.16) (end 10.16 -10.16)
-        (stroke (width 0.254)) (fill (type background))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type background))
       )
     )
     (symbol "MP2155GQ_1_1"
@@ -528,7 +535,7 @@
       )
     )
   )
-  (symbol "Gekkio_Regulator_Switching:PAM2308BYMAA" (in_bom yes) (on_board yes)
+  (symbol "PAM2308BYMAA" (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at 0 11.43 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -552,7 +559,8 @@
     )
     (symbol "PAM2308BYMAA_0_1"
       (rectangle (start -7.62 7.62) (end 7.62 -7.62)
-        (stroke (width 0.254)) (fill (type background))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type background))
       )
     )
     (symbol "PAM2308BYMAA_1_1"
@@ -602,7 +610,7 @@
       )
     )
   )
-  (symbol "Gekkio_Regulator_Switching:RT7295C" (in_bom yes) (on_board yes)
+  (symbol "RT7295C" (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at 0 8.89 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -626,7 +634,8 @@
     )
     (symbol "RT7295C_0_1"
       (rectangle (start 7.62 5.08) (end -7.62 -5.08)
-        (stroke (width 0.254)) (fill (type background))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type background))
       )
     )
     (symbol "RT7295C_1_1"
@@ -656,7 +665,7 @@
       )
     )
   )
-  (symbol "Gekkio_Regulator_Switching:SE3608" (in_bom yes) (on_board yes)
+  (symbol "SE3608" (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at 0 8.89 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -680,7 +689,8 @@
     )
     (symbol "SE3608_0_1"
       (rectangle (start -7.62 5.08) (end 7.62 -5.08)
-        (stroke (width 0.254)) (fill (type background))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type background))
       )
     )
     (symbol "SE3608_1_1"

@@ -1,5 +1,5 @@
-(kicad_symbol_lib (version 20210619) (generator kicad_symbol_editor)
-  (symbol "Gekkio_Connector_Specialized:Bus_PCIExpress_1x" (in_bom yes) (on_board yes)
+(kicad_symbol_lib (version 20211014) (generator kicad_symbol_editor)
+  (symbol "Bus_PCIExpress_1x" (in_bom yes) (on_board yes)
     (property "Reference" "J" (id 0) (at 0 -27.94 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -23,7 +23,8 @@
     )
     (symbol "Bus_PCIExpress_1x_0_1"
       (rectangle (start -3.81 25.4) (end 3.81 -25.4)
-        (stroke (width 0.254)) (fill (type background))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type background))
       )
     )
     (symbol "Bus_PCIExpress_1x_1_1"
@@ -173,7 +174,7 @@
       )
     )
   )
-  (symbol "Gekkio_Connector_Specialized:Bus_PCIExpress_4x" (in_bom yes) (on_board yes)
+  (symbol "Bus_PCIExpress_4x" (in_bom yes) (on_board yes)
     (property "Reference" "J" (id 0) (at 0 -45.72 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -197,7 +198,8 @@
     )
     (symbol "Bus_PCIExpress_4x_0_1"
       (rectangle (start -3.81 43.18) (end 3.81 -43.18)
-        (stroke (width 0.254)) (fill (type background))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type background))
       )
     )
     (symbol "Bus_PCIExpress_4x_1_1"
@@ -459,7 +461,7 @@
       )
     )
   )
-  (symbol "Gekkio_Connector_Specialized:Bus_PCIExpress_8x" (in_bom yes) (on_board yes)
+  (symbol "Bus_PCIExpress_8x" (in_bom yes) (on_board yes)
     (property "Reference" "J" (id 0) (at 0 -66.04 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -483,7 +485,8 @@
     )
     (symbol "Bus_PCIExpress_8x_0_1"
       (rectangle (start -3.81 63.5) (end 3.81 -63.5)
-        (stroke (width 0.254)) (fill (type background))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type background))
       )
     )
     (symbol "Bus_PCIExpress_8x_1_1"
@@ -881,7 +884,7 @@
       )
     )
   )
-  (symbol "Gekkio_Connector_Specialized:GameBoyAdvance_Cartridge_MountingPin" (in_bom yes) (on_board yes)
+  (symbol "GameBoyAdvance_Cartridge_MountingPin" (in_bom yes) (on_board yes)
     (property "Reference" "J" (id 0) (at -5.08 43.18 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -905,19 +908,21 @@
     )
     (symbol "GameBoyAdvance_Cartridge_MountingPin_0_1"
       (rectangle (start -7.62 41.91) (end 7.62 -41.91)
-        (stroke (width 0.254)) (fill (type background))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type background))
       )
     )
     (symbol "GameBoyAdvance_Cartridge_MountingPin_1_1"
-      (text "Mounting" (at -5.08 -42.291 0)
-        (effects (font (size 0.381 0.381)))
-      )
       (polyline
         (pts
           (xy -6.096 -42.672)
           (xy -4.064 -42.672)
         )
-        (stroke (width 0.1524)) (fill (type none))
+        (stroke (width 0.1524) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (text "Mounting" (at -5.08 -42.291 0)
+        (effects (font (size 0.381 0.381)))
       )
       (pin passive line (at -10.16 40.64 0) (length 2.54)
         (name "VDD" (effects (font (size 1.27 1.27))))
@@ -1053,7 +1058,7 @@
       )
     )
   )
-  (symbol "Gekkio_Connector_Specialized:GameBoy_AudioJack3_SPST" (in_bom yes) (on_board yes)
+  (symbol "GameBoy_AudioJack3_SPST" (in_bom yes) (on_board yes)
     (property "Reference" "J" (id 0) (at 0 10.16 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -1077,31 +1082,36 @@
     )
     (symbol "GameBoy_AudioJack3_SPST_0_1"
       (rectangle (start -6.35 2.54) (end -5.08 0)
-        (stroke (width 0.254)) (fill (type outline))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type outline))
       )
       (rectangle (start -5.08 6.35) (end 5.08 -6.35)
-        (stroke (width 0.254)) (fill (type background))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type background))
       )
       (polyline
         (pts
           (xy 1.905 -5.08)
           (xy 1.905 0)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 2.54 -5.08)
           (xy 2.54 0)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 5.08 -5.08)
           (xy 1.905 -5.08)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
     )
     (symbol "GameBoy_AudioJack3_SPST_1_1"
@@ -1110,7 +1120,8 @@
           (xy 3.048 -4.826)
           (xy 3.302 -4.318)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -1119,7 +1130,8 @@
           (xy 1.905 0)
           (xy 5.08 0)
         )
-        (stroke (width 0.254)) (fill (type none))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -1128,7 +1140,8 @@
           (xy 3.048 -4.826)
           (xy 2.794 -4.318)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -1137,7 +1150,8 @@
           (xy -0.635 1.905)
           (xy -1.27 2.54)
         )
-        (stroke (width 0.254)) (fill (type none))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -1147,7 +1161,8 @@
           (xy -2.54 1.905)
           (xy -3.175 2.54)
         )
-        (stroke (width 0.254)) (fill (type none))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (pin passive line (at 7.62 5.08 180) (length 2.54)
         (name "~" (effects (font (size 1.27 1.27))))
@@ -1171,7 +1186,7 @@
       )
     )
   )
-  (symbol "Gekkio_Connector_Specialized:GameBoy_Cartridge" (in_bom yes) (on_board yes)
+  (symbol "GameBoy_Cartridge" (in_bom yes) (on_board yes)
     (property "Reference" "J" (id 0) (at 0 43.18 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -1195,7 +1210,8 @@
     )
     (symbol "GameBoy_Cartridge_0_1"
       (rectangle (start -2.54 41.91) (end 2.54 -41.91)
-        (stroke (width 0.254)) (fill (type background))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type background))
       )
     )
     (symbol "GameBoy_Cartridge_1_1"
@@ -1329,7 +1345,7 @@
       )
     )
   )
-  (symbol "Gekkio_Connector_Specialized:GameBoy_Cartridge_MountingPin" (in_bom yes) (on_board yes)
+  (symbol "GameBoy_Cartridge_MountingPin" (in_bom yes) (on_board yes)
     (property "Reference" "J" (id 0) (at 0 43.18 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -1353,19 +1369,21 @@
     )
     (symbol "GameBoy_Cartridge_MountingPin_0_1"
       (rectangle (start -2.54 41.91) (end 2.54 -41.91)
-        (stroke (width 0.254)) (fill (type background))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type background))
       )
     )
     (symbol "GameBoy_Cartridge_MountingPin_1_1"
-      (text "Mounting" (at 0 -42.291 0)
-        (effects (font (size 0.381 0.381)))
-      )
       (polyline
         (pts
           (xy -1.016 -42.672)
           (xy 1.016 -42.672)
         )
-        (stroke (width 0.1524)) (fill (type none))
+        (stroke (width 0.1524) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (text "Mounting" (at 0 -42.291 0)
+        (effects (font (size 0.381 0.381)))
       )
       (pin passive line (at -5.08 40.64 0) (length 2.54)
         (name "VCC" (effects (font (size 1.27 1.27))))
@@ -1501,7 +1519,7 @@
       )
     )
   )
-  (symbol "Gekkio_Connector_Specialized:GameBoy_LinkPort" (in_bom yes) (on_board yes)
+  (symbol "GameBoy_LinkPort" (in_bom yes) (on_board yes)
     (property "Reference" "J" (id 0) (at 0 13.97 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -1525,7 +1543,8 @@
     )
     (symbol "GameBoy_LinkPort_0_1"
       (rectangle (start -2.54 10.16) (end 2.54 -10.16)
-        (stroke (width 0.254)) (fill (type background))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type background))
       )
     )
     (symbol "GameBoy_LinkPort_1_1"

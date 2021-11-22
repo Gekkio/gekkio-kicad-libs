@@ -1,5 +1,5 @@
-(kicad_symbol_lib (version 20210619) (generator kicad_symbol_editor)
-  (symbol "Gekkio_Transistor_FET:AP4953GM" (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
+(kicad_symbol_lib (version 20211014) (generator kicad_symbol_editor)
+  (symbol "AP4953GM" (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
     (property "Reference" "Q" (id 0) (at 5.08 1.27 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -27,75 +27,82 @@
           (xy 0 0)
           (xy 0.254 0)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
     )
     (symbol "AP4953GM_1_1"
-      (circle (center 1.651 0) (radius 2.8194) (stroke (width 0.254)) (fill (type none)))
-      (circle (center 2.54 -1.778) (radius 0.2794) (stroke (width 0)) (fill (type outline)))
-      (circle (center 2.54 1.778) (radius 0.2794) (stroke (width 0)) (fill (type outline)))
       (polyline
         (pts
           (xy 0.762 -1.778)
           (xy 2.54 -1.778)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 0.762 -1.27)
           (xy 0.762 -2.286)
         )
-        (stroke (width 0.254)) (fill (type none))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 0.762 0)
           (xy 2.54 0)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 0.762 0.508)
           (xy 0.762 -0.508)
         )
-        (stroke (width 0.254)) (fill (type none))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 0.762 1.778)
           (xy 2.54 1.778)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 0.762 2.286)
           (xy 0.762 1.27)
         )
-        (stroke (width 0.254)) (fill (type none))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 2.54 -1.778)
           (xy 2.54 -2.54)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 2.54 -1.778)
           (xy 2.54 0)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 2.54 2.54)
           (xy 2.54 1.778)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -103,34 +110,8 @@
           (xy 0.254 -1.905)
           (xy 0.254 -1.905)
         )
-        (stroke (width 0.254)) (fill (type none))
-      )
-      (polyline
-        (pts
-          (xy 2.54 -1.778)
-          (xy 3.302 -1.778)
-          (xy 3.302 1.778)
-          (xy 2.54 1.778)
-        )
-        (stroke (width 0)) (fill (type none))
-      )
-      (polyline
-        (pts
-          (xy 2.794 -0.508)
-          (xy 2.921 -0.381)
-          (xy 3.683 -0.381)
-          (xy 3.81 -0.254)
-        )
-        (stroke (width 0)) (fill (type none))
-      )
-      (polyline
-        (pts
-          (xy 3.302 -0.381)
-          (xy 2.921 0.254)
-          (xy 3.683 0.254)
-          (xy 3.302 -0.381)
-        )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -139,7 +120,50 @@
           (xy 1.27 0.381)
           (xy 2.286 0)
         )
-        (stroke (width 0)) (fill (type outline))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type outline))
+      )
+      (polyline
+        (pts
+          (xy 2.54 -1.778)
+          (xy 3.302 -1.778)
+          (xy 3.302 1.778)
+          (xy 2.54 1.778)
+        )
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 2.794 -0.508)
+          (xy 2.921 -0.381)
+          (xy 3.683 -0.381)
+          (xy 3.81 -0.254)
+        )
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 3.302 -0.381)
+          (xy 2.921 0.254)
+          (xy 3.683 0.254)
+          (xy 3.302 -0.381)
+        )
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (circle (center 1.651 0) (radius 2.8194)
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (circle (center 2.54 -1.778) (radius 0.2794)
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type outline))
+      )
+      (circle (center 2.54 1.778) (radius 0.2794)
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type outline))
       )
       (pin passive line (at 2.54 -5.08 90) (length 2.54)
         (name "S" (effects (font (size 1.27 1.27))))
@@ -159,78 +183,85 @@
       )
     )
     (symbol "AP4953GM_2_1"
-      (circle (center 1.651 0) (radius 2.8194) (stroke (width 0.254)) (fill (type none)))
-      (circle (center 2.54 -1.778) (radius 0.2794) (stroke (width 0)) (fill (type outline)))
-      (circle (center 2.54 1.778) (radius 0.2794) (stroke (width 0)) (fill (type outline)))
       (polyline
         (pts
           (xy 0.0508 0)
           (xy 0.254 0)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 0.762 -1.778)
           (xy 2.54 -1.778)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 0.762 -1.27)
           (xy 0.762 -2.286)
         )
-        (stroke (width 0.254)) (fill (type none))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 0.762 0)
           (xy 2.54 0)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 0.762 0.508)
           (xy 0.762 -0.508)
         )
-        (stroke (width 0.254)) (fill (type none))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 0.762 1.778)
           (xy 2.54 1.778)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 0.762 2.286)
           (xy 0.762 1.27)
         )
-        (stroke (width 0.254)) (fill (type none))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 2.54 -1.778)
           (xy 2.54 -2.54)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 2.54 -1.778)
           (xy 2.54 0)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 2.54 2.54)
           (xy 2.54 1.778)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -238,34 +269,8 @@
           (xy 0.254 -1.905)
           (xy 0.254 -1.905)
         )
-        (stroke (width 0.254)) (fill (type none))
-      )
-      (polyline
-        (pts
-          (xy 2.54 -1.778)
-          (xy 3.302 -1.778)
-          (xy 3.302 1.778)
-          (xy 2.54 1.778)
-        )
-        (stroke (width 0)) (fill (type none))
-      )
-      (polyline
-        (pts
-          (xy 2.794 -0.508)
-          (xy 2.921 -0.381)
-          (xy 3.683 -0.381)
-          (xy 3.81 -0.254)
-        )
-        (stroke (width 0)) (fill (type none))
-      )
-      (polyline
-        (pts
-          (xy 3.302 -0.381)
-          (xy 2.921 0.254)
-          (xy 3.683 0.254)
-          (xy 3.302 -0.381)
-        )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -274,7 +279,50 @@
           (xy 1.27 0.381)
           (xy 2.286 0)
         )
-        (stroke (width 0)) (fill (type outline))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type outline))
+      )
+      (polyline
+        (pts
+          (xy 2.54 -1.778)
+          (xy 3.302 -1.778)
+          (xy 3.302 1.778)
+          (xy 2.54 1.778)
+        )
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 2.794 -0.508)
+          (xy 2.921 -0.381)
+          (xy 3.683 -0.381)
+          (xy 3.81 -0.254)
+        )
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 3.302 -0.381)
+          (xy 2.921 0.254)
+          (xy 3.683 0.254)
+          (xy 3.302 -0.381)
+        )
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (circle (center 1.651 0) (radius 2.8194)
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (circle (center 2.54 -1.778) (radius 0.2794)
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type outline))
+      )
+      (circle (center 2.54 1.778) (radius 0.2794)
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type outline))
       )
       (pin passive line (at 2.54 -5.08 90) (length 2.54)
         (name "S" (effects (font (size 1.27 1.27))))
@@ -294,7 +342,7 @@
       )
     )
   )
-  (symbol "Gekkio_Transistor_FET:DMN3026LVT" (pin_names hide) (in_bom yes) (on_board yes)
+  (symbol "DMN3026LVT" (pin_names hide) (in_bom yes) (on_board yes)
     (property "Reference" "Q" (id 0) (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -317,50 +365,53 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (symbol "DMN3026LVT_0_1"
-      (circle (center 1.651 0) (radius 2.794) (stroke (width 0.254)) (fill (type none)))
-      (circle (center 2.54 -1.778) (radius 0.254) (stroke (width 0)) (fill (type outline)))
-      (circle (center 2.54 1.778) (radius 0.254) (stroke (width 0)) (fill (type outline)))
       (polyline
         (pts
           (xy 0.254 0)
           (xy -2.54 0)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 0.254 1.905)
           (xy 0.254 -1.905)
         )
-        (stroke (width 0.254)) (fill (type none))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 0.762 -1.27)
           (xy 0.762 -2.286)
         )
-        (stroke (width 0.254)) (fill (type none))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 0.762 0.508)
           (xy 0.762 -0.508)
         )
-        (stroke (width 0.254)) (fill (type none))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 0.762 2.286)
           (xy 0.762 1.27)
         )
-        (stroke (width 0.254)) (fill (type none))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 2.54 2.54)
           (xy 2.54 1.778)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -368,7 +419,8 @@
           (xy 2.54 0)
           (xy 0.762 0)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -377,25 +429,8 @@
           (xy 3.302 1.778)
           (xy 0.762 1.778)
         )
-        (stroke (width 0)) (fill (type none))
-      )
-      (polyline
-        (pts
-          (xy 2.794 0.508)
-          (xy 2.921 0.381)
-          (xy 3.683 0.381)
-          (xy 3.81 0.254)
-        )
-        (stroke (width 0)) (fill (type none))
-      )
-      (polyline
-        (pts
-          (xy 3.302 0.381)
-          (xy 2.921 -0.254)
-          (xy 3.683 -0.254)
-          (xy 3.302 0.381)
-        )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -404,7 +439,40 @@
           (xy 2.032 -0.381)
           (xy 1.016 0)
         )
-        (stroke (width 0)) (fill (type outline))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type outline))
+      )
+      (polyline
+        (pts
+          (xy 2.794 0.508)
+          (xy 2.921 0.381)
+          (xy 3.683 0.381)
+          (xy 3.81 0.254)
+        )
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 3.302 0.381)
+          (xy 2.921 -0.254)
+          (xy 3.683 -0.254)
+          (xy 3.302 0.381)
+        )
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (circle (center 1.651 0) (radius 2.794)
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (circle (center 2.54 -1.778) (radius 0.254)
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type outline))
+      )
+      (circle (center 2.54 1.778) (radius 0.254)
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type outline))
       )
     )
     (symbol "DMN3026LVT_1_1"
@@ -434,7 +502,7 @@
       )
     )
   )
-  (symbol "Gekkio_Transistor_FET:Si4435FDY" (pin_names hide) (in_bom yes) (on_board yes)
+  (symbol "Si4435FDY" (pin_names hide) (in_bom yes) (on_board yes)
     (property "Reference" "Q" (id 0) (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -457,50 +525,53 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (symbol "Si4435FDY_0_1"
-      (circle (center 1.651 0) (radius 2.794) (stroke (width 0.254)) (fill (type none)))
-      (circle (center 2.54 -1.778) (radius 0.254) (stroke (width 0)) (fill (type outline)))
-      (circle (center 2.54 1.778) (radius 0.254) (stroke (width 0)) (fill (type outline)))
       (polyline
         (pts
           (xy 0.254 0)
           (xy -2.54 0)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 0.254 1.905)
           (xy 0.254 -1.905)
         )
-        (stroke (width 0.254)) (fill (type none))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 0.762 -1.27)
           (xy 0.762 -2.286)
         )
-        (stroke (width 0.254)) (fill (type none))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 0.762 0.508)
           (xy 0.762 -0.508)
         )
-        (stroke (width 0.254)) (fill (type none))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 0.762 2.286)
           (xy 0.762 1.27)
         )
-        (stroke (width 0.254)) (fill (type none))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 2.54 2.54)
           (xy 2.54 1.778)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -508,7 +579,8 @@
           (xy 2.54 0)
           (xy 0.762 0)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -517,25 +589,8 @@
           (xy 3.302 -1.778)
           (xy 0.762 -1.778)
         )
-        (stroke (width 0)) (fill (type none))
-      )
-      (polyline
-        (pts
-          (xy 2.794 -0.508)
-          (xy 2.921 -0.381)
-          (xy 3.683 -0.381)
-          (xy 3.81 -0.254)
-        )
-        (stroke (width 0)) (fill (type none))
-      )
-      (polyline
-        (pts
-          (xy 3.302 -0.381)
-          (xy 2.921 0.254)
-          (xy 3.683 0.254)
-          (xy 3.302 -0.381)
-        )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -544,7 +599,40 @@
           (xy 1.27 -0.381)
           (xy 2.286 0)
         )
-        (stroke (width 0)) (fill (type outline))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type outline))
+      )
+      (polyline
+        (pts
+          (xy 2.794 -0.508)
+          (xy 2.921 -0.381)
+          (xy 3.683 -0.381)
+          (xy 3.81 -0.254)
+        )
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 3.302 -0.381)
+          (xy 2.921 0.254)
+          (xy 3.683 0.254)
+          (xy 3.302 -0.381)
+        )
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (circle (center 1.651 0) (radius 2.794)
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (circle (center 2.54 -1.778) (radius 0.254)
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type outline))
+      )
+      (circle (center 2.54 1.778) (radius 0.254)
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type outline))
       )
     )
     (symbol "Si4435FDY_1_1"
@@ -582,7 +670,7 @@
       )
     )
   )
-  (symbol "Gekkio_Transistor_FET:SiRA01DP" (pin_names hide) (in_bom yes) (on_board yes)
+  (symbol "SiRA01DP" (pin_names hide) (in_bom yes) (on_board yes)
     (property "Reference" "Q" (id 0) (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -605,50 +693,53 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (symbol "SiRA01DP_0_1"
-      (circle (center 1.651 0) (radius 2.794) (stroke (width 0.254)) (fill (type none)))
-      (circle (center 2.54 -1.778) (radius 0.254) (stroke (width 0)) (fill (type outline)))
-      (circle (center 2.54 1.778) (radius 0.254) (stroke (width 0)) (fill (type outline)))
       (polyline
         (pts
           (xy 0.254 0)
           (xy -2.54 0)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 0.254 1.905)
           (xy 0.254 -1.905)
         )
-        (stroke (width 0.254)) (fill (type none))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 0.762 -1.27)
           (xy 0.762 -2.286)
         )
-        (stroke (width 0.254)) (fill (type none))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 0.762 0.508)
           (xy 0.762 -0.508)
         )
-        (stroke (width 0.254)) (fill (type none))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 0.762 2.286)
           (xy 0.762 1.27)
         )
-        (stroke (width 0.254)) (fill (type none))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 2.54 2.54)
           (xy 2.54 1.778)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -656,7 +747,8 @@
           (xy 2.54 0)
           (xy 0.762 0)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -665,25 +757,8 @@
           (xy 3.302 -1.778)
           (xy 0.762 -1.778)
         )
-        (stroke (width 0)) (fill (type none))
-      )
-      (polyline
-        (pts
-          (xy 2.794 -0.508)
-          (xy 2.921 -0.381)
-          (xy 3.683 -0.381)
-          (xy 3.81 -0.254)
-        )
-        (stroke (width 0)) (fill (type none))
-      )
-      (polyline
-        (pts
-          (xy 3.302 -0.381)
-          (xy 2.921 0.254)
-          (xy 3.683 0.254)
-          (xy 3.302 -0.381)
-        )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -692,7 +767,40 @@
           (xy 1.27 -0.381)
           (xy 2.286 0)
         )
-        (stroke (width 0)) (fill (type outline))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type outline))
+      )
+      (polyline
+        (pts
+          (xy 2.794 -0.508)
+          (xy 2.921 -0.381)
+          (xy 3.683 -0.381)
+          (xy 3.81 -0.254)
+        )
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 3.302 -0.381)
+          (xy 2.921 0.254)
+          (xy 3.683 0.254)
+          (xy 3.302 -0.381)
+        )
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (circle (center 1.651 0) (radius 2.794)
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (circle (center 2.54 -1.778) (radius 0.254)
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type outline))
+      )
+      (circle (center 2.54 1.778) (radius 0.254)
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type outline))
       )
     )
     (symbol "SiRA01DP_1_1"
@@ -718,7 +826,7 @@
       )
     )
   )
-  (symbol "Gekkio_Transistor_FET:Si7149ADP" (extends "SiRA01DP")
+  (symbol "Si7149ADP" (extends "SiRA01DP")
     (property "Reference" "Q" (id 0) (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -741,7 +849,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
   )
-  (symbol "Gekkio_Transistor_FET:SiRA28BDP" (pin_names hide) (in_bom yes) (on_board yes)
+  (symbol "SiRA28BDP" (pin_names hide) (in_bom yes) (on_board yes)
     (property "Reference" "Q" (id 0) (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -764,50 +872,53 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (symbol "SiRA28BDP_0_1"
-      (circle (center 1.651 0) (radius 2.794) (stroke (width 0.254)) (fill (type none)))
-      (circle (center 2.54 -1.778) (radius 0.254) (stroke (width 0)) (fill (type outline)))
-      (circle (center 2.54 1.778) (radius 0.254) (stroke (width 0)) (fill (type outline)))
       (polyline
         (pts
           (xy 0.254 0)
           (xy -2.54 0)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 0.254 1.905)
           (xy 0.254 -1.905)
         )
-        (stroke (width 0.254)) (fill (type none))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 0.762 -1.27)
           (xy 0.762 -2.286)
         )
-        (stroke (width 0.254)) (fill (type none))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 0.762 0.508)
           (xy 0.762 -0.508)
         )
-        (stroke (width 0.254)) (fill (type none))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 0.762 2.286)
           (xy 0.762 1.27)
         )
-        (stroke (width 0.254)) (fill (type none))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 2.54 2.54)
           (xy 2.54 1.778)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -815,7 +926,8 @@
           (xy 2.54 0)
           (xy 0.762 0)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -824,25 +936,8 @@
           (xy 3.302 1.778)
           (xy 0.762 1.778)
         )
-        (stroke (width 0)) (fill (type none))
-      )
-      (polyline
-        (pts
-          (xy 2.794 0.508)
-          (xy 2.921 0.381)
-          (xy 3.683 0.381)
-          (xy 3.81 0.254)
-        )
-        (stroke (width 0)) (fill (type none))
-      )
-      (polyline
-        (pts
-          (xy 3.302 0.381)
-          (xy 2.921 -0.254)
-          (xy 3.683 -0.254)
-          (xy 3.302 0.381)
-        )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -851,7 +946,40 @@
           (xy 2.032 -0.381)
           (xy 1.016 0)
         )
-        (stroke (width 0)) (fill (type outline))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type outline))
+      )
+      (polyline
+        (pts
+          (xy 2.794 0.508)
+          (xy 2.921 0.381)
+          (xy 3.683 0.381)
+          (xy 3.81 0.254)
+        )
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 3.302 0.381)
+          (xy 2.921 -0.254)
+          (xy 3.683 -0.254)
+          (xy 3.302 0.381)
+        )
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (circle (center 1.651 0) (radius 2.794)
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (circle (center 2.54 -1.778) (radius 0.254)
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type outline))
+      )
+      (circle (center 2.54 1.778) (radius 0.254)
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type outline))
       )
     )
     (symbol "SiRA28BDP_1_1"
@@ -877,7 +1005,7 @@
       )
     )
   )
-  (symbol "Gekkio_Transistor_FET:SiRA88DP" (extends "SiRA28BDP")
+  (symbol "SiRA88DP" (extends "SiRA28BDP")
     (property "Reference" "Q" (id 0) (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )

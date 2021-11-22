@@ -1,5 +1,5 @@
-(kicad_symbol_lib (version 20210619) (generator kicad_symbol_editor)
-  (symbol "Gekkio_Diode:FMN1" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+(kicad_symbol_lib (version 20211014) (generator kicad_symbol_editor)
+  (symbol "FMN1" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
     (property "Reference" "D" (id 0) (at 0 2.54 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -27,21 +27,24 @@
           (xy -1.27 1.27)
           (xy -1.27 -1.27)
         )
-        (stroke (width 0.1524)) (fill (type none))
+        (stroke (width 0.1524) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 1.27 -1.27)
           (xy 1.27 1.27)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 1.27 0)
           (xy -1.27 0)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -49,7 +52,8 @@
           (xy -1.27 0)
           (xy 1.27 -1.27)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
     )
     (symbol "FMN1_1_1"
@@ -93,7 +97,7 @@
       )
     )
   )
-  (symbol "Gekkio_Diode:NSR0530H" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
+  (symbol "NSR0530H" (pin_numbers hide) (pin_names hide) (in_bom yes) (on_board yes)
     (property "Reference" "D" (id 0) (at 0 2.54 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -121,7 +125,8 @@
           (xy 1.27 0)
           (xy -1.27 0)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -130,7 +135,8 @@
           (xy -1.27 0)
           (xy 1.27 1.27)
         )
-        (stroke (width 0.2032)) (fill (type none))
+        (stroke (width 0.2032) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -141,7 +147,8 @@
           (xy -0.635 -1.27)
           (xy -0.635 -0.635)
         )
-        (stroke (width 0.2032)) (fill (type none))
+        (stroke (width 0.2032) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
     )
     (symbol "NSR0530H_1_1"
@@ -155,7 +162,7 @@
       )
     )
   )
-  (symbol "Gekkio_Diode:UMP1N" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+  (symbol "UMP1N" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
     (property "Reference" "D" (id 0) (at 0 2.54 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -183,21 +190,24 @@
           (xy -1.27 1.27)
           (xy -1.27 -1.27)
         )
-        (stroke (width 0.1524)) (fill (type none))
+        (stroke (width 0.1524) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 1.27 -1.27)
           (xy 1.27 1.27)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 1.27 0)
           (xy -1.27 0)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -205,7 +215,8 @@
           (xy -1.27 0)
           (xy 1.27 -1.27)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
     )
     (symbol "UMP1N_1_1"

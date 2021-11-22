@@ -1,5 +1,5 @@
-(kicad_symbol_lib (version 20210619) (generator kicad_symbol_editor)
-  (symbol "Gekkio_Amplifier_Difference:OPA1632D" (in_bom yes) (on_board yes)
+(kicad_symbol_lib (version 20211014) (generator kicad_symbol_editor)
+  (symbol "OPA1632D" (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at 3.81 6.35 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -29,7 +29,8 @@
           (xy 10.16 0)
           (xy -7.62 8.89)
         )
-        (stroke (width 0.254)) (fill (type background))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type background))
       )
     )
     (symbol "OPA1632D_1_1"

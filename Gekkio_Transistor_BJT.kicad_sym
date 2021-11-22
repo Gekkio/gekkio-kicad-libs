@@ -1,5 +1,5 @@
-(kicad_symbol_lib (version 20210619) (generator kicad_symbol_editor)
-  (symbol "Gekkio_Transistor_BJT:RN4986" (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
+(kicad_symbol_lib (version 20211014) (generator kicad_symbol_editor)
+  (symbol "RN4986" (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
     (property "Reference" "Q" (id 0) (at 5.08 1.905 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -30,48 +30,61 @@
       )
     )
     (symbol "RN4986_0_1"
-      (arc (start -1.27 3.175) (end -1.27 -3.175) (radius (at -1.27 0) (length 3.175) (angles 90.1 -90.1))
-        (stroke (width 0.254)) (fill (type none))
+      (circle (center -1.27 0) (radius 0.127)
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
-      (arc (start 0.635 -3.175) (end 0.635 3.175) (radius (at 0.635 0) (length 3.175) (angles -89.9 89.9))
-        (stroke (width 0.254)) (fill (type none))
+      (arc (start -1.27 3.175) (mid -4.445 0) (end -1.27 -3.175)
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
-      (circle (center -1.27 0) (radius 0.127) (stroke (width 0)) (fill (type none)))
-      (circle (center 2.54 -2.286) (radius 0.127) (stroke (width 0)) (fill (type none)))
       (polyline
         (pts
           (xy -3.429 0)
           (xy -3.81 0)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy -1.27 -3.175)
           (xy 0.635 -3.175)
         )
-        (stroke (width 0.254)) (fill (type none))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy -1.27 3.175)
           (xy 0.635 3.175)
         )
-        (stroke (width 0.254)) (fill (type none))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 0 -0.254)
           (xy 2.54 2.286)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0.127 1.524)
+          (xy 0.127 -1.651)
+        )
+        (stroke (width 0.508) (type default) (color 0 0 0 0))
+        (fill (type outline))
       )
       (polyline
         (pts
           (xy 2.54 2.286)
           (xy 2.54 2.54)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -79,7 +92,8 @@
           (xy 0 0.254)
           (xy 0 0.254)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -93,7 +107,8 @@
           (xy -3.302 -0.508)
           (xy -3.429 0)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -109,14 +124,16 @@
           (xy -1.27 -2.286)
           (xy 2.54 -2.286)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
-      (polyline
-        (pts
-          (xy 0.127 1.524)
-          (xy 0.127 -1.651)
-        )
-        (stroke (width 0.508)) (fill (type outline))
+      (arc (start 0.635 -3.175) (mid 3.81 0) (end 0.635 3.175)
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (circle (center 2.54 -2.286) (radius 0.127)
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
     )
     (symbol "RN4986_1_1"
@@ -127,7 +144,8 @@
           (xy 1.905 -1.651)
           (xy 0.889 -1.143)
         )
-        (stroke (width 0)) (fill (type outline))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type outline))
       )
       (pin passive line (at 2.54 -5.08 90) (length 2.54)
         (name "E" (effects (font (size 1.27 1.27))))
@@ -150,7 +168,8 @@
           (xy 1.016 -0.762)
           (xy 2.032 -1.27)
         )
-        (stroke (width 0)) (fill (type outline))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type outline))
       )
       (pin passive line (at 2.54 5.08 270) (length 2.54)
         (name "C" (effects (font (size 1.27 1.27))))

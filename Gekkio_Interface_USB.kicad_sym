@@ -1,5 +1,5 @@
-(kicad_symbol_lib (version 20210619) (generator kicad_symbol_editor)
-  (symbol "Gekkio_Interface_USB:TS3USB221RSER" (in_bom yes) (on_board yes)
+(kicad_symbol_lib (version 20211014) (generator kicad_symbol_editor)
+  (symbol "TS3USB221RSER" (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at -6.35 8.89 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -23,7 +23,8 @@
     )
     (symbol "TS3USB221RSER_0_1"
       (rectangle (start 7.62 7.62) (end -7.62 -7.62)
-        (stroke (width 0.254)) (fill (type background))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type background))
       )
     )
     (symbol "TS3USB221RSER_1_1"

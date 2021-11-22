@@ -1,5 +1,5 @@
-(kicad_symbol_lib (version 20210619) (generator kicad_symbol_editor)
-  (symbol "Gekkio_Interface:MBC1" (in_bom yes) (on_board yes)
+(kicad_symbol_lib (version 20211014) (generator kicad_symbol_editor)
+  (symbol "MBC1" (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at -10.16 19.05 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -23,7 +23,8 @@
     )
     (symbol "MBC1_0_1"
       (rectangle (start -10.16 17.78) (end 10.16 -17.78)
-        (stroke (width 0.254)) (fill (type background))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type background))
       )
     )
     (symbol "MBC1_1_1"
@@ -125,7 +126,7 @@
       )
     )
   )
-  (symbol "Gekkio_Interface:MBC2" (in_bom yes) (on_board yes)
+  (symbol "MBC2" (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at -10.16 24.13 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -149,7 +150,8 @@
     )
     (symbol "MBC2_0_1"
       (rectangle (start -10.16 22.86) (end 10.16 -22.86)
-        (stroke (width 0.254)) (fill (type background))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type background))
       )
     )
     (symbol "MBC2_1_1"
@@ -267,7 +269,7 @@
       )
     )
   )
-  (symbol "Gekkio_Interface:MBC5" (in_bom yes) (on_board yes)
+  (symbol "MBC5" (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at -10.16 24.13 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -291,7 +293,8 @@
     )
     (symbol "MBC5_0_0"
       (rectangle (start -10.16 22.86) (end 10.16 -22.86)
-        (stroke (width 0.254)) (fill (type background))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type background))
       )
     )
     (symbol "MBC5_1_1"
@@ -425,7 +428,7 @@
       )
     )
   )
-  (symbol "Gekkio_Interface:PCA9517ADP" (in_bom yes) (on_board yes)
+  (symbol "PCA9517ADP" (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at -12.7 8.89 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -449,7 +452,8 @@
     )
     (symbol "PCA9517ADP_0_1"
       (rectangle (start -12.7 7.62) (end 12.7 -7.62)
-        (stroke (width 0.254)) (fill (type background))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type background))
       )
     )
     (symbol "PCA9517ADP_1_1"

@@ -1,5 +1,5 @@
-(kicad_symbol_lib (version 20210619) (generator kicad_symbol_editor)
-  (symbol "Gekkio_Driver_Motor:DRV8426RGER" (in_bom yes) (on_board yes)
+(kicad_symbol_lib (version 20211014) (generator kicad_symbol_editor)
+  (symbol "DRV8426RGER" (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at -10.16 21.59 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -20,7 +20,8 @@
     )
     (symbol "DRV8426RGER_0_1"
       (rectangle (start -10.16 20.32) (end 10.16 -20.32)
-        (stroke (width 0.254)) (fill (type background))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type background))
       )
     )
     (symbol "DRV8426RGER_1_1"

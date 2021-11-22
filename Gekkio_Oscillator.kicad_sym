@@ -1,5 +1,5 @@
-(kicad_symbol_lib (version 20210619) (generator kicad_symbol_editor)
-  (symbol "Gekkio_Oscillator:TG-3541CE" (in_bom yes) (on_board yes)
+(kicad_symbol_lib (version 20211014) (generator kicad_symbol_editor)
+  (symbol "TG-3541CE" (in_bom yes) (on_board yes)
     (property "Reference" "Y" (id 0) (at -5.08 6.35 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -23,7 +23,8 @@
     )
     (symbol "TG-3541CE_0_1"
       (rectangle (start -5.08 5.08) (end 5.08 -5.08)
-        (stroke (width 0.254)) (fill (type background))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type background))
       )
       (polyline
         (pts
@@ -38,7 +39,8 @@
           (xy 0.508 -0.762)
           (xy 0.762 -0.762)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
     )
     (symbol "TG-3541CE_1_1"

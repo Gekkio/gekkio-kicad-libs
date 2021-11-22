@@ -1,5 +1,5 @@
-(kicad_symbol_lib (version 20210619) (generator kicad_symbol_editor)
-  (symbol "Gekkio_Battery_Management:LTC4011CFE" (in_bom yes) (on_board yes)
+(kicad_symbol_lib (version 20211014) (generator kicad_symbol_editor)
+  (symbol "LTC4011CFE" (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at -12.7 19.05 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -23,7 +23,8 @@
     )
     (symbol "LTC4011CFE_0_1"
       (rectangle (start -12.7 17.78) (end 12.7 -17.78)
-        (stroke (width 0.254)) (fill (type background))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type background))
       )
     )
     (symbol "LTC4011CFE_1_1"
@@ -113,7 +114,7 @@
       )
     )
   )
-  (symbol "Gekkio_Battery_Management:MM1581" (in_bom yes) (on_board yes)
+  (symbol "MM1581" (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at -7.62 16.51 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -137,7 +138,8 @@
     )
     (symbol "MM1581_0_1"
       (rectangle (start -7.62 15.24) (end 7.62 -15.24)
-        (stroke (width 0.254)) (fill (type background))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type background))
       )
     )
     (symbol "MM1581_1_1"

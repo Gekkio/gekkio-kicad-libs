@@ -1,5 +1,5 @@
-(kicad_symbol_lib (version 20210619) (generator kicad_symbol_editor)
-  (symbol "Gekkio_Amplifier_Audio:GameBoy_Amplifier_AGB" (in_bom yes) (on_board yes)
+(kicad_symbol_lib (version 20211014) (generator kicad_symbol_editor)
+  (symbol "GameBoy_Amplifier_AGB" (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at -10.16 19.05 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -23,7 +23,8 @@
     )
     (symbol "GameBoy_Amplifier_AGB_0_1"
       (rectangle (start -10.16 17.78) (end 10.16 -17.78)
-        (stroke (width 0.254)) (fill (type background))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type background))
       )
     )
     (symbol "GameBoy_Amplifier_AGB_1_1"
@@ -101,7 +102,7 @@
       )
     )
   )
-  (symbol "Gekkio_Amplifier_Audio:IR3R53N" (in_bom yes) (on_board yes)
+  (symbol "IR3R53N" (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at -10.16 19.05 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -125,7 +126,8 @@
     )
     (symbol "IR3R53N_0_1"
       (rectangle (start -10.16 17.78) (end 10.16 -17.78)
-        (stroke (width 0.254)) (fill (type background))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type background))
       )
     )
     (symbol "IR3R53N_1_1"
@@ -203,7 +205,7 @@
       )
     )
   )
-  (symbol "Gekkio_Amplifier_Audio:LM4818" (in_bom yes) (on_board yes)
+  (symbol "LM4818" (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at 5.08 7.62 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -231,21 +233,24 @@
           (xy 3.81 -3.302)
           (xy 4.826 -3.302)
         )
-        (stroke (width 0.1524)) (fill (type none))
+        (stroke (width 0.1524) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 3.81 3.302)
           (xy 4.826 3.302)
         )
-        (stroke (width 0.1524)) (fill (type none))
+        (stroke (width 0.1524) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 4.318 2.794)
           (xy 4.318 3.81)
         )
-        (stroke (width 0.1524)) (fill (type none))
+        (stroke (width 0.1524) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -253,7 +258,8 @@
           (xy 3.81 -2.54)
           (xy 5.08 -2.54)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -261,7 +267,8 @@
           (xy 3.81 2.54)
           (xy 3.81 0.635)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -270,7 +277,8 @@
           (xy -5.08 -5.08)
           (xy -5.08 5.08)
         )
-        (stroke (width 0.254)) (fill (type background))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type background))
       )
     )
     (symbol "LM4818_1_1"

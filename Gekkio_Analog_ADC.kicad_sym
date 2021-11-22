@@ -1,5 +1,5 @@
-(kicad_symbol_lib (version 20210619) (generator kicad_symbol_editor)
-  (symbol "Gekkio_Analog_ADC:ADS1274" (in_bom yes) (on_board yes)
+(kicad_symbol_lib (version 20211014) (generator kicad_symbol_editor)
+  (symbol "ADS1274" (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at -15.24 41.91 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -23,7 +23,8 @@
     )
     (symbol "ADS1274_0_1"
       (rectangle (start -15.24 40.64) (end 15.24 -40.64)
-        (stroke (width 0.254)) (fill (type background))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type background))
       )
     )
     (symbol "ADS1274_1_1"
@@ -289,7 +290,7 @@
       )
     )
   )
-  (symbol "Gekkio_Analog_ADC:ADS1278" (in_bom yes) (on_board yes)
+  (symbol "ADS1278" (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at -15.24 41.91 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -313,7 +314,8 @@
     )
     (symbol "ADS1278_0_1"
       (rectangle (start -15.24 40.64) (end 15.24 -40.64)
-        (stroke (width 0.254)) (fill (type background))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type background))
       )
     )
     (symbol "ADS1278_1_1"

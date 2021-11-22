@@ -1,5 +1,5 @@
-(kicad_symbol_lib (version 20210619) (generator kicad_symbol_editor)
-  (symbol "Gekkio_Device_Specialized:R_Potentiometer_GameBoy_Volume_MGB" (pin_names hide) (in_bom yes) (on_board yes)
+(kicad_symbol_lib (version 20211014) (generator kicad_symbol_editor)
+  (symbol "R_Potentiometer_GameBoy_Volume_MGB" (pin_names hide) (in_bom yes) (on_board yes)
     (property "Reference" "RV" (id 0) (at 0 -7.62 0)
       (effects (font (size 1.27 1.27)))
     )
@@ -16,91 +16,105 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (symbol "R_Potentiometer_GameBoy_Volume_MGB_0_1"
+      (rectangle (start -7.62 6.35) (end 7.62 -6.35)
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type background))
+      )
       (rectangle (start -5.08 3.556) (end 0 1.524)
-        (stroke (width 0.254)) (fill (type none))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (rectangle (start 0 -1.524) (end 5.08 -3.556)
-        (stroke (width 0.254)) (fill (type none))
-      )
-      (rectangle (start -7.62 6.35) (end 7.62 -6.35)
-        (stroke (width 0.254)) (fill (type background))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy -2.54 5.08)
           (xy -2.54 4.826)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy -2.54 5.08)
           (xy -2.032 5.588)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy -2.54 7.62)
           (xy -2.54 5.08)
         )
-        (stroke (width 0.1524)) (fill (type none))
+        (stroke (width 0.1524) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy -1.524 5.588)
           (xy -1.016 5.588)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy -0.508 5.588)
           (xy 0 5.588)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 0.508 5.588)
           (xy 1.016 5.588)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 1.524 5.588)
           (xy 2.032 5.588)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 2.54 -0.254)
           (xy 2.54 5.08)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 2.54 7.62)
           (xy 2.54 5.08)
         )
-        (stroke (width 0.1524)) (fill (type none))
+        (stroke (width 0.1524) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 7.62 -2.54)
           (xy 5.08 -2.54)
         )
-        (stroke (width 0.1524)) (fill (type none))
+        (stroke (width 0.1524) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 7.62 2.54)
           (xy 0 2.54)
         )
-        (stroke (width 0.1524)) (fill (type none))
+        (stroke (width 0.1524) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -108,7 +122,8 @@
           (xy -6.35 -2.54)
           (xy 0 -2.54)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -116,7 +131,8 @@
           (xy -6.35 2.54)
           (xy -5.08 2.54)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -124,7 +140,8 @@
           (xy 3.048 5.588)
           (xy 2.54 5.08)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -133,7 +150,8 @@
           (xy -2.032 4.826)
           (xy -2.54 3.683)
         )
-        (stroke (width 0)) (fill (type outline))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type outline))
       )
       (polyline
         (pts
@@ -142,7 +160,8 @@
           (xy 3.048 -0.254)
           (xy 2.54 -1.397)
         )
-        (stroke (width 0)) (fill (type outline))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type outline))
       )
     )
     (symbol "R_Potentiometer_GameBoy_Volume_MGB_1_1"

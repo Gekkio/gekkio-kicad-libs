@@ -1,5 +1,5 @@
-(kicad_symbol_lib (version 20210619) (generator kicad_symbol_editor)
-  (symbol "Gekkio_Power_Protection:SP0504SHTG" (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
+(kicad_symbol_lib (version 20211014) (generator kicad_symbol_editor)
+  (symbol "SP0504SHTG" (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at -7.62 8.89 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -23,148 +23,178 @@
     )
     (symbol "SP0504SHTG_0_0"
       (rectangle (start -5.715 6.477) (end 5.715 -6.604)
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy -3.175 -6.604)
           (xy -3.175 6.477)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 0 6.477)
           (xy 0 -6.604)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 3.175 6.477)
           (xy 3.175 -6.604)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
     )
     (symbol "SP0504SHTG_0_1"
-      (circle (center -5.715 -2.54) (radius 0.2794) (stroke (width 0)) (fill (type outline)))
-      (circle (center -3.175 -6.604) (radius 0.2794) (stroke (width 0)) (fill (type outline)))
-      (circle (center -3.175 2.54) (radius 0.2794) (stroke (width 0)) (fill (type outline)))
-      (circle (center -3.175 6.477) (radius 0.2794) (stroke (width 0)) (fill (type outline)))
-      (circle (center 0 -6.604) (radius 0.2794) (stroke (width 0)) (fill (type outline)))
-      (circle (center 0 6.477) (radius 0.2794) (stroke (width 0)) (fill (type outline)))
-      (circle (center 3.175 -6.604) (radius 0.2794) (stroke (width 0)) (fill (type outline)))
-      (circle (center 3.175 -2.54) (radius 0.2794) (stroke (width 0)) (fill (type outline)))
-      (circle (center 3.175 6.477) (radius 0.2794) (stroke (width 0)) (fill (type outline)))
-      (circle (center 5.715 2.54) (radius 0.2794) (stroke (width 0)) (fill (type outline)))
       (rectangle (start -7.62 7.62) (end 7.62 -7.62)
-        (stroke (width 0.254)) (fill (type background))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type background))
+      )
+      (circle (center -5.715 -2.54) (radius 0.2794)
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type outline))
+      )
+      (circle (center -3.175 -6.604) (radius 0.2794)
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type outline))
+      )
+      (circle (center -3.175 2.54) (radius 0.2794)
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type outline))
+      )
+      (circle (center -3.175 6.477) (radius 0.2794)
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type outline))
+      )
+      (circle (center 0 -6.604) (radius 0.2794)
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type outline))
       )
       (polyline
         (pts
           (xy -7.747 2.54)
           (xy -3.175 2.54)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy -7.62 -2.54)
           (xy -5.715 -2.54)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy -5.08 -3.81)
           (xy -6.35 -3.81)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy -5.08 5.08)
           (xy -6.35 5.08)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy -2.54 -3.81)
           (xy -3.81 -3.81)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy -2.54 5.08)
           (xy -3.81 5.08)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy -0.635 0.889)
           (xy -1.016 0.635)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 0.635 0.889)
           (xy -0.635 0.889)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 0.635 0.889)
           (xy 1.016 1.143)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 3.81 -3.81)
           (xy 2.54 -3.81)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 3.81 5.08)
           (xy 2.54 5.08)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 6.35 -3.81)
           (xy 5.08 -3.81)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 6.35 5.08)
           (xy 5.08 5.08)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 7.62 -2.54)
           (xy 3.175 -2.54)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 7.62 2.54)
           (xy 5.715 2.54)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -173,7 +203,8 @@
           (xy -5.715 -3.81)
           (xy -5.08 -5.08)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -182,7 +213,8 @@
           (xy -5.715 5.08)
           (xy -5.08 3.81)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -191,7 +223,8 @@
           (xy -3.175 -3.81)
           (xy -2.54 -5.08)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -200,7 +233,8 @@
           (xy -3.175 5.08)
           (xy -2.54 3.81)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -209,7 +243,8 @@
           (xy 0 0.889)
           (xy 0.635 -0.381)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -218,7 +253,8 @@
           (xy 3.175 -3.81)
           (xy 3.81 -5.08)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -227,7 +263,8 @@
           (xy 3.175 5.08)
           (xy 3.81 3.81)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -236,7 +273,8 @@
           (xy 5.715 -3.81)
           (xy 6.35 -5.08)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -245,7 +283,28 @@
           (xy 5.715 5.08)
           (xy 6.35 3.81)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (circle (center 0 6.477) (radius 0.2794)
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type outline))
+      )
+      (circle (center 3.175 -6.604) (radius 0.2794)
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type outline))
+      )
+      (circle (center 3.175 -2.54) (radius 0.2794)
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type outline))
+      )
+      (circle (center 3.175 6.477) (radius 0.2794)
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type outline))
+      )
+      (circle (center 5.715 2.54) (radius 0.2794)
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type outline))
       )
     )
     (symbol "SP0504SHTG_1_1"
@@ -275,7 +334,7 @@
       )
     )
   )
-  (symbol "Gekkio_Power_Protection:SP3003-02JTG" (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
+  (symbol "SP3003-02JTG" (pin_names (offset 0) hide) (in_bom yes) (on_board yes)
     (property "Reference" "U" (id 0) (at -5.08 6.35 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -298,64 +357,77 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (symbol "SP3003-02JTG_0_1"
-      (circle (center -3.175 0) (radius 0.2794) (stroke (width 0)) (fill (type outline)))
-      (circle (center 0 -3.81) (radius 0.2794) (stroke (width 0)) (fill (type outline)))
-      (circle (center 0 3.81) (radius 0.2794) (stroke (width 0)) (fill (type outline)))
-      (circle (center 3.175 0) (radius 0.2794) (stroke (width 0)) (fill (type outline)))
-      (rectangle (start -3.175 3.81) (end 3.175 -3.81)
-        (stroke (width 0)) (fill (type none))
-      )
       (rectangle (start -5.08 5.08) (end 5.08 -5.08)
-        (stroke (width 0.254)) (fill (type background))
+        (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (fill (type background))
+      )
+      (circle (center -3.175 0) (radius 0.2794)
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type outline))
+      )
+      (rectangle (start -3.175 3.81) (end 3.175 -3.81)
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (circle (center 0 -3.81) (radius 0.2794)
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type outline))
       )
       (polyline
         (pts
           (xy -5.08 0)
           (xy -3.175 0)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy -3.81 -1.27)
           (xy -2.54 -1.27)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy -3.81 2.54)
           (xy -2.54 2.54)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 0 5.08)
           (xy 0 -5.08)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 2.54 -1.27)
           (xy 3.81 -1.27)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 2.54 2.54)
           (xy 3.81 2.54)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
           (xy 5.08 0)
           (xy 3.175 0)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -363,7 +435,8 @@
           (xy -0.762 0.762)
           (xy -0.762 0.508)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -372,7 +445,8 @@
           (xy -3.175 -1.27)
           (xy -2.54 -2.54)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -381,7 +455,8 @@
           (xy -3.175 2.54)
           (xy -2.54 1.27)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -390,7 +465,8 @@
           (xy 0 0.762)
           (xy 0.635 -0.508)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -399,7 +475,8 @@
           (xy 3.175 -1.27)
           (xy 3.81 -2.54)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
       )
       (polyline
         (pts
@@ -408,7 +485,16 @@
           (xy 3.175 2.54)
           (xy 3.81 1.27)
         )
-        (stroke (width 0)) (fill (type none))
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (circle (center 0 3.81) (radius 0.2794)
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type outline))
+      )
+      (circle (center 3.175 0) (radius 0.2794)
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type outline))
       )
     )
     (symbol "SP3003-02JTG_1_1"
