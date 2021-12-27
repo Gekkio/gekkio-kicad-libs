@@ -293,6 +293,7 @@ Licensed under Creative Commons Attribution 4.0 International.
 | LT1965xT-2.5 | 1.1A, 2.5V, Low Noise, Low Dropout Linear Regulator, TO-220 | [Datasheet](https://www.analog.com/media/en/technical-documentation/data-sheets/1965fb.pdf) |
 | LT1965xT-3.3 | 1.1A, 3.3V, Low Noise, Low Dropout Linear Regulator, TO-220 | [Datasheet](https://www.analog.com/media/en/technical-documentation/data-sheets/1965fb.pdf) |
 | LT8580xMS8E | Boost/SEPIC/Inverting DC/DC Converter with 1A, 65V Switch, Soft-Start and Synchronization, MSOP-8 | [Datasheet](https://www.analog.com/media/en/technical-documentation/data-sheets/lt8580.pdf) |
+| LTC2943 | Multicell Battery Gas Gauge with Temperature, Voltage and Current Measurement | [Datasheet](https://www.analog.com/media/en/technical-documentation/data-sheets/2943fa.pdf) |
 | LTC4011CFE | High Efficiency Standalone Nickel Battery Charger, TSSOP-20 | [Datasheet](https://www.analog.com/media/en/technical-documentation/data-sheets/4011fb.pdf) |
 | MAX6029EUK21 | Ultra-Low-Power Precision Series Voltage Reference, 2.048V, SOT-23-5 | [Datasheet](https://datasheets.maximintegrated.com/en/ds/MAX6029.pdf) |
 | MAX6029EUK25 | Ultra-Low-Power Precision Series Voltage Reference, 2.500V, SOT-23-5 | [Datasheet](https://datasheets.maximintegrated.com/en/ds/MAX6029.pdf) |
