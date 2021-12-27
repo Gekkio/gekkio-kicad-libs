@@ -532,6 +532,7 @@ Licensed under Creative Commons Attribution 4.0 International.
 | Battery_CR2025_Horizontal_Tabbed |  |  |
 | CWIndustries_GF-1123-1110 <br> ![CWIndustries_GF-1123-1110](photos/CWIndustries_GF-1123-1110.jpg) |  |  |
 | DFN-12-1EP_2.5x2.5mm_P0.4mm_EP1.2x1.9mm |  |  |
+| DFN-6-1EP_3x3mm_P0.95mm_EP1.35x2.15mm |  |  |
 | E-Switch_RA12131100 <br> ![E-Switch_RA12131100](photos/E-Switch_RA12131100.jpg) | :heavy_check_mark: |  |
 | EQFP-64-1EP_7x7mm_P0.4mm_EP4.5x4.5mm | :heavy_check_mark: | :heavy_check_mark: |
 | EQFP-64-1EP_7x7mm_P0.4mm_EP4.5x4.5mm_ThermalVias |  |  |
@@ -571,7 +572,6 @@ Licensed under Creative Commons Attribution 4.0 International.
 | Molex_CLIK-Mate_213227-32xx_2x16-1MP_P1.50mm_Vertical |  |  |
 | MountingHole_2.3mm |  |  |
 | MountingHole_7.2mm |  |  |
-| OnSemi_DFN-6-1EP_3x3mm_P0.95mm_EP1.2x2.0mm |  |  |
 | Oscillator_SMD_SeikoEpson_TG-3541CE_3.2x2.5mm |  |  |
 | PCIExpress_x1_2x18_P1.00mm_Edge |  |  |
 | PCIExpress_x4_2x32_P1.00mm_Edge |  |  |
