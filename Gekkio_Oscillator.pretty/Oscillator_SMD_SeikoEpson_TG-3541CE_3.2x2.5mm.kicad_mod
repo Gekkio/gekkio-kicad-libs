@@ -41,7 +41,7 @@
   (pad "8" smd rect (at 0 -1) (size 0.4 0.9) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp f9e7ff71-7662-40d2-9968-aeace1e0fed4))
   (pad "9" smd rect (at -0.7 -1) (size 0.4 0.9) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 42868d4f-7f68-4a64-833c-7330e00b24ab))
   (pad "10" smd rect (at -1.6 -1) (size 0.7 0.9) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 4839062c-fa56-42b7-9dab-84011b1a6f69))
-  (model "${KISYS3DMOD}/Gekkio_Oscillator.3dshapes/Oscillator_SMD_SeikoEpson_TG-3541CE_3.2x2.5mm.wrl"
+  (model "${KICAD6_3DMODEL_DIR}/Gekkio_Oscillator.3dshapes/Oscillator_SMD_SeikoEpson_TG-3541CE_3.2x2.5mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

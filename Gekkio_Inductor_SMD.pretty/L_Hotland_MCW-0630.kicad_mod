@@ -28,7 +28,7 @@
   (fp_line (start -3.475 3.3) (end -3.475 -3.3) (layer "F.Fab") (width 0.1) (tstamp e9ab40ed-fd72-4d2d-901e-2d893aa8b85e))
   (pad "1" smd rect (at -3.025 0) (size 2.35 3.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp c36e313e-b57e-4e87-be84-97f5175f9e1a))
   (pad "2" smd rect (at 3.025 0) (size 2.35 3.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp f42adfe5-2223-4c4a-b9de-5bf6a8c6e384))
-  (model "${KISYS3DMOD}/Gekkio_Inductor_SMD.3dshapes/L_Hotland_MCW-0630.wrl"
+  (model "${KICAD6_3DMODEL_DIR}/Gekkio_Inductor_SMD.3dshapes/L_Hotland_MCW-0630.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -33,7 +33,7 @@
   (pad "1" smd rect (at -6.425 -4.5) (size 2.65 3.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 513ac10c-3dc2-4932-9201-bcccffe71575))
   (pad "2" smd rect (at -6.425 4.5) (size 2.65 3.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 521e93ad-3807-4fc6-b9c0-1674844d3620))
   (pad "MP" smd rect (at 6.425 0) (size 2.65 3.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 6d90ed54-d2eb-481e-8825-b4c0da15c178))
-  (model "${KISYS3DMOD}/Gekkio_Inductor_SMD.3dshapes/L_Coilcraft_SER1512.wrl"
+  (model "${KICAD6_3DMODEL_DIR}/Gekkio_Inductor_SMD.3dshapes/L_Coilcraft_SER1512.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

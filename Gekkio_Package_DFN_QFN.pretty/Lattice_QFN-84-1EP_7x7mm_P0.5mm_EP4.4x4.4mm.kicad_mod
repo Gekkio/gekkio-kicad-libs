@@ -126,7 +126,7 @@
   (pad "B34" smd rect (at -1 -2.65) (size 0.22 0.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 1bb5e46f-0972-46a6-8efc-57d2ce2cbd72))
   (pad "B35" smd rect (at -1.5 -2.65) (size 0.22 0.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 2c52bd99-5ca1-4aea-988d-611ea62ea30a))
   (pad "B36" smd rect (at -2 -2.65) (size 0.22 0.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 1207bf92-f05b-48a2-a7e9-ab0752fc8069))
-  (model "${KISYS3DMOD}/Gekkio_Package_DFN_QFN.3dshapes/Lattice_QFN-84-1EP_7x7mm_P0.5mm_EP4.4x4.4mm.wrl"
+  (model "${KICAD6_3DMODEL_DIR}/Gekkio_Package_DFN_QFN.3dshapes/Lattice_QFN-84-1EP_7x7mm_P0.5mm_EP4.4x4.4mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

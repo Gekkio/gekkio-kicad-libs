@@ -62,7 +62,7 @@
   (pad "26" smd roundrect (at 5.55 -5.715) (size 1.9 0.6) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 8d1b1fdb-81e1-407c-9e06-af2e14131ff0))
   (pad "27" smd roundrect (at 5.55 -6.985) (size 1.9 0.6) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp a0647d88-e296-4f45-a86b-61dcaec02619))
   (pad "28" smd roundrect (at 5.55 -8.255) (size 1.9 0.6) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp e32a4d3b-8a67-4624-bb80-466d228ccfc2))
-  (model "${KISYS3DMOD}/Gekkio_Package_SO.3dshapes/Sharp_SOIC-28W_8.6x18mm_P1.27mm.wrl"
+  (model "${KICAD6_3DMODEL_DIR}/Gekkio_Package_SO.3dshapes/Sharp_SOIC-28W_8.6x18mm_P1.27mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -28,7 +28,7 @@
   (fp_line (start 2 -2) (end 2 2) (layer "F.Fab") (width 0.1) (tstamp f45571e1-3997-45fd-be3a-64996a93b165))
   (pad "1" smd rect (at -1.5 0) (size 1.1 3.7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 86c81794-13bd-4e07-b7c3-db4d0a217ec7))
   (pad "2" smd rect (at 1.5 0) (size 1.1 3.7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 16d0ce06-1cc1-48db-8915-66dcee803574))
-  (model "${KISYS3DMOD}/Gekkio_Inductor_SMD.3dshapes/L_Sunltech_SLW40xx.wrl"
+  (model "${KICAD6_3DMODEL_DIR}/Gekkio_Inductor_SMD.3dshapes/L_Sunltech_SLW40xx.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

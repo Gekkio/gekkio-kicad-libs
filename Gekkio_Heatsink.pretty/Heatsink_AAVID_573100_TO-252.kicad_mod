@@ -38,7 +38,7 @@
   (fp_line (start 5.205 4) (end 5.205 -4) (layer "F.Fab") (width 0.1) (tstamp d20adab5-6b8c-4ec8-b2c9-867c66f997bb))
   (pad "1" smd rect (at -5.95 0) (size 1.4 9) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 0168faa9-d860-4835-8533-3c0281553d85))
   (pad "1" smd rect (at 5.95 0) (size 1.4 9) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 2f5d54b9-4474-4308-b413-75bfc8f0fc82))
-  (model "${KISYS3DMOD}/Gekkio_Heatsink.3dshapes/Heatsink_AAVID_573100_TO-252.wrl"
+  (model "${KICAD6_3DMODEL_DIR}/Gekkio_Heatsink.3dshapes/Heatsink_AAVID_573100_TO-252.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

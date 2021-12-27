@@ -71,7 +71,7 @@
   (fp_circle (center 0 0) (end 10 0) (layer "F.Fab") (width 0.1) (fill none) (tstamp f71da641-16e6-4257-80c3-0b9d804fee4f))
   (pad "1" smd rect (at -15 0) (size 3.5 3.9) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp fd470e95-4861-44fe-b1e4-6d8a7c66e144))
   (pad "2" smd rect (at 15 0) (size 3.5 3.9) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 8174b4de-74b1-48db-ab8e-c8432251095b))
-  (model "${KISYS3DMOD}/Gekkio_Battery.3dshapes/BatteryHolder_Renata_SMTU2032-LF.wrl"
+  (model "${KICAD6_3DMODEL_DIR}/Gekkio_Battery.3dshapes/BatteryHolder_Renata_SMTU2032-LF.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

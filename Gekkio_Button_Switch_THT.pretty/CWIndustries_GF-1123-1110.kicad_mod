@@ -50,7 +50,7 @@
   (fp_circle (center -14.29 1.42) (end -12.51 1.42) (layer "F.Fab") (width 0.1) (fill none) (tstamp aa288a22-ea1d-474d-8dae-efe971580843))
   (pad "1" thru_hole rect (at 0 0) (size 3.82 3.82) (drill 1.91) (layers *.Cu *.Mask) (tstamp 4d51bc15-1f84-46be-8e16-e836b10f854e))
   (pad "2" thru_hole circle (at -7.92 0) (size 3.82 3.82) (drill 1.91) (layers *.Cu *.Mask) (tstamp 43f341b3-06e9-4e7a-a26e-5365b89d76bf))
-  (model "${KISYS3DMOD}/Gekkio_Button_Switch_THT.3dshapes/CWIndustries_GF-1123-1110.wrl"
+  (model "${KICAD6_3DMODEL_DIR}/Gekkio_Button_Switch_THT.3dshapes/CWIndustries_GF-1123-1110.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

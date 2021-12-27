@@ -42,7 +42,7 @@
   (pad "1" smd rect (at -1.55 -1.375) (size 0.6 0.65) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp a150f0c9-1a23-4200-b489-18791f6d5ce5))
   (pad "2" smd rect (at 1.55 1.375) (size 0.6 0.65) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 300aa512-2f66-4c26-a530-50c091b3a099))
   (pad "2" smd rect (at -1.55 1.375) (size 0.6 0.65) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 5bbde4f9-fcdb-4d27-a2d6-3847fcdd87ba))
-  (model "${KISYS3DMOD}/Gekkio_Button_Switch_SMD.3dshapes/SW_SPST_PTS540.wrl"
+  (model "${KICAD6_3DMODEL_DIR}/Gekkio_Button_Switch_SMD.3dshapes/SW_SPST_PTS540.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

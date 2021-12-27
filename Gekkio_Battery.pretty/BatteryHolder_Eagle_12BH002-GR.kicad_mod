@@ -64,7 +64,7 @@
   (pad "1" smd rect (at -13.05 0) (size 4.9 5.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 712d6a7d-2b62-464f-b745-fd2a6b0187f6))
   (pad "1" smd rect (at 13.05 0) (size 4.9 5.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp b3d08afa-f296-4e3b-8825-73b6331d35bf))
   (pad "2" connect circle (at 0 0) (size 17.8 17.8) (layers "F.Cu" "F.Mask") (tstamp 3172f2e2-18d2-4a80-ae30-5707b3409798))
-  (model "${KISYS3DMOD}/Gekkio_Battery.3dshapes/BatteryHolder_Eagle_12BH002-GR.wrl"
+  (model "${KICAD6_3DMODEL_DIR}/Gekkio_Battery.3dshapes/BatteryHolder_Eagle_12BH002-GR.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

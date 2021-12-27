@@ -97,7 +97,7 @@
   (pad "B30" thru_hole circle (at 31 4.5) (size 1.1 1.1) (drill 0.7) (layers *.Cu *.Mask) (tstamp fd545dac-856c-48de-9df2-9bd1e3b69ae7))
   (pad "B31" thru_hole circle (at 32 2.5) (size 1.1 1.1) (drill 0.7) (layers *.Cu *.Mask) (tstamp 32f7f993-844d-4647-82bc-7e4c69fc685b))
   (pad "B32" thru_hole circle (at 33 4.5) (size 1.1 1.1) (drill 0.7) (layers *.Cu *.Mask) (tstamp 5a10edf2-528f-4464-9121-d3df9cb8c8cc))
-  (model "${KISYS3DMOD}/Gekkio_Connector_PCBEdge.3dshapes/Amphenol_10018783-x0x01_2x32_P1.00mm_Socket_Vertical.wrl"
+  (model "${KICAD6_3DMODEL_DIR}/Gekkio_Connector_PCBEdge.3dshapes/Amphenol_10018783-x0x01_2x32_P1.00mm_Socket_Vertical.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -31,7 +31,7 @@
   (fp_circle (center 0 0) (end 8 0) (layer "F.Fab") (width 0.1) (fill none) (tstamp 88668202-3f0b-4d07-84d4-dcd790f57272))
   (pad "1" smd rect (at 0 -11) (size 4 4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp b7867831-ef82-4f33-a926-59e5c1c09b91))
   (pad "2" smd rect (at 0 11) (size 4 4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 6bf05d19-ba3e-4ba6-8a6f-4e0bc45ea3b2))
-  (model "${KISYS3DMOD}/Gekkio_Battery.3dshapes/Battery_CR1616_Horizontal_Tabbed.wrl"
+  (model "${KICAD6_3DMODEL_DIR}/Gekkio_Battery.3dshapes/Battery_CR1616_Horizontal_Tabbed.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

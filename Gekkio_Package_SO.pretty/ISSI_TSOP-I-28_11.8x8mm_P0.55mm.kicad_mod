@@ -54,7 +54,7 @@
   (pad "26" smd rect (at 1.375 -6.45 180) (size 0.35 1.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 24e23484-19e7-4964-8a93-af8fde42d41f))
   (pad "27" smd rect (at 0.825 -6.45 180) (size 0.35 1.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 167cd86d-3377-44c7-a97c-90363a1a9ce5))
   (pad "28" smd rect (at 0.275 -6.45 180) (size 0.35 1.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp c7af8cc6-fd03-4316-bccc-f21907955706))
-  (model "${KISYS3DMOD}/Gekkio_Package_SO.3dshapes/ISSI_TSOP-I-28_11.8x8mm_P0.55mm.wrl"
+  (model "${KICAD6_3DMODEL_DIR}/Gekkio_Package_SO.3dshapes/ISSI_TSOP-I-28_11.8x8mm_P0.55mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

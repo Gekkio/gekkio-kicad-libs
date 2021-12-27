@@ -79,7 +79,7 @@
   (pad "32" smd rect (at -30.2 -5.25) (size 2.5 4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 3a7238f6-7c6a-4e04-a22f-a51222d7d622))
   (pad "32" smd rect (at 23.25 6) (size 1 2.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 67a5fcdd-3751-43e3-a6a2-427f0894f42a))
   (pad "32" smd rect (at 30.2 -5.25) (size 2.5 4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 7a049f60-81da-4f43-97b9-4697f544c134))
-  (model "${KISYS3DMOD}/Gekkio_Connector_PCBEdge.3dshapes/GameBoy_Cartridge_DSLite_1x32_P1.50mm_Socket_Horizontal.wrl"
+  (model "${KICAD6_3DMODEL_DIR}/Gekkio_Connector_PCBEdge.3dshapes/GameBoy_Cartridge_DSLite_1x32_P1.50mm_Socket_Horizontal.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

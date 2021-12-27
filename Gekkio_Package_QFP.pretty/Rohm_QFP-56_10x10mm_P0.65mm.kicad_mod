@@ -110,7 +110,7 @@
   (pad "54" smd roundrect (at -2.925 -5.95) (size 0.4 1.5) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp a4ba60af-fc6f-4ce1-b3f8-2c69fbb96f24))
   (pad "55" smd roundrect (at -3.575 -5.95) (size 0.4 1.5) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 01328595-d7c6-41f3-a6b0-86ccddc3786b))
   (pad "56" smd roundrect (at -4.225 -5.95) (size 0.4 1.5) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp ca99cf28-55be-4169-bd05-b553bd39853e))
-  (model "${KISYS3DMOD}/Gekkio_Package_QFP.3dshapes/Rohm_QFP-56_10x10mm_P0.65mm.wrl"
+  (model "${KICAD6_3DMODEL_DIR}/Gekkio_Package_QFP.3dshapes/Rohm_QFP-56_10x10mm_P0.65mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

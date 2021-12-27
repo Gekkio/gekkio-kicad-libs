@@ -84,7 +84,7 @@
   (pad "J7" smd circle (at 1.6 3.2) (size 0.4 0.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp d47cbe4e-5c4c-4eed-8fdc-371bb6aeb2af))
   (pad "J8" smd circle (at 2.4 3.2) (size 0.4 0.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 501655d4-4524-47b9-83ac-9c6404a1f71a))
   (pad "J9" smd circle (at 3.2 3.2) (size 0.4 0.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 15aca8ef-073f-47a4-a7c9-159fba6de3fc))
-  (model "${KISYS3DMOD}/Gekkio_Package_BGA.3dshapes/Micron_VFBGA-54_8x8mm_Layout9x9_P0.8mm.wrl"
+  (model "${KICAD6_3DMODEL_DIR}/Gekkio_Package_BGA.3dshapes/Micron_VFBGA-54_8x8mm_Layout9x9_P0.8mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

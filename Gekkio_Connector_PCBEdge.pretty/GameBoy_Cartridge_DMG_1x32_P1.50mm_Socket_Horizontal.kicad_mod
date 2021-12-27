@@ -92,7 +92,7 @@
   (pad "30" thru_hole circle (at 43.5 -1.5) (size 1.6 1.6) (drill 1) (layers *.Cu *.Mask) (tstamp ab3fca1c-45bb-469f-9f25-aa7e33ef6c3f))
   (pad "31" thru_hole circle (at 45 0) (size 1.6 1.6) (drill 1) (layers *.Cu *.Mask) (tstamp 2cd5ef3f-7192-4e09-8416-f9427ed5ab4b))
   (pad "32" thru_hole circle (at 46.5 -1.5) (size 1.6 1.6) (drill 1) (layers *.Cu *.Mask) (tstamp 4eea8901-693e-4bab-9813-6b166be4ff8f))
-  (model "${KISYS3DMOD}/Gekkio_Connector_PCBEdge.3dshapes/GameBoy_Cartridge_DMG_1x32_P1.50mm_Socket_Horizontal.wrl"
+  (model "${KICAD6_3DMODEL_DIR}/Gekkio_Connector_PCBEdge.3dshapes/GameBoy_Cartridge_DMG_1x32_P1.50mm_Socket_Horizontal.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

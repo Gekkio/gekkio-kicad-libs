@@ -102,7 +102,7 @@
   (pad "3" thru_hole circle (at 4.755 3) (size 0.6 0.6) (drill 0.3) (layers *.Cu) (tstamp fafd4965-77bb-41cc-b980-1eb0012c1f65))
   (pad "4" smd rect (at -4.97 1.72) (size 1.37 1.07) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 27236790-96af-41ee-84ca-02745950a6a1))
   (pad "5" smd rect (at -4.97 3.44) (size 1.37 1.07) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 0b717f9e-760c-4824-a9fd-51ce32f96dfe))
-  (model "${KISYS3DMOD}/Gekkio_Package_TO_SOT_SMD.3dshapes/Rohm_HRP5.wrl"
+  (model "${KICAD6_3DMODEL_DIR}/Gekkio_Package_TO_SOT_SMD.3dshapes/Rohm_HRP5.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

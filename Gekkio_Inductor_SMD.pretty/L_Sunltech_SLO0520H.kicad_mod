@@ -28,7 +28,7 @@
   (fp_line (start -2.7 -2.55) (end 2.7 -2.55) (layer "F.Fab") (width 0.1) (tstamp e0826cf5-7bc8-46f9-9a4a-faa239d9a3be))
   (pad "1" smd rect (at -2 0) (size 1.8 2.7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 71e08c4a-87e8-4eab-bf7a-07576b516f43))
   (pad "2" smd rect (at 2 0) (size 1.8 2.7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 9ada1f8b-87a2-4893-abbc-cbaf8ae52c63))
-  (model "${KISYS3DMOD}/Gekkio_Inductor_SMD.3dshapes/L_Sunltech_SLO0520H.wrl"
+  (model "${KICAD6_3DMODEL_DIR}/Gekkio_Inductor_SMD.3dshapes/L_Sunltech_SLO0520H.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

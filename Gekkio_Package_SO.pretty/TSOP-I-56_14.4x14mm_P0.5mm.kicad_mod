@@ -85,7 +85,7 @@
   (pad "54" smd roundrect (at 7.6875 -5.75) (size 1.575 0.3) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp a63f826a-0b12-4f96-9504-ec23d05d03f5))
   (pad "55" smd roundrect (at 7.6875 -6.25) (size 1.575 0.3) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp d529d172-6a2e-400f-bae2-b8daac1e2220))
   (pad "56" smd roundrect (at 7.6875 -6.75) (size 1.575 0.3) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25) (tstamp 65acabc3-5dc7-4dff-8a2f-c70b199c5720))
-  (model "${KISYS3DMOD}/Gekkio_Package_SO.3dshapes/TSOP-I-56_14.4x14mm_P0.5mm.wrl"
+  (model "${KICAD6_3DMODEL_DIR}/Gekkio_Package_SO.3dshapes/TSOP-I-56_14.4x14mm_P0.5mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

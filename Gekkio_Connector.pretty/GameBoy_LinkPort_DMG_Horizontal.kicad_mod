@@ -38,7 +38,7 @@
   (pad "6" thru_hole circle (at 2 5 90) (size 1.4 1.4) (drill 1) (layers *.Cu *.Mask) (tstamp d9198b20-68ab-4f03-9039-95a74aeba0d6))
   (pad "SH" thru_hole oval (at 5 -3.4 90) (size 2 3) (drill oval 1.2 2.2) (layers *.Cu *.Mask) (tstamp 133d5403-9be3-4603-824b-d3b76147e745))
   (pad "SH" thru_hole oval (at 5 8.4 90) (size 2 3) (drill oval 1.2 2.2) (layers *.Cu *.Mask) (tstamp de5c2064-b9e1-4057-a8cc-9308019ef4d3))
-  (model "${KISYS3DMOD}/Gekkio_Connector.3dshapes/GameBoy_LinkPort_DMG_Horizontal.wrl"
+  (model "${KICAD6_3DMODEL_DIR}/Gekkio_Connector.3dshapes/GameBoy_LinkPort_DMG_Horizontal.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

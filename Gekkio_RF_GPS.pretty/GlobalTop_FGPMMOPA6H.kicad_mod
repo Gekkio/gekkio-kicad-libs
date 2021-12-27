@@ -61,7 +61,7 @@
   (pad "18" smd rect (at 8 -3.75) (size 2 1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp c74efa0e-fe88-416f-a227-99d6e8d760c7))
   (pad "19" smd rect (at 8 -5.25) (size 2 1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 6b229950-e06d-4baf-aa24-651cf85ba54b))
   (pad "20" smd rect (at 8 -6.75) (size 2 1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp a7745449-ca46-4403-b455-2e4d3b78061b))
-  (model "${KISYS3DMOD}/Gekkio_RF_GPS.3dshapes/GlobalTop_FGPMMOPA6H.wrl"
+  (model "${KICAD6_3DMODEL_DIR}/Gekkio_RF_GPS.3dshapes/GlobalTop_FGPMMOPA6H.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

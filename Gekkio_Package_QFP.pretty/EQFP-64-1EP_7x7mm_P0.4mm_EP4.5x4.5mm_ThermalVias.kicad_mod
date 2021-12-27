@@ -262,7 +262,7 @@
   (pad "65" thru_hole circle (at -1.95 -1.95) (size 0.6 0.6) (drill 0.3) (layers *.Cu) (tstamp c60f6726-39d1-4c6e-be56-57c455994754))
   (pad "65" thru_hole circle (at 1.95 -1.95) (size 0.6 0.6) (drill 0.3) (layers *.Cu) (tstamp c63a04b3-7727-4c12-ab2d-879c743c4dc9))
   (pad "65" thru_hole circle (at -0.65 -0.65) (size 0.6 0.6) (drill 0.3) (layers *.Cu) (tstamp cbc59be3-45d4-49e9-a69a-85b2f92598ad))
-  (model "${KISYS3DMOD}/Gekkio_Package_QFP.3dshapes/EQFP-64-1EP_7x7mm_P0.4mm_EP4.5x4.5mm.wrl"
+  (model "${KICAD6_3DMODEL_DIR}/Gekkio_Package_QFP.3dshapes/EQFP-64-1EP_7x7mm_P0.4mm_EP4.5x4.5mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

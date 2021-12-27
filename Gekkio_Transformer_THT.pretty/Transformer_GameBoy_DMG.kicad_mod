@@ -33,7 +33,7 @@
   (pad "7" thru_hole circle (at 6.16 4.48 90) (size 1.8 1.8) (drill 0.9) (layers *.Cu *.Mask) (tstamp 496240ec-ba2d-4f6a-adb7-f5e02131d259))
   (pad "8" thru_hole circle (at 6.16 2 90) (size 1.8 1.8) (drill 0.9) (layers *.Cu *.Mask) (tstamp f89263a0-0cd8-4e58-887b-57ddd402ae2d))
   (pad "9" thru_hole circle (at 4.72 0 90) (size 1.8 1.8) (drill 0.9) (layers *.Cu *.Mask) (tstamp 6803e087-39a2-4a63-85c5-8c25d0be5c6e))
-  (model "${KISYS3DMOD}/Gekkio_Transformer_THT.3dshapes/Transformer_GameBoy_DMG.wrl"
+  (model "${KICAD6_3DMODEL_DIR}/Gekkio_Transformer_THT.3dshapes/Transformer_GameBoy_DMG.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

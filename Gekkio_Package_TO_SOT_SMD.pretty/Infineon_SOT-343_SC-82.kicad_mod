@@ -31,7 +31,7 @@
   (pad "2" smd rect (at -0.8 0.5) (size 0.75 0.9) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 871bcb84-8548-40db-b559-0e1da875c01e))
   (pad "3" smd rect (at 0.8 0.65) (size 0.8 0.6) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 4230b83c-1619-4570-8b22-76e63c4131a2))
   (pad "4" smd rect (at 0.8 -0.65) (size 0.8 0.6) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp b9ac069a-793d-4537-a1fd-6527f2c5c2cb))
-  (model "${KISYS3DMOD}/Gekkio_Package_TO_SOT_SMD.3dshapes/Infineon_SOT-343_SC-82.wrl"
+  (model "${KICAD6_3DMODEL_DIR}/Gekkio_Package_TO_SOT_SMD.3dshapes/Infineon_SOT-343_SC-82.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
