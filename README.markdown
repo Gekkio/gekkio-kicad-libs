@@ -22,6 +22,7 @@ Licensed under Creative Commons Attribution 4.0 International.
 | 10M25SCE144 | MAX 10 FPGA, 25000 LE, single supply, EQFP-144 | [Datasheet](https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/hb/max-10/m10_overview.pdf) |
 | 10M40DAF256 | MAX 10 FPGA, 40000 LE, dual supply, analog and flash, FBGA-256 | [Datasheet](https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/hb/max-10/m10_overview.pdf) |
 | 10M50DAF256 | MAX 10 FPGA, 50000 LE, dual supply, analog and flash, FBGA-256 | [Datasheet](https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/hb/max-10/m10_overview.pdf) |
+| 1SS294 | 40V 0.1A Small signal Schottky diode, SOT-23 | [Datasheet](https://toshiba.semicon-storage.com/info/docget.jsp?did=3290&prodName=1SS294) |
 | 23K256xSN | 256k SPI Bus Low-Power Serial SRAM, SOIC-8 | [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/22100F.pdf) |
 | 23K256xST | 256k SPI Bus Low-Power Serial SRAM, TSSOP-8 | [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/22100F.pdf) |
 | 5M160ZE64 | MAX V CPLD, 160 LE, EQFP-64 | [Datasheet](https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/hb/max-v/mv51001.pdf) |
