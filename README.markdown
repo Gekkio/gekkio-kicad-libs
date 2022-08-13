@@ -389,6 +389,8 @@ Licensed under Creative Commons Attribution 4.0 International.
 | NSR0530H | 30V 500mA Schottky diode, SOD-323 | [Datasheet](http://www.onsemi.com/pub/Collateral/NSR0530H-D.PDF) |
 | NT5DS32M16CS | 512Mb (32M x 16) DDR SDRAM, TSOP-II 66-pin | [Datasheet](https://elinux.org/images/e/e0/Nt5d32m16cs-5t.pdf) |
 | OPA1632D | High-Performance, Fully-Differential Audio Operational Amplifier, SOIC-8 | [Datasheet](http://www.ti.com/lit/ds/sbos286c/sbos286c.pdf) |
+| OPA210IDBV | Single 18MHz, Rail-to-Rail Output, 2.2-nV/√Hz Precision, Low-Power, 36-V Operational Amplifier, SOT-23-5 | [Datasheet](https://www.ti.com/lit/ds/symlink/opa210.pdf) |
+| OPA2210ID | Dual 18MHz, Rail-to-Rail Output, 2.2-nV/√Hz Precision, Low-Power, 36-V Operational Amplifier, SOIC-8 | [Datasheet](https://www.ti.com/lit/ds/symlink/opa210.pdf) |
 | OPA350UA | High-Speed, Single-Supply, Rail-to-Rail Operational Amplifiers MicroAmplifier Series, SOIC-8 | [Datasheet](http://www.ti.com/lit/ds/symlink/opa4350.pdf) |
 | PAM2308BYMAA | Dual high-efficiency PWM step-down DC-DC converter, DFN-10 | [Datasheet](https://www.diodes.com/assets/Datasheets/products_inactive_data/PAM2308.pdf) |
 | PCA9517ADP | Level translating I2C-bus repeater, TSSOP-8 | [Datasheet](https://www.nxp.com/docs/en/data-sheet/PCA9517.pdf) |
