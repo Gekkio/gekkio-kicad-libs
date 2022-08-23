@@ -186,6 +186,7 @@ Licensed under Creative Commons Attribution 4.0 International.
 | GameBoy_SW_DPST | Double Pole Single Throw (DPST) Switch | [Datasheet](~) |
 | GameBoy_SW_SP3T | Switch, three position, single pole triple throw, 3 position switch, SP3T | [Datasheet](~) |
 | GameBoy_SW_SPDT | Switch, three position, single pole triple throw, 3 position switch, SP3T | [Datasheet](~) |
+| GameBoy_Transformer_066 | Power Transformer "066" |  |
 | GameBoy_Transformer_AGS | Power Transformer, Game Boy Advance SP (AGS) |  |
 | GameBoy_Transformer_DMG | Power Transformer, original Game Boy (DMG) |  |
 | ICE40LP1K-QN84 | iCE40 LP FPGA, 1280 LUTs, 1.2V, QFN-84 | [Datasheet](http://www.latticesemi.com/Products/FPGAandCPLD/iCE40) |
@@ -296,6 +297,8 @@ Licensed under Creative Commons Attribution 4.0 International.
 | LT8580xMS8E | Boost/SEPIC/Inverting DC/DC Converter with 1A, 65V Switch, Soft-Start and Synchronization, MSOP-8 | [Datasheet](https://www.analog.com/media/en/technical-documentation/data-sheets/lt8580.pdf) |
 | LTC2943 | Multicell Battery Gas Gauge with Temperature, Voltage and Current Measurement | [Datasheet](https://www.analog.com/media/en/technical-documentation/data-sheets/2943fa.pdf) |
 | LTC4011CFE | High Efficiency Standalone Nickel Battery Charger, TSSOP-20 | [Datasheet](https://www.analog.com/media/en/technical-documentation/data-sheets/4011fb.pdf) |
+| MA3X720 | 40V 0.5A Small signal Schottky diode, SOT-23 | [Datasheet](https://industrial.panasonic.com/content/data/SC/ds/ds4/MA3X720_E_discon.pdf) |
+| MA3X748 | 20V 0.5A Small signal Schottky diode, SOT-23 | [Datasheet](https://industrial.panasonic.com/content/data/SC/ds/ds4/MA3X748_E_discon.pdf) |
 | MAX6029EUK21 | Ultra-Low-Power Precision Series Voltage Reference, 2.048V, SOT-23-5 | [Datasheet](https://datasheets.maximintegrated.com/en/ds/MAX6029.pdf) |
 | MAX6029EUK25 | Ultra-Low-Power Precision Series Voltage Reference, 2.500V, SOT-23-5 | [Datasheet](https://datasheets.maximintegrated.com/en/ds/MAX6029.pdf) |
 | MAX6029EUK30 | Ultra-Low-Power Precision Series Voltage Reference, 3.000V, SOT-23-5 | [Datasheet](https://datasheets.maximintegrated.com/en/ds/MAX6029.pdf) |
