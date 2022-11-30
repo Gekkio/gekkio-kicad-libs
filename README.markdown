@@ -190,6 +190,9 @@ Licensed under Creative Commons Attribution 4.0 International.
 | GameBoy_Transformer_AGS | Power Transformer, Game Boy Advance SP (AGS) |  |
 | GameBoy_Transformer_DMG | Power Transformer, original Game Boy (DMG) |  |
 | ICE40LP1K-QN84 | iCE40 LP FPGA, 1280 LUTs, 1.2V, QFN-84 | [Datasheet](http://www.latticesemi.com/Products/FPGAandCPLD/iCE40) |
+| IQXO-791 | HCMOS Crystal Clock Oscillator, 3.3V | [Datasheet](https://www.iqdfrequencyproducts.com/products/details/iqxo-79x.pdf) |
+| IQXO-793 | HCMOS Crystal Clock Oscillator, 2.5V | [Datasheet](https://www.iqdfrequencyproducts.com/products/details/iqxo-79x.pdf) |
+| IQXO-794 | HCMOS Crystal Clock Oscillator, 1.8V | [Datasheet](https://www.iqdfrequencyproducts.com/products/details/iqxo-79x.pdf) |
 | IR3E02 | LCD bias regulator, original Game Boy (DMG) |  |
 | IR3R53N | Audio amplifier, Game Boy Pocket (MGB), SSOP-18 |  |
 | IS61C1024AL-12T | 1Mb (128k x 8), 5V, 12ns, High-Speed CMOS Static RAM, TSOP-I 32-pin | [Datasheet](http://www.issi.com/WW/pdf/62-65C1024AL.pdf) |
@@ -580,6 +583,7 @@ Licensed under Creative Commons Attribution 4.0 International.
 | Molex_CLIK-Mate_213227-32xx_2x16-1MP_P1.50mm_Vertical |  |  |
 | MountingHole_2.3mm |  |  |
 | MountingHole_7.2mm |  |  |
+| Oscillator_SMD_IQD_IQXO-79x_2.5x2.0mm |  |  |
 | Oscillator_SMD_SeikoEpson_TG-3541CE_3.2x2.5mm |  |  |
 | PCIExpress_x1_2x18_P1.00mm_Edge |  |  |
 | PCIExpress_x4_2x32_P1.00mm_Edge |  |  |
