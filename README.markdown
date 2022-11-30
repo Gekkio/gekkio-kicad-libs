@@ -184,6 +184,7 @@ Licensed under Creative Commons Attribution 4.0 International.
 | GameBoy_LinkPort | Game Boy link port |  |
 | GameBoy_SRAM_64K <br> ![GameBoy_SRAM_64K](photos/GameBoy_SRAM_64K.jpg) | 64kb (8K x 8) Game Boy SRAM chip, SOIC-28W |  |
 | GameBoy_SW_DPST | Double Pole Single Throw (DPST) Switch | [Datasheet](~) |
+| GameBoy_SW_MGL | Switch, Game Boy Light |  |
 | GameBoy_SW_SP3T | Switch, three position, single pole triple throw, 3 position switch, SP3T | [Datasheet](~) |
 | GameBoy_SW_SPDT | Switch, three position, single pole triple throw, 3 position switch, SP3T | [Datasheet](~) |
 | GameBoy_Transformer_066 | Power Transformer "066" |  |
