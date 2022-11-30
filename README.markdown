@@ -235,6 +235,7 @@ Licensed under Creative Commons Attribution 4.0 International.
 | IS62WV2568FALL-55T | 2Mb (256k x 8), 1.65-2.2V, 55ns, Low Voltage Ultra Low Power CMOS Static RAM, TSOP-I 32-pin | [Datasheet](http://www.issi.com/WW/pdf/62-65WV2568FALL-BLL.pdf) |
 | IS62WV2568FBLL-45H | 2Mb (256k x 8), 2.2-3.6V, 45ns, Low Voltage Ultra Low Power CMOS Static RAM, sTSOP-I 32-pin | [Datasheet](http://www.issi.com/WW/pdf/62-65WV2568FALL-BLL.pdf) |
 | IS62WV2568FBLL-45T | 2Mb (256k x 8), 2.2-3.6V, 45ns, Low Voltage Ultra Low Power CMOS Static RAM, TSOP-I 32-pin | [Datasheet](http://www.issi.com/WW/pdf/62-65WV2568FALL-BLL.pdf) |
+| IS62WVS5128GBLL-xxNLx | 4Mb (512k x 8), 2.7-3.6V, Low Voltage, Fast Serial SRAM with SPI, SDI, and SQI interface, SOIC-8 | [Datasheet](https://www.issi.com/WW/pdf/IS62-65WVS5128GALL-BLL.pdf) |
 | IS64C1024AL-15T | 1Mb (128k x 8), 5V, 15ns, High-Speed CMOS Static RAM, TSOP-I 32-pin | [Datasheet](http://www.issi.com/WW/pdf/62-65C1024AL.pdf) |
 | IS65C1024AL-45Q | 1Mb (128k x 8), 5V, 45ns, Low Power CMOS Static RAM, SOP-32 | [Datasheet](http://www.issi.com/WW/pdf/62-65C1024AL.pdf) |
 | IS65C1024AL-45T | 1Mb (128k x 8), 5V, 45ns, Low Power CMOS Static RAM, TSOP-I 32-pin | [Datasheet](http://www.issi.com/WW/pdf/62-65C1024AL.pdf) |
