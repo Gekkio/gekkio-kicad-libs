@@ -517,6 +517,7 @@ Licensed under Creative Commons Attribution 4.0 International.
 | TPS3613-01 | Adjustable Battery-Backup Supervisor for RAM Retention, VSSOP-10 | [Datasheet](http://www.ti.com/lit/ds/symlink/tps3613-01.pdf) |
 | TS3USB221RSER | High-Speed USB 2.0 1:2 Multiplexer/Demultiplexer Switch with Single Enable, UQFN-10 | [Datasheet](https://www.ti.com/lit/gpn/ts3usb221) |
 | UMP1N | High-speed switching diodes 2 pair Com A, SC-70-5 | [Datasheet](https://fscdn.rohm.com/en/products/databook/datasheet/discrete/diode/switching/ump1ntr-e.pdf) |
+| USB3318 | Hi-Speed USB ULPI Transceiver, QFN-24 | [Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/3318.pdf) |
 | XC2C32A-xQFG32 | Coolrunner-II CPLD, 32 Macrocells, QFN-32 | [Datasheet](https://www.xilinx.com/support/documentation/data_sheets/ds310.pdf) |
 | XC2C32A-xVQ44 | Coolrunner-II CPLD, 32 Macrocells, VQFP-44 | [Datasheet](https://www.xilinx.com/support/documentation/data_sheets/ds310.pdf) |
 | XC2C64A-xVQ44 | Coolrunner-II CPLD, 64 Macrocells, VQFP-44 | [Datasheet](https://www.xilinx.com/support/documentation/data_sheets/ds311.pdf) |
