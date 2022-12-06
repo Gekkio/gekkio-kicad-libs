@@ -432,6 +432,9 @@ Licensed under Creative Commons Attribution 4.0 International.
 | SN74LV1T125DCK | Single Power Supply Single Buffer Gate with 3-state Output CMOS Logic Level Shifter, SC-70-5 | [Datasheet](http://www.ti.com/lit/ds/symlink/sn74lv1t125.pdf) |
 | SN74LV1T34DBV | Single Power Supply Single Buffer gate CMOS Logic Level Shifter, SOT-23-5 | [Datasheet](http://www.ti.com/lit/ds/symlink/sn74lv1t34.pdf) |
 | SN74LV1T34DCK | Single Power Supply Single Buffer gate CMOS Logic Level Shifter, SC-70-5 | [Datasheet](http://www.ti.com/lit/ds/symlink/sn74lv1t34.pdf) |
+| SN74LVC16T245DGG | 16-bit dual supply translating transceiver, 3-state, TSSOP-48 | [Datasheet](https://www.ti.com/lit/ds/symlink/sn74lvc16t245.pdf) |
+| SN74LVC16T245DGV | 16-bit dual supply translating transceiver, 3-state, TVSOP-48 | [Datasheet](https://www.ti.com/lit/ds/symlink/sn74lvc16t245.pdf) |
+| SN74LVC16T245DL | 16-bit dual supply translating transceiver, 3-state, SSOP-48 | [Datasheet](https://www.ti.com/lit/ds/symlink/sn74lvc16t245.pdf) |
 | SN74LVC8T245DB | 8-bit dual supply translating transceiver, 3-state, SSOP-24 | [Datasheet](http://www.ti.com/lit/ds/symlink/sn74lvc8t245.pdf) |
 | SN74LVC8T245DBQ | 8-bit dual supply translating transceiver, 3-state, SSOP-24 | [Datasheet](http://www.ti.com/lit/ds/symlink/sn74lvc8t245.pdf) |
 | SN74LVC8T245DGV | 8-bit dual supply translating transceiver, 3-state, TVSOP-24 | [Datasheet](http://www.ti.com/lit/ds/symlink/sn74lvc8t245.pdf) |
