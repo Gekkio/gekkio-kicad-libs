@@ -427,7 +427,11 @@ Licensed under Creative Commons Attribution 4.0 International.
 | SE8117TA-HF-3.3V | 3.3V, 1A, Positive Voltage Regulator, SOT-223 | [Datasheet](http://www.seawardinc.com.cn/webeditor/uploadfile/20200423183538362.pdf) |
 | SE8117TA-HF-5.0V | 5.0V, 1A, Positive Voltage Regulator, SOT-223 | [Datasheet](http://www.seawardinc.com.cn/webeditor/uploadfile/20200423183538362.pdf) |
 | SE8117TA-HF-ADJ | Adjustable, 1A, Positive Voltage Regulator, SOT-223 | [Datasheet](http://www.seawardinc.com.cn/webeditor/uploadfile/20200423183538362.pdf) |
-| SN74CB3T16211DGG | 24-bit FET bus switch, 2.5-V/3.3-V low-voltage bus switch with 5-V tolerant level shifter | [Datasheet](http://www.ti.com/lit/ds/symlink/sn74cb3t16211.pdf) |
+| SN74CB3T16210DGG | 20-bit FET bus switch, 2.5-V/3.3-V low-voltage bus switch with 5-V tolerant level shifter, TSSOP-48 | [Datasheet](https://www.ti.com/lit/ds/symlink/sn74cb3t16210.pdf) |
+| SN74CB3T16210DGV | 20-bit FET bus switch, 2.5-V/3.3-V low-voltage bus switch with 5-V tolerant level shifter, TVSOP-48 | [Datasheet](https://www.ti.com/lit/ds/symlink/sn74cb3t16210.pdf) |
+| SN74CB3T16211DGG | 24-bit FET bus switch, 2.5-V/3.3-V low-voltage bus switch with 5-V tolerant level shifter, TSSOP-56 | [Datasheet](http://www.ti.com/lit/ds/symlink/sn74cb3t16211.pdf) |
+| SN74CB3T16211DGV | 24-bit FET bus switch, 2.5-V/3.3-V low-voltage bus switch with 5-V tolerant level shifter, TVSOP-56 | [Datasheet](http://www.ti.com/lit/ds/symlink/sn74cb3t16211.pdf) |
+| SN74CB3T16211DL | 24-bit FET bus switch, 2.5-V/3.3-V low-voltage bus switch with 5-V tolerant level shifter, SSOP-56 | [Datasheet](http://www.ti.com/lit/ds/symlink/sn74cb3t16211.pdf) |
 | SN74CB3T3245DBQ | 8-bit FET bus switch, 2.5-V/3.3-V low-voltage with 5-V tolerant level shifter, SSOP-20 | [Datasheet](https://www.ti.com/lit/ds/symlink/sn74cb3t3245.pdf) |
 | SN74CB3T3245DGV | 8-bit FET bus switch, 2.5-V/3.3-V low-voltage with 5-V tolerant level shifter, TVSOP-20 | [Datasheet](https://www.ti.com/lit/ds/symlink/sn74cb3t3245.pdf) |
 | SN74CB3T3245DW | 8-bit FET bus switch, 2.5-V/3.3-V low-voltage with 5-V tolerant level shifter, SOIC-20W | [Datasheet](https://www.ti.com/lit/ds/symlink/sn74cb3t3245.pdf) |
