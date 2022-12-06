@@ -428,6 +428,10 @@ Licensed under Creative Commons Attribution 4.0 International.
 | SE8117TA-HF-5.0V | 5.0V, 1A, Positive Voltage Regulator, SOT-223 | [Datasheet](http://www.seawardinc.com.cn/webeditor/uploadfile/20200423183538362.pdf) |
 | SE8117TA-HF-ADJ | Adjustable, 1A, Positive Voltage Regulator, SOT-223 | [Datasheet](http://www.seawardinc.com.cn/webeditor/uploadfile/20200423183538362.pdf) |
 | SN74CB3T16211DGG | 24-bit FET bus switch, 2.5-V/3.3-V low-voltage bus switch with 5-V tolerant level shifter | [Datasheet](http://www.ti.com/lit/ds/symlink/sn74cb3t16211.pdf) |
+| SN74CB3T3245DBQ | 8-bit FET bus switch, 2.5-V/3.3-V low-voltage with 5-V tolerant level shifter, SSOP-20 | [Datasheet](https://www.ti.com/lit/ds/symlink/sn74cb3t3245.pdf) |
+| SN74CB3T3245DGV | 8-bit FET bus switch, 2.5-V/3.3-V low-voltage with 5-V tolerant level shifter, TVSOP-20 | [Datasheet](https://www.ti.com/lit/ds/symlink/sn74cb3t3245.pdf) |
+| SN74CB3T3245DW | 8-bit FET bus switch, 2.5-V/3.3-V low-voltage with 5-V tolerant level shifter, SOIC-20W | [Datasheet](https://www.ti.com/lit/ds/symlink/sn74cb3t3245.pdf) |
+| SN74CB3T3245PW | 8-bit FET bus switch, 2.5-V/3.3-V low-voltage with 5-V tolerant level shifter, TSSOP-20 | [Datasheet](https://www.ti.com/lit/ds/symlink/sn74cb3t3245.pdf) |
 | SN74LV1T125DBV | Single Power Supply Single Buffer Gate with 3-state Output CMOS Logic Level Shifter, SOT-23-5 | [Datasheet](http://www.ti.com/lit/ds/symlink/sn74lv1t125.pdf) |
 | SN74LV1T125DCK | Single Power Supply Single Buffer Gate with 3-state Output CMOS Logic Level Shifter, SC-70-5 | [Datasheet](http://www.ti.com/lit/ds/symlink/sn74lv1t125.pdf) |
 | SN74LV1T34DBV | Single Power Supply Single Buffer gate CMOS Logic Level Shifter, SOT-23-5 | [Datasheet](http://www.ti.com/lit/ds/symlink/sn74lv1t34.pdf) |
