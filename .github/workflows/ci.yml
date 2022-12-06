@@ -1,0 +1,24 @@
+# SPDX-FileCopyrightText: 2022 Joonas Javanainen <joonas.javanainen@gmail.com>
+#
+# SPDX-License-Identifier: CC0-1.0
+
+name: ci
+on:
+  pull_request:
+  push:
+    branches:
+    - main
+
+jobs:
+  klc_check:
+    name: Run KLC checks
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Checkout kicad-library-utils
+        uses: actions/checkout@v3
+        with:
+          repository: https://gitlab.com/kicad/libraries/kicad-library-utils.git
+          ref: 1c17de5250d6eee3e78049456fbde8b6623afa3b
+          path: kicad-library-utils
