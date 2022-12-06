@@ -1,6 +1,8 @@
 (footprint "Transformer_GameBoy_DMG" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 5EC06071)
+  (descr "DC/DC transformer, original Game Boy (DMG)")
+  (tags "transformer game boy dmg")
   (attr through_hole)
   (fp_text reference "REF**" (at 2.36 -3.76) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))

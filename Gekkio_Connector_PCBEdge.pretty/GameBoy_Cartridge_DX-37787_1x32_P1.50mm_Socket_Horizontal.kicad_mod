@@ -13,7 +13,7 @@
     (tstamp cc9a9312-38fc-4d00-b848-012061dcb89c)
   )
   (fp_text user "${REFERENCE}" (at 0 -1) (layer "F.Fab")
-    (effects (font (size 2 2) (thickness 0.2)))
+    (effects (font (size 1 1) (thickness 0.2)))
     (tstamp cc2f772d-66f5-4ef2-bf72-bf4cabe8468e)
   )
   (fp_line (start -23.9 5) (end -25.8 5) (layer "F.SilkS") (width 0.12) (tstamp 25376085-331e-4dfa-8f24-4a8f1f7a65bf))

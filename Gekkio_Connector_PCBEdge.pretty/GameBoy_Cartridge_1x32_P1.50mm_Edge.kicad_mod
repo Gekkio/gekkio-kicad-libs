@@ -69,4 +69,9 @@
   (pad "30" connect rect (at 20.25 -0.25 90) (size 5.5 1) (layers "F.Cu" "F.Mask") (tstamp 5bd90a2c-0720-49d7-b471-8bd4be0104c6))
   (pad "31" connect rect (at 21.75 -0.25 90) (size 5.5 1) (layers "F.Cu" "F.Mask") (tstamp 52bad23a-58b1-4b0a-8a4a-7eecb3af8646))
   (pad "32" connect rect (at 23.4 0 90) (size 6 1.3) (layers "F.Cu" "F.Mask") (tstamp be4a35bf-388c-48f9-a61f-b9bdb1e6be81))
+  (model "${KICAD6_3DMODEL_DIR}/Gekkio_Connector_PCBEdge.3dshapes/GameBoy_Cartridge_1x32_P1.50mm_Edge.wrl"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

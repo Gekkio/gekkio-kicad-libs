@@ -101,4 +101,9 @@
   (pad "B30" connect rect (at 14.5 0) (size 0.7 4.2) (layers "F.Cu" "F.Mask") (tstamp c949cd41-2dbe-4947-9867-2c4b261dc53f))
   (pad "B31" connect rect (at 15.5 -0.5) (size 0.7 3.2) (layers "F.Cu" "F.Mask") (tstamp 4c526246-aaab-45e4-a5fc-6a3fcc881097))
   (pad "B32" connect rect (at 16.5 0) (size 0.7 4.2) (layers "F.Cu" "F.Mask") (tstamp 1689c64d-1398-40ac-a0ce-75be5d109573))
+  (model "${KICAD6_3DMODEL_DIR}/Gekkio_Connector_PCBEdge.3dshapes/PCIExpress_x4_2x32_P1.00mm_Edge.wrl"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
