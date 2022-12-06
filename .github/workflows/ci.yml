@@ -27,3 +27,5 @@ jobs:
           git checkout $UTILS_SHA
       - name: Check symbols
         run: kicad-library-utils/klc-check/check_symbol.py -v *.kicad_sym
+      - name: Check footprints
+        run: kicad-library-utils/klc-check/check_footprint.py -v *.pretty/*.kicad_mod
