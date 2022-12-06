@@ -162,6 +162,7 @@ Licensed under Creative Commons Attribution 4.0 International.
 | Bus_PCIExpress_8x | PCI Express 8x connector | [Datasheet](https://en.wikipedia.org/wiki/PCI_Express) |
 | CBT3125PW | Quadruple FET bus switch, TSSOP-14 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/CBT3125.pdf) |
 | CY62126EV30LL-xxBV | 1Mb (64k x 16) SRAM, VFBGA-48 | [Datasheet](https://www.cypress.com/file/43721/download) |
+| CY62157EV18LL-xxBV | 8Mb (512k x 16) SRAM, 1.8V, VFBGA-48 | [Datasheet](https://www.infineon.com/dgdl/Infineon-CY62157EV18_MOBL_8_MBIT_(512K_X_16)_STATIC_RAM-DataSheet-v15_00-EN.pdf?fileId=8ac78c8c7d0d8da4017d0ebec6dc32a4) |
 | DMN3026LVT | 6.6A Id, 30V Vds, N-Channel MOSFET, TSOT-23-6 | [Datasheet](https://www.diodes.com/assets/Datasheets/DMN3026LVT.pdf) |
 | DRV8426RGER | Stepper Driver With Integrated Current Sense, 1/256 Microstepping, STEP/DIR Interface and smart tune Technology, VQFN-24 | [Datasheet](https://www.ti.com/lit/ds/symlink/drv8426.pdf) |
 | FGPMMOPA6H | GPS Module | [Datasheet](https://cdn-shop.adafruit.com/datasheets/GlobalTop-FGPMMOPA6H-Datasheet-V0A.pdf) |
