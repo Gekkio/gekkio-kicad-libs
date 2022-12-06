@@ -9,6 +9,9 @@ on:
     branches:
     - main
 
+env:
+  UTILS_SHA: 1c17de5250d6eee3e78049456fbde8b6623afa3b
+
 jobs:
   klc_check:
     name: Run KLC checks
@@ -17,8 +20,10 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
       - name: Checkout kicad-library-utils
-        uses: actions/checkout@v3
-        with:
-          repository: https://gitlab.com/kicad/libraries/kicad-library-utils.git
-          ref: 1c17de5250d6eee3e78049456fbde8b6623afa3b
-          path: kicad-library-utils
+        run: |
+          git clone --depth 1 https://gitlab.com/kicad/libraries/kicad-library-utils.git
+          cd kicad-library-utils
+          git fetch --depth 1 origin $UTILS_SHA
+          git checkout $UTILS_SHA
+      - name: Check symbols
+        run: kicad-library-utils/klc-check/check_symbol.py -v *.kicad_sym
