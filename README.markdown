@@ -30,6 +30,10 @@ Licensed under Creative Commons Attribution 4.0 International.
 | 5M80ZE64 | MAX V CPLD, 80 LE, EQFP-64 | [Datasheet](https://www.intel.com/content/dam/www/programmable/us/en/pdfs/literature/hb/max-v/mv51001.pdf) |
 | 74AXP4T245PW | 4-bit dual supply translating transceiver, 3-state, TSSOP-16 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/74LVC_LVCH8T245.pdf) |
 | 74AXP8T245PW | 8-bit dual supply translating transceiver, 3-state, TSSOP-24 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/74LVC_LVCH8T245.pdf) |
+| 74LV1T125GV | Single supply translating buffer/line driver, 3-state, SOT-23-5 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/74LV1T125.pdf) |
+| 74LV1T125GW | Single supply translating buffer/line driver, 3-state, SC-70-5 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/74LV1T125.pdf) |
+| 74LV1T126GV | Single supply translating buffer/line driver, 3-state, SOT-23-5 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/74LV1T126.pdf) |
+| 74LV1T126GW | Single supply translating buffer/line driver, 3-state, SC-70-5 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/74LV1T126.pdf) |
 | 74LVC125APW | Quad buffer/line driver, 3-state, TSSOP-14 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/74LVC125A.pdf) |
 | 74LVC126APW | Quad buffer/line driver, 3-state, TSSOP-14 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/74LVC126A.pdf) |
 | 74LVC16244ADGG | 16-bit buffer/line driver, 5V input/output tolerant, 3-state, TSSOP-48 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/74LVC_LVCH16244A.pdf) |
@@ -442,6 +446,8 @@ Licensed under Creative Commons Attribution 4.0 International.
 | SN74CB3T3245PW | 8-bit FET bus switch, 2.5-V/3.3-V low-voltage with 5-V tolerant level shifter, TSSOP-20 | [Datasheet](https://www.ti.com/lit/ds/symlink/sn74cb3t3245.pdf) |
 | SN74LV1T125DBV | Single Power Supply Single Buffer Gate with 3-state Output CMOS Logic Level Shifter, SOT-23-5 | [Datasheet](http://www.ti.com/lit/ds/symlink/sn74lv1t125.pdf) |
 | SN74LV1T125DCK | Single Power Supply Single Buffer Gate with 3-state Output CMOS Logic Level Shifter, SC-70-5 | [Datasheet](http://www.ti.com/lit/ds/symlink/sn74lv1t125.pdf) |
+| SN74LV1T126DBV | Single Power Supply Single Buffer Gate with 3-state Output CMOS Logic Level Shifter, SOT-23-5 | [Datasheet](https://www.ti.com/lit/ds/symlink/sn74lv1t126.pdf) |
+| SN74LV1T126DCK | Single Power Supply Single Buffer Gate with 3-state Output CMOS Logic Level Shifter, SC-70-5 | [Datasheet](https://www.ti.com/lit/ds/symlink/sn74lv1t126.pdf) |
 | SN74LV1T34DBV | Single Power Supply Single Buffer gate CMOS Logic Level Shifter, SOT-23-5 | [Datasheet](http://www.ti.com/lit/ds/symlink/sn74lv1t34.pdf) |
 | SN74LV1T34DCK | Single Power Supply Single Buffer gate CMOS Logic Level Shifter, SC-70-5 | [Datasheet](http://www.ti.com/lit/ds/symlink/sn74lv1t34.pdf) |
 | SN74LVC16T245DGG | 16-bit dual supply translating transceiver, 3-state, TSSOP-48 | [Datasheet](https://www.ti.com/lit/ds/symlink/sn74lvc16t245.pdf) |
