@@ -47,6 +47,10 @@ Licensed under Creative Commons Attribution 4.0 International.
 | 74LVC573AD | Octal D-type transparent latch with 5 V tolerant inputs/outputs, 3-state, SO-20 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/74LVC573A.pdf) |
 | 74LVC573ADB | Octal D-type transparent latch with 5 V tolerant inputs/outputs, 3-state, SSOP-20 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/74LVC573A.pdf) |
 | 74LVC573APW | Octal D-type transparent latch with 5 V tolerant inputs/outputs, 3-state, TSSOP-20 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/74LVC573A.pdf) |
+| 74LVC594AD | 8-bit shift register with output register, SO-16 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/74LVC594A.pdf) |
+| 74LVC594APW | 8-bit shift register with output register, TSSOP-16 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/74LVC594A.pdf) |
+| 74LVC595AD | 8-bit serial-in/serial-out or parallel-out shift register, 3-state, SO-16 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/74LVC595A.pdf) |
+| 74LVC595APW | 8-bit serial-in/serial-out or parallel-out shift register, 3-state, TSSOP-16 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/74LVC595A.pdf) |
 | 74LVC8T245PW | 8-bit dual supply translating transceiver, 3-state, TSSOP-24 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/74LVC_LVCH8T245.pdf) |
 | 74LVCH16244ADGG | 16-bit buffer/line driver, 5V input/output tolerant, 3-state, bus hold, TSSOP-48 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/74LVC_LVCH16244A.pdf) |
 | 74LVCH16373ADGG | 16-bit D-type transparent latch with 5V tolerant inputs/outputs, 3-state, bus hold, TSSOP-48 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/74LVC_LVCH16373A.pdf) |

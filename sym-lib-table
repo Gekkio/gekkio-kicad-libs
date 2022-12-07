@@ -22,6 +22,7 @@
   (lib (name "Gekkio_FPGA_Lattice")(type "KiCad")(uri "$(KIPRJMOD)/Gekkio_FPGA_Lattice.kicad_sym")(options "")(descr ""))
   (lib (name "Gekkio_Interface")(type "KiCad")(uri "$(KIPRJMOD)/Gekkio_Interface.kicad_sym")(options "")(descr ""))
   (lib (name "Gekkio_Interface_CAN_LIN")(type "KiCad")(uri "$(KIPRJMOD)/Gekkio_Interface_CAN_LIN.kicad_sym")(options "")(descr ""))
+  (lib (name "Gekkio_Interface_Expansion")(type "KiCad")(uri "$(KIPRJMOD)/Gekkio_Interface_Expansion.kicad_sym")(options "")(descr ""))
   (lib (name "Gekkio_Interface_USB")(type "KiCad")(uri "$(KIPRJMOD)/Gekkio_Interface_USB.kicad_sym")(options "")(descr ""))
   (lib (name "Gekkio_Logic_LevelTranslator")(type "KiCad")(uri "$(KIPRJMOD)/Gekkio_Logic_LevelTranslator.kicad_sym")(options "")(descr ""))
   (lib (name "Gekkio_MCU_Microchip_PIC18")(type "KiCad")(uri "$(KIPRJMOD)/Gekkio_MCU_Microchip_PIC18.kicad_sym")(options "")(descr ""))
