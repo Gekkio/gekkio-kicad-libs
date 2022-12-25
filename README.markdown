@@ -534,6 +534,8 @@ Licensed under Creative Commons Attribution 4.0 International.
 | SiRA01DP | -60A Id, -30V Vds, P-Channel MOSFET, PowerPAK-8 | [Datasheet](https://www.vishay.com/docs/75510/sira01dp.pdf) |
 | SiRA28BDP | 38A Id, 30V Vds, N-Channel MOSFET, PowerPAK-8 | [Datasheet](https://www.vishay.com/docs/77395/sira28bdp.pdf) |
 | SiRA88DP | 45.5A Id, 30V Vds, N-Channel MOSFET, PowerPAK-8 | [Datasheet](https://www.vishay.com/docs/77777/sira88dp.pdf) |
+| TCA6408APW | Low-Voltage 8-Bit I2C and SMBus I/O Expander With Interrupt Output, Reset, and Configuration Registers, TSSOP-16 | [Datasheet](https://www.ti.com/lit/ds/symlink/tca6408a.pdf) |
+| TCA6408ARGT | Low-Voltage 8-Bit I2C and SMBus I/O Expander With Interrupt Output, Reset, and Configuration Registers, VQFN-16 | [Datasheet](https://www.ti.com/lit/ds/symlink/tca6408a.pdf) |
 | TG-3541CE | 32.768 kHz TCXO oscillator | [Datasheet](https://support.epson.biz/td/api/doc_check.php?dl=app_TG-3541CE&lang=en) |
 | TLV2316ID | Dual 10-MHz, Rail-to-Rail Input/Output, Low-Voltage, 1.8-V CMOS Operational Amplifier, SOIC-8 | [Datasheet](http://www.ti.com/lit/ds/symlink/tlv2316.pdf) |
 | TLV2316IDGK | Dual 10-MHz, Rail-to-Rail Input/Output, Low-Voltage, 1.8-V CMOS Operational Amplifier, VSSOP-8 | [Datasheet](http://www.ti.com/lit/ds/symlink/tlv2316.pdf) |
