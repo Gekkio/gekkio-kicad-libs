@@ -403,6 +403,21 @@ Licensed under Creative Commons Attribution 4.0 International.
 | NCP606MN33 | 3.3V, 500mA, Low IGND, CMOS LDO Regulator with Enable and with Enhanced ESD Protection, DFN-6 | [Datasheet](https://www.onsemi.com/pub/Collateral/NCP605-D.PDF) |
 | NCP606MN50 | 5.0V, 500mA, Low IGND, CMOS LDO Regulator with Enable and with Enhanced ESD Protection, DFN-6 | [Datasheet](https://www.onsemi.com/pub/Collateral/NCP605-D.PDF) |
 | NCP606MNADJ | Adjustable, 500mA, Low IGND, CMOS LDO Regulator with Enable and with Enhanced ESD Protection, DFN-6 | [Datasheet](https://www.onsemi.com/pub/Collateral/NCP605-D.PDF) |
+| NCV8535ML180R2G | 1.8V, 500mA, Voltage Regulator, Ultra High Accuracy, Low Iq, Low Dropout, Enable, DFN-10 | [Datasheet](https://www.onsemi.com/pdf/datasheet/ncv8535-d.pdf) |
+| NCV8535ML250R2G | 2.5V, 500mA, Voltage Regulator, Ultra High Accuracy, Low Iq, Low Dropout, Enable, DFN-10 | [Datasheet](https://www.onsemi.com/pdf/datasheet/ncv8535-d.pdf) |
+| NCV8535ML330R2G | 3.3V, 500mA, Voltage Regulator, Ultra High Accuracy, Low Iq, Low Dropout, Enable, DFN-10 | [Datasheet](https://www.onsemi.com/pdf/datasheet/ncv8535-d.pdf) |
+| NCV8535MLADJR2G | Adjustable, 500mA, Voltage Regulator, Ultra High Accuracy, Low Iq, Low Dropout, Enable, DFN-10 | [Datasheet](https://www.onsemi.com/pdf/datasheet/ncv8535-d.pdf) |
+| NCV8535MN150R2G | 1.5V, 500mA, Voltage Regulator, Ultra High Accuracy, Low Iq, Low Dropout, Enable, DFN-10 | [Datasheet](https://www.onsemi.com/pdf/datasheet/ncv8535-d.pdf) |
+| NCV8535MN180R2G | 1.8V, 500mA, Voltage Regulator, Ultra High Accuracy, Low Iq, Low Dropout, Enable, DFN-10 | [Datasheet](https://www.onsemi.com/pdf/datasheet/ncv8535-d.pdf) |
+| NCV8535MN190R2G | 1.9V, 500mA, Voltage Regulator, Ultra High Accuracy, Low Iq, Low Dropout, Enable, DFN-10 | [Datasheet](https://www.onsemi.com/pdf/datasheet/ncv8535-d.pdf) |
+| NCV8535MN250R2G | 2.5V, 500mA, Voltage Regulator, Ultra High Accuracy, Low Iq, Low Dropout, Enable, DFN-10 | [Datasheet](https://www.onsemi.com/pdf/datasheet/ncv8535-d.pdf) |
+| NCV8535MN280R2G | 2.8V, 500mA, Voltage Regulator, Ultra High Accuracy, Low Iq, Low Dropout, Enable, DFN-10 | [Datasheet](https://www.onsemi.com/pdf/datasheet/ncv8535-d.pdf) |
+| NCV8535MN285R2G | 2.85V, 500mA, Voltage Regulator, Ultra High Accuracy, Low Iq, Low Dropout, Enable, DFN-10 | [Datasheet](https://www.onsemi.com/pdf/datasheet/ncv8535-d.pdf) |
+| NCV8535MN300R2G | 3.0V, 500mA, Voltage Regulator, Ultra High Accuracy, Low Iq, Low Dropout, Enable, DFN-10 | [Datasheet](https://www.onsemi.com/pdf/datasheet/ncv8535-d.pdf) |
+| NCV8535MN330R2G | 3.3V, 500mA, Voltage Regulator, Ultra High Accuracy, Low Iq, Low Dropout, Enable, DFN-10 | [Datasheet](https://www.onsemi.com/pdf/datasheet/ncv8535-d.pdf) |
+| NCV8535MN350R2G | 3.5V, 500mA, Voltage Regulator, Ultra High Accuracy, Low Iq, Low Dropout, Enable, DFN-10 | [Datasheet](https://www.onsemi.com/pdf/datasheet/ncv8535-d.pdf) |
+| NCV8535MN500R2G | 5.0V, 500mA, Voltage Regulator, Ultra High Accuracy, Low Iq, Low Dropout, Enable, DFN-10 | [Datasheet](https://www.onsemi.com/pdf/datasheet/ncv8535-d.pdf) |
+| NCV8535MNADJR2G | Adjustable, 500mA, Voltage Regulator, Ultra High Accuracy, Low Iq, Low Dropout, Enable, DFN-10 | [Datasheet](https://www.onsemi.com/pdf/datasheet/ncv8535-d.pdf) |
 | NSR0530H | 30V 500mA Schottky diode, SOD-323 | [Datasheet](http://www.onsemi.com/pub/Collateral/NSR0530H-D.PDF) |
 | NT5DS32M16CS | 512Mb (32M x 16) DDR SDRAM, TSOP-II 66-pin | [Datasheet](https://elinux.org/images/e/e0/Nt5d32m16cs-5t.pdf) |
 | OPA1632D | High-Performance, Fully-Differential Audio Operational Amplifier, SOIC-8 | [Datasheet](http://www.ti.com/lit/ds/sbos286c/sbos286c.pdf) |
