@@ -8,13 +8,14 @@ project_dir = (script_dir / '..').resolve()
 
 def prepare_table(project_dir, table_type, entry_type, paths):
     result = '({}\n'.format(table_type)
+    result += '  (version 7)\n'
     for path in paths:
         try:
             uri = '$(KIPRJMOD)/{}'.format(path.relative_to(project_dir))
         except ValueError:
             uri = path
         result += '  (lib (name "{}")(type "{}")(uri "{}")(options "")(descr ""))\n'.format(path.stem, entry_type, uri)
-    result += ')'
+    result += ')\n'
     return result
 
 footprints = sorted(project_dir.glob('*.pretty'))
