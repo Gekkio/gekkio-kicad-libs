@@ -10,7 +10,7 @@ on:
     - main
 
 env:
-  UTILS_SHA: 1c17de5250d6eee3e78049456fbde8b6623afa3b
+  UTILS_SHA: 1442dfe8e5784553e857591de24e7c6629bd0aea
 
 jobs:
   klc_check:
