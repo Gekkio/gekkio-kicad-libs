@@ -204,6 +204,7 @@ Licensed under Creative Commons Attribution 4.0 International.
 | IQXO-793 | HCMOS Crystal Clock Oscillator, 2.5V | [Datasheet](https://www.iqdfrequencyproducts.com/products/details/iqxo-79x.pdf) |
 | IQXO-794 | HCMOS Crystal Clock Oscillator, 1.8V | [Datasheet](https://www.iqdfrequencyproducts.com/products/details/iqxo-79x.pdf) |
 | IR3E02 | LCD bias regulator, original Game Boy (DMG) |  |
+| IR3R40N | Audio amplifier, original Game Boy (DMG), SSOP-18 |  |
 | IR3R53N | Audio amplifier, Game Boy Pocket (MGB), SSOP-18 |  |
 | IS61C1024AL-12T | 1Mb (128k x 8), 5V, 12ns, High-Speed CMOS Static RAM, TSOP-I 32-pin | [Datasheet](http://www.issi.com/WW/pdf/62-65C1024AL.pdf) |
 | IS61C256AL-xxJ | 256kb (32K x 8), 5V, 10/12 ns, High-Speed CMOS Static RAM, SOIC-28W | [Datasheet](http://www.issi.com/WW/pdf/61C256AL.pdf) |
