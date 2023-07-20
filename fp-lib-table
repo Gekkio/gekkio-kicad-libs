@@ -3,6 +3,7 @@
   (lib (name "Gekkio_Battery")(type "KiCad")(uri "$(KIPRJMOD)/Gekkio_Battery.pretty")(options "")(descr ""))
   (lib (name "Gekkio_Button_Switch_SMD")(type "KiCad")(uri "$(KIPRJMOD)/Gekkio_Button_Switch_SMD.pretty")(options "")(descr ""))
   (lib (name "Gekkio_Button_Switch_THT")(type "KiCad")(uri "$(KIPRJMOD)/Gekkio_Button_Switch_THT.pretty")(options "")(descr ""))
+  (lib (name "Gekkio_Capacitor_SMD")(type "KiCad")(uri "$(KIPRJMOD)/Gekkio_Capacitor_SMD.pretty")(options "")(descr ""))
   (lib (name "Gekkio_Connector")(type "KiCad")(uri "$(KIPRJMOD)/Gekkio_Connector.pretty")(options "")(descr ""))
   (lib (name "Gekkio_Connector_BarrelJack")(type "KiCad")(uri "$(KIPRJMOD)/Gekkio_Connector_BarrelJack.pretty")(options "")(descr ""))
   (lib (name "Gekkio_Connector_Coaxial")(type "KiCad")(uri "$(KIPRJMOD)/Gekkio_Connector_Coaxial.pretty")(options "")(descr ""))

@@ -604,6 +604,7 @@ Licensed under Creative Commons Attribution 4.0 International.
 | BatteryHolder_Renata_SMTU2032-LF |  |  |
 | Battery_CR1616_Horizontal_Tabbed |  |  |
 | Battery_CR2025_Horizontal_Tabbed |  |  |
+| CP_Seiko_CPH3225A |  |  |
 | CWIndustries_GF-1123-1110 <br> ![CWIndustries_GF-1123-1110](photos/CWIndustries_GF-1123-1110.jpg) |  |  |
 | DFN-12-1EP_2.5x2.5mm_P0.4mm_EP1.2x1.9mm |  |  |
 | DFN-6-1EP_3x3mm_P0.95mm_EP1.35x2.15mm |  |  |
