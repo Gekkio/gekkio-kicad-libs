@@ -182,6 +182,7 @@ Licensed under Creative Commons Attribution 4.0 International.
 | GameBoyAdvance_SRAM_2M | 2Mb (128k x 16) Game Boy SRAM chip |  |
 | GameBoy_Amplifier_AGB | Audio amplifier, Game Boy Advance (AGB), SSOP-18 |  |
 | GameBoy_AudioJack3_SPST | Audio Jack, 3 Poles (Stereo / TRS), isolated SPST switch |  |
+| GameBoy_Barrel_Jack_DMG | DC Barrel Jack, original Game Boy (DMG) |  |
 | GameBoy_CPU_AGB-B | CPU, Game Boy Advance SP (AGS), QFP-156 |  |
 | GameBoy_CPU_CGB | CPU, Game Boy Color (CGB), QFP-128 |  |
 | GameBoy_CPU_DMG <br> ![GameBoy_CPU_DMG](photos/GameBoy_CPU_DMG.jpg) | CPU, original Game Boy (DMG), QFP-80 |  |
@@ -192,10 +193,11 @@ Licensed under Creative Commons Attribution 4.0 International.
 | GameBoy_Cartridge_MountingPin | Game Boy cartridge edge connector with mounting pin |  |
 | GameBoy_LinkPort | Game Boy link port |  |
 | GameBoy_SRAM_64K <br> ![GameBoy_SRAM_64K](photos/GameBoy_SRAM_64K.jpg) | 64kb (8K x 8) Game Boy SRAM chip, SOIC-28W |  |
-| GameBoy_SW_DPST | Double Pole Single Throw (DPST) Switch | [Datasheet](~) |
-| GameBoy_SW_MGL | Switch, Game Boy Light |  |
-| GameBoy_SW_SP3T | Switch, three position, single pole triple throw, 3 position switch, SP3T | [Datasheet](~) |
-| GameBoy_SW_SPDT | Switch, three position, single pole triple throw, 3 position switch, SP3T | [Datasheet](~) |
+| GameBoy_SW_DP3T_MGL | Double Pole Triple Throw (DP3T) Switch, Game Boy Light (MGL) |  |
+| GameBoy_SW_DPDT_AGS | Double Pole Double Throw (DPDT) Switch, Game Boy Advance SP (AGS) | [Datasheet](~) |
+| GameBoy_SW_DPDT_DMG | Double Pole Double Throw (DPDT) Switch, original Game Boy (DMG) |  |
+| GameBoy_SW_SP3T_MGB | Single Pole Triple Throw (SP3T) Switch, Game Boy Pocket (MGB) | [Datasheet](~) |
+| GameBoy_SW_SPDT_AGS | Single Pole Double Throw (SPDT) Switch, Game Boy Advance SP (AGS) | [Datasheet](~) |
 | GameBoy_Transformer_066 | Power Transformer "066" |  |
 | GameBoy_Transformer_AGS | Power Transformer, Game Boy Advance SP (AGS) |  |
 | GameBoy_Transformer_DMG | Power Transformer, original Game Boy (DMG) |  |
@@ -443,7 +445,12 @@ Licensed under Creative Commons Attribution 4.0 International.
 | RS8752XM | Dual 250MHz, Rail-to-Rail Output CMOS Operational Amplifier, MSOP-8 | [Datasheet](https://datasheet.lcsc.com/szlcsc/Jiangsu-RUNIC-Tech-RS8752XQ_C255422.pdf) |
 | RS8752XQ | Dual 250MHz, Rail-to-Rail Output CMOS Operational Amplifier, TSSOP-8 | [Datasheet](https://datasheet.lcsc.com/szlcsc/Jiangsu-RUNIC-Tech-RS8752XQ_C255422.pdf) |
 | RT7295C | 3.5A, 18V, 500kHz ACOT Synchronous Step-Down Converter, TSOT-23-6 | [Datasheet](https://www.richtek.com/assets/product_file/RT7295C/DS7295C-04.pdf) |
+| R_Potentiometer_GameBoy_Contrast_DMG | LCD contrast potentiometer, original Game Boy (DMG) |  |
+| R_Potentiometer_GameBoy_Contrast_MGB | LCD contrast potentiometer, Game Boy Pocket (MGB) |  |
+| R_Potentiometer_GameBoy_Contrast_MGL | LCD contrast potentiometer, Game Boy Light (MGL) |  |
+| R_Potentiometer_GameBoy_Volume_DMG | Audio volume potentiometer, original Game Boy (DMG) |  |
 | R_Potentiometer_GameBoy_Volume_MGB | Audio volume potentiometer, Game Boy Pocket (MGB) |  |
+| R_Potentiometer_GameBoy_Volume_MGL | Audio volume potentiometer, Game Boy Light (MGL) |  |
 | SE3608 | 2A/1.2MHz Output Current, Boost Converter, SOT-23-6 | [Datasheet](http://www.seawardinc.com.cn/webeditor/uploadfile/20200907180455365.pdf) |
 | SE8117TA-HF-1.5V | 1.5V, 1A, Positive Voltage Regulator, SOT-223 | [Datasheet](http://www.seawardinc.com.cn/webeditor/uploadfile/20200423183538362.pdf) |
 | SE8117TA-HF-1.8V | 1.8V, 1A, Positive Voltage Regulator, SOT-223 | [Datasheet](http://www.seawardinc.com.cn/webeditor/uploadfile/20200423183538362.pdf) |
