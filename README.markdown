@@ -651,6 +651,7 @@ Licensed under Creative Commons Attribution 4.0 International.
 | PCIExpress_x1_2x18_P1.00mm_Edge |  |  |
 | PCIExpress_x4_2x32_P1.00mm_Edge |  |  |
 | PCIExpress_x8_2x49_P1.00mm_Edge |  |  |
+| Potentiometer_Bourns_3361P_Vertical |  |  |
 | Potentiometer_Hokuriku_VG039NCH_Vertical |  |  |
 | Rohm_HRP5 |  |  |
 | Rohm_QFP-56_10x10mm_P0.65mm | :heavy_check_mark: | :heavy_check_mark: |
