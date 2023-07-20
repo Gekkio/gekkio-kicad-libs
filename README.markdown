@@ -194,10 +194,10 @@ Licensed under Creative Commons Attribution 4.0 International.
 | GameBoy_LinkPort | Game Boy link port |  |
 | GameBoy_SRAM_64K <br> ![GameBoy_SRAM_64K](photos/GameBoy_SRAM_64K.jpg) | 64kb (8K x 8) Game Boy SRAM chip, SOIC-28W |  |
 | GameBoy_SW_DP3T_MGL | Double Pole Triple Throw (DP3T) Switch, Game Boy Light (MGL) |  |
-| GameBoy_SW_DPDT_AGS | Double Pole Double Throw (DPDT) Switch, Game Boy Advance SP (AGS) | [Datasheet](~) |
+| GameBoy_SW_DPDT_AGS | Double Pole Double Throw (DPDT) Switch, Game Boy Advance SP (AGS) |  |
 | GameBoy_SW_DPDT_DMG | Double Pole Double Throw (DPDT) Switch, original Game Boy (DMG) |  |
-| GameBoy_SW_SP3T_MGB | Single Pole Triple Throw (SP3T) Switch, Game Boy Pocket (MGB) | [Datasheet](~) |
-| GameBoy_SW_SPDT_AGS | Single Pole Double Throw (SPDT) Switch, Game Boy Advance SP (AGS) | [Datasheet](~) |
+| GameBoy_SW_SP3T_MGB | Single Pole Triple Throw (SP3T) Switch, Game Boy Pocket (MGB) |  |
+| GameBoy_SW_SPDT_AGS | Single Pole Double Throw (SPDT) Switch, Game Boy Advance SP (AGS) |  |
 | GameBoy_Transformer_066 | Power Transformer "066" |  |
 | GameBoy_Transformer_AGS | Power Transformer, Game Boy Advance SP (AGS) |  |
 | GameBoy_Transformer_DMG | Power Transformer, original Game Boy (DMG) |  |

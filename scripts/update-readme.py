@@ -25,7 +25,7 @@ def parse_kicad_sym(path):
                 elif prop[1] == "ki_description":
                     description = prop[2]
             if comp is not None:
-                result[comp] = (description, '' if datasheet == '' else f'[Datasheet]({datasheet})')
+                result[comp] = (description, '' if datasheet == '' or datasheet == '~' else f'[Datasheet]({datasheet})')
     return result
 
 def generate_symbol_table():
