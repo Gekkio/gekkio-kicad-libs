@@ -723,6 +723,7 @@ Licensed under Creative Commons Attribution 4.0 International.
 | TSOP-I-56_18.4x14mm_P0.5mm | :heavy_check_mark: | :heavy_check_mark: |
 | TSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP2.74x3.86mm |  |  |
 | Transformer_GameBoy_DMG |  |  |
+| USB_A_GCT_USB1061-GF-L_Horizontal |  |  |
 | USB_Micro-AB_Wuerth_629105150921_Horizontal |  |  |
 | USB_Micro-AB_Wuerth_629105150921_Horizontal_CircularHoles |  |  |
 | USB_Mini-B_Hirose_UX60SC-MB-5ST80_Horizontal |  |  |
