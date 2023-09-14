@@ -2500,7 +2500,7 @@
         (name "~{WP}/ACC" (effects (font (size 1.27 1.27))))
         (number "14" (effects (font (size 1.27 1.27))))
       )
-      (pin output line (at 15.24 -10.16 180) (length 5.08)
+      (pin open_collector line (at 15.24 -10.16 180) (length 5.08)
         (name "RY/~{BY}" (effects (font (size 1.27 1.27))))
         (number "15" (effects (font (size 1.27 1.27))))
       )
