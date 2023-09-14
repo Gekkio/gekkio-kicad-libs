@@ -270,6 +270,11 @@ Licensed under Creative Commons Attribution 4.0 International.
 | JESD21-C_3.5.1.4_128k_x8_Flash_PLCC-32 | 1 Mbit (128k x 8) JESD21-C 3.5.1.14 Flash EEPROM, PLCC-32 | [Datasheet](https://www.jedec.org/category/technology-focus-area/memory-configurations-jesd21-c) |
 | JESD21-C_3.5.1.4_256k_x8_Flash_PLCC-32 | 2 Mbit (256k x 8) JESD21-C 3.5.1.14 Flash EEPROM, PLCC-32 | [Datasheet](https://www.jedec.org/category/technology-focus-area/memory-configurations-jesd21-c) |
 | JESD21-C_3.5.1.4_512k_x8_Flash_PLCC-32 | 4 Mbit (512k x 8) JESD21-C 3.5.1.14 Flash EEPROM, PLCC-32 | [Datasheet](https://www.jedec.org/category/technology-focus-area/memory-configurations-jesd21-c) |
+| JESD21-C_3.7.5.4-16k_x8_SRAM_SOIC-28W | 128 kbit (16k x 8) JESD21-C 3.7.5.4 compatible static RAM, SOIC-28W | [Datasheet](https://www.jedec.org/category/technology-focus-area/memory-configurations-jesd21-c) |
+| JESD21-C_3.7.5.4-2k_x8_SRAM_SOIC-28W | 16 kbit (2k x 8) JESD21-C 3.7.5.4 compatible static RAM, SOIC-28W | [Datasheet](https://www.jedec.org/category/technology-focus-area/memory-configurations-jesd21-c) |
+| JESD21-C_3.7.5.4-32k_x8_SRAM_SOIC-28W | 256 kbit (32k x 8) JESD21-C 3.7.5.4 compatible static RAM, SOIC-28W | [Datasheet](https://www.jedec.org/category/technology-focus-area/memory-configurations-jesd21-c) |
+| JESD21-C_3.7.5.4-4k_x8_SRAM_SOIC-28W | 32 kbit (4k x 8) JESD21-C 3.7.5.4 compatible static RAM, SOIC-28W | [Datasheet](https://www.jedec.org/category/technology-focus-area/memory-configurations-jesd21-c) |
+| JESD21-C_3.7.5.4-8k_x8_SRAM_SOIC-28W | 64 kbit (8k x 8) JESD21-C 3.7.5.4 compatible static RAM, SOIC-28W | [Datasheet](https://www.jedec.org/category/technology-focus-area/memory-configurations-jesd21-c) |
 | LC4032ZE-xxTN48 | 1.8 V In-System Programmable Ultra Low Power PLD, 32 macrocells, TQFP-48 | [Datasheet](http://www.latticesemi.com/view_document?document_id=29095) |
 | LC4064ZE-xxTN100 | 1.8 V In-System Programmable Ultra Low Power PLD, 256 macrocells, TQFP-100 | [Datasheet](http://www.latticesemi.com/view_document?document_id=29095) |
 | LC4064ZE-xxTN48 | 1.8 V In-System Programmable Ultra Low Power PLD, 64 macrocells, TQFP-48 | [Datasheet](http://www.latticesemi.com/view_document?document_id=29095) |
