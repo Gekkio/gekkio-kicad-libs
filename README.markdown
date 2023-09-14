@@ -492,6 +492,7 @@ Licensed under Creative Commons Attribution 4.0 International.
 | SN74LVCH8T245DB | 8-bit dual supply translating transceiver, 3-state, bus hold, SSOP-24 | [Datasheet](http://www.ti.com/lit/ds/symlink/sn74lvch8t245.pdf) |
 | SN74LVCH8T245DGV | 8-bit dual supply translating transceiver, 3-state, bus hold, TVSOP-24 | [Datasheet](http://www.ti.com/lit/ds/symlink/sn74lvch8t245.pdf) |
 | SN74LVCH8T245PW | 8-bit dual supply translating transceiver, 3-state, bus hold, TSSOP-24 | [Datasheet](http://www.ti.com/lit/ds/symlink/sn74lvch8t245.pdf) |
+| SNES_Cartridge | SNES/SFC cartridge edge connector |  |
 | SP0504SHTG | 0.85pF TVS Diode Array, SOT-23-6 | [Datasheet](https://m.littelfuse.com/~/media/electronics/datasheets/tvs_diode_arrays/littelfuse_tvs_diode_array_sp0504s_datasheet.pdf.pdf) |
 | SP3003-02JTG | 0.65 pF TVS Diode Array, SC-70-5 | [Datasheet](https://m.littelfuse.com/~/media/electronics/datasheets/tvs_diode_arrays/littelfuse_tvs_diode_array_sp3003_datasheet.pdf.pdf) |
 | SST39LF010-70-4x-NH | 1 Mbit (128k x 8) 3.0-3.6V Multi-Purpose Flash, 70 ns, PLCC-32 | [Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/20005023B.pdf) |
