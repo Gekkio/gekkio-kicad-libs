@@ -30,6 +30,7 @@
   (lib (name "Gekkio_Memory_EEPROM")(type "KiCad")(uri "$(KIPRJMOD)/Gekkio_Memory_EEPROM.kicad_sym")(options "")(descr ""))
   (lib (name "Gekkio_Memory_Flash")(type "KiCad")(uri "$(KIPRJMOD)/Gekkio_Memory_Flash.kicad_sym")(options "")(descr ""))
   (lib (name "Gekkio_Memory_RAM")(type "KiCad")(uri "$(KIPRJMOD)/Gekkio_Memory_RAM.kicad_sym")(options "")(descr ""))
+  (lib (name "Gekkio_Memory_ROM")(type "KiCad")(uri "$(KIPRJMOD)/Gekkio_Memory_ROM.kicad_sym")(options "")(descr ""))
   (lib (name "Gekkio_Oscillator")(type "KiCad")(uri "$(KIPRJMOD)/Gekkio_Oscillator.kicad_sym")(options "")(descr ""))
   (lib (name "Gekkio_Power_Management")(type "KiCad")(uri "$(KIPRJMOD)/Gekkio_Power_Management.kicad_sym")(options "")(descr ""))
   (lib (name "Gekkio_Power_Protection")(type "KiCad")(uri "$(KIPRJMOD)/Gekkio_Power_Protection.kicad_sym")(options "")(descr ""))
