@@ -173,6 +173,7 @@ Licensed under Creative Commons Attribution 4.0 International.
 | CY62157EV18LL-xxBV | 8Mb (512k x 16) SRAM, 1.8V, VFBGA-48 | [Datasheet](https://www.infineon.com/dgdl/Infineon-CY62157EV18_MOBL_8_MBIT_(512K_X_16)_STATIC_RAM-DataSheet-v15_00-EN.pdf?fileId=8ac78c8c7d0d8da4017d0ebec6dc32a4) |
 | DMN3026LVT | 6.6A Id, 30V Vds, N-Channel MOSFET, TSOT-23-6 | [Datasheet](https://www.diodes.com/assets/Datasheets/DMN3026LVT.pdf) |
 | DRV8426RGER | Stepper Driver With Integrated Current Sense, 1/256 Microstepping, STEP/DIR Interface and smart tune Technology, VQFN-24 | [Datasheet](https://www.ti.com/lit/ds/symlink/drv8426.pdf) |
+| F411A | Nintendo F411A, SNES CIC chip (Sharp SM595), SSOP-18 |  |
 | FGPMMOPA6H | GPS Module | [Datasheet](https://cdn-shop.adafruit.com/datasheets/GlobalTop-FGPMMOPA6H-Datasheet-V0A.pdf) |
 | FMN1 | High-speed switching diodes 2 pair Com K, SOT-23-5 | [Datasheet](https://fscdn.rohm.com/en/products/databook/datasheet/discrete/diode/switching/fmn1t148-e.pdf) |
 | FerriteBead_Pack04 | 4 ferrite bead array, parallel topology |  |
@@ -201,6 +202,7 @@ Licensed under Creative Commons Attribution 4.0 International.
 | GameBoy_Transformer_066 | Power Transformer "066" |  |
 | GameBoy_Transformer_AGS | Power Transformer, Game Boy Advance SP (AGS) |  |
 | GameBoy_Transformer_DMG | Power Transformer, original Game Boy (DMG) |  |
+| ICD2 |  |  |
 | ICE40LP1K-QN84 | iCE40 LP FPGA, 1280 LUTs, 1.2V, QFN-84 | [Datasheet](http://www.latticesemi.com/Products/FPGAandCPLD/iCE40) |
 | IQXO-791 | HCMOS Crystal Clock Oscillator, 3.3V | [Datasheet](https://www.iqdfrequencyproducts.com/products/details/iqxo-79x.pdf) |
 | IQXO-793 | HCMOS Crystal Clock Oscillator, 2.5V | [Datasheet](https://www.iqdfrequencyproducts.com/products/details/iqxo-79x.pdf) |
