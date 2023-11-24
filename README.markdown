@@ -582,6 +582,10 @@ Licensed under Creative Commons Attribution 4.0 International.
 | TLV4316ID | Quad 10-MHz, Rail-to-Rail Input/Output, Low-Voltage, 1.8-V CMOS Operational Amplifier, SOIC-14 | [Datasheet](http://www.ti.com/lit/ds/symlink/tlv4316.pdf) |
 | TLV4316IPW | Quad 10-MHz, Rail-to-Rail Input/Output, Low-Voltage, 1.8-V CMOS Operational Amplifier, TSSOP-14 | [Datasheet](http://www.ti.com/lit/ds/symlink/tlv4316.pdf) |
 | TPS3613-01 | Adjustable Battery-Backup Supervisor for RAM Retention, VSSOP-10 | [Datasheet](http://www.ti.com/lit/ds/symlink/tps3613-01.pdf) |
+| TPS3619-33 | Backup-battery supervisors for RAM retention, 3 V, Battery Freshness Seal, TSSOP-8 | [Datasheet](https://www.ti.com/lit/ds/symlink/tps3619.pdf) |
+| TPS3619-50 | Backup-battery supervisors for RAM retention, 5 V, Battery Freshness Seal, TSSOP-8 | [Datasheet](https://www.ti.com/lit/ds/symlink/tps3619.pdf) |
+| TPS3620-33 | Backup-battery supervisors for RAM retention, 3 V, TSSOP-8 | [Datasheet](https://www.ti.com/lit/ds/symlink/tps3620.pdf) |
+| TPS3620-50 | Backup-battery supervisors for RAM retention, 5 V, TSSOP-8 | [Datasheet](https://www.ti.com/lit/ds/symlink/tps3620.pdf) |
 | TPS62A01DRLR | 1A/2.4MHz Synchronous Buck Converter, SOT-563 | [Datasheet](https://www.ti.com/lit/ds/symlink/tps62a01.pdf) |
 | TPS7A0212PDBV | 200-mA Nanopower Iq Low-Dropout Voltage Regulator with Fast Transient Response, Active Discharge, 1.2V, SOT-23-5 | [Datasheet](https://www.ti.com/lit/ds/symlink/tps7a02.pdf) |
 | TPS7A0215PDBV | 200-mA Nanopower Iq Low-Dropout Voltage Regulator with Fast Transient Response, Active Discharge, 1.5V, SOT-23-5 | [Datasheet](https://www.ti.com/lit/ds/symlink/tps7a02.pdf) |
