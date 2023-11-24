@@ -41,6 +41,7 @@
   (lib (name "Gekkio_Regulator_Linear")(type "KiCad")(uri "$(KIPRJMOD)/Gekkio_Regulator_Linear.kicad_sym")(options "")(descr ""))
   (lib (name "Gekkio_Regulator_Switching")(type "KiCad")(uri "$(KIPRJMOD)/Gekkio_Regulator_Switching.kicad_sym")(options "")(descr ""))
   (lib (name "Gekkio_Switch")(type "KiCad")(uri "$(KIPRJMOD)/Gekkio_Switch.kicad_sym")(options "")(descr ""))
+  (lib (name "Gekkio_Timer_RTC")(type "KiCad")(uri "$(KIPRJMOD)/Gekkio_Timer_RTC.kicad_sym")(options "")(descr ""))
   (lib (name "Gekkio_Transformer")(type "KiCad")(uri "$(KIPRJMOD)/Gekkio_Transformer.kicad_sym")(options "")(descr ""))
   (lib (name "Gekkio_Transistor_BJT")(type "KiCad")(uri "$(KIPRJMOD)/Gekkio_Transistor_BJT.kicad_sym")(options "")(descr ""))
   (lib (name "Gekkio_Transistor_FET")(type "KiCad")(uri "$(KIPRJMOD)/Gekkio_Transistor_FET.kicad_sym")(options "")(descr ""))

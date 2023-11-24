@@ -443,6 +443,7 @@ Licensed under Creative Commons Attribution 4.0 International.
 | OPA350UA | High-Speed, Single-Supply, Rail-to-Rail Operational Amplifiers MicroAmplifier Series, SOIC-8 | [Datasheet](http://www.ti.com/lit/ds/symlink/opa4350.pdf) |
 | PAM2308BYMAA | Dual high-efficiency PWM step-down DC-DC converter, DFN-10 | [Datasheet](https://www.diodes.com/assets/Datasheets/products_inactive_data/PAM2308.pdf) |
 | PCA9517ADP | Level translating I2C-bus repeater, TSSOP-8 | [Datasheet](https://www.nxp.com/docs/en/data-sheet/PCA9517.pdf) |
+| PCF85063BTL | SPI Real-Time Clock Calendar w/ Alarm, DFN-10 | [Datasheet](https://www.nxp.com/docs/en/data-sheet/PCF85063BTL.pdf) |
 | PIC18F45K50-IP | 32K Flash, 2K RAM, 256B EEPROM, Microchip PIC18F series enhanced flash microcontroller with USB, DIP-40 | [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/30000684B.pdf) |
 | PIC18LF45K50-IP | 32K Flash, 2K RAM, 256B EEPROM, Microchip PIC18F series enhanced flash microcontroller with USB, DIP-40 | [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/30000684B.pdf) |
 | PST9135N | System Reset, SOT-23-5 | [Datasheet](https://www.semiee.com/file/EOL2/Mitsumi-PST9119N.pdf) |
