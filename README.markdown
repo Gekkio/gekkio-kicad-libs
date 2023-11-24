@@ -377,6 +377,7 @@ Licensed under Creative Commons Attribution 4.0 International.
 | MCP6411T-xOT | Single 1-MHz, Rail-to-Rail Input/Output, Operational Amplifier with EMI filtering, SOT-23-5 | [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/20005791B.pdf) |
 | MIC2005A-1YM6 | Fixed current limiting power distribution switch, SOT-23-6 | [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/mic20xx.pdf) |
 | MIC2005A-2YM6 | Fixed current limiting power distribution switch, SOT-23-6 | [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/mic20xx.pdf) |
+| MIC2091-2YM5 | Current limiting power distribution switch, 100 mA, latch-off, SOT-23-5 | [Datasheet](https://ww1.microchip.com/downloads/aemDocuments/documents/APID/ProductDocuments/DataSheets/MIC2090-1-Current-Limiting-Power-Distribution-Switches-DS20006611A.pdf) |
 | MIC23158 | 3 MHz PWM Dual 2A Buck Regulator with HyperLight Load and Power Good, QFN-20 | [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/MIC23158-9-3MHz-PWM-Dual-2A-Buck-Regulator-with-HyperLight-Load-and-Power-Good-DS20006020A.pdf) |
 | MIC23159 | 3 MHz PWM Dual 2A Buck Regulator with HyperLight Load and Power Good, Auto-Discharge, QFN-20 | [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/MIC23158-9-3MHz-PWM-Dual-2A-Buck-Regulator-with-HyperLight-Load-and-Power-Good-DS20006020A.pdf) |
 | MIC23250-AAYMT | 4 MHz Dual 400 mA Synchronous Buck Regulator with Hyperlight Load™, DFN-12 | [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/mic23250.pdf) |
