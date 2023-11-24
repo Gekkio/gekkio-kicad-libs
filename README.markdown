@@ -666,6 +666,8 @@ Licensed under Creative Commons Attribution 4.0 International.
 | Molex_19708-400X_Vertical | :heavy_check_mark: |  |
 | Molex_19708-401X_Vertical <br> ![Molex_19708-401X_Vertical](photos/Molex_19708-401X_Vertical.jpg) | :heavy_check_mark: |  |
 | Molex_CLIK-Mate_213227-32xx_2x16-1MP_P1.50mm_Vertical |  |  |
+| Molex_Milli-Grid_87831-44xx_2x22_P2.00mm_Vertical |  |  |
+| Molex_Milli-Grid_87832-44xx_2x22_P2.00mm_Vertical |  |  |
 | MountingHole_2.3mm |  |  |
 | MountingHole_7.2mm |  |  |
 | Oscillator_SMD_IQD_IQXO-79x_2.5x2.0mm |  |  |
@@ -681,6 +683,10 @@ Licensed under Creative Commons Attribution 4.0 International.
 | SW_SPST_Circle_D6mm_2Segments |  |  |
 | SW_SPST_Circle_D6mm_4Segments |  |  |
 | SW_SPST_PTS540 |  |  |
+| Samtec_IPL1-103-01-x-D_2x03_P2.54mm_Vertical |  |  |
+| Samtec_IPL1-106-01-x-S_1x06_P2.54mm_Vertical |  |  |
+| Samtec_IPL1-108-01-x-D-RA_2x08_P2.54mm_Vertical |  |  |
+| Samtec_PCIE-036-02-x-D-EMS2_2x18_P1.00mm_Horizontal |  |  |
 | Sharp_QFP-128_14x20mm_P0.5mm | :heavy_check_mark: | :heavy_check_mark: |
 | Sharp_QFP-156_14x20mm_P0.4mm | :heavy_check_mark: | :heavy_check_mark: |
 | Sharp_QFP-44_10x10mm_P0.8mm | :heavy_check_mark: | :heavy_check_mark: |

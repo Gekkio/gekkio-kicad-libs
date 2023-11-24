@@ -9,6 +9,7 @@
   (lib (name "Gekkio_Connector_Coaxial")(type "KiCad")(uri "$(KIPRJMOD)/Gekkio_Connector_Coaxial.pretty")(options "")(descr ""))
   (lib (name "Gekkio_Connector_Molex")(type "KiCad")(uri "$(KIPRJMOD)/Gekkio_Connector_Molex.pretty")(options "")(descr ""))
   (lib (name "Gekkio_Connector_PCBEdge")(type "KiCad")(uri "$(KIPRJMOD)/Gekkio_Connector_PCBEdge.pretty")(options "")(descr ""))
+  (lib (name "Gekkio_Connector_Samtec")(type "KiCad")(uri "$(KIPRJMOD)/Gekkio_Connector_Samtec.pretty")(options "")(descr ""))
   (lib (name "Gekkio_Connector_USB")(type "KiCad")(uri "$(KIPRJMOD)/Gekkio_Connector_USB.pretty")(options "")(descr ""))
   (lib (name "Gekkio_Heatsink")(type "KiCad")(uri "$(KIPRJMOD)/Gekkio_Heatsink.pretty")(options "")(descr ""))
   (lib (name "Gekkio_Inductor_SMD")(type "KiCad")(uri "$(KIPRJMOD)/Gekkio_Inductor_SMD.pretty")(options "")(descr ""))
