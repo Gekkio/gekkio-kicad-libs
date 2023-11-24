@@ -402,6 +402,7 @@ Licensed under Creative Commons Attribution 4.0 International.
 | MX29LV800CxT | 8 Mb (1M x 8 / 512k x 16) Single Voltage 3V Only Flash Memory, TSOP-I 48-pin | [Datasheet](http://www.macronix.com/Lists/Datasheet/Attachments/7258/MX29LV800C%20T-B,%203V,%208Mb,%20v2.6.pdf) |
 | MX29SL402CxT | 4 Mb (512k x 8 / 256k x 16) Single Voltage 1.8V Only Flash Memory, TSOP-I 48-pin | [Datasheet](http://www.macronix.com/Lists/Datasheet/Attachments/7237/MX29SL402C%20T-B,%201.8V,%204Mb,%20v1.0.pdf) |
 | MX29SL800CxT | 8 Mb (1M x 8 / 512k x 16) Single Voltage 1.8V Only Flash Memory, TSOP-I 48-pin | [Datasheet](http://www.macronix.com/Lists/Datasheet/Attachments/7235/MX29SL802C%20T-B,%201.8V,%208Mb,%20v2.0.pdf) |
+| NCP164ASN330T1G | 3.3 V, 300 mA, LDO Regulator, Low Dropout Voltage, Ultra Low Noise, High PSRR with Power Good, TSOT-23-5 | [Datasheet](https://www.onsemi.com/download/data-sheet/pdf/ncp164-d.pdf) |
 | NCP605MN15 | 1.5V, 500mA, Low IGND, CMOS LDO Regulator with Enhanced ESD Protection, DFN-6 | [Datasheet](https://www.onsemi.com/pub/Collateral/NCP605-D.PDF) |
 | NCP605MN18 | 1.8V, 500mA, Low IGND, CMOS LDO Regulator with Enhanced ESD Protection, DFN-6 | [Datasheet](https://www.onsemi.com/pub/Collateral/NCP605-D.PDF) |
 | NCP605MN25 | 2.5V, 500mA, Low IGND, CMOS LDO Regulator with Enhanced ESD Protection, DFN-6 | [Datasheet](https://www.onsemi.com/pub/Collateral/NCP605-D.PDF) |
