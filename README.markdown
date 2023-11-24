@@ -118,6 +118,7 @@ Licensed under Creative Commons Attribution 4.0 International.
 | ATF1504ASL-xAx100 | High-performance Complex Programmable Logic Device, 64 Macrocells, TQFP-100 | [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/doc0784.pdf) |
 | ATF1508AS-xAx100 | High-performance Complex Programmable Logic Device, 128 Macrocells, TQFP-100 | [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/doc0784.pdf) |
 | ATF1508ASL-xAx100 | High-performance Complex Programmable Logic Device, 128 Macrocells, TQFP-100 | [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/doc0784.pdf) |
+| ATSAM3U1Cx-AU | SAM3U SMART ARM-based Flash MCU, 96MHz, 64kB Flash, 20kB RAM, TQFP-100 | [Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-6430-32-bit-Cortex-M3-Microcontroller-SAM3U4-SAM3U2-SAM3U1_Datasheet.pdf) |
 | BA3258HFP | 3.3V/1.5V 1A, Dual Output Fixed Output LDO Regulator, HRP5 | [Datasheet](http://rohmfs.rohm.com/en/products/databook/datasheet/ic/power/linear_regulator/ba3258hfp-e.pdf) |
 | BA33D15HFP | 3.3V/1.5V 0.5A, Dual Output Fixed Output LDO Regulator, HRP5 | [Datasheet](http://rohmfs.rohm.com/en/products/databook/datasheet/ic/power/linear_regulator/ba3258hfp-e.pdf) |
 | BA33D18HFP | 3.3V/1.8V 0.5A, Dual Output Fixed Output LDO Regulator, HRP5 | [Datasheet](http://rohmfs.rohm.com/en/products/databook/datasheet/ic/power/linear_regulator/ba3258hfp-e.pdf) |

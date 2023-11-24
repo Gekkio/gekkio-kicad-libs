@@ -27,6 +27,7 @@
   (lib (name "Gekkio_Interface_USB")(type "KiCad")(uri "$(KIPRJMOD)/Gekkio_Interface_USB.kicad_sym")(options "")(descr ""))
   (lib (name "Gekkio_Logic_LevelTranslator")(type "KiCad")(uri "$(KIPRJMOD)/Gekkio_Logic_LevelTranslator.kicad_sym")(options "")(descr ""))
   (lib (name "Gekkio_MCU_Microchip_PIC18")(type "KiCad")(uri "$(KIPRJMOD)/Gekkio_MCU_Microchip_PIC18.kicad_sym")(options "")(descr ""))
+  (lib (name "Gekkio_MCU_Microchip_SAM3")(type "KiCad")(uri "$(KIPRJMOD)/Gekkio_MCU_Microchip_SAM3.kicad_sym")(options "")(descr ""))
   (lib (name "Gekkio_Memory_EEPROM")(type "KiCad")(uri "$(KIPRJMOD)/Gekkio_Memory_EEPROM.kicad_sym")(options "")(descr ""))
   (lib (name "Gekkio_Memory_Flash")(type "KiCad")(uri "$(KIPRJMOD)/Gekkio_Memory_Flash.kicad_sym")(options "")(descr ""))
   (lib (name "Gekkio_Memory_RAM")(type "KiCad")(uri "$(KIPRJMOD)/Gekkio_Memory_RAM.kicad_sym")(options "")(descr ""))
