@@ -22,7 +22,7 @@ def parse_kicad_sym(path):
                     comp = prop[2]
                 elif prop[1] == "Datasheet":
                     datasheet = prop[2]
-                elif prop[1] == "ki_description":
+                elif prop[1] == "Description":
                     description = prop[2]
             if comp is not None:
                 result[comp] = (description, '' if datasheet == '' or datasheet == '~' else f'[Datasheet]({datasheet})')
