@@ -308,16 +308,7 @@
       "text_offset_ratio": 0.08
     },
     "legacy_lib_dir": "",
-    "legacy_lib_list": [
-      "Gekkio_Connector_Specialized",
-      "Gekkio_CPLD_Lattice",
-      "Gekkio_CPU_Nintendo",
-      "Gekkio_FPGA_Intel",
-      "Gekkio_Interface",
-      "Gekkio_Memory_RAM",
-      "Gekkio_Regulator_Switching",
-      "Gekkio_Power_Management"
-    ],
+    "legacy_lib_list": [],
     "meta": {
       "version": 1
     },
