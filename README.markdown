@@ -468,6 +468,7 @@ Licensed under Creative Commons Attribution 4.0 International.
 | R_Potentiometer_GameBoy_Volume_DMG | Audio volume potentiometer, original Game Boy (DMG) |  |
 | R_Potentiometer_GameBoy_Volume_MGB | Audio volume potentiometer, Game Boy Pocket (MGB) |  |
 | R_Potentiometer_GameBoy_Volume_MGL | Audio volume potentiometer, Game Boy Light (MGL) |  |
+| S-8327B50MC-ESE | Step-up regulator, 5.0V |  |
 | SE3608 | 2A/1.2MHz Output Current, Boost Converter, SOT-23-6 | [Datasheet](http://www.seawardinc.com.cn/webeditor/uploadfile/20200907180455365.pdf) |
 | SE8117TA-HF-1.5V | 1.5V, 1A, Positive Voltage Regulator, SOT-223 | [Datasheet](http://www.seawardinc.com.cn/webeditor/uploadfile/20200423183538362.pdf) |
 | SE8117TA-HF-1.8V | 1.8V, 1A, Positive Voltage Regulator, SOT-223 | [Datasheet](http://www.seawardinc.com.cn/webeditor/uploadfile/20200423183538362.pdf) |
