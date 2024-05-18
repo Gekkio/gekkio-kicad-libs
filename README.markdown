@@ -201,6 +201,7 @@ Licensed under Creative Commons Attribution 4.0 International.
 | GameBoy_SW_DPDT_DMG | Double Pole Double Throw (DPDT) Switch, original Game Boy (DMG) |  |
 | GameBoy_SW_SP3T_MGB | Single Pole Triple Throw (SP3T) Switch, Game Boy Pocket (MGB) |  |
 | GameBoy_SW_SPDT_AGS | Single Pole Double Throw (SPDT) Switch, Game Boy Advance SP (AGS) |  |
+| GameBoy_Transformer_0077 | Power Transformer "0077" |  |
 | GameBoy_Transformer_066 | Power Transformer "066" |  |
 | GameBoy_Transformer_AGS | Power Transformer, Game Boy Advance SP (AGS) |  |
 | GameBoy_Transformer_DMG | Power Transformer, original Game Boy (DMG) |  |
