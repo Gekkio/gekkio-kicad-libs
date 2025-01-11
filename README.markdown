@@ -46,6 +46,7 @@ Licensed under Creative Commons Attribution 4.0 International.
 | 74LVC32AD | Quad 2-input OR gate, SO-14 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/74LVC32A.pdf) |
 | 74LVC32ADB | Quad 2-input OR gate, SSOP-14 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/74LVC32A.pdf) |
 | 74LVC32APW | Quad 2-input OR gate, TSSOP-14 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/74LVC32A.pdf) |
+| 74LVC4T3144PW | 4-bit dual supply buffer/line driver; 3-state | [Datasheet](https://assets.nexperia.com/documents/data-sheet/74LVC4T3144.pdf) |
 | 74LVC540APW | Octal inverting buffer/line driver, 3-state, TSSOP-20 | [Datasheet](https://www.ti.com/lit/ds/symlink/sn74lvc540a.pdf) |
 | 74LVC573ABQ | Octal D-type transparent latch with 5 V tolerant inputs/outputs, 3-state, DHVQFN-20 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/74LVC573A.pdf) |
 | 74LVC573AD | Octal D-type transparent latch with 5 V tolerant inputs/outputs, 3-state, SO-20 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/74LVC573A.pdf) |
