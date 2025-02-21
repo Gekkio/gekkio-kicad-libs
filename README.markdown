@@ -174,6 +174,9 @@ Licensed under Creative Commons Attribution 4.0 International.
 | CBT3125PW | Quadruple FET bus switch, TSSOP-14 | [Datasheet](https://assets.nexperia.com/documents/data-sheet/CBT3125.pdf) |
 | CY62126EV30LL-xxBV | 1Mb (64k x 16) SRAM, VFBGA-48 | [Datasheet](https://www.cypress.com/file/43721/download) |
 | CY62157EV18LL-xxBV | 8Mb (512k x 16) SRAM, 1.8V, VFBGA-48 | [Datasheet](https://www.infineon.com/dgdl/Infineon-CY62157EV18_MOBL_8_MBIT_(512K_X_16)_STATIC_RAM-DataSheet-v15_00-EN.pdf?fileId=8ac78c8c7d0d8da4017d0ebec6dc32a4) |
+| DA101JC | SM Transformer for Digital Audio Data Transmission, 1:1, 1.00-2.20 mH | [Datasheet](https://www.murata.com/products/productdata/8816046145566/kmp-da100j.pdf) |
+| DA102JC | SM Transformer for Digital Audio Data Transmission, 1:1, 2.00-4.40 mH | [Datasheet](https://www.murata.com/products/productdata/8816046145566/kmp-da100j.pdf) |
+| DA103JC | SM Transformer for Digital Audio Data Transmission, 1:1, 3.20-8.50 mH | [Datasheet](https://www.murata.com/products/productdata/8816046145566/kmp-da100j.pdf) |
 | DMN3026LVT | 6.6A Id, 30V Vds, N-Channel MOSFET, TSOT-23-6 | [Datasheet](https://www.diodes.com/assets/Datasheets/DMN3026LVT.pdf) |
 | DRV8426RGER | Stepper Driver With Integrated Current Sense, 1/256 Microstepping, STEP/DIR Interface and smart tune Technology, VQFN-24 | [Datasheet](https://www.ti.com/lit/ds/symlink/drv8426.pdf) |
 | F411A | Nintendo F411A, SNES CIC chip (Sharp SM595), SSOP-18 |  |
@@ -674,6 +677,7 @@ Licensed under Creative Commons Attribution 4.0 International.
 | Molex_Milli-Grid_87832-44xx_2x22_P2.00mm_Vertical |  |  |
 | MountingHole_2.3mm |  |  |
 | MountingHole_7.2mm |  |  |
+| Murata_DA1xxJC |  |  |
 | Oscillator_SMD_IQD_IQXO-79x_2.5x2.0mm |  |  |
 | Oscillator_SMD_SeikoEpson_TG-3541CE_3.2x2.5mm |  |  |
 | PCIExpress_x1_2x18_P1.00mm_Edge |  |  |
