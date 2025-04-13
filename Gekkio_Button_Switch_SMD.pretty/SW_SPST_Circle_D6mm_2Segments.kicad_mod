@@ -1,7 +1,7 @@
 (footprint "SW_SPST_Circle_D6mm_2Segments"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "PCB button pads, circle with 2 segments, SPST")
 	(tags "spst pcb")
@@ -27,18 +27,6 @@
 			)
 		)
 	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "ed74ffb5-dfb9-44f2-9733-27bd4b7f9e08")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
 	(property "Datasheet" ""
 		(at 0 0 0)
 		(unlocked yes)
@@ -48,6 +36,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -60,6 +49,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -71,7 +61,7 @@
 			(width 0.05)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.CrtYd")
 		(uuid "25c663ff-96b6-4263-a06e-d1829409cf73")
 	)
@@ -82,7 +72,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.Fab")
 		(uuid "34ce7009-187e-4541-a14e-708b3a2903d9")
 	)
@@ -159,4 +149,5 @@
 		)
 		(uuid "6ae963fb-e34f-4e11-9adf-78839a5b2ef1")
 	)
+	(embedded_fonts no)
 )

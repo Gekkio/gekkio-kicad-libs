@@ -1,4 +1,4 @@
-# KiCad 8.x libraries by gekkio
+# KiCad 9.x libraries by gekkio
 
 Licensed under Creative Commons Attribution 4.0 International.
 

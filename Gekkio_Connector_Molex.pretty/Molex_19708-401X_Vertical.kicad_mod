@@ -1,7 +1,7 @@
 (footprint "Molex_19708-401X_Vertical"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "http://www.molex.com/pdm_docs/sd/197084011_sd.pdf")
 	(tags "molex")
@@ -27,18 +27,6 @@
 			)
 		)
 	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "edf4aa88-402c-4fa6-a093-b57a257cc4c1")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
 	(property "Datasheet" ""
 		(at 0 0 0)
 		(unlocked yes)
@@ -48,6 +36,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -60,6 +49,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -191,6 +181,7 @@
 		(remove_unused_layers no)
 		(uuid "5a67196f-9472-4a8d-961f-eac8ec999d85")
 	)
+	(embedded_fonts no)
 	(model "${KICAD7_3DMODEL_DIR}/Gekkio_Connector_Molex.3dshapes/Molex_19708-401X_Vertical.wrl"
 		(offset
 			(xyz 0 0 0)

@@ -1,7 +1,7 @@
 (footprint "GameBoy_LinkPort_DMG_Horizontal"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "Game Boy link port, original Game Boy")
 	(tags "game boy link port")
@@ -27,18 +27,6 @@
 			)
 		)
 	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "7f62e74f-2842-48fa-a74d-4f1de7aeb6e9")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
 	(property "Datasheet" ""
 		(at 0 0 0)
 		(unlocked yes)
@@ -48,6 +36,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -60,6 +49,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -205,7 +195,7 @@
 		(uuid "85d211d4-76e7-4e49-a9c8-2e1cc8ab5805")
 	)
 	(fp_text user "${REFERENCE}"
-		(at 9.7 2.5 -90)
+		(at 9.7 2.5 270)
 		(layer "F.Fab")
 		(uuid "1a734ace-0cd0-489a-9380-915322ff12bd")
 		(effects
@@ -279,6 +269,7 @@
 		(remove_unused_layers no)
 		(uuid "de5c2064-b9e1-4057-a8cc-9308019ef4d3")
 	)
+	(embedded_fonts no)
 	(model "${KICAD7_3DMODEL_DIR}/Gekkio_Connector.3dshapes/GameBoy_LinkPort_DMG_Horizontal.wrl"
 		(offset
 			(xyz 0 0 0)

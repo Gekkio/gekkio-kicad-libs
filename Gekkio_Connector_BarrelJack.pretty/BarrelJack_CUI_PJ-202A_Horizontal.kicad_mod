@@ -1,7 +1,7 @@
 (footprint "BarrelJack_CUI_PJ-202A_Horizontal"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "DC power jack, 2.0 mm center pin, 2.5 A rating, right-angle orientation, through-hole, kinked pins (http://www.cui.com/product/resource/pj-202a.pdf)")
 	(tags "dc power barrel jack")
@@ -27,18 +27,6 @@
 			)
 		)
 	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "c2167cfc-c4e6-4583-bcf9-0b26e37e89a7")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
 	(property "Datasheet" ""
 		(at 0 0 0)
 		(unlocked yes)
@@ -48,6 +36,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -60,6 +49,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -329,6 +319,7 @@
 		(remove_unused_layers no)
 		(uuid "1ba3e338-9465-4844-8361-6715d7885c15")
 	)
+	(embedded_fonts no)
 	(model "${KICAD7_3DMODEL_DIR}/Gekkio_Connector_BarrelJack.3dshapes/BarrelJack_CUI_PJ-202A_Horizontal.wrl"
 		(offset
 			(xyz 0 0 0)

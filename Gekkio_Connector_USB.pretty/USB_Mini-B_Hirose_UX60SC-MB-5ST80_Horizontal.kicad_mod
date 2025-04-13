@@ -1,7 +1,7 @@
 (footprint "USB_Mini-B_Hirose_UX60SC-MB-5ST80_Horizontal"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "https://www.hirose.com/product/en/products/UX/UX60SC-MB-5ST%2880%29/")
 	(tags "USB USB_B USB_Mini connector")
@@ -27,18 +27,6 @@
 			)
 		)
 	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "7d13267d-bb87-499a-96f7-f4a8375a54e0")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
 	(property "Datasheet" ""
 		(at 0 0 0)
 		(unlocked yes)
@@ -48,6 +36,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -60,6 +49,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -478,45 +468,46 @@
 	(pad "1" smd rect
 		(at -1.6 -1.8)
 		(size 0.5 1.4)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "c3bda053-a317-478b-9661-cf51e69da846")
 	)
 	(pad "2" smd rect
 		(at -0.8 -1.8)
 		(size 0.5 1.4)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "39b9d340-a88f-43ab-b665-8c0d0b261be6")
 	)
 	(pad "3" smd rect
 		(at 0 -1.8)
 		(size 0.5 1.4)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "6afe7f07-b5c5-46e5-8c67-9f3c2f2ccc07")
 	)
 	(pad "4" smd rect
 		(at 0.8 -1.8)
 		(size 0.5 1.4)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "942adaba-b1d3-4660-a913-86baf776918b")
 	)
 	(pad "5" smd rect
 		(at 1.6 -1.8)
 		(size 0.5 1.4)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "bd6d3bd1-8b09-48eb-983e-59ab3aacbfab")
 	)
 	(pad "6" smd rect
 		(at -4.2 0.6)
 		(size 2.5 3.8)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "2aa0b7ef-6992-47a7-b57d-fa96764a5bc1")
 	)
 	(pad "6" smd rect
 		(at 4.2 0.6)
 		(size 2.5 3.8)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "de680cd2-d6ab-4800-82a2-20a4dd19e1e8")
 	)
+	(embedded_fonts no)
 	(model "${KICAD7_3DMODEL_DIR}/Gekkio_Connector_USB.3dshapes/USB_Mini-B_Hirose_UX60SC-MB-5ST80_Horizontal.wrl"
 		(offset
 			(xyz 0 0 0)

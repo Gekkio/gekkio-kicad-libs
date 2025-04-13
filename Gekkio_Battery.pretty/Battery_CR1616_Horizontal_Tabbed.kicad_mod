@@ -1,7 +1,7 @@
 (footprint "Battery_CR1616_Horizontal_Tabbed"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "CR1616 battery with solder tabs")
 	(tags "cr1616")
@@ -27,18 +27,6 @@
 			)
 		)
 	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "121b110c-f4cd-43fe-8d94-fc8c5604e72e")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
 	(property "Datasheet" ""
 		(at 0 0 0)
 		(unlocked yes)
@@ -48,6 +36,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -60,6 +49,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -101,7 +91,7 @@
 			(width 0.12)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.SilkS")
 		(uuid "37f31dec-63fc-4634-a141-5dc5d2b60fe4")
 	)
@@ -216,7 +206,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.Fab")
 		(uuid "88668202-3f0b-4d07-84d4-dcd790f57272")
 	)
@@ -234,15 +224,16 @@
 	(pad "1" smd rect
 		(at 0 -11)
 		(size 4 4)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "b7867831-ef82-4f33-a926-59e5c1c09b91")
 	)
 	(pad "2" smd rect
 		(at 0 11)
 		(size 4 4)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "6bf05d19-ba3e-4ba6-8a6f-4e0bc45ea3b2")
 	)
+	(embedded_fonts no)
 	(model "${KICAD7_3DMODEL_DIR}/Gekkio_Battery.3dshapes/Battery_CR1616_Horizontal_Tabbed.wrl"
 		(offset
 			(xyz 0 0 0)

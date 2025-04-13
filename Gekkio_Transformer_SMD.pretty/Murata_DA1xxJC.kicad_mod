@@ -1,7 +1,7 @@
 (footprint "Murata_DA1xxJC"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "SM Transformers for Digital Audio Data Transmission, https://www.murata.com/products/productdata/8816046145566/kmp-da100j.pdf")
 	(tags "transformer digital audio")
@@ -22,19 +22,6 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(uuid "f34773f1-6f14-4d57-b5ca-8069f964d781")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(property "Footprint" ""
-		(at 0.15 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "8b79878b-72b2-4911-abc6-2f09e5ac3f66")
 		(effects
 			(font
 				(size 1 1)
@@ -177,7 +164,7 @@
 			(width 0.12)
 			(type solid)
 		)
-		(fill solid)
+		(fill yes)
 		(layer "F.SilkS")
 		(uuid "6b284a4f-7d3d-4c8a-93f3-3da2b0e5531f")
 	)
@@ -190,7 +177,7 @@
 			(width 0.05)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.CrtYd")
 		(uuid "0a20c047-09c2-46bd-b9c6-83e72b93e1f0")
 	)
@@ -202,7 +189,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.Fab")
 		(uuid "152b97f6-1b29-44db-8f64-002813e68a17")
 	)
@@ -221,7 +208,7 @@
 	(pad "1" smd roundrect
 		(at -5.85 -2.54)
 		(size 1.6 1)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.25)
 		(thermal_bridge_angle 45)
 		(uuid "5e4e5cde-ad0a-4078-b475-9935b816e2e4")
@@ -229,7 +216,7 @@
 	(pad "2" smd roundrect
 		(at -5.85 0)
 		(size 1.6 1)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.25)
 		(thermal_bridge_angle 45)
 		(uuid "1d5c66fe-2461-4b2e-abb4-9d4f9644cc34")
@@ -237,7 +224,7 @@
 	(pad "3" smd roundrect
 		(at -5.85 2.54)
 		(size 1.6 1)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.25)
 		(thermal_bridge_angle 45)
 		(uuid "ff61ade3-d413-438b-bffd-5e6fe46b9e59")
@@ -245,7 +232,7 @@
 	(pad "4" smd roundrect
 		(at 5.85 2.54)
 		(size 1.6 1)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.25)
 		(thermal_bridge_angle 45)
 		(uuid "98d2a3de-1ea3-4a47-bb88-789999cfa3ef")
@@ -253,7 +240,7 @@
 	(pad "5" smd roundrect
 		(at 5.85 0)
 		(size 1.6 1)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.25)
 		(thermal_bridge_angle 45)
 		(uuid "840a17b3-3024-4f5e-92ca-6d898dc75530")
@@ -261,11 +248,12 @@
 	(pad "6" smd roundrect
 		(at 5.85 -2.54)
 		(size 1.6 1)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.25)
 		(thermal_bridge_angle 45)
 		(uuid "a43b5a96-85ec-4ab5-892c-3e3d210370c3")
 	)
+	(embedded_fonts no)
 	(model "${KICAD8_3DMODEL_DIR}/Gekkio_Transformer_SMD.3dshapes/Murata_DA1xxJC.wrl"
 		(offset
 			(xyz 0 0 0)

@@ -1,7 +1,7 @@
 (footprint "L_Hotland_MCW-0630"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "SMD Power Inductor, http://www.sz-hotland.com/uploadfile/2018/0111/20180111053236780.pdf")
 	(tags "inductor smd")
@@ -27,18 +27,6 @@
 			)
 		)
 	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "7470cb99-d4d2-4b7b-9f76-423651b0a9f1")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
 	(property "Datasheet" ""
 		(at 0 0 0)
 		(unlocked yes)
@@ -48,6 +36,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -60,6 +49,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -178,15 +168,16 @@
 	(pad "1" smd rect
 		(at -3.025 0)
 		(size 2.35 3.5)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "c36e313e-b57e-4e87-be84-97f5175f9e1a")
 	)
 	(pad "2" smd rect
 		(at 3.025 0)
 		(size 2.35 3.5)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "f42adfe5-2223-4c4a-b9de-5bf6a8c6e384")
 	)
+	(embedded_fonts no)
 	(model "${KICAD7_3DMODEL_DIR}/Gekkio_Inductor_SMD.3dshapes/L_Hotland_MCW-0630.wrl"
 		(offset
 			(xyz 0 0 0)

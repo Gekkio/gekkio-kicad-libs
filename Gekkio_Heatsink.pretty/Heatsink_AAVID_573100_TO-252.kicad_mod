@@ -1,7 +1,7 @@
 (footprint "Heatsink_AAVID_573100_TO-252"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "Surface mount heat sink for D-PAK (TO-252) package semiconductors")
 	(tags "Heatsink AAVID TO-252")
@@ -27,18 +27,6 @@
 			)
 		)
 	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "ebf8f388-f62c-4c01-8607-cae371ac226f")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
 	(property "Datasheet" ""
 		(at 0 0 0)
 		(unlocked yes)
@@ -48,6 +36,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -60,6 +49,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -278,15 +268,16 @@
 	(pad "1" smd rect
 		(at -5.95 0)
 		(size 1.4 9)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "0168faa9-d860-4835-8533-3c0281553d85")
 	)
 	(pad "1" smd rect
 		(at 5.95 0)
 		(size 1.4 9)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "2f5d54b9-4474-4308-b413-75bfc8f0fc82")
 	)
+	(embedded_fonts no)
 	(model "${KICAD7_3DMODEL_DIR}/Gekkio_Heatsink.3dshapes/Heatsink_AAVID_573100_TO-252.wrl"
 		(offset
 			(xyz 0 0 0)

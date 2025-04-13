@@ -1,10 +1,12 @@
 (kicad_symbol_lib
-	(version 20231120)
+	(version 20241209)
 	(generator "kicad_symbol_editor")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(symbol "GameBoy_SW_DP3T_MGL"
 		(pin_names
-			(offset 0) hide)
+			(offset 0)
+			(hide yes)
+		)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -72,43 +74,7 @@
 		(symbol "GameBoy_SW_DP3T_MGL_0_0"
 			(polyline
 				(pts
-					(xy 0 -2.54) (xy 0 -1.905)
-				)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 0 -1.27) (xy 0 -0.635)
-				)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 0 0) (xy 0 0.635)
-				)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 0 1.27) (xy 0 1.905)
+					(xy 0 3.81) (xy 0 4.445)
 				)
 				(stroke
 					(width 0)
@@ -132,7 +98,43 @@
 			)
 			(polyline
 				(pts
-					(xy 0 3.81) (xy 0 4.445)
+					(xy 0 1.27) (xy 0 1.905)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 0 0) (xy 0 0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 0 -1.27) (xy 0 -0.635)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 0 -2.54) (xy 0 -1.905)
 				)
 				(stroke
 					(width 0)
@@ -145,17 +147,6 @@
 		)
 		(symbol "GameBoy_SW_DP3T_MGL_0_1"
 			(circle
-				(center -2.032 -3.81)
-				(radius 0.4572)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(circle
 				(center -2.032 3.81)
 				(radius 0.4572)
 				(stroke
@@ -166,10 +157,9 @@
 					(type none)
 				)
 			)
-			(polyline
-				(pts
-					(xy -1.651 -3.556) (xy 1.651 -1.524)
-				)
+			(circle
+				(center -2.032 -3.81)
+				(radius 0.4572)
 				(stroke
 					(width 0)
 					(type default)
@@ -192,6 +182,29 @@
 			)
 			(polyline
 				(pts
+					(xy -1.651 -3.556) (xy 1.651 -1.524)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center 2.032 6.35)
+				(radius 0.4572)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
 					(xy 2.032 3.81) (xy 2.032 1.27) (xy 2.032 2.286)
 				)
 				(stroke
@@ -203,7 +216,7 @@
 				)
 			)
 			(circle
-				(center 2.032 -6.35)
+				(center 2.032 3.81)
 				(radius 0.4572)
 				(stroke
 					(width 0)
@@ -225,18 +238,7 @@
 				)
 			)
 			(circle
-				(center 2.032 3.81)
-				(radius 0.4572)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(circle
-				(center 2.032 6.35)
+				(center 2.032 -6.35)
 				(radius 0.4572)
 				(stroke
 					(width 0)
@@ -249,24 +251,6 @@
 		)
 		(symbol "GameBoy_SW_DP3T_MGL_1_1"
 			(pin passive line
-				(at 5.08 6.35 180)
-				(length 2.54)
-				(name "1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
 				(at -5.08 3.81 0)
 				(length 2.54)
 				(name "2"
@@ -277,6 +261,42 @@
 					)
 				)
 				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -5.08 -3.81 0)
+				(length 2.54)
+				(name "5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 5.08 6.35 180)
+				(length 2.54)
+				(name "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -320,29 +340,14 @@
 					)
 				)
 			)
-			(pin passive line
-				(at -5.08 -3.81 0)
-				(length 2.54)
-				(name "5"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "5"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
 		)
+		(embedded_fonts no)
 	)
 	(symbol "GameBoy_SW_DPDT_AGS"
 		(pin_names
-			(offset 0) hide)
+			(offset 0)
+			(hide yes)
+		)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -400,17 +405,6 @@
 		)
 		(symbol "GameBoy_SW_DPDT_AGS_0_0"
 			(circle
-				(center -2.032 -2.54)
-				(radius 0.508)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(circle
 				(center -2.032 2.54)
 				(radius 0.508)
 				(stroke
@@ -421,10 +415,9 @@
 					(type none)
 				)
 			)
-			(polyline
-				(pts
-					(xy -1.524 -2.286) (xy 1.27 0)
-				)
+			(circle
+				(center -2.032 -2.54)
+				(radius 0.508)
 				(stroke
 					(width 0)
 					(type default)
@@ -447,7 +440,7 @@
 			)
 			(polyline
 				(pts
-					(xy 0 -0.762) (xy 0 -0.127)
+					(xy -1.524 -2.286) (xy 1.27 0)
 				)
 				(stroke
 					(width 0)
@@ -459,7 +452,7 @@
 			)
 			(polyline
 				(pts
-					(xy 0 0.508) (xy 0 1.143)
+					(xy 0 3.048) (xy 0 3.683)
 				)
 				(stroke
 					(width 0)
@@ -483,7 +476,7 @@
 			)
 			(polyline
 				(pts
-					(xy 0 3.048) (xy 0 3.683)
+					(xy 0 0.508) (xy 0 1.143)
 				)
 				(stroke
 					(width 0)
@@ -493,9 +486,10 @@
 					(type none)
 				)
 			)
-			(circle
-				(center 2.032 -5.08)
-				(radius 0.508)
+			(polyline
+				(pts
+					(xy 0 -0.762) (xy 0 -0.127)
+				)
 				(stroke
 					(width 0)
 					(type default)
@@ -506,6 +500,17 @@
 			)
 			(circle
 				(center 2.032 0)
+				(radius 0.508)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center 2.032 -5.08)
 				(radius 0.508)
 				(stroke
 					(width 0)
@@ -538,24 +543,6 @@
 				)
 			)
 			(pin passive line
-				(at -5.08 -2.54 0)
-				(length 2.54)
-				(name "C1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "C1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
 				(at -5.08 2.54 0)
 				(length 2.54)
 				(name "C2"
@@ -566,6 +553,24 @@
 					)
 				)
 				(number "C2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -5.08 -2.54 0)
+				(length 2.54)
+				(name "C1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "C1"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -628,10 +633,13 @@
 				)
 			)
 		)
+		(embedded_fonts no)
 	)
 	(symbol "GameBoy_SW_DPDT_DMG"
 		(pin_names
-			(offset 0) hide)
+			(offset 0)
+			(hide yes)
+		)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -689,17 +697,6 @@
 		)
 		(symbol "GameBoy_SW_DPDT_DMG_0_0"
 			(circle
-				(center -2.032 -2.54)
-				(radius 0.508)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(circle
 				(center -2.032 2.54)
 				(radius 0.508)
 				(stroke
@@ -710,10 +707,9 @@
 					(type none)
 				)
 			)
-			(polyline
-				(pts
-					(xy -1.524 -2.286) (xy 1.27 0)
-				)
+			(circle
+				(center -2.032 -2.54)
+				(radius 0.508)
 				(stroke
 					(width 0)
 					(type default)
@@ -736,7 +732,7 @@
 			)
 			(polyline
 				(pts
-					(xy 0 -0.762) (xy 0 -0.127)
+					(xy -1.524 -2.286) (xy 1.27 0)
 				)
 				(stroke
 					(width 0)
@@ -748,7 +744,7 @@
 			)
 			(polyline
 				(pts
-					(xy 0 0.508) (xy 0 1.143)
+					(xy 0 3.048) (xy 0 3.683)
 				)
 				(stroke
 					(width 0)
@@ -772,7 +768,7 @@
 			)
 			(polyline
 				(pts
-					(xy 0 3.048) (xy 0 3.683)
+					(xy 0 0.508) (xy 0 1.143)
 				)
 				(stroke
 					(width 0)
@@ -782,9 +778,10 @@
 					(type none)
 				)
 			)
-			(circle
-				(center 2.032 -5.08)
-				(radius 0.508)
+			(polyline
+				(pts
+					(xy 0 -0.762) (xy 0 -0.127)
+				)
 				(stroke
 					(width 0)
 					(type default)
@@ -795,6 +792,17 @@
 			)
 			(circle
 				(center 2.032 5.08)
+				(radius 0.508)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(circle
+				(center 2.032 -5.08)
 				(radius 0.508)
 				(stroke
 					(width 0)
@@ -827,6 +835,24 @@
 				)
 			)
 			(pin passive line
+				(at -5.08 2.54 0)
+				(length 2.54)
+				(name "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
 				(at -5.08 -2.54 0)
 				(length 2.54)
 				(name "1"
@@ -845,34 +871,16 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 -5.08 180)
-				(length 2.54)
-				(name "2"
+				(at 0 -10.16 90)
+				(length 3.048)
+				(name "~"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "2"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
-				(at -5.08 2.54 0)
-				(length 2.54)
-				(name "3"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "3"
+				(number "MP"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -899,16 +907,16 @@
 				)
 			)
 			(pin passive line
-				(at 0 -10.16 90)
-				(length 3.048)
-				(name "~"
+				(at 5.08 -5.08 180)
+				(length 2.54)
+				(name "2"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "MP"
+				(number "2"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -917,10 +925,13 @@
 				)
 			)
 		)
+		(embedded_fonts no)
 	)
 	(symbol "GameBoy_SW_SP3T_MGB"
 		(pin_names
-			(offset 0) hide)
+			(offset 0)
+			(hide yes)
+		)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -1010,7 +1021,7 @@
 				)
 			)
 			(circle
-				(center 2.032 -2.54)
+				(center 2.032 2.54)
 				(radius 0.4572)
 				(stroke
 					(width 0)
@@ -1032,7 +1043,7 @@
 				)
 			)
 			(circle
-				(center 2.032 2.54)
+				(center 2.032 -2.54)
 				(radius 0.4572)
 				(stroke
 					(width 0)
@@ -1061,6 +1072,42 @@
 				(effects
 					(font
 						(size 0.381 0.381)
+					)
+				)
+			)
+			(pin passive line
+				(at -5.08 0 0)
+				(length 2.54)
+				(name "C"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "C"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 0 -7.62 90)
+				(length 3.048)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "MP"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
 					)
 				)
 			)
@@ -1118,47 +1165,14 @@
 					)
 				)
 			)
-			(pin passive line
-				(at -5.08 0 0)
-				(length 2.54)
-				(name "C"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "C"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
-				(at 0 -7.62 90)
-				(length 3.048)
-				(name "~"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "MP"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
 		)
+		(embedded_fonts no)
 	)
 	(symbol "GameBoy_SW_SPDT_AGS"
 		(pin_names
-			(offset 0) hide)
+			(offset 0)
+			(hide yes)
+		)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -1248,7 +1262,7 @@
 				)
 			)
 			(circle
-				(center 2.032 -2.54)
+				(center 2.032 2.54)
 				(radius 0.4572)
 				(stroke
 					(width 0)
@@ -1259,7 +1273,7 @@
 				)
 			)
 			(circle
-				(center 2.032 2.54)
+				(center 2.032 -2.54)
 				(radius 0.4572)
 				(stroke
 					(width 0)
@@ -1288,42 +1302,6 @@
 				(effects
 					(font
 						(size 0.381 0.381)
-					)
-				)
-			)
-			(pin passive line
-				(at 5.08 2.54 180)
-				(length 2.54)
-				(name "1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
-				(at 5.08 -2.54 180)
-				(length 2.54)
-				(name "2"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "2"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
 					)
 				)
 			)
@@ -1363,6 +1341,43 @@
 					)
 				)
 			)
+			(pin passive line
+				(at 5.08 2.54 180)
+				(length 2.54)
+				(name "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 5.08 -2.54 180)
+				(length 2.54)
+				(name "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
 		)
+		(embedded_fonts no)
 	)
 )

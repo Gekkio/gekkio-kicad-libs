@@ -1,7 +1,7 @@
 (footprint "MountingHole_2.3mm"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "Mounting Hole 2.5mm, no annular")
 	(tags "mounting hole 2.5mm no annular")
@@ -27,18 +27,6 @@
 			)
 		)
 	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "09926576-1413-46ab-81ed-23b5f95bfb3e")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
 	(property "Datasheet" ""
 		(at 0 0 0)
 		(unlocked yes)
@@ -48,6 +36,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -60,6 +49,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -71,7 +61,7 @@
 			(width 0.05)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.CrtYd")
 		(uuid "95d1611d-ca97-4aa5-b70f-dc628d54b1ac")
 	)
@@ -93,4 +83,5 @@
 		(layers "*.Cu" "*.Mask")
 		(uuid "ea39acf5-f29b-4dbb-908c-0c8af52fca9f")
 	)
+	(embedded_fonts no)
 )

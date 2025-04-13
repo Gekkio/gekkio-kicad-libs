@@ -1,7 +1,7 @@
 (footprint "CWIndustries_GF-1123-1110"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "SPST Standard Slide Switch (http://switches-connectors-custom.cwind.com/Asset/GF-1123-1110.pdf)")
 	(tags "switch SPST")
@@ -27,18 +27,6 @@
 			)
 		)
 	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "98b5be25-1276-4da4-9b49-11328ac0cfa7")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
 	(property "Datasheet" ""
 		(at 0 0 0)
 		(unlocked yes)
@@ -48,6 +36,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -60,6 +49,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -371,7 +361,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.Fab")
 		(uuid "aa288a22-ea1d-474d-8dae-efe971580843")
 	)
@@ -382,7 +372,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.Fab")
 		(uuid "1527299a-08b3-47c3-929f-a75c83be365e")
 	)
@@ -413,6 +403,7 @@
 		(remove_unused_layers no)
 		(uuid "43f341b3-06e9-4e7a-a26e-5365b89d76bf")
 	)
+	(embedded_fonts no)
 	(model "${KICAD7_3DMODEL_DIR}/Gekkio_Button_Switch_THT.3dshapes/CWIndustries_GF-1123-1110.wrl"
 		(offset
 			(xyz 0 0 0)

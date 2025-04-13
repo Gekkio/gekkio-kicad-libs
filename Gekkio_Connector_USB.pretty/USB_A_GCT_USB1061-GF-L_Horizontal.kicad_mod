@@ -1,7 +1,7 @@
 (footprint "USB_A_GCT_USB1061-GF-L_Horizontal"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "USB type A Plug, Horizontal, https://gct.co/files/drawings/usb1061.pdf")
 	(tags "USB-A")
@@ -27,18 +27,6 @@
 			)
 		)
 	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "55f9c12e-81ba-4be0-9bfa-2ceb74470974")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
 	(property "Datasheet" ""
 		(at 0 0 0)
 		(unlocked yes)
@@ -48,6 +36,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -60,6 +49,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -431,7 +421,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.Fab")
 		(uuid "025c446c-9b01-48b9-aeb9-d86397f4b35d")
 	)
@@ -442,7 +432,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.Fab")
 		(uuid "e93ab612-847b-4aaa-ad85-9aecf5aca4de")
 	)
@@ -485,28 +475,28 @@
 	(pad "1" smd roundrect
 		(at -1.55 -3.5)
 		(size 2.5 1.1)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.25)
 		(uuid "891f2dca-9cbe-4513-b94f-b22f958e52d0")
 	)
 	(pad "2" smd roundrect
 		(at -1.55 -1)
 		(size 2.5 1.1)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.25)
 		(uuid "88a21191-8604-4e36-bdae-0857aefba523")
 	)
 	(pad "3" smd roundrect
 		(at -1.55 1)
 		(size 2.5 1.1)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.25)
 		(uuid "63d85dfc-d04a-4761-9812-7c9140a9713e")
 	)
 	(pad "4" smd roundrect
 		(at -1.55 3.5)
 		(size 2.5 1.1)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.25)
 		(uuid "6e29f02d-8607-4700-8de7-9f24c4289ce3")
 	)
@@ -526,6 +516,7 @@
 		(remove_unused_layers no)
 		(uuid "a8d2bc8a-814b-4f25-a7f5-f6854974c878")
 	)
+	(embedded_fonts no)
 	(model "${KICAD7_3DMODEL_DIR}/Gekkio_Connector_USB.3dshapes/USB_A_GCT_USB1061-GF-L_Horizontal.wrl"
 		(offset
 			(xyz 0 0 0)

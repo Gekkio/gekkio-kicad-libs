@@ -1,7 +1,7 @@
 (footprint "Oscillator_SMD_SeikoEpson_TG-3541CE_3.2x2.5mm"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "SMD TCXO, https://www5.epsondevice.com/en/products/crystal_oscillator/tg3541ce.html")
 	(tags "smd tcxo")
@@ -27,18 +27,6 @@
 			)
 		)
 	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "5d102b6b-29a1-4b28-97eb-3a14c74f02a7")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
 	(property "Datasheet" ""
 		(at 0 0 0)
 		(unlocked yes)
@@ -48,6 +36,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -60,6 +49,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -228,63 +218,64 @@
 	(pad "1" smd rect
 		(at -1.6 1)
 		(size 0.7 0.9)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "8f9aca01-53aa-40a5-a852-68dc5b83c87f")
 	)
 	(pad "2" smd rect
 		(at -0.7 1)
 		(size 0.4 0.9)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "bbae4f90-8f17-4faf-b175-d779ee8c6747")
 	)
 	(pad "3" smd rect
 		(at 0 1)
 		(size 0.4 0.9)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "ead67650-197d-41fe-9104-700c17e48fea")
 	)
 	(pad "4" smd rect
 		(at 0.7 1)
 		(size 0.4 0.9)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "422a0cc6-4610-4007-be09-2c093a3a31d8")
 	)
 	(pad "5" smd rect
 		(at 1.6 1)
 		(size 0.7 0.9)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "30e8237d-252c-4464-afc5-907a1bec6c73")
 	)
 	(pad "6" smd rect
 		(at 1.6 -1)
 		(size 0.7 0.9)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "e71dea81-09de-4f94-a05e-2a85ce537c40")
 	)
 	(pad "7" smd rect
 		(at 0.7 -1)
 		(size 0.4 0.9)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "1a55f54c-7f6f-4392-b020-7d75fd2b3fb5")
 	)
 	(pad "8" smd rect
 		(at 0 -1)
 		(size 0.4 0.9)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "f9e7ff71-7662-40d2-9968-aeace1e0fed4")
 	)
 	(pad "9" smd rect
 		(at -0.7 -1)
 		(size 0.4 0.9)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "42868d4f-7f68-4a64-833c-7330e00b24ab")
 	)
 	(pad "10" smd rect
 		(at -1.6 -1)
 		(size 0.7 0.9)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "4839062c-fa56-42b7-9dab-84011b1a6f69")
 	)
+	(embedded_fonts no)
 	(model "${KICAD7_3DMODEL_DIR}/Gekkio_Oscillator.3dshapes/Oscillator_SMD_SeikoEpson_TG-3541CE_3.2x2.5mm.wrl"
 		(offset
 			(xyz 0 0 0)

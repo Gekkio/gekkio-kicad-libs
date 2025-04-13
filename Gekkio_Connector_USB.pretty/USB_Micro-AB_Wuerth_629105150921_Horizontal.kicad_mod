@@ -1,7 +1,7 @@
 (footprint "USB_Micro-AB_Wuerth_629105150921_Horizontal"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "WR-COM Micro USB 2.0 AB, https://www.we-online.com/catalog/datasheet/629105150921.pdf")
 	(tags "USB Micro AB")
@@ -27,18 +27,6 @@
 			)
 		)
 	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "2b84c513-be0e-432a-999c-7ef46b3d9829")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
 	(property "Datasheet" ""
 		(at 0 0 0)
 		(unlocked yes)
@@ -48,6 +36,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -60,6 +49,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -249,31 +239,31 @@
 	(pad "1" smd rect
 		(at -1.3 -2.635)
 		(size 0.4 1.35)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "9cc7db6f-34ce-4527-aa48-8e4b5ac3e72f")
 	)
 	(pad "2" smd rect
 		(at -0.65 -2.635)
 		(size 0.4 1.35)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "88eed036-6a5e-4bad-8dca-2165d9403140")
 	)
 	(pad "3" smd rect
 		(at 0 -2.635)
 		(size 0.4 1.35)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "cbb4dff7-0540-4d2a-b987-84d09b0d4b6c")
 	)
 	(pad "4" smd rect
 		(at 0.65 -2.635)
 		(size 0.4 1.35)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "7326cf7b-2fb3-44fa-8057-30a845cd9d84")
 	)
 	(pad "5" smd rect
 		(at 1.3 -2.635)
 		(size 0.4 1.35)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "a79ba2c3-eaf6-46f5-a976-1fd80a70c087")
 	)
 	(pad "6" thru_hole roundrect
@@ -294,7 +284,7 @@
 	(pad "6" smd rect
 		(at -3.05 0.17)
 		(size 0.9 1.9)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "f8f3d1fd-eae9-471e-afb9-e7837304e001")
 	)
 	(pad "6" thru_hole oval
@@ -308,13 +298,13 @@
 	(pad "6" smd rect
 		(at -1.15 0.17)
 		(size 1.8 1.9)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "c562010a-6794-49e3-b961-f2e27ed43bb8")
 	)
 	(pad "6" smd rect
 		(at 1.15 0.17)
 		(size 1.8 1.9)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "8876d942-f988-4cef-a08c-d0300e81f890")
 	)
 	(pad "6" thru_hole oval
@@ -328,7 +318,7 @@
 	(pad "6" smd rect
 		(at 3.05 0.17)
 		(size 0.9 1.9)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "8f0fe034-5bd1-4b88-ab8c-be5736fd5691")
 	)
 	(pad "6" smd rect
@@ -346,6 +336,7 @@
 		(roundrect_rratio 0.41)
 		(uuid "f381ea0a-820b-4e37-b256-9c8fea73478c")
 	)
+	(embedded_fonts no)
 	(model "${KICAD7_3DMODEL_DIR}/Gekkio_Connector_USB.3dshapes/USB_Micro-AB_Wuerth_629105150921_Horizontal.wrl"
 		(offset
 			(xyz 0 0 0)

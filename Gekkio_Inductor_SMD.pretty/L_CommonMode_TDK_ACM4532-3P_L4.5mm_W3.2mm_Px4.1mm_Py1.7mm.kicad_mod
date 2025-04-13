@@ -1,7 +1,7 @@
 (footprint "L_CommonMode_TDK_ACM4532-3P_L4.5mm_W3.2mm_Px4.1mm_Py1.7mm"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "http://www1.futureelectronics.com/doc/TDK/ACM3225-271-2P-T001.pdf")
 	(tags "common mode filter choke 3 pin")
@@ -27,18 +27,6 @@
 			)
 		)
 	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "03d9cd7a-a34c-4717-a363-566663a9e357")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
 	(property "Datasheet" ""
 		(at 0 0 0)
 		(unlocked yes)
@@ -48,6 +36,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -60,6 +49,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -188,39 +178,40 @@
 	(pad "1" smd rect
 		(at -2.05 -1.7)
 		(size 1.8 1.2)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "6e112e6d-0c7f-4f52-a14b-cf1696394aab")
 	)
 	(pad "2" smd rect
 		(at 2.05 -1.7)
 		(size 1.8 1.2)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "cc77dd8c-304d-4418-8696-764fa1ed0ac2")
 	)
 	(pad "3" smd rect
 		(at -2.05 0)
 		(size 1.8 0.8)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "2d99b1fd-4676-4d86-a373-e48d6eb5908c")
 	)
 	(pad "4" smd rect
 		(at 2.05 0)
 		(size 1.8 0.8)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "9732b79d-db63-4989-baa6-1c05b73989c8")
 	)
 	(pad "5" smd rect
 		(at -2.05 1.7)
 		(size 1.8 1.2)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "98231249-ae3f-46d0-bca2-b23ee74a2226")
 	)
 	(pad "6" smd rect
 		(at 2.05 1.7)
 		(size 1.8 1.2)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "a313cde9-3e6e-40f2-a62a-a19ec532b2ba")
 	)
+	(embedded_fonts no)
 	(model "${KICAD7_3DMODEL_DIR}/Gekkio_Inductor_SMD.3dshapes/L_CommonMode_TDK_ACM4532-3P_L4.5mm_W3.2mm_Px4.1mm_Py1.7mm.wrl"
 		(offset
 			(xyz 0 0 0)

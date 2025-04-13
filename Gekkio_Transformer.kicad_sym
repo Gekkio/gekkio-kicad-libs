@@ -1,10 +1,12 @@
 (kicad_symbol_lib
-	(version 20231120)
+	(version 20241209)
 	(generator "kicad_symbol_editor")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(symbol "DA101JC"
 		(pin_names
-			(offset 1.016) hide)
+			(offset 1.016)
+			(hide yes)
+		)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -71,69 +73,9 @@
 		)
 		(symbol "DA101JC_0_1"
 			(arc
-				(start -2.54 -5.0546)
-				(mid -1.6599 -4.6901)
-				(end -1.27 -3.81)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(arc
-				(start -2.54 -2.5146)
-				(mid -1.6599 -2.1501)
-				(end -1.27 -1.27)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(arc
-				(start -2.54 0.0254)
-				(mid -1.6599 0.3899)
-				(end -1.27 1.27)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(arc
-				(start -2.54 2.5654)
-				(mid -1.6599 2.9299)
-				(end -1.27 3.81)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(arc
-				(start -1.27 -3.81)
-				(mid -1.642 -2.912)
-				(end -2.54 -2.54)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(arc
-				(start -1.27 -1.27)
-				(mid -1.642 -0.372)
-				(end -2.54 0)
+				(start -1.27 3.81)
+				(mid -1.656 2.9336)
+				(end -2.54 2.5654)
 				(stroke
 					(width 0)
 					(type default)
@@ -144,8 +86,8 @@
 			)
 			(arc
 				(start -1.27 1.27)
-				(mid -1.642 2.168)
-				(end -2.54 2.54)
+				(mid -1.656 0.3936)
+				(end -2.54 0.0254)
 				(stroke
 					(width 0)
 					(type default)
@@ -155,9 +97,69 @@
 				)
 			)
 			(arc
-				(start -1.27 3.81)
+				(start -1.27 -1.27)
+				(mid -1.656 -2.1464)
+				(end -2.54 -2.5146)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(arc
+				(start -1.27 -3.81)
+				(mid -1.656 -4.6864)
+				(end -2.54 -5.0546)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(arc
+				(start -2.54 5.08)
 				(mid -1.642 4.708)
-				(end -2.54 5.08)
+				(end -1.27 3.81)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(arc
+				(start -2.54 2.54)
+				(mid -1.642 2.168)
+				(end -1.27 1.27)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(arc
+				(start -2.54 0)
+				(mid -1.642 -0.372)
+				(end -1.27 -1.27)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(arc
+				(start -2.54 -2.54)
+				(mid -1.642 -2.912)
+				(end -1.27 -3.81)
 				(stroke
 					(width 0)
 					(type default)
@@ -191,9 +193,9 @@
 				)
 			)
 			(arc
-				(start 1.2954 -1.27)
-				(mid 1.6599 -2.1501)
-				(end 2.54 -2.5146)
+				(start 1.2954 3.81)
+				(mid 1.6457 4.7117)
+				(end 2.54 5.08)
 				(stroke
 					(width 0)
 					(type default)
@@ -204,8 +206,8 @@
 			)
 			(arc
 				(start 1.2954 1.27)
-				(mid 1.6599 0.3899)
-				(end 2.54 0.0254)
+				(mid 1.6457 2.1717)
+				(end 2.54 2.54)
 				(stroke
 					(width 0)
 					(type default)
@@ -215,56 +217,20 @@
 				)
 			)
 			(arc
-				(start 1.2954 3.81)
+				(start 1.2954 -1.27)
+				(mid 1.6457 -0.3683)
+				(end 2.54 0)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(arc
+				(start 2.54 2.5654)
 				(mid 1.6599 2.9299)
-				(end 2.54 2.5654)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(arc
-				(start 1.3208 -3.81)
-				(mid 1.6853 -4.6901)
-				(end 2.5654 -5.0546)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(arc
-				(start 2.54 0)
-				(mid 1.642 -0.372)
-				(end 1.2954 -1.27)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(arc
-				(start 2.54 2.54)
-				(mid 1.642 2.168)
-				(end 1.2954 1.27)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(arc
-				(start 2.54 5.08)
-				(mid 1.642 4.708)
 				(end 1.2954 3.81)
 				(stroke
 					(width 0)
@@ -275,8 +241,44 @@
 				)
 			)
 			(arc
-				(start 2.5654 -2.54)
-				(mid 1.6674 -2.912)
+				(start 2.54 0.0254)
+				(mid 1.6599 0.3899)
+				(end 1.2954 1.27)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(arc
+				(start 2.54 -2.5146)
+				(mid 1.6599 -2.1501)
+				(end 1.2954 -1.27)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(arc
+				(start 1.3208 -3.81)
+				(mid 1.6711 -2.9085)
+				(end 2.5654 -2.54)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(arc
+				(start 2.5654 -5.0546)
+				(mid 1.6851 -4.6902)
 				(end 1.3208 -3.81)
 				(stroke
 					(width 0)
@@ -328,24 +330,6 @@
 					)
 				)
 			)
-			(pin no_connect line
-				(at -2.54 2.54 0)
-				(length 7.62) hide
-				(name "NC"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "2"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
 			(pin passive line
 				(at -10.16 -5.08 0)
 				(length 7.62)
@@ -364,17 +348,18 @@
 					)
 				)
 			)
-			(pin passive line
-				(at 10.16 -5.08 180)
+			(pin no_connect line
+				(at -2.54 2.54 0)
 				(length 7.62)
-				(name "4"
+				(hide yes)
+				(name "NC"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "4"
+				(number "2"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -384,7 +369,8 @@
 			)
 			(pin no_connect line
 				(at 2.54 -2.54 180)
-				(length 7.62) hide
+				(length 7.62)
+				(hide yes)
 				(name "5"
 					(effects
 						(font
@@ -418,7 +404,26 @@
 					)
 				)
 			)
+			(pin passive line
+				(at 10.16 -5.08 180)
+				(length 7.62)
+				(name "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
 		)
+		(embedded_fonts no)
 	)
 	(symbol "GameBoy_Transformer_0077"
 		(exclude_from_sim no)
@@ -478,91 +483,8 @@
 		)
 		(symbol "GameBoy_Transformer_0077_1_1"
 			(arc
-				(start -2.54 -7.62)
-				(mid -1.9077 -6.985)
-				(end -2.54 -6.35)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(arc
-				(start -2.54 -6.35)
-				(mid -1.9077 -5.715)
-				(end -2.54 -5.08)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(arc
-				(start -2.54 -5.08)
-				(mid -1.9077 -4.445)
-				(end -2.54 -3.81)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(arc
-				(start -2.54 -3.81)
-				(mid -1.9077 -3.175)
-				(end -2.54 -2.54)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(circle
-				(center -2.54 -3.175)
-				(radius 0.254)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type outline)
-				)
-			)
-			(arc
-				(start -2.54 2.54)
-				(mid -1.9077 3.175)
-				(end -2.54 3.81)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(arc
-				(start -2.54 3.81)
-				(mid -1.9077 4.445)
-				(end -2.54 5.08)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(arc
-				(start -2.54 5.08)
-				(mid -1.9077 5.715)
+				(start -2.54 7.62)
+				(mid -1.9077 6.985)
 				(end -2.54 6.35)
 				(stroke
 					(width 0)
@@ -574,8 +496,80 @@
 			)
 			(arc
 				(start -2.54 6.35)
-				(mid -1.9077 6.985)
-				(end -2.54 7.62)
+				(mid -1.9077 5.715)
+				(end -2.54 5.08)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(arc
+				(start -2.54 5.08)
+				(mid -1.9077 4.445)
+				(end -2.54 3.81)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(arc
+				(start -2.54 3.81)
+				(mid -1.9077 3.175)
+				(end -2.54 2.54)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(arc
+				(start -2.54 -2.54)
+				(mid -1.9077 -3.175)
+				(end -2.54 -3.81)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(arc
+				(start -2.54 -3.81)
+				(mid -1.9077 -4.445)
+				(end -2.54 -5.08)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(arc
+				(start -2.54 -5.08)
+				(mid -1.9077 -5.715)
+				(end -2.54 -6.35)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(arc
+				(start -2.54 -6.35)
+				(mid -1.9077 -6.985)
+				(end -2.54 -7.62)
 				(stroke
 					(width 0)
 					(type default)
@@ -586,6 +580,17 @@
 			)
 			(circle
 				(center -2.54 6.985)
+				(radius 0.254)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(circle
+				(center -2.54 -3.175)
 				(radius 0.254)
 				(stroke
 					(width 0)
@@ -619,42 +624,6 @@
 					(type none)
 				)
 			)
-			(arc
-				(start 2.54 -1.27)
-				(mid 1.9077 -1.905)
-				(end 2.54 -2.54)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(arc
-				(start 2.54 0)
-				(mid 1.9077 -0.635)
-				(end 2.54 -1.27)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(arc
-				(start 2.54 1.27)
-				(mid 1.9077 0.635)
-				(end 2.54 0)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
 			(circle
 				(center 2.54 1.905)
 				(radius 0.254)
@@ -667,9 +636,45 @@
 				)
 			)
 			(arc
-				(start 2.54 2.54)
+				(start 2.54 1.27)
 				(mid 1.9077 1.905)
+				(end 2.54 2.54)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(arc
+				(start 2.54 0)
+				(mid 1.9077 0.635)
 				(end 2.54 1.27)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(arc
+				(start 2.54 -1.27)
+				(mid 1.9077 -0.635)
+				(end 2.54 0)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(arc
+				(start 2.54 -2.54)
+				(mid 1.9077 -1.905)
+				(end 2.54 -1.27)
 				(stroke
 					(width 0)
 					(type default)
@@ -689,6 +694,24 @@
 					)
 				)
 				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -5.08 2.54 0)
+				(length 2.54)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "4"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -732,17 +755,37 @@
 					)
 				)
 			)
-			(pin passive line
-				(at -5.08 2.54 0)
+			(pin no_connect line
+				(at 0 5.08 0)
 				(length 2.54)
-				(name "~"
+				(hide yes)
+				(name "NC"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "4"
+				(number "6"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin no_connect line
+				(at 0 -5.08 0)
+				(length 2.54)
+				(hide yes)
+				(name "NC"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "7"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -761,42 +804,6 @@
 					)
 				)
 				(number "5"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin no_connect line
-				(at 0 5.08 0)
-				(length 2.54) hide
-				(name "NC"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "6"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin no_connect line
-				(at 0 -5.08 0)
-				(length 2.54) hide
-				(name "NC"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "7"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -823,6 +830,7 @@
 				)
 			)
 		)
+		(embedded_fonts no)
 	)
 	(symbol "GameBoy_Transformer_066"
 		(exclude_from_sim no)
@@ -891,32 +899,9 @@
 		)
 		(symbol "GameBoy_Transformer_066_0_1"
 			(arc
-				(start -2.54 -6.35)
-				(mid -1.9077 -5.715)
-				(end -2.54 -5.08)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(circle
-				(center -2.54 -5.715)
-				(radius 0.254)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type outline)
-				)
-			)
-			(arc
-				(start -2.54 -5.08)
-				(mid -1.9077 -4.445)
-				(end -2.54 -3.81)
+				(start -2.54 6.35)
+				(mid -1.9077 5.715)
+				(end -2.54 5.08)
 				(stroke
 					(width 0)
 					(type default)
@@ -926,8 +911,44 @@
 				)
 			)
 			(arc
-				(start -2.54 -3.81)
-				(mid -1.9077 -3.175)
+				(start -2.54 5.08)
+				(mid -1.9077 4.445)
+				(end -2.54 3.81)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(arc
+				(start -2.54 3.81)
+				(mid -1.9077 3.175)
+				(end -2.54 2.54)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(arc
+				(start -2.54 2.54)
+				(mid -1.9077 1.905)
+				(end -2.54 1.27)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(arc
+				(start -2.54 -1.27)
+				(mid -1.9077 -1.905)
 				(end -2.54 -2.54)
 				(stroke
 					(width 0)
@@ -939,8 +960,8 @@
 			)
 			(arc
 				(start -2.54 -2.54)
-				(mid -1.9077 -1.905)
-				(end -2.54 -1.27)
+				(mid -1.9077 -3.175)
+				(end -2.54 -3.81)
 				(stroke
 					(width 0)
 					(type default)
@@ -950,9 +971,21 @@
 				)
 			)
 			(arc
-				(start -2.54 1.27)
-				(mid -1.9077 1.905)
-				(end -2.54 2.54)
+				(start -2.54 -3.81)
+				(mid -1.9077 -4.445)
+				(end -2.54 -5.08)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(arc
+				(start -2.54 -5.08)
+				(mid -1.9077 -5.715)
+				(end -2.54 -6.35)
 				(stroke
 					(width 0)
 					(type default)
@@ -972,40 +1005,15 @@
 					(type outline)
 				)
 			)
-			(arc
-				(start -2.54 2.54)
-				(mid -1.9077 3.175)
-				(end -2.54 3.81)
+			(circle
+				(center -2.54 -5.715)
+				(radius 0.254)
 				(stroke
 					(width 0)
 					(type default)
 				)
 				(fill
-					(type none)
-				)
-			)
-			(arc
-				(start -2.54 3.81)
-				(mid -1.9077 4.445)
-				(end -2.54 5.08)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(arc
-				(start -2.54 5.08)
-				(mid -1.9077 5.715)
-				(end -2.54 6.35)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
+					(type outline)
 				)
 			)
 			(polyline
@@ -1032,40 +1040,15 @@
 					(type none)
 				)
 			)
-			(arc
-				(start 2.54 -5.08)
-				(mid 1.9077 -5.715)
-				(end 2.54 -6.35)
+			(circle
+				(center 2.54 5.715)
+				(radius 0.254)
 				(stroke
 					(width 0)
 					(type default)
 				)
 				(fill
-					(type none)
-				)
-			)
-			(arc
-				(start 2.54 -3.81)
-				(mid 1.9077 -4.445)
-				(end 2.54 -5.08)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(arc
-				(start 2.54 -2.54)
-				(mid 1.9077 -3.175)
-				(end 2.54 -3.81)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
+					(type outline)
 				)
 			)
 			(circle
@@ -1080,21 +1063,9 @@
 				)
 			)
 			(arc
-				(start 2.54 -1.27)
-				(mid 1.9077 -1.905)
-				(end 2.54 -2.54)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(arc
-				(start 2.54 2.54)
-				(mid 1.9077 1.905)
-				(end 2.54 1.27)
+				(start 2.54 5.08)
+				(mid 1.9077 5.715)
+				(end 2.54 6.35)
 				(stroke
 					(width 0)
 					(type default)
@@ -1105,7 +1076,31 @@
 			)
 			(arc
 				(start 2.54 3.81)
+				(mid 1.9077 4.445)
+				(end 2.54 5.08)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(arc
+				(start 2.54 2.54)
 				(mid 1.9077 3.175)
+				(end 2.54 3.81)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(arc
+				(start 2.54 1.27)
+				(mid 1.9077 1.905)
 				(end 2.54 2.54)
 				(stroke
 					(width 0)
@@ -1116,9 +1111,9 @@
 				)
 			)
 			(arc
-				(start 2.54 5.08)
-				(mid 1.9077 4.445)
-				(end 2.54 3.81)
+				(start 2.54 -2.54)
+				(mid 1.9077 -1.905)
+				(end 2.54 -1.27)
 				(stroke
 					(width 0)
 					(type default)
@@ -1127,21 +1122,34 @@
 					(type none)
 				)
 			)
-			(circle
-				(center 2.54 5.715)
-				(radius 0.254)
+			(arc
+				(start 2.54 -3.81)
+				(mid 1.9077 -3.175)
+				(end 2.54 -2.54)
 				(stroke
 					(width 0)
 					(type default)
 				)
 				(fill
-					(type outline)
+					(type none)
 				)
 			)
 			(arc
-				(start 2.54 6.35)
-				(mid 1.9077 5.715)
-				(end 2.54 5.08)
+				(start 2.54 -5.08)
+				(mid 1.9077 -4.445)
+				(end 2.54 -3.81)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(arc
+				(start 2.54 -6.35)
+				(mid 1.9077 -5.715)
+				(end 2.54 -5.08)
 				(stroke
 					(width 0)
 					(type default)
@@ -1163,6 +1171,24 @@
 					)
 				)
 				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -5.08 1.27 0)
+				(length 2.54)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "4"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1207,7 +1233,7 @@
 				)
 			)
 			(pin passive line
-				(at -5.08 1.27 0)
+				(at 5.08 6.35 180)
 				(length 2.54)
 				(name "~"
 					(effects
@@ -1216,7 +1242,7 @@
 						)
 					)
 				)
-				(number "4"
+				(number "8"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1243,24 +1269,6 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 -6.35 180)
-				(length 2.54)
-				(name "~"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "6"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
 				(at 5.08 -1.27 180)
 				(length 2.54)
 				(name "~"
@@ -1279,7 +1287,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 6.35 180)
+				(at 5.08 -6.35 180)
 				(length 2.54)
 				(name "~"
 					(effects
@@ -1288,7 +1296,7 @@
 						)
 					)
 				)
-				(number "8"
+				(number "6"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1297,6 +1305,7 @@
 				)
 			)
 		)
+		(embedded_fonts no)
 	)
 	(symbol "GameBoy_Transformer_AGS"
 		(exclude_from_sim no)
@@ -1356,91 +1365,8 @@
 		)
 		(symbol "GameBoy_Transformer_AGS_1_1"
 			(arc
-				(start -2.54 -7.62)
-				(mid -1.9077 -6.985)
-				(end -2.54 -6.35)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(arc
-				(start -2.54 -6.35)
-				(mid -1.9077 -5.715)
-				(end -2.54 -5.08)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(arc
-				(start -2.54 -5.08)
-				(mid -1.9077 -4.445)
-				(end -2.54 -3.81)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(arc
-				(start -2.54 -3.81)
-				(mid -1.9077 -3.175)
-				(end -2.54 -2.54)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(circle
-				(center -2.54 -3.175)
-				(radius 0.254)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type outline)
-				)
-			)
-			(arc
-				(start -2.54 2.54)
-				(mid -1.9077 3.175)
-				(end -2.54 3.81)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(arc
-				(start -2.54 3.81)
-				(mid -1.9077 4.445)
-				(end -2.54 5.08)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(arc
-				(start -2.54 5.08)
-				(mid -1.9077 5.715)
+				(start -2.54 7.62)
+				(mid -1.9077 6.985)
 				(end -2.54 6.35)
 				(stroke
 					(width 0)
@@ -1452,8 +1378,80 @@
 			)
 			(arc
 				(start -2.54 6.35)
-				(mid -1.9077 6.985)
-				(end -2.54 7.62)
+				(mid -1.9077 5.715)
+				(end -2.54 5.08)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(arc
+				(start -2.54 5.08)
+				(mid -1.9077 4.445)
+				(end -2.54 3.81)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(arc
+				(start -2.54 3.81)
+				(mid -1.9077 3.175)
+				(end -2.54 2.54)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(arc
+				(start -2.54 -2.54)
+				(mid -1.9077 -3.175)
+				(end -2.54 -3.81)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(arc
+				(start -2.54 -3.81)
+				(mid -1.9077 -4.445)
+				(end -2.54 -5.08)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(arc
+				(start -2.54 -5.08)
+				(mid -1.9077 -5.715)
+				(end -2.54 -6.35)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(arc
+				(start -2.54 -6.35)
+				(mid -1.9077 -6.985)
+				(end -2.54 -7.62)
 				(stroke
 					(width 0)
 					(type default)
@@ -1464,6 +1462,17 @@
 			)
 			(circle
 				(center -2.54 6.985)
+				(radius 0.254)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(circle
+				(center -2.54 -3.175)
 				(radius 0.254)
 				(stroke
 					(width 0)
@@ -1497,42 +1506,6 @@
 					(type none)
 				)
 			)
-			(arc
-				(start 2.54 -1.27)
-				(mid 1.9077 -1.905)
-				(end 2.54 -2.54)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(arc
-				(start 2.54 0)
-				(mid 1.9077 -0.635)
-				(end 2.54 -1.27)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(arc
-				(start 2.54 1.27)
-				(mid 1.9077 0.635)
-				(end 2.54 0)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
 			(circle
 				(center 2.54 1.905)
 				(radius 0.254)
@@ -1545,9 +1518,45 @@
 				)
 			)
 			(arc
-				(start 2.54 2.54)
+				(start 2.54 1.27)
 				(mid 1.9077 1.905)
+				(end 2.54 2.54)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(arc
+				(start 2.54 0)
+				(mid 1.9077 0.635)
 				(end 2.54 1.27)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(arc
+				(start 2.54 -1.27)
+				(mid 1.9077 -0.635)
+				(end 2.54 0)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(arc
+				(start 2.54 -2.54)
+				(mid 1.9077 -1.905)
+				(end 2.54 -1.27)
 				(stroke
 					(width 0)
 					(type default)
@@ -1567,6 +1576,24 @@
 					)
 				)
 				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -5.08 2.54 0)
+				(length 2.54)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "4"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1610,27 +1637,10 @@
 					)
 				)
 			)
-			(pin passive line
-				(at -5.08 2.54 0)
-				(length 2.54)
-				(name "~"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "4"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
 			(pin no_connect line
 				(at 0 5.08 0)
-				(length 2.54) hide
+				(length 2.54)
+				(hide yes)
 				(name "NC"
 					(effects
 						(font
@@ -1639,6 +1649,25 @@
 					)
 				)
 				(number "5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin no_connect line
+				(at 0 -5.08 0)
+				(length 2.54)
+				(hide yes)
+				(name "NC"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "7"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1657,24 +1686,6 @@
 					)
 				)
 				(number "6"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin no_connect line
-				(at 0 -5.08 0)
-				(length 2.54) hide
-				(name "NC"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "7"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -1701,6 +1712,7 @@
 				)
 			)
 		)
+		(embedded_fonts no)
 	)
 	(symbol "GameBoy_Transformer_DMG"
 		(exclude_from_sim no)
@@ -1769,32 +1781,9 @@
 		)
 		(symbol "GameBoy_Transformer_DMG_0_1"
 			(arc
-				(start -2.54 -10.16)
-				(mid -1.9077 -9.525)
-				(end -2.54 -8.89)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(circle
-				(center -2.54 -9.525)
-				(radius 0.254)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type outline)
-				)
-			)
-			(arc
-				(start -2.54 -8.89)
-				(mid -1.9077 -8.255)
-				(end -2.54 -7.62)
+				(start -2.54 10.16)
+				(mid -1.9077 9.525)
+				(end -2.54 8.89)
 				(stroke
 					(width 0)
 					(type default)
@@ -1804,9 +1793,9 @@
 				)
 			)
 			(arc
-				(start -2.54 -7.62)
-				(mid -1.9077 -6.985)
-				(end -2.54 -6.35)
+				(start -2.54 8.89)
+				(mid -1.9077 8.255)
+				(end -2.54 7.62)
 				(stroke
 					(width 0)
 					(type default)
@@ -1816,9 +1805,9 @@
 				)
 			)
 			(arc
-				(start -2.54 -6.35)
-				(mid -1.9077 -5.715)
-				(end -2.54 -5.08)
+				(start -2.54 7.62)
+				(mid -1.9077 6.985)
+				(end -2.54 6.35)
 				(stroke
 					(width 0)
 					(type default)
@@ -1828,32 +1817,9 @@
 				)
 			)
 			(arc
-				(start -2.54 -2.54)
-				(mid -1.9077 -1.905)
-				(end -2.54 -1.27)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(circle
-				(center -2.54 -1.905)
-				(radius 0.254)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type outline)
-				)
-			)
-			(arc
-				(start -2.54 -1.27)
-				(mid -1.9077 -0.635)
-				(end -2.54 0)
+				(start -2.54 6.35)
+				(mid -1.9077 5.715)
+				(end -2.54 5.08)
 				(stroke
 					(width 0)
 					(type default)
@@ -1863,8 +1829,8 @@
 				)
 			)
 			(arc
-				(start -2.54 0)
-				(mid -1.9077 0.635)
+				(start -2.54 2.54)
+				(mid -1.9077 1.905)
 				(end -2.54 1.27)
 				(stroke
 					(width 0)
@@ -1876,8 +1842,8 @@
 			)
 			(arc
 				(start -2.54 1.27)
-				(mid -1.9077 1.905)
-				(end -2.54 2.54)
+				(mid -1.9077 0.635)
+				(end -2.54 0)
 				(stroke
 					(width 0)
 					(type default)
@@ -1887,9 +1853,69 @@
 				)
 			)
 			(arc
-				(start -2.54 5.08)
-				(mid -1.9077 5.715)
-				(end -2.54 6.35)
+				(start -2.54 0)
+				(mid -1.9077 -0.635)
+				(end -2.54 -1.27)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(arc
+				(start -2.54 -1.27)
+				(mid -1.9077 -1.905)
+				(end -2.54 -2.54)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(arc
+				(start -2.54 -5.08)
+				(mid -1.9077 -5.715)
+				(end -2.54 -6.35)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(arc
+				(start -2.54 -6.35)
+				(mid -1.9077 -6.985)
+				(end -2.54 -7.62)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(arc
+				(start -2.54 -7.62)
+				(mid -1.9077 -8.255)
+				(end -2.54 -8.89)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(arc
+				(start -2.54 -8.89)
+				(mid -1.9077 -9.525)
+				(end -2.54 -10.16)
 				(stroke
 					(width 0)
 					(type default)
@@ -1909,40 +1935,26 @@
 					(type outline)
 				)
 			)
-			(arc
-				(start -2.54 6.35)
-				(mid -1.9077 6.985)
-				(end -2.54 7.62)
+			(circle
+				(center -2.54 -1.905)
+				(radius 0.254)
 				(stroke
 					(width 0)
 					(type default)
 				)
 				(fill
-					(type none)
+					(type outline)
 				)
 			)
-			(arc
-				(start -2.54 7.62)
-				(mid -1.9077 8.255)
-				(end -2.54 8.89)
+			(circle
+				(center -2.54 -9.525)
+				(radius 0.254)
 				(stroke
 					(width 0)
 					(type default)
 				)
 				(fill
-					(type none)
-				)
-			)
-			(arc
-				(start -2.54 8.89)
-				(mid -1.9077 9.525)
-				(end -2.54 10.16)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
+					(type outline)
 				)
 			)
 			(polyline
@@ -1969,40 +1981,15 @@
 					(type none)
 				)
 			)
-			(arc
-				(start 2.54 -3.81)
-				(mid 1.9077 -4.445)
-				(end 2.54 -5.08)
+			(circle
+				(center 2.54 4.445)
+				(radius 0.254)
 				(stroke
 					(width 0)
 					(type default)
 				)
 				(fill
-					(type none)
-				)
-			)
-			(arc
-				(start 2.54 -2.54)
-				(mid 1.9077 -3.175)
-				(end 2.54 -3.81)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(arc
-				(start 2.54 -1.27)
-				(mid 1.9077 -1.905)
-				(end 2.54 -2.54)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
+					(type outline)
 				)
 			)
 			(circle
@@ -2017,21 +2004,9 @@
 				)
 			)
 			(arc
-				(start 2.54 0)
-				(mid 1.9077 -0.635)
-				(end 2.54 -1.27)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(arc
-				(start 2.54 1.27)
-				(mid 1.9077 0.635)
-				(end 2.54 0)
+				(start 2.54 3.81)
+				(mid 1.9077 4.445)
+				(end 2.54 5.08)
 				(stroke
 					(width 0)
 					(type default)
@@ -2042,7 +2017,31 @@
 			)
 			(arc
 				(start 2.54 2.54)
+				(mid 1.9077 3.175)
+				(end 2.54 3.81)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(arc
+				(start 2.54 1.27)
 				(mid 1.9077 1.905)
+				(end 2.54 2.54)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(arc
+				(start 2.54 0)
+				(mid 1.9077 0.635)
 				(end 2.54 1.27)
 				(stroke
 					(width 0)
@@ -2053,9 +2052,9 @@
 				)
 			)
 			(arc
-				(start 2.54 3.81)
-				(mid 1.9077 3.175)
-				(end 2.54 2.54)
+				(start 2.54 -1.27)
+				(mid 1.9077 -0.635)
+				(end 2.54 0)
 				(stroke
 					(width 0)
 					(type default)
@@ -2064,21 +2063,34 @@
 					(type none)
 				)
 			)
-			(circle
-				(center 2.54 4.445)
-				(radius 0.254)
+			(arc
+				(start 2.54 -2.54)
+				(mid 1.9077 -1.905)
+				(end 2.54 -1.27)
 				(stroke
 					(width 0)
 					(type default)
 				)
 				(fill
-					(type outline)
+					(type none)
 				)
 			)
 			(arc
-				(start 2.54 5.08)
-				(mid 1.9077 4.445)
-				(end 2.54 3.81)
+				(start 2.54 -3.81)
+				(mid 1.9077 -3.175)
+				(end 2.54 -2.54)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(arc
+				(start 2.54 -5.08)
+				(mid 1.9077 -4.445)
+				(end 2.54 -3.81)
 				(stroke
 					(width 0)
 					(type default)
@@ -2090,42 +2102,6 @@
 		)
 		(symbol "GameBoy_Transformer_DMG_1_1"
 			(pin passive line
-				(at -5.08 5.08 0)
-				(length 2.54)
-				(name "~"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
-				(at -5.08 -2.54 0)
-				(length 2.54)
-				(name "~"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "2"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
 				(at -5.08 10.16 0)
 				(length 2.54)
 				(name "~"
@@ -2136,6 +2112,24 @@
 					)
 				)
 				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at -5.08 5.08 0)
+				(length 2.54)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -2162,7 +2156,7 @@
 				)
 			)
 			(pin passive line
-				(at 5.08 0 180)
+				(at -5.08 -2.54 0)
 				(length 2.54)
 				(name "~"
 					(effects
@@ -2171,43 +2165,7 @@
 						)
 					)
 				)
-				(number "5"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
-				(at 5.08 5.08 180)
-				(length 2.54)
-				(name "~"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "6"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
-				(at 5.08 -5.08 180)
-				(length 2.54)
-				(name "~"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "7"
+				(number "2"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -2251,7 +2209,62 @@
 					)
 				)
 			)
+			(pin passive line
+				(at 5.08 5.08 180)
+				(length 2.54)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "6"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 5.08 0 180)
+				(length 2.54)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 5.08 -5.08 180)
+				(length 2.54)
+				(name "~"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "7"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
 		)
+		(embedded_fonts no)
 	)
 	(symbol "DA102JC"
 		(extends "DA101JC")

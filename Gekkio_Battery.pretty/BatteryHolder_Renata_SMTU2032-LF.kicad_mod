@@ -1,7 +1,7 @@
 (footprint "BatteryHolder_Renata_SMTU2032-LF"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "Battery holder for CR2032")
 	(tags "battery holder cr2032")
@@ -27,18 +27,6 @@
 			)
 		)
 	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "bb22aeb9-c22c-436e-8901-acd588a732d5")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
 	(property "Datasheet" ""
 		(at 0 0 0)
 		(unlocked yes)
@@ -48,6 +36,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -60,6 +49,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -593,7 +583,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.Fab")
 		(uuid "f71da641-16e6-4257-80c3-0b9d804fee4f")
 	)
@@ -611,15 +601,16 @@
 	(pad "1" smd rect
 		(at -15 0)
 		(size 3.5 3.9)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "fd470e95-4861-44fe-b1e4-6d8a7c66e144")
 	)
 	(pad "2" smd rect
 		(at 15 0)
 		(size 3.5 3.9)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "8174b4de-74b1-48db-ab8e-c8432251095b")
 	)
+	(embedded_fonts no)
 	(model "${KICAD7_3DMODEL_DIR}/Gekkio_Battery.3dshapes/BatteryHolder_Renata_SMTU2032-LF.wrl"
 		(offset
 			(xyz 0 0 0)

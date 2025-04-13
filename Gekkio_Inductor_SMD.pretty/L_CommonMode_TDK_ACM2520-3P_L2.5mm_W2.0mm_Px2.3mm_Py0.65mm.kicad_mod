@@ -1,7 +1,7 @@
 (footprint "L_CommonMode_TDK_ACM2520-3P_L2.5mm_W2.0mm_Px2.3mm_Py0.65mm"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "https://product.tdk.com/info/en/catalog/datasheets/cmf_commercial_signal_acm2520_en.pdf")
 	(tags "common mode filter choke 3 pin")
@@ -27,18 +27,6 @@
 			)
 		)
 	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "5a1d7754-899a-4fc0-a2e5-38055e063e9b")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
 	(property "Datasheet" ""
 		(at 0 0 0)
 		(unlocked yes)
@@ -48,6 +36,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -60,6 +49,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -188,39 +178,40 @@
 	(pad "1" smd rect
 		(at -1.15 -0.65)
 		(size 0.8 0.35)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "56204c44-7d34-46c7-b679-18f6c9e69de7")
 	)
 	(pad "2" smd rect
 		(at 1.15 -0.65)
 		(size 0.8 0.35)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "1d8d01e5-72bc-4f45-8e6e-c4ea6d79abeb")
 	)
 	(pad "3" smd rect
 		(at -1.15 0)
 		(size 0.8 0.35)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "6a8366be-d002-4bae-b9ac-39d34d93e3fb")
 	)
 	(pad "4" smd rect
 		(at 1.15 0)
 		(size 0.8 0.35)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "74f20975-b791-4740-8a7d-cea55a2ffbbe")
 	)
 	(pad "5" smd rect
 		(at -1.15 0.65)
 		(size 0.8 0.35)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "0010035a-a9a7-4bcb-adb8-a4092d263447")
 	)
 	(pad "6" smd rect
 		(at 1.15 0.65)
 		(size 0.8 0.35)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "a020a071-0244-47c0-9e2b-097ad4bcfb0b")
 	)
+	(embedded_fonts no)
 	(model "${KICAD7_3DMODEL_DIR}/Gekkio_Inductor_SMD.3dshapes/L_CommonMode_TDK_ACM2520-3P_L2.5mm_W2.0mm_Px2.3mm_Py0.65mm.wrl"
 		(offset
 			(xyz 0 0 0)

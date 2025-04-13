@@ -1,9 +1,11 @@
 (kicad_symbol_lib
-	(version 20231120)
+	(version 20241209)
 	(generator "kicad_symbol_editor")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(symbol "R_Potentiometer_GameBoy_Contrast_DMG"
-		(pin_names hide)
+		(pin_names
+			(hide yes)
+		)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -71,6 +73,18 @@
 					(type background)
 				)
 			)
+			(polyline
+				(pts
+					(xy -3.81 0) (xy -2.032 0)
+				)
+				(stroke
+					(width 0.1524)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
 			(rectangle
 				(start -1.016 2.54)
 				(end 1.016 -2.54)
@@ -84,7 +98,19 @@
 			)
 			(polyline
 				(pts
-					(xy -3.81 0) (xy -2.032 0)
+					(xy -1.016 0) (xy -2.159 -0.508) (xy -2.159 0.508) (xy -1.016 0)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(polyline
+				(pts
+					(xy 0 5.08) (xy 0 2.54)
 				)
 				(stroke
 					(width 0.1524)
@@ -106,30 +132,6 @@
 					(type none)
 				)
 			)
-			(polyline
-				(pts
-					(xy 0 5.08) (xy 0 2.54)
-				)
-				(stroke
-					(width 0.1524)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy -1.016 0) (xy -2.159 -0.508) (xy -2.159 0.508) (xy -1.016 0)
-				)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type outline)
-				)
-			)
 		)
 		(symbol "R_Potentiometer_GameBoy_Contrast_DMG_1_1"
 			(polyline
@@ -149,24 +151,6 @@
 				(effects
 					(font
 						(size 0.381 0.381)
-					)
-				)
-			)
-			(pin passive line
-				(at 0 -8.89 90)
-				(length 3.81)
-				(name "4"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
 					)
 				)
 			)
@@ -207,6 +191,24 @@
 				)
 			)
 			(pin passive line
+				(at 0 -8.89 90)
+				(length 3.81)
+				(name "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
 				(at 2.54 -8.89 90)
 				(length 3.048)
 				(name "MountPin"
@@ -225,9 +227,12 @@
 				)
 			)
 		)
+		(embedded_fonts no)
 	)
 	(symbol "R_Potentiometer_GameBoy_Volume_DMG"
-		(pin_names hide)
+		(pin_names
+			(hide yes)
+		)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -284,22 +289,12 @@
 			)
 		)
 		(symbol "R_Potentiometer_GameBoy_Volume_DMG_0_1"
-			(rectangle
-				(start -6.35 -7.62)
-				(end 6.35 7.62)
-				(stroke
-					(width 0.254)
-					(type default)
+			(polyline
+				(pts
+					(xy -6.35 2.54) (xy -5.08 2.54)
 				)
-				(fill
-					(type background)
-				)
-			)
-			(rectangle
-				(start -3.556 -5.08)
-				(end -1.524 0)
 				(stroke
-					(width 0.254)
+					(width 0.1524)
 					(type default)
 				)
 				(fill
@@ -318,21 +313,20 @@
 					(type none)
 				)
 			)
-			(polyline
-				(pts
-					(xy -6.35 2.54) (xy -5.08 2.54)
-				)
+			(rectangle
+				(start -6.35 -7.62)
+				(end 6.35 7.62)
 				(stroke
-					(width 0.1524)
+					(width 0.254)
 					(type default)
 				)
 				(fill
-					(type none)
+					(type background)
 				)
 			)
 			(polyline
 				(pts
-					(xy -5.588 -1.524) (xy -5.588 -1.016)
+					(xy -5.588 2.794) (xy -5.588 3.048) (xy -5.08 2.54)
 				)
 				(stroke
 					(width 0)
@@ -344,7 +338,7 @@
 			)
 			(polyline
 				(pts
-					(xy -5.588 -0.508) (xy -5.588 0)
+					(xy -5.588 1.524) (xy -5.588 2.032)
 				)
 				(stroke
 					(width 0)
@@ -368,7 +362,19 @@
 			)
 			(polyline
 				(pts
-					(xy -5.588 1.524) (xy -5.588 2.032)
+					(xy -5.588 -0.508) (xy -5.588 0)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.588 -1.524) (xy -5.588 -1.016)
 				)
 				(stroke
 					(width 0)
@@ -404,6 +410,29 @@
 			)
 			(polyline
 				(pts
+					(xy -3.683 -2.54) (xy -4.826 -3.048) (xy -4.826 -2.032) (xy -3.683 -2.54)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(rectangle
+				(start -3.556 -5.08)
+				(end -1.524 0)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
 					(xy -2.54 7.62) (xy -2.54 0)
 				)
 				(stroke
@@ -420,42 +449,6 @@
 				)
 				(stroke
 					(width 0.1524)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 0.254 2.54) (xy -5.08 2.54)
-				)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 2.54 7.62) (xy 2.54 5.08)
-				)
-				(stroke
-					(width 0.1524)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy -5.588 2.794) (xy -5.588 3.048) (xy -5.08 2.54)
-				)
-				(stroke
-					(width 0)
 					(type default)
 				)
 				(fill
@@ -488,14 +481,14 @@
 			)
 			(polyline
 				(pts
-					(xy -3.683 -2.54) (xy -4.826 -3.048) (xy -4.826 -2.032) (xy -3.683 -2.54)
+					(xy 0.254 2.54) (xy -5.08 2.54)
 				)
 				(stroke
 					(width 0)
 					(type default)
 				)
 				(fill
-					(type outline)
+					(type none)
 				)
 			)
 			(polyline
@@ -515,6 +508,18 @@
 				(end 3.556 5.08)
 				(stroke
 					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy 2.54 7.62) (xy 2.54 5.08)
+				)
+				(stroke
+					(width 0.1524)
 					(type default)
 				)
 				(fill
@@ -544,16 +549,16 @@
 				)
 			)
 			(pin passive line
-				(at 0 -11.43 90)
-				(length 3.81)
-				(name "4"
+				(at -8.89 2.54 0)
+				(length 2.54)
+				(name "3"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "1"
+				(number "3"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -580,16 +585,34 @@
 				)
 			)
 			(pin passive line
-				(at -8.89 2.54 0)
+				(at -2.54 10.16 270)
 				(length 2.54)
-				(name "3"
+				(name "5"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-				(number "3"
+				(number "5"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
+				(at 0 -11.43 90)
+				(length 3.81)
+				(name "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -616,24 +639,6 @@
 				)
 			)
 			(pin passive line
-				(at -2.54 10.16 270)
-				(length 2.54)
-				(name "5"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "5"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-			)
-			(pin passive line
 				(at 5.08 -11.43 90)
 				(length 3.048)
 				(name "MountPin"
@@ -652,9 +657,12 @@
 				)
 			)
 		)
+		(embedded_fonts no)
 	)
 	(symbol "R_Potentiometer_GameBoy_Volume_MGB"
-		(pin_names hide)
+		(pin_names
+			(hide yes)
+		)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -711,22 +719,12 @@
 			)
 		)
 		(symbol "R_Potentiometer_GameBoy_Volume_MGB_0_1"
-			(rectangle
-				(start -6.35 -7.62)
-				(end 6.35 7.62)
-				(stroke
-					(width 0.254)
-					(type default)
+			(polyline
+				(pts
+					(xy -6.35 2.54) (xy -5.08 2.54)
 				)
-				(fill
-					(type background)
-				)
-			)
-			(rectangle
-				(start -3.556 -5.08)
-				(end -1.524 0)
 				(stroke
-					(width 0.254)
+					(width 0.1524)
 					(type default)
 				)
 				(fill
@@ -745,21 +743,20 @@
 					(type none)
 				)
 			)
-			(polyline
-				(pts
-					(xy -6.35 2.54) (xy -5.08 2.54)
-				)
+			(rectangle
+				(start -6.35 -7.62)
+				(end 6.35 7.62)
 				(stroke
-					(width 0.1524)
+					(width 0.254)
 					(type default)
 				)
 				(fill
-					(type none)
+					(type background)
 				)
 			)
 			(polyline
 				(pts
-					(xy -5.588 -1.524) (xy -5.588 -1.016)
+					(xy -5.588 2.794) (xy -5.588 3.048) (xy -5.08 2.54)
 				)
 				(stroke
 					(width 0)
@@ -771,7 +768,7 @@
 			)
 			(polyline
 				(pts
-					(xy -5.588 -0.508) (xy -5.588 0)
+					(xy -5.588 1.524) (xy -5.588 2.032)
 				)
 				(stroke
 					(width 0)
@@ -795,7 +792,19 @@
 			)
 			(polyline
 				(pts
-					(xy -5.588 1.524) (xy -5.588 2.032)
+					(xy -5.588 -0.508) (xy -5.588 0)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
+					(xy -5.588 -1.524) (xy -5.588 -1.016)
 				)
 				(stroke
 					(width 0)
@@ -831,6 +840,29 @@
 			)
 			(polyline
 				(pts
+					(xy -3.683 -2.54) (xy -4.826 -3.048) (xy -4.826 -2.032) (xy -3.683 -2.54)
+				)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
+			(rectangle
+				(start -3.556 -5.08)
+				(end -1.524 0)
+				(stroke
+					(width 0.254)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
+			(polyline
+				(pts
 					(xy -2.54 7.62) (xy -2.54 0)
 				)
 				(stroke
@@ -847,42 +879,6 @@
 				)
 				(stroke
 					(width 0.1524)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 0.254 2.54) (xy -5.08 2.54)
-				)
-				(stroke
-					(width 0)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy 2.54 7.62) (xy 2.54 5.08)
-				)
-				(stroke
-					(width 0.1524)
-					(type default)
-				)
-				(fill
-					(type none)
-				)
-			)
-			(polyline
-				(pts
-					(xy -5.588 2.794) (xy -5.588 3.048) (xy -5.08 2.54)
-				)
-				(stroke
-					(width 0)
 					(type default)
 				)
 				(fill
@@ -915,14 +911,14 @@
 			)
 			(polyline
 				(pts
-					(xy -3.683 -2.54) (xy -4.826 -3.048) (xy -4.826 -2.032) (xy -3.683 -2.54)
+					(xy 0.254 2.54) (xy -5.08 2.54)
 				)
 				(stroke
 					(width 0)
 					(type default)
 				)
 				(fill
-					(type outline)
+					(type none)
 				)
 			)
 			(polyline
@@ -948,6 +944,18 @@
 					(type none)
 				)
 			)
+			(polyline
+				(pts
+					(xy 2.54 7.62) (xy 2.54 5.08)
+				)
+				(stroke
+					(width 0.1524)
+					(type default)
+				)
+				(fill
+					(type none)
+				)
+			)
 		)
 		(symbol "R_Potentiometer_GameBoy_Volume_MGB_1_1"
 			(polyline
@@ -967,24 +975,6 @@
 				(effects
 					(font
 						(size 0.381 0.381)
-					)
-				)
-			)
-			(pin passive line
-				(at 0 -11.43 90)
-				(length 3.81)
-				(name "4"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
-					)
-				)
-				(number "1"
-					(effects
-						(font
-							(size 1.27 1.27)
-						)
 					)
 				)
 			)
@@ -1043,6 +1033,24 @@
 				)
 			)
 			(pin passive line
+				(at 0 -11.43 90)
+				(length 3.81)
+				(name "4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin passive line
 				(at 2.54 10.16 270)
 				(length 2.54)
 				(name "5"
@@ -1079,6 +1087,7 @@
 				)
 			)
 		)
+		(embedded_fonts no)
 	)
 	(symbol "R_Potentiometer_GameBoy_Contrast_MGB"
 		(extends "R_Potentiometer_GameBoy_Contrast_DMG")

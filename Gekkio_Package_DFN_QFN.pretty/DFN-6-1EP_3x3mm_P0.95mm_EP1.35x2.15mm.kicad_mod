@@ -1,7 +1,7 @@
 (footprint "DFN-6-1EP_3x3mm_P0.95mm_EP1.35x2.15mm"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "DFN6 3*3 MM, 0.95 PITCH; CASE 506AX (see ON Semiconductor 506AX.PDF)")
 	(tags "DFN 0.95")
@@ -27,18 +27,6 @@
 			)
 		)
 	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "23b62d89-19eb-4102-97b7-5ddfc35bed16")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
 	(property "Datasheet" ""
 		(at 0 0 0)
 		(unlocked yes)
@@ -48,6 +36,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -60,6 +49,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -200,42 +190,42 @@
 	(pad "1" smd roundrect
 		(at -1.385 -0.95)
 		(size 0.83 0.5)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.25)
 		(uuid "f20b54f2-820d-486a-8e4c-6ea26e3475d2")
 	)
 	(pad "2" smd roundrect
 		(at -1.385 0)
 		(size 0.83 0.5)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.25)
 		(uuid "d6d4959f-4f68-46b2-9fc0-430aade1e256")
 	)
 	(pad "3" smd roundrect
 		(at -1.385 0.95)
 		(size 0.83 0.5)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.25)
 		(uuid "cb2e5213-a903-431b-9341-eaa1bfc977a4")
 	)
 	(pad "4" smd roundrect
 		(at 1.385 0.95)
 		(size 0.83 0.5)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.25)
 		(uuid "db401f90-d2d8-4e6e-bd8b-4ddb1e7fef2e")
 	)
 	(pad "5" smd roundrect
 		(at 1.385 0)
 		(size 0.83 0.5)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.25)
 		(uuid "d4ecacc7-ea0e-4740-b9ff-133f4681dba1")
 	)
 	(pad "6" smd roundrect
 		(at 1.385 -0.95)
 		(size 0.83 0.5)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.25)
 		(uuid "1f6db0a6-073f-4930-80b3-edc86f0033c2")
 	)
@@ -245,6 +235,7 @@
 		(layers "F.Cu" "F.Mask")
 		(uuid "df917574-afc6-46e3-b096-d1473788ffb5")
 	)
+	(embedded_fonts no)
 	(model "${KICAD7_3DMODEL_DIR}/Gekkio_Package_DFN_QFN.3dshapes/DFN-6-1EP_3x3mm_P0.95mm_EP1.35x2.15mm.wrl"
 		(offset
 			(xyz 0 0 0)

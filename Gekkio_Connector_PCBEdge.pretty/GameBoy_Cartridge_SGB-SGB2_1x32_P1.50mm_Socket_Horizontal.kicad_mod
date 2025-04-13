@@ -1,7 +1,7 @@
 (footprint "GameBoy_Cartridge_SGB-SGB2_1x32_P1.50mm_Socket_Horizontal"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "Game Boy cartridge slot, Super Game Boy and Super Game Boy 2")
 	(tags "gameboy cartridge slot")
@@ -27,18 +27,6 @@
 			)
 		)
 	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "e6057eca-9a57-495a-8d65-38b27adce2a9")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
 	(property "Datasheet" ""
 		(at 0 0 0)
 		(unlocked yes)
@@ -48,6 +36,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -60,6 +49,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -569,6 +559,7 @@
 		(remove_unused_layers no)
 		(uuid "51aadd31-ad14-4248-853b-6882093fbec6")
 	)
+	(embedded_fonts no)
 	(model "${KICAD7_3DMODEL_DIR}/Gekkio_Connector_PCBEdge.3dshapes/GameBoy_Cartridge_SGB-SGB2_1x32_P1.50mm_Socket_Horizontal.wrl"
 		(offset
 			(xyz 0 0 0)

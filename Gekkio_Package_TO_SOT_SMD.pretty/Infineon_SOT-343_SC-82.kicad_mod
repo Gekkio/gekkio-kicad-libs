@@ -1,7 +1,7 @@
 (footprint "Infineon_SOT-343_SC-82"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "SC-82AB")
 	(tags "SC-82AB")
@@ -27,18 +27,6 @@
 			)
 		)
 	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "4a1a7d30-9e2a-472b-87d3-77ea8251e89c")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
 	(property "Datasheet" ""
 		(at 0 0 0)
 		(unlocked yes)
@@ -48,6 +36,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -60,6 +49,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -188,27 +178,28 @@
 	(pad "1" smd rect
 		(at -0.8 -0.65)
 		(size 0.8 0.6)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "43491337-f3c0-481d-ac34-12cc5f7bcb62")
 	)
 	(pad "2" smd rect
 		(at -0.8 0.5)
 		(size 0.75 0.9)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "871bcb84-8548-40db-b559-0e1da875c01e")
 	)
 	(pad "3" smd rect
 		(at 0.8 0.65)
 		(size 0.8 0.6)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "4230b83c-1619-4570-8b22-76e63c4131a2")
 	)
 	(pad "4" smd rect
 		(at 0.8 -0.65)
 		(size 0.8 0.6)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "b9ac069a-793d-4537-a1fd-6527f2c5c2cb")
 	)
+	(embedded_fonts no)
 	(model "${KICAD7_3DMODEL_DIR}/Gekkio_Package_TO_SOT_SMD.3dshapes/Infineon_SOT-343_SC-82.wrl"
 		(offset
 			(xyz 0 0 0)

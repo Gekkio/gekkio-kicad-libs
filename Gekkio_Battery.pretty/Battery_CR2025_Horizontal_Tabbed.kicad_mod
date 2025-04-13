@@ -1,7 +1,7 @@
 (footprint "Battery_CR2025_Horizontal_Tabbed"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "CR2025 battery with solder tabs")
 	(tags "cr2025")
@@ -27,18 +27,6 @@
 			)
 		)
 	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "567fd4a4-f8f3-4f87-8e9d-9c592b8004d1")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
 	(property "Datasheet" ""
 		(at 0 0 0)
 		(unlocked yes)
@@ -48,6 +36,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -60,6 +49,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -101,7 +91,7 @@
 			(width 0.12)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.SilkS")
 		(uuid "01f82238-6335-48fe-8b0a-6853e227345a")
 	)
@@ -216,7 +206,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.Fab")
 		(uuid "0e249018-17e7-42b3-ae5d-5ebf3ae299ae")
 	)
@@ -234,15 +224,16 @@
 	(pad "1" smd rect
 		(at 0 -13.500001)
 		(size 5 5)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "7c411b3e-aca2-424f-b644-2d21c9d80fa7")
 	)
 	(pad "2" smd rect
 		(at 0 13.500001)
 		(size 5 5)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "f4a8afbe-ed68-4253-959f-6be4d2cbf8c5")
 	)
+	(embedded_fonts no)
 	(model "${KICAD7_3DMODEL_DIR}/Gekkio_Battery.3dshapes/Battery_CR2025_Horizontal_Tabbed.wrl"
 		(offset
 			(xyz 0 0 0)

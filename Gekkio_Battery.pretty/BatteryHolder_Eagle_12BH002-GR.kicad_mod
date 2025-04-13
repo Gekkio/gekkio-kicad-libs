@@ -1,7 +1,7 @@
 (footprint "BatteryHolder_Eagle_12BH002-GR"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "Battery holder for CR2032")
 	(tags "battery holder cr2032")
@@ -27,18 +27,6 @@
 			)
 		)
 	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "c82c2533-8e98-4d35-8f01-ddd9e25a8749")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
 	(property "Datasheet" ""
 		(at 0 0 0)
 		(unlocked yes)
@@ -48,6 +36,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -60,6 +49,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -512,7 +502,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.Fab")
 		(uuid "53c85970-3e21-4fae-a84f-721cfc0513b5")
 	)
@@ -530,13 +520,13 @@
 	(pad "1" smd rect
 		(at -13.05 0)
 		(size 4.9 5.5)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "712d6a7d-2b62-464f-b745-fd2a6b0187f6")
 	)
 	(pad "1" smd rect
 		(at 13.05 0)
 		(size 4.9 5.5)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "b3d08afa-f296-4e3b-8825-73b6331d35bf")
 	)
 	(pad "2" connect circle
@@ -545,6 +535,7 @@
 		(layers "F.Cu" "F.Mask")
 		(uuid "3172f2e2-18d2-4a80-ae30-5707b3409798")
 	)
+	(embedded_fonts no)
 	(model "${KICAD7_3DMODEL_DIR}/Gekkio_Battery.3dshapes/BatteryHolder_Eagle_12BH002-GR.wrl"
 		(offset
 			(xyz 0 0 0)

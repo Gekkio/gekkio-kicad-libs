@@ -1,7 +1,7 @@
 (footprint "Amphenol_10018783-x0x01_2x32_P1.00mm_Socket_Vertical"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "x4 Vertical Card Edge Connector, 64 Positions, 1mm Pitch (https://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/10018783.pdf)")
 	(tags "pci express x4")
@@ -27,18 +27,6 @@
 			)
 		)
 	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "9f89ec14-4b7f-4dc8-a60f-08037ba4d370")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
 	(property "Datasheet" ""
 		(at 0 0 0)
 		(unlocked yes)
@@ -48,6 +36,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -60,6 +49,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -751,6 +741,7 @@
 		(remove_unused_layers no)
 		(uuid "5a10edf2-528f-4464-9121-d3df9cb8c8cc")
 	)
+	(embedded_fonts no)
 	(model "${KICAD7_3DMODEL_DIR}/Gekkio_Connector_PCBEdge.3dshapes/Amphenol_10018783-x0x01_2x32_P1.00mm_Socket_Vertical.wrl"
 		(offset
 			(xyz 0 0 0)

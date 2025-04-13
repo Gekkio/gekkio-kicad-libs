@@ -1,7 +1,7 @@
 (footprint "L_Sunltech_SLO0520H"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "Wire Wound SMD Power Inductor, https://datasheet.lcsc.com/szlcsc/Sunltech-Tech-SLO0520H1R5MTT_C325981.pdf")
 	(tags "inductor sunltech slo0520h smd")
@@ -27,18 +27,6 @@
 			)
 		)
 	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "5e19ad72-4f93-4086-af42-9dac5d9881b3")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
 	(property "Datasheet" ""
 		(at 0 0 0)
 		(unlocked yes)
@@ -48,6 +36,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -60,6 +49,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -178,15 +168,16 @@
 	(pad "1" smd rect
 		(at -2 0)
 		(size 1.8 2.7)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "71e08c4a-87e8-4eab-bf7a-07576b516f43")
 	)
 	(pad "2" smd rect
 		(at 2 0)
 		(size 1.8 2.7)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "9ada1f8b-87a2-4893-abbc-cbaf8ae52c63")
 	)
+	(embedded_fonts no)
 	(model "${KICAD7_3DMODEL_DIR}/Gekkio_Inductor_SMD.3dshapes/L_Sunltech_SLO0520H.wrl"
 		(offset
 			(xyz 0 0 0)

@@ -1,7 +1,7 @@
 (footprint "L_Eaton_DRQ73"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "Dual winding shielded drum core power inductor, https://www.eaton.com/content/dam/eaton/products/electronic-components/resources/data-sheet/eaton-drq-shielded-drum-core-power-inductors-data-sheet.pdf")
 	(tags "inductor smd coupled")
@@ -27,18 +27,6 @@
 			)
 		)
 	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "26f5b805-7535-407b-ac4c-9de60872de25")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
 	(property "Datasheet" ""
 		(at 0 0 0)
 		(unlocked yes)
@@ -48,6 +36,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -60,6 +49,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -238,27 +228,28 @@
 	(pad "1" smd rect
 		(at -3.085 -0.7)
 		(size 1.73 1)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "28cacd2a-5925-4628-870a-347357e09c90")
 	)
 	(pad "2" smd rect
 		(at -3.085 0.7)
 		(size 1.73 1)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "7b8ee384-453e-46c3-b18d-f15559f6bfd4")
 	)
 	(pad "3" smd rect
 		(at 3.085 0.7)
 		(size 1.73 1)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "6c4f7d90-1f81-45fa-9b70-4f58049ffa55")
 	)
 	(pad "4" smd rect
 		(at 3.085 -0.7)
 		(size 1.73 1)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "6fc22f51-c7ab-4b98-aac7-28599faf38cc")
 	)
+	(embedded_fonts no)
 	(model "${KICAD7_3DMODEL_DIR}/Gekkio_Inductor_SMD.3dshapes/L_Eaton_DRQ73.wrl"
 		(offset
 			(xyz 0 0 0)

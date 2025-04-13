@@ -1,7 +1,7 @@
 (footprint "SW_SPST_PTS540"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "C&K Components SPST SMD PTS 540 Series 3.7mm Top Actuated Switch")
 	(tags "SPST button switch")
@@ -27,18 +27,6 @@
 			)
 		)
 	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "8f94fc40-7270-440f-bfca-8acb32ab8df9")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
 	(property "Datasheet" ""
 		(at 0 0 0)
 		(unlocked yes)
@@ -48,6 +36,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -60,6 +49,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -298,27 +288,28 @@
 	(pad "1" smd rect
 		(at -1.55 -1.375)
 		(size 0.6 0.65)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "a150f0c9-1a23-4200-b489-18791f6d5ce5")
 	)
 	(pad "1" smd rect
 		(at 1.55 -1.375)
 		(size 0.6 0.65)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "0e592cd4-1950-44ef-9727-8e526f4c4e12")
 	)
 	(pad "2" smd rect
 		(at -1.55 1.375)
 		(size 0.6 0.65)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "5bbde4f9-fcdb-4d27-a2d6-3847fcdd87ba")
 	)
 	(pad "2" smd rect
 		(at 1.55 1.375)
 		(size 0.6 0.65)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "300aa512-2f66-4c26-a530-50c091b3a099")
 	)
+	(embedded_fonts no)
 	(model "${KICAD7_3DMODEL_DIR}/Gekkio_Button_Switch_SMD.3dshapes/SW_SPST_PTS540.wrl"
 		(offset
 			(xyz 0 0 0)

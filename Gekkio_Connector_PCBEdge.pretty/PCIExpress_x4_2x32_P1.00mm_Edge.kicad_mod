@@ -1,7 +1,7 @@
 (footprint "PCIExpress_x4_2x32_P1.00mm_Edge"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "PCI Express x4 edge connector")
 	(tags "pci express x4")
@@ -27,18 +27,6 @@
 			)
 		)
 	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "9cbdc705-c9e4-4fb5-8300-68370777da6b")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
 	(property "Datasheet" ""
 		(at 0 0 0)
 		(unlocked yes)
@@ -48,6 +36,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -60,6 +49,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -669,6 +659,7 @@
 		(layers "F.Cu" "F.Mask")
 		(uuid "1689c64d-1398-40ac-a0ce-75be5d109573")
 	)
+	(embedded_fonts no)
 	(model "${KICAD7_3DMODEL_DIR}/Gekkio_Connector_PCBEdge.3dshapes/PCIExpress_x4_2x32_P1.00mm_Edge.wrl"
 		(offset
 			(xyz 0 0 0)

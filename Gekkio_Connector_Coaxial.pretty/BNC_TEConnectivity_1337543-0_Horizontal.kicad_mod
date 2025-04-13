@@ -1,7 +1,7 @@
 (footprint "BNC_TEConnectivity_1337543-0_Horizontal"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "BNC socket, 50 Ohms, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1337543&DocType=Customer+Drawing&DocLang=English")
 	(tags "BNC horizontal")
@@ -27,18 +27,6 @@
 			)
 		)
 	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "fa5792ca-e547-448b-91ea-e9230f8d8fb5")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
 	(property "Datasheet" ""
 		(at 0 0 0)
 		(unlocked yes)
@@ -48,6 +36,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -60,6 +49,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -287,6 +277,7 @@
 		(remove_unused_layers no)
 		(uuid "7be13a36-eb8e-440f-aaac-2fd6665d9f61")
 	)
+	(embedded_fonts no)
 	(model "${KICAD7_3DMODEL_DIR}/Gekkio_Connector_Coaxial.3dshapes/BNC_TEConnectivity_1337543-0_Horizontal.wrl"
 		(offset
 			(xyz 0 0 0)

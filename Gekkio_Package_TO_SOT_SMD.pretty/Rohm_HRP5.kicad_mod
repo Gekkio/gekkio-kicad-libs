@@ -1,7 +1,7 @@
 (footprint "Rohm_HRP5"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "Rohm HRP5 SMD package, http://rohmfs.rohm.com/en/techdata_basic/ic/package/hrp5_1-e.pdf")
 	(tags "Rohm HRP5 SMD")
@@ -27,18 +27,6 @@
 			)
 		)
 	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "b9a9c13d-d7b8-455f-a9a1-1fbf0a59c093")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
 	(property "Datasheet" ""
 		(at 0 0 0)
 		(unlocked yes)
@@ -48,6 +36,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -60,6 +49,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -292,19 +282,19 @@
 	(pad "1" smd rect
 		(at -4.97 -3.44)
 		(size 1.37 1.07)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "5c8ea1c7-14f0-4630-a8c8-5b10f459cdb6")
 	)
 	(pad "2" smd rect
 		(at -4.97 -1.72)
 		(size 1.37 1.07)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "572e40c5-4e35-484d-8ae4-e851d4ed2d1b")
 	)
 	(pad "3" smd rect
 		(at -4.97 0)
 		(size 1.37 1.07)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "c97c79b9-fd14-4321-ad82-2f38bd61d9c7")
 	)
 	(pad "3" thru_hole circle
@@ -770,15 +760,16 @@
 	(pad "4" smd rect
 		(at -4.97 1.72)
 		(size 1.37 1.07)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "27236790-96af-41ee-84ca-02745950a6a1")
 	)
 	(pad "5" smd rect
 		(at -4.97 3.44)
 		(size 1.37 1.07)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "0b717f9e-760c-4824-a9fd-51ce32f96dfe")
 	)
+	(embedded_fonts no)
 	(model "${KICAD7_3DMODEL_DIR}/Gekkio_Package_TO_SOT_SMD.3dshapes/Rohm_HRP5.wrl"
 		(offset
 			(xyz 0 0 0)

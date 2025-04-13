@@ -1,7 +1,7 @@
 (footprint "WDFN-10-1EP_3x3mm_P0.5mm_EP1.2x2.2mm"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "WDFN, 10 Pin (https://www.diodes.com/assets/Datasheets/products_inactive_data/PAM2308.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py")
 	(tags "WDFN NoLead")
@@ -27,18 +27,6 @@
 			)
 		)
 	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "19ab7236-d3bd-4aad-ba41-d2e0b8d0c1fb")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
 	(property "Datasheet" ""
 		(at 0 0 0)
 		(unlocked yes)
@@ -48,6 +36,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -60,6 +49,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -216,70 +206,70 @@
 	(pad "1" smd roundrect
 		(at -1.3625 -1)
 		(size 0.975 0.25)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.25)
 		(uuid "b3df6b27-48c5-4623-9bc1-922b07c61479")
 	)
 	(pad "2" smd roundrect
 		(at -1.3625 -0.5)
 		(size 0.975 0.25)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.25)
 		(uuid "e94da6e3-1b80-447a-bb6b-c1b1b7407e36")
 	)
 	(pad "3" smd roundrect
 		(at -1.3625 0)
 		(size 0.975 0.25)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.25)
 		(uuid "f137b5fe-d95e-41d9-849e-0e61a2cfdb6b")
 	)
 	(pad "4" smd roundrect
 		(at -1.3625 0.5)
 		(size 0.975 0.25)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.25)
 		(uuid "e7ebf925-f98d-4cc7-bbe9-4f1b1ba3a944")
 	)
 	(pad "5" smd roundrect
 		(at -1.3625 1)
 		(size 0.975 0.25)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.25)
 		(uuid "64d66129-b9a0-41ef-9174-8f6c52a2b97b")
 	)
 	(pad "6" smd roundrect
 		(at 1.3625 1)
 		(size 0.975 0.25)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.25)
 		(uuid "4bd0ba35-02eb-427a-8076-a661495b7c85")
 	)
 	(pad "7" smd roundrect
 		(at 1.3625 0.5)
 		(size 0.975 0.25)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.25)
 		(uuid "47a2e582-89f2-4bb5-881b-f606acdbaed2")
 	)
 	(pad "8" smd roundrect
 		(at 1.3625 0)
 		(size 0.975 0.25)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.25)
 		(uuid "155f343a-d574-4bca-a918-46ceb25a4e28")
 	)
 	(pad "9" smd roundrect
 		(at 1.3625 -0.5)
 		(size 0.975 0.25)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.25)
 		(uuid "5f912ad8-05d1-41da-9059-7fbd6d2be480")
 	)
 	(pad "10" smd roundrect
 		(at 1.3625 -1)
 		(size 0.975 0.25)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.25)
 		(uuid "6ba46a66-8163-42ff-a6bf-a5d4c2e51af3")
 	)
@@ -289,6 +279,7 @@
 		(layers "F.Cu" "F.Mask")
 		(uuid "8f5fddca-016d-40aa-8319-41ac3f5f222a")
 	)
+	(embedded_fonts no)
 	(model "${KICAD7_3DMODEL_DIR}/Gekkio_Package_DFN_QFN.3dshapes/WDFN-10-1EP_3x3mm_P0.5mm_EP1.2x2.2mm.wrl"
 		(offset
 			(xyz 0 0 0)

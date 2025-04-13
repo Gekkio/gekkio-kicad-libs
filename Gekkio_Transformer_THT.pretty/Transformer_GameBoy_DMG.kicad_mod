@@ -1,7 +1,7 @@
 (footprint "Transformer_GameBoy_DMG"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "DC/DC transformer, original Game Boy (DMG)")
 	(tags "transformer game boy dmg")
@@ -27,18 +27,6 @@
 			)
 		)
 	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "9b1635c7-4443-4e01-883e-a89803374669")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
 	(property "Datasheet" ""
 		(at 0 0 0)
 		(unlocked yes)
@@ -48,6 +36,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -60,6 +49,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -71,7 +61,7 @@
 			(width 0.12)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.SilkS")
 		(uuid "d302b785-8fea-4740-b6d3-cc6ba13b890c")
 	)
@@ -82,7 +72,7 @@
 			(width 0.12)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.SilkS")
 		(uuid "c6211d7a-6688-4cd4-a198-4bb13941503c")
 	)
@@ -163,7 +153,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.Fab")
 		(uuid "2fc31fea-53d5-425c-ab2b-67501c3d3c6b")
 	)
@@ -250,6 +240,7 @@
 		(remove_unused_layers no)
 		(uuid "6803e087-39a2-4a63-85c5-8c25d0be5c6e")
 	)
+	(embedded_fonts no)
 	(model "${KICAD7_3DMODEL_DIR}/Gekkio_Transformer_THT.3dshapes/Transformer_GameBoy_DMG.wrl"
 		(offset
 			(xyz 0 0 0)

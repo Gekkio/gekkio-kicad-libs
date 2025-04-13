@@ -1,7 +1,7 @@
 (footprint "Potentiometer_Hokuriku_VG039NCH_Vertical"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(descr "Potentiometer, vertical, Hokuriku VG039NCH, https://datasheet.lcsc.com/szlcsc/Hokuriku-Elec-Industry-VG039NCHXTB104_C128545.pdf")
 	(tags "Potentiometer vertical Hokuriku VG039NCH")
@@ -27,18 +27,6 @@
 			)
 		)
 	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(unlocked yes)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "add7c97f-4dd7-4f5d-ab3a-227818fbfd56")
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-	)
 	(property "Datasheet" ""
 		(at 0 0 0)
 		(unlocked yes)
@@ -48,6 +36,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -60,6 +49,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -201,7 +191,7 @@
 			(width 0.1)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.Fab")
 		(uuid "fb808554-3517-45a2-b1f6-21d86cebfeaa")
 	)
@@ -219,21 +209,22 @@
 	(pad "1" smd rect
 		(at -1.7 -1)
 		(size 1.2 1.2)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "f20212d4-f657-471f-9287-f70f200e0013")
 	)
 	(pad "2" smd rect
 		(at 1.55 0)
 		(size 1.5 1.6)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "1da0d442-4b3d-42d4-af25-6dd39bb04009")
 	)
 	(pad "3" smd rect
 		(at -1.7 1)
 		(size 1.2 1.2)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(layers "F.Cu" "F.Mask" "F.Paste")
 		(uuid "36277617-cba1-4cfb-8500-e9e54f79b064")
 	)
+	(embedded_fonts no)
 	(model "${KICAD7_3DMODEL_DIR}/Gekkio_Potentiometer_SMD.3dshapes/Potentiometer_Hokuriku_VG039NCH_Vertical.wrl"
 		(offset
 			(xyz 0 0 0)
