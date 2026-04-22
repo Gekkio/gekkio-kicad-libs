@@ -1,7 +1,7 @@
 (footprint "L_CommonMode_TDK_ACM2520-3P_L2.5mm_W2.0mm_Px2.3mm_Py0.65mm"
-	(version 20241229)
+	(version 20260206)
 	(generator "pcbnew")
-	(generator_version "9.0")
+	(generator_version "10.0")
 	(layer "F.Cu")
 	(descr "https://product.tdk.com/info/en/catalog/datasheets/cmf_commercial_signal_acm2520_en.pdf")
 	(tags "common mode filter choke 3 pin")
@@ -54,6 +54,7 @@
 		)
 	)
 	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -1.5 -1.1)
 		(end 0.9 -1.1)

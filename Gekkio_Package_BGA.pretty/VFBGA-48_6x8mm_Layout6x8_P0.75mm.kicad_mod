@@ -1,7 +1,7 @@
 (footprint "VFBGA-48_6x8mm_Layout6x8_P0.75mm"
-	(version 20241229)
+	(version 20260206)
 	(generator "pcbnew")
-	(generator_version "9.0")
+	(generator_version "10.0")
 	(layer "F.Cu")
 	(descr "48-Ball VFBGA, 8.0x6.0mm, 48 Ball, 6x8 Layout, 0.75mm Pitch, https://www.cypress.com/file/117801/download")
 	(tags "BGA 48 0.75")
@@ -55,6 +55,7 @@
 	)
 	(solder_mask_margin 0.05)
 	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -3.11 4.11)
 		(end -3.11 -3.11)

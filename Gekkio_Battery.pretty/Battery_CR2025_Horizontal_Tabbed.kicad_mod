@@ -1,7 +1,7 @@
 (footprint "Battery_CR2025_Horizontal_Tabbed"
-	(version 20241229)
+	(version 20260206)
 	(generator "pcbnew")
-	(generator_version "9.0")
+	(generator_version "10.0")
 	(layer "F.Cu")
 	(descr "CR2025 battery with solder tabs")
 	(tags "cr2025")
@@ -54,6 +54,7 @@
 		)
 	)
 	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start 3.9 -11.7)
 		(end 6.5 -11.7)

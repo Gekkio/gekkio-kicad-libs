@@ -1,7 +1,7 @@
 (footprint "SW_SPST_PTS540"
-	(version 20241229)
+	(version 20260206)
 	(generator "pcbnew")
-	(generator_version "9.0")
+	(generator_version "10.0")
 	(layer "F.Cu")
 	(descr "C&K Components SPST SMD PTS 540 Series 3.7mm Top Actuated Switch")
 	(tags "SPST button switch")
@@ -54,6 +54,7 @@
 		)
 	)
 	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -1.7 -2)
 		(end -1.7 -1.8)

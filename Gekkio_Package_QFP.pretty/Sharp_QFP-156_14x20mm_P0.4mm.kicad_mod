@@ -1,7 +1,7 @@
 (footprint "Sharp_QFP-156_14x20mm_P0.4mm"
-	(version 20241229)
+	(version 20260206)
 	(generator "pcbnew")
-	(generator_version "9.0")
+	(generator_version "10.0")
 	(layer "F.Cu")
 	(descr "Sharp QFP, 156 Pin (), generated with kicad-footprint-generator ipc_gullwing_generator.py")
 	(tags "Sharp QFP")
@@ -54,6 +54,7 @@
 		)
 	)
 	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -7.11 -10.11)
 		(end -7.11 -9.385)

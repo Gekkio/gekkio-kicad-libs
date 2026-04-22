@@ -1,7 +1,7 @@
 (footprint "Micron_VFBGA-54_8x8mm_Layout9x9_P0.8mm"
-	(version 20241229)
+	(version 20260206)
 	(generator "pcbnew")
-	(generator_version "9.0")
+	(generator_version "10.0")
 	(layer "F.Cu")
 	(descr "Micron 54-Ball VFBGA \"B4/F4\" (8mm x 8mm), 8.0x8.0mm, 54 Ball, 9x9 Layout, 0.8mm Pitch, https://www.micron.com/-/media/client/global/documents/products/data-sheet/dram/256mb_sdr.pdf")
 	(tags "BGA 54 0.8")
@@ -55,6 +55,7 @@
 	)
 	(solder_mask_margin 0.065)
 	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -4.11 4.11)
 		(end -4.11 -3.11)

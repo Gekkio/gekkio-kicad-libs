@@ -1,7 +1,7 @@
 (footprint "USB_A_GCT_USB1061-GF-L_Horizontal"
-	(version 20241229)
+	(version 20260206)
 	(generator "pcbnew")
-	(generator_version "9.0")
+	(generator_version "10.0")
 	(layer "F.Cu")
 	(descr "USB type A Plug, Horizontal, https://gct.co/files/drawings/usb1061.pdf")
 	(tags "USB-A")
@@ -54,6 +54,7 @@
 		)
 	)
 	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start 0.08 -4.4)
 		(end -0.675 -4.4)
@@ -462,14 +463,14 @@
 		(at 1.2 -2.25)
 		(size 1.1 1.1)
 		(drill 1.1)
-		(layers "F&B.Cu" "*.Mask")
+		(layers "*.Cu" "*.Mask")
 		(uuid "c7dec612-aa6a-4fdf-b67a-71237517d76c")
 	)
 	(pad "" np_thru_hole circle
 		(at 1.2 2.25)
 		(size 1.1 1.1)
 		(drill 1.1)
-		(layers "F&B.Cu" "*.Mask")
+		(layers "*.Cu" "*.Mask")
 		(uuid "fcc31daf-0bcc-47a2-ae5a-6be4acf835a1")
 	)
 	(pad "1" smd roundrect

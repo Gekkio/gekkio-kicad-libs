@@ -1,7 +1,7 @@
 (footprint "ISSI_TSOP-I-28_11.8x8mm_P0.55mm"
-	(version 20241229)
+	(version 20260206)
 	(generator "pcbnew")
-	(generator_version "9.0")
+	(generator_version "10.0")
 	(layer "F.Cu")
 	(descr "http://www.issi.com/WW/pdf/61LV256AL.pdf")
 	(tags "TSOP I 28 pins")
@@ -54,6 +54,7 @@
 		)
 	)
 	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -4.1 -5.9)
 		(end -4.1 5.9)

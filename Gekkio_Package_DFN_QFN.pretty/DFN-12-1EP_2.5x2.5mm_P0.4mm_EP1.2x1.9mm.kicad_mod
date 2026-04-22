@@ -1,7 +1,7 @@
 (footprint "DFN-12-1EP_2.5x2.5mm_P0.4mm_EP1.2x1.9mm"
-	(version 20241229)
+	(version 20260206)
 	(generator "pcbnew")
-	(generator_version "9.0")
+	(generator_version "10.0")
 	(layer "F.Cu")
 	(descr "DFN, 12 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/12L_UDFN_2_5x2_5x0_6mm_HRA_C04-01162a.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py")
 	(tags "DFN NoLead")
@@ -54,6 +54,7 @@
 		)
 	)
 	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -1.25 1.36)
 		(end 1.25 1.36)

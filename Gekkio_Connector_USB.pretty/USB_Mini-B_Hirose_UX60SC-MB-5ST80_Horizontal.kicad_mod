@@ -1,7 +1,7 @@
 (footprint "USB_Mini-B_Hirose_UX60SC-MB-5ST80_Horizontal"
-	(version 20241229)
+	(version 20260206)
 	(generator "pcbnew")
-	(generator_version "9.0")
+	(generator_version "10.0")
 	(layer "F.Cu")
 	(descr "https://www.hirose.com/product/en/products/UX/UX60SC-MB-5ST%2880%29/")
 	(tags "USB USB_B USB_Mini connector")
@@ -54,6 +54,7 @@
 		)
 	)
 	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -3.95 -2.2)
 		(end -3.95 -1.4)

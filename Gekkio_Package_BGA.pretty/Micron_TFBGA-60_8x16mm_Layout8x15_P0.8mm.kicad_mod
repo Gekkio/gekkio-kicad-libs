@@ -1,7 +1,7 @@
 (footprint "Micron_TFBGA-60_8x16mm_Layout8x15_P0.8mm"
-	(version 20241229)
+	(version 20260206)
 	(generator "pcbnew")
-	(generator_version "9.0")
+	(generator_version "10.0")
 	(layer "F.Cu")
 	(descr "Micron 60-Ball TFBGA \"BB/FB\" (8mm x 16mm), 16.0x8.0mm, 60 Ball, 8x15 Layout, 0.8mm Pitch, https://www.micron.com/-/media/client/global/documents/products/data-sheet/dram/256mb_sdr.pdf")
 	(tags "BGA 60 0.8")
@@ -55,6 +55,7 @@
 	)
 	(solder_mask_margin 0.025)
 	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -4.11 8.11)
 		(end -4.11 -7.11)

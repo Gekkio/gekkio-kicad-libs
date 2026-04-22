@@ -1,7 +1,7 @@
 (footprint "Micrel_VQFN-20-1EP_3x4mm_P0.5mm_EP1.6x2.6mm"
-	(version 20241229)
+	(version 20260206)
 	(generator "pcbnew")
-	(generator_version "9.0")
+	(generator_version "10.0")
 	(layer "F.Cu")
 	(descr "VQFN, 20 Pin (http://ww1.microchip.com/downloads/en/DeviceDoc/MIC23158-9-3MHz-PWM-Dual-2A-Buck-Regulator-with-HyperLight-Load-and-Power-Good-DS20006020A.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py")
 	(tags "VQFN NoLead")
@@ -54,6 +54,7 @@
 		)
 	)
 	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -1.61 2.11)
 		(end -1.61 1.66)

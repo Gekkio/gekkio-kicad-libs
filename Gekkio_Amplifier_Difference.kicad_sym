@@ -1,13 +1,17 @@
 (kicad_symbol_lib
-	(version 20241209)
+	(version 20251024)
 	(generator "kicad_symbol_editor")
-	(generator_version "9.0")
+	(generator_version "10.0")
 	(symbol "OPA1632D"
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
+		(in_pos_files yes)
+		(duplicate_pin_numbers_are_jumpers no)
 		(property "Reference" "U"
 			(at 3.81 6.35 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17,6 +21,8 @@
 		)
 		(property "Value" "OPA1632D"
 			(at 3.81 8.89 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26,47 +32,57 @@
 		)
 		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
 			(at 0 -20.32 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/ds/sbos286c/sbos286c.pdf"
 			(at 0 -22.86 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Description" "High-Performance, Fully-Differential Audio Operational Amplifier, SOIC-8"
 			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "ki_keywords" "differential amplifier"
 			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "ki_fp_filters" "SOIC*3.9x4.9mm*P1.27mm*"
 			(at 0 0 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(hide yes)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(symbol "OPA1632D_0_1"
@@ -103,16 +119,16 @@
 				)
 			)
 			(pin input line
-				(at -10.16 -2.54 0)
-				(length 2.54)
-				(name "+"
+				(at 0 -10.16 90)
+				(length 5.08)
+				(name "VOCM"
 					(effects
 						(font
-							(size 1.27 1.27)
+							(size 0.762 0.762)
 						)
 					)
 				)
-				(number "8"
+				(number "2"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -134,6 +150,42 @@
 					(effects
 						(font
 							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at 10.16 2.54 180)
+				(length 5.08)
+				(name "VOUT+"
+					(effects
+						(font
+							(size 0.762 0.762)
+						)
+					)
+				)
+				(number "4"
+					(effects
+						(font
+							(size 0.762 0.762)
+						)
+					)
+				)
+			)
+			(pin output line
+				(at 10.16 -2.54 180)
+				(length 5.08)
+				(name "VOUT-"
+					(effects
+						(font
+							(size 0.762 0.762)
+						)
+					)
+				)
+				(number "5"
+					(effects
+						(font
+							(size 0.762 0.762)
 						)
 					)
 				)
@@ -175,55 +227,19 @@
 				)
 			)
 			(pin input line
-				(at 0 -10.16 90)
-				(length 5.08)
-				(name "VOCM"
-					(effects
-						(font
-							(size 0.762 0.762)
-						)
-					)
-				)
-				(number "2"
+				(at -10.16 -2.54 0)
+				(length 2.54)
+				(name "+"
 					(effects
 						(font
 							(size 1.27 1.27)
 						)
 					)
 				)
-			)
-			(pin output line
-				(at 10.16 2.54 180)
-				(length 5.08)
-				(name "VOUT+"
+				(number "8"
 					(effects
 						(font
-							(size 0.762 0.762)
-						)
-					)
-				)
-				(number "4"
-					(effects
-						(font
-							(size 0.762 0.762)
-						)
-					)
-				)
-			)
-			(pin output line
-				(at 10.16 -2.54 180)
-				(length 5.08)
-				(name "VOUT-"
-					(effects
-						(font
-							(size 0.762 0.762)
-						)
-					)
-				)
-				(number "5"
-					(effects
-						(font
-							(size 0.762 0.762)
+							(size 1.27 1.27)
 						)
 					)
 				)

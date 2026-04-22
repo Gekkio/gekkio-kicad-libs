@@ -1,7 +1,7 @@
 (footprint "Rohm_HRP5"
-	(version 20241229)
+	(version 20260206)
 	(generator "pcbnew")
-	(generator_version "9.0")
+	(generator_version "10.0")
 	(layer "F.Cu")
 	(descr "Rohm HRP5 SMD package, http://rohmfs.rohm.com/en/techdata_basic/ic/package/hrp5_1-e.pdf")
 	(tags "Rohm HRP5 SMD")
@@ -54,6 +54,7 @@
 		)
 	)
 	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -5.585 -4.5)
 		(end -4.185 -4.5)

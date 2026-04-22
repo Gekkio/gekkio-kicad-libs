@@ -1,7 +1,7 @@
 (footprint "L_Coilcraft_SER1512"
-	(version 20241229)
+	(version 20260206)
 	(generator "pcbnew")
-	(generator_version "9.0")
+	(generator_version "10.0")
 	(layer "F.Cu")
 	(descr "Shielded Power Inductor, https://www.coilcraft.com/getmedia/96260b65-ad47-4056-b696-1ca56c2663fc/ser1512.pdf")
 	(tags "inductor smd")
@@ -54,6 +54,7 @@
 		)
 	)
 	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -8.3 -8.2)
 		(end -8.3 -6.3)

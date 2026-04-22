@@ -1,7 +1,7 @@
 (footprint "USB_Micro-AB_Wuerth_629105150921_Horizontal_CircularHoles"
-	(version 20241229)
+	(version 20260206)
 	(generator "pcbnew")
-	(generator_version "9.0")
+	(generator_version "10.0")
 	(layer "F.Cu")
 	(descr "WR-COM Micro USB 2.0 AB, https://www.we-online.com/catalog/datasheet/629105150921.pdf")
 	(tags "USB Micro AB")
@@ -54,6 +54,7 @@
 		)
 	)
 	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -3.6 -2.935)
 		(end -3.6 -0.885)

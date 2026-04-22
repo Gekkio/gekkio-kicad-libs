@@ -1,7 +1,7 @@
 (footprint "Murata_DA1xxJC"
-	(version 20241229)
+	(version 20260206)
 	(generator "pcbnew")
-	(generator_version "9.0")
+	(generator_version "10.0")
 	(layer "F.Cu")
 	(descr "SM Transformers for Digital Audio Data Transmission, https://www.murata.com/products/productdata/8816046145566/kmp-da100j.pdf")
 	(tags "transformer digital audio")
@@ -56,6 +56,7 @@
 		)
 	)
 	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -4.8 -4.6)
 		(end -4.8 -3.1)

@@ -1,7 +1,7 @@
 (footprint "Molex_CLIK-Mate_213227-32xx_2x16-1MP_P1.50mm_Vertical"
-	(version 20241229)
+	(version 20260206)
 	(generator "pcbnew")
-	(generator_version "9.0")
+	(generator_version "10.0")
 	(layer "F.Cu")
 	(descr "Molex CLIK-Mate dual row, 32 circuits, https://www.molex.com/pdm_docs/sd/2132273210_sd.pdf")
 	(tags "connector Molex CLIK-Mate dual row")
@@ -54,6 +54,7 @@
 		)
 	)
 	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -14.3 -4.7)
 		(end -14.3 -1.5)

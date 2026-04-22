@@ -1,7 +1,7 @@
 (footprint "BNC_TEConnectivity_1337543-0_Horizontal"
-	(version 20241229)
+	(version 20260206)
 	(generator "pcbnew")
-	(generator_version "9.0")
+	(generator_version "10.0")
 	(layer "F.Cu")
 	(descr "BNC socket, 50 Ohms, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=1337543&DocType=Customer+Drawing&DocLang=English")
 	(tags "BNC horizontal")
@@ -54,6 +54,7 @@
 		)
 	)
 	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -7.5 -12.55)
 		(end 7.5 -12.55)

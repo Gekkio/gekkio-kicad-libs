@@ -1,7 +1,7 @@
 (footprint "L_Hotland_MCW-0630"
-	(version 20241229)
+	(version 20260206)
 	(generator "pcbnew")
-	(generator_version "9.0")
+	(generator_version "10.0")
 	(layer "F.Cu")
 	(descr "SMD Power Inductor, http://www.sz-hotland.com/uploadfile/2018/0111/20180111053236780.pdf")
 	(tags "inductor smd")
@@ -54,6 +54,7 @@
 		)
 	)
 	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -3.5 -3.5)
 		(end 3.5 -3.5)

@@ -1,7 +1,7 @@
 (footprint "TFBGA-144_11x14mm_Layout11x17_P0.8mm_Ball0.45mm_Pad0.35mm_NSMD"
-	(version 20241229)
+	(version 20260206)
 	(generator "pcbnew")
-	(generator_version "9.0")
+	(generator_version "10.0")
 	(layer "F.Cu")
 	(descr "TFBGA, 144 balls (JEDEC MO-210Q), 14.0x11.0mm, 144 Ball, 11x17 Layout, 0.8mm Pitch, https://www.jedec.org/standards-documents/docs/mo-210n")
 	(tags "BGA 144 0.8")
@@ -55,6 +55,7 @@
 	)
 	(solder_mask_margin 0.075)
 	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
 	(fp_line
 		(start -5.61 7.11)
 		(end -5.61 -6.11)
