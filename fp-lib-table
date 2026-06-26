@@ -13,6 +13,7 @@
   (lib (name "Gekkio_Connector_USB")(type "KiCad")(uri "$(KIPRJMOD)/Gekkio_Connector_USB.pretty")(options "")(descr ""))
   (lib (name "Gekkio_Heatsink")(type "KiCad")(uri "$(KIPRJMOD)/Gekkio_Heatsink.pretty")(options "")(descr ""))
   (lib (name "Gekkio_Inductor_SMD")(type "KiCad")(uri "$(KIPRJMOD)/Gekkio_Inductor_SMD.pretty")(options "")(descr ""))
+  (lib (name "Gekkio_LED_SMD")(type "KiCad")(uri "$(KIPRJMOD)/Gekkio_LED_SMD.pretty")(options "")(descr ""))
   (lib (name "Gekkio_MountingHole")(type "KiCad")(uri "$(KIPRJMOD)/Gekkio_MountingHole.pretty")(options "")(descr ""))
   (lib (name "Gekkio_Oscillator")(type "KiCad")(uri "$(KIPRJMOD)/Gekkio_Oscillator.pretty")(options "")(descr ""))
   (lib (name "Gekkio_Package_BGA")(type "KiCad")(uri "$(KIPRJMOD)/Gekkio_Package_BGA.pretty")(options "")(descr ""))

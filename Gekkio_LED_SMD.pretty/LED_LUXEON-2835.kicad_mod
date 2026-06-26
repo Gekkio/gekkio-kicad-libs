@@ -1,0 +1,167 @@
+(footprint "LED_LUXEON-2835"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -2.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "aed2aa20-9093-4fa6-a412-d008c7fa4df8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "LED_LUXEON-2835"
+		(at 0 2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "351e8635-452e-474b-9bef-e995500dc791")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4f8e1d6c-daef-48ef-8d53-db6aace3f8b9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "https://otmm.lumileds.com/adaptivemedia/832eef99dd3139f98fa943e60565a2920b270d04"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7839a41b-c27c-4a73-95a4-7e6dacd3363c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -1.9 -1.5)
+		(end -1.9 1.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "1436fb88-5547-4834-bc9d-0faee57b5326")
+	)
+	(fp_line
+		(start -1.9 1.5)
+		(end 1.9 1.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "3ec2145a-d8e3-4919-8583-39e9d3359d3c")
+	)
+	(fp_line
+		(start 1.9 -1.5)
+		(end -1.9 -1.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "a5b01b99-4d68-4ec9-b796-d25ed78b5b62")
+	)
+	(fp_line
+		(start -2 -1.65)
+		(end -2 1.65)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "6c43fc24-09ba-4550-a75e-212cee0a45b2")
+	)
+	(fp_line
+		(start -2 1.65)
+		(end 2 1.65)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "6e64fdd9-9ad7-4ea0-aaed-d1295128041c")
+	)
+	(fp_line
+		(start 2 -1.65)
+		(end -2 -1.65)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "1d5567f3-8a1c-4a65-a683-1422f86cf754")
+	)
+	(fp_line
+		(start 2 1.65)
+		(end 2 -1.65)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "F.CrtYd")
+		(uuid "2208f077-82df-4819-9120-febe40555dd0")
+	)
+	(fp_poly
+		(pts
+			(xy -1.751497 -1.048073) (xy -1.4 -1.4) (xy 1.75 -1.4) (xy 1.75 1.4) (xy -1.75 1.4)
+		)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "bf45e02f-515b-428d-a88c-18ce533f6d1d")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "f32ee0f7-557a-417a-8de4-f0455f35efa8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd roundrect
+		(at -0.735 0)
+		(size 2.03 1.9)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.05263157895)
+		(uuid "6b5c442f-3a41-4820-8e0a-99d398841189")
+	)
+	(pad "2" smd roundrect
+		(at 1.265 0)
+		(size 0.97 1.9)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.1030927835)
+		(uuid "b914529d-5f1e-47a6-b64f-83088a50494b")
+	)
+	(embedded_fonts no)
+)
