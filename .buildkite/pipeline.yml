@@ -1,0 +1,47 @@
+steps:
+  - label: ":kicad: KLC symbol check"
+    key: klc-symbols
+    soft_fail: true
+    artifact_paths:
+      - "klc-symbols.junit.xml"
+    plugins:
+      - docker#v5.13.0:
+          image: "python:3.14-slim"
+          workdir: /workspace
+          volumes:
+            - ".:/workspace"
+    commands:
+      - apt-get update && apt-get install -y --no-install-recommends git
+      - git clone --depth 1 --branch master https://gitlab.com/kicad/libraries/kicad-library-utils.git /opt/klu
+      # S5.1 excluded: requires --footprints pointing at all referenced libs (including
+      # stock KiCad libs), which we don't install in CI. Per-symbol issues are silenced
+      # via private KLC_<rule> properties in the .kicad_sym files themselves.
+      - python3 /opt/klu/klc-check/check_symbol.py -vv -e S5.1 --junit klc-symbols.junit.xml Gekkio_*.kicad_sym
+
+  - label: ":kicad: KLC footprint check"
+    key: klc-footprints
+    soft_fail: true
+    artifact_paths:
+      - "klc-footprints.junit.xml"
+    plugins:
+      - docker#v5.13.0:
+          image: "python:3.14-slim"
+          workdir: /workspace
+          volumes:
+            - ".:/workspace"
+    commands:
+      - apt-get update && apt-get install -y --no-install-recommends git
+      - git clone --depth 1 --branch master https://gitlab.com/kicad/libraries/kicad-library-utils.git /opt/klu
+      - find Gekkio_*.pretty -name '*.kicad_mod' -print0 | xargs -0r python3 /opt/klu/klc-check/check_footprint.py -vv --junit klc-footprints.junit.xml
+
+  - label: ":memo: KLC annotations"
+    depends_on:
+      - klc-symbols
+      - klc-footprints
+    # The check steps are soft_fail, so they always report success to the
+    # dependency graph; this flag keeps annotations rendering even if that
+    # ever changes.
+    allow_dependency_failure: true
+    plugins:
+      - junit-annotate#v2.7.0
+          artifacts: "*.junit.xml"
