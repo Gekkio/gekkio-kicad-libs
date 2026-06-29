@@ -11,7 +11,7 @@ def prepare_table(project_dir, table_type, entry_type, paths):
     result += '  (version 7)\n'
     for path in paths:
         try:
-            uri = '$(KIPRJMOD)/{}'.format(path.relative_to(project_dir))
+            uri = '$(GEKKIO_KICAD_LIBS)/{}'.format(path.relative_to(project_dir))
         except ValueError:
             uri = path
         result += '  (lib (name "{}")(type "{}")(uri "{}")(options "")(descr ""))\n'.format(path.stem, entry_type, uri)
