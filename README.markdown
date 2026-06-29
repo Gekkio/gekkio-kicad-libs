@@ -629,7 +629,6 @@ Licensed under Creative Commons Attribution 4.0 International.
 | BNC_TEConnectivity_1337543-0_Horizontal |  |  |
 | BarrelJack_CUI_PJ-202A_Horizontal <br> ![BarrelJack_CUI_PJ-202A_Horizontal](photos/BarrelJack_CUI_PJ-202A_Horizontal.jpg) |  |  |
 | BatteryHolder_Eagle_12BH002-GR |  |  |
-| BatteryHolder_Renata_SMTU2032-LF |  |  |
 | Battery_CR1616_Horizontal_Tabbed |  |  |
 | Battery_CR2025_Horizontal_Tabbed |  |  |
 | CP_Seiko_CPH3225A |  |  |
