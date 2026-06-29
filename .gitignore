@@ -1,21 +1,34 @@
-fp-info-cache
-
 *~
 *.swp
+
+# Temporary files
 *.000
 *.bak
 *.bck
 *.kicad_pcb-bak
-*.kicad_prl
+*.kicad_sch-bak
+*-backups
+*-cache*
+*-bak
+*-bak*
 _autosave-*
+\#auto_saved_files\#
 *.tmp
+*-save.pro
+*-save.kicad_pcb
+fp-info-cache
+~*.lck
+\#auto_saved_files#
 
-*.net
-
-*.dsn
-*.ses
-
+# Exported BOM files
 *.xml
 *.csv
 
-gekkio-kicad-libs-backups/
+# Archived Backups (KiCad 6.0)
+**/*-backups/*.zip
+
+# Local git-based history (KiCad 9.0+)
+.history
+
+# Local project settings
+*.kicad_prl
