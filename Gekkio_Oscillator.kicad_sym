@@ -8,7 +8,7 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(duplicate_pin_numbers_are_jumpers no)
-		(property "Reference" "X"
+		(property "Reference" "Y"
 			(at -5.08 6.35 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -488,7 +488,7 @@
 	)
 	(symbol "IQXO-793"
 		(extends "IQXO-791")
-		(property "Reference" "X"
+		(property "Reference" "Y"
 			(at -5.08 6.35 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -569,7 +569,7 @@
 	)
 	(symbol "IQXO-794"
 		(extends "IQXO-791")
-		(property "Reference" "X"
+		(property "Reference" "Y"
 			(at -5.08 6.35 0)
 			(show_name no)
 			(do_not_autoplace no)
