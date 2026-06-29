@@ -1,4 +1,4 @@
-(footprint "BatteryHolder_Eagle_12BH002-GR"
+(footprint "BatteryHolder_Eagle_12BH002-GR_1x2032"
 	(version 20260206)
 	(generator "pcbnew")
 	(generator_version "10.0")
@@ -8,7 +8,7 @@
 	(property "Reference" "REF**"
 		(at 0 -12 0)
 		(layer "F.SilkS")
-		(uuid "cb4991cf-6482-437a-82f3-338887cc4358")
+		(uuid "cbc974e9-f961-4667-850b-64bb9cee89b9")
 		(effects
 			(font
 				(size 1 1)
@@ -16,10 +16,10 @@
 			)
 		)
 	)
-	(property "Value" "BatteryHolder_Eagle_12BH002-GR"
+	(property "Value" "BatteryHolder_Eagle_12BH002-GR_1x2032"
 		(at 0 12 0)
 		(layer "F.Fab")
-		(uuid "d59af77c-42dd-4fd8-b932-1d8157172ba0")
+		(uuid "8499e306-2118-470c-8795-c98c845702c4")
 		(effects
 			(font
 				(size 1 1)
@@ -32,7 +32,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "85f1b74c-627c-4770-9eca-996b237e9005")
+		(uuid "c714af66-58ec-4f32-a772-0992049d79c3")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -45,7 +45,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "909415d3-922f-43cd-b228-70a60d8e185b")
+		(uuid "c26a1307-c49e-487d-b882-1061134baba1")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -539,7 +539,7 @@
 		(uuid "b50d69af-45de-43b2-8af7-7a9f77002124")
 	)
 	(embedded_fonts no)
-	(model "${KICAD10_3DMODEL_DIR}/Gekkio_Battery.3dshapes/BatteryHolder_Eagle_12BH002-GR.wrl"
+	(model "${KICAD10_3DMODEL_DIR}/Gekkio_Battery.3dshapes/BatteryHolder_Eagle_12BH002-GR_1x2032.wrl"
 		(offset
 			(xyz 0 0 0)
 		)

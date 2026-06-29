@@ -628,7 +628,7 @@ Licensed under Creative Commons Attribution 4.0 International.
 | Amphenol_10018783-x0x02_2x49_P1.00mm_Socket_Vertical |  |  |
 | BNC_TEConnectivity_1337543-0_Horizontal |  |  |
 | BarrelJack_CUI_PJ-202A_Horizontal <br> ![BarrelJack_CUI_PJ-202A_Horizontal](photos/BarrelJack_CUI_PJ-202A_Horizontal.jpg) |  |  |
-| BatteryHolder_Eagle_12BH002-GR |  |  |
+| BatteryHolder_Eagle_12BH002-GR_1x2032 |  |  |
 | Battery_CR1616_Horizontal_Tabbed |  |  |
 | Battery_CR2025_Horizontal_Tabbed |  |  |
 | CP_Seiko_CPH3225A |  |  |
