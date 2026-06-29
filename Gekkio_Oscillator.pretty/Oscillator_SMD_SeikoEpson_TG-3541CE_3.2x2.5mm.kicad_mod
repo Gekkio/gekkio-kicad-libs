@@ -277,7 +277,7 @@
 		(uuid "4839062c-fa56-42b7-9dab-84011b1a6f69")
 	)
 	(embedded_fonts no)
-	(model "${KICAD7_3DMODEL_DIR}/Gekkio_Oscillator.3dshapes/Oscillator_SMD_SeikoEpson_TG-3541CE_3.2x2.5mm.wrl"
+	(model "${KICAD10_3DMODEL_DIR}/Gekkio_Oscillator.3dshapes/Oscillator_SMD_SeikoEpson_TG-3541CE_3.2x2.5mm.wrl"
 		(offset
 			(xyz 0 0 0)
 		)

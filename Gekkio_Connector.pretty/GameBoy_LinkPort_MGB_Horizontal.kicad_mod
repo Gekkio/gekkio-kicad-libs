@@ -271,7 +271,7 @@
 		(uuid "8f8bb641-6f96-48dd-a2de-b7e2aaf6efe0")
 	)
 	(embedded_fonts no)
-	(model "${KICAD7_3DMODEL_DIR}/Gekkio_Connector.3dshapes/GameBoy_LinkPort_MGB_Horizontal.wrl"
+	(model "${KICAD10_3DMODEL_DIR}/Gekkio_Connector.3dshapes/GameBoy_LinkPort_MGB_Horizontal.wrl"
 		(offset
 			(xyz 0 0 0)
 		)

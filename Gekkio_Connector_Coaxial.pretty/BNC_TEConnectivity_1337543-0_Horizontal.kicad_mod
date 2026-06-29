@@ -279,7 +279,7 @@
 		(uuid "7be13a36-eb8e-440f-aaac-2fd6665d9f61")
 	)
 	(embedded_fonts no)
-	(model "${KICAD7_3DMODEL_DIR}/Gekkio_Connector_Coaxial.3dshapes/BNC_TEConnectivity_1337543-0_Horizontal.wrl"
+	(model "${KICAD10_3DMODEL_DIR}/Gekkio_Connector_Coaxial.3dshapes/BNC_TEConnectivity_1337543-0_Horizontal.wrl"
 		(offset
 			(xyz 0 0 0)
 		)

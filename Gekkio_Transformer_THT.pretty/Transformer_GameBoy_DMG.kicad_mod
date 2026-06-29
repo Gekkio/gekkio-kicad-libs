@@ -242,7 +242,7 @@
 		(uuid "6803e087-39a2-4a63-85c5-8c25d0be5c6e")
 	)
 	(embedded_fonts no)
-	(model "${KICAD7_3DMODEL_DIR}/Gekkio_Transformer_THT.3dshapes/Transformer_GameBoy_DMG.wrl"
+	(model "${KICAD10_3DMODEL_DIR}/Gekkio_Transformer_THT.3dshapes/Transformer_GameBoy_DMG.wrl"
 		(offset
 			(xyz 0 0 0)
 		)

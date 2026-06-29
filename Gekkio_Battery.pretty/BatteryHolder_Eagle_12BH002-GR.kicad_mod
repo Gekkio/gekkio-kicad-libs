@@ -537,7 +537,7 @@
 		(uuid "3172f2e2-18d2-4a80-ae30-5707b3409798")
 	)
 	(embedded_fonts no)
-	(model "${KICAD7_3DMODEL_DIR}/Gekkio_Battery.3dshapes/BatteryHolder_Eagle_12BH002-GR.wrl"
+	(model "${KICAD10_3DMODEL_DIR}/Gekkio_Battery.3dshapes/BatteryHolder_Eagle_12BH002-GR.wrl"
 		(offset
 			(xyz 0 0 0)
 		)

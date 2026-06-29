@@ -558,7 +558,7 @@
 		(uuid "0ce3e2d8-2ac7-4132-b218-9021217cb38f")
 	)
 	(embedded_fonts no)
-	(model "${KICAD7_3DMODEL_DIR}/Gekkio_Package_BGA.3dshapes/TFBGA-60_11.5x10mm_Layout9x10_P0.8mm_Ball0.5mm_Pad0.4mm_NSMD.wrl"
+	(model "${KICAD10_3DMODEL_DIR}/Gekkio_Package_BGA.3dshapes/TFBGA-60_11.5x10mm_Layout9x10_P0.8mm_Ball0.5mm_Pad0.4mm_NSMD.wrl"
 		(offset
 			(xyz 0 0 0)
 		)

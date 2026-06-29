@@ -261,7 +261,7 @@
 		(uuid "e3b71702-55d4-4a3a-a9d0-180251eaea76")
 	)
 	(embedded_fonts no)
-	(model "${KICAD7_3DMODEL_DIR}/Gekkio_Inductor_SMD.3dshapes/L_Bourns_SRF0703.wrl"
+	(model "${KICAD10_3DMODEL_DIR}/Gekkio_Inductor_SMD.3dshapes/L_Bourns_SRF0703.wrl"
 		(offset
 			(xyz 0 0 0)
 		)

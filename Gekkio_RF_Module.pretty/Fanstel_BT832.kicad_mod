@@ -786,7 +786,7 @@
 		(uuid "b8df348b-613e-43d7-a111-bcde63661bc8")
 	)
 	(embedded_fonts no)
-	(model "${KICAD7_3DMODEL_DIR}/Gekkio_RF_Module.3dshapes/Fanstel_BT832.wrl"
+	(model "${KICAD10_3DMODEL_DIR}/Gekkio_RF_Module.3dshapes/Fanstel_BT832.wrl"
 		(offset
 			(xyz 0 0 0)
 		)

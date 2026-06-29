@@ -1539,7 +1539,7 @@
 		(uuid "9ed10cba-d111-4179-bc85-38ea3c66d344")
 	)
 	(embedded_fonts no)
-	(model "${KICAD7_3DMODEL_DIR}/Gekkio_Package_QFP.3dshapes/Sharp_QFP-156_14x20mm_P0.4mm.wrl"
+	(model "${KICAD10_3DMODEL_DIR}/Gekkio_Package_QFP.3dshapes/Sharp_QFP-156_14x20mm_P0.4mm.wrl"
 		(offset
 			(xyz 0 0 0)
 		)

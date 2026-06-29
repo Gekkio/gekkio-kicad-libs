@@ -243,7 +243,7 @@
 		(uuid "905b154b-e92b-469d-b2e2-340d67daddb7")
 	)
 	(embedded_fonts no)
-	(model "${KICAD7_3DMODEL_DIR}/Gekkio_Button_Switch_THT.3dshapes/E-Switch_RA12131100.wrl"
+	(model "${KICAD10_3DMODEL_DIR}/Gekkio_Button_Switch_THT.3dshapes/E-Switch_RA12131100.wrl"
 		(offset
 			(xyz 0 0 0)
 		)

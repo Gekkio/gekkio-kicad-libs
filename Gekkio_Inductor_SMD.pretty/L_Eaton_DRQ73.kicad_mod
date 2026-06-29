@@ -251,7 +251,7 @@
 		(uuid "6fc22f51-c7ab-4b98-aac7-28599faf38cc")
 	)
 	(embedded_fonts no)
-	(model "${KICAD7_3DMODEL_DIR}/Gekkio_Inductor_SMD.3dshapes/L_Eaton_DRQ73.wrl"
+	(model "${KICAD10_3DMODEL_DIR}/Gekkio_Inductor_SMD.3dshapes/L_Eaton_DRQ73.wrl"
 		(offset
 			(xyz 0 0 0)
 		)

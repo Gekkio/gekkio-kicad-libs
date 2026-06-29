@@ -401,7 +401,7 @@
 		(uuid "9e4a2c2f-407c-4a81-8bfe-adabd7735b64")
 	)
 	(embedded_fonts no)
-	(model "${KICAD7_3DMODEL_DIR}/Gekkio_Package_DFN_QFN.3dshapes/Micrel_VQFN-20-1EP_3x4mm_P0.5mm_EP1.6x2.6mm.wrl"
+	(model "${KICAD10_3DMODEL_DIR}/Gekkio_Package_DFN_QFN.3dshapes/Micrel_VQFN-20-1EP_3x4mm_P0.5mm_EP1.6x2.6mm.wrl"
 		(offset
 			(xyz 0 0 0)
 		)

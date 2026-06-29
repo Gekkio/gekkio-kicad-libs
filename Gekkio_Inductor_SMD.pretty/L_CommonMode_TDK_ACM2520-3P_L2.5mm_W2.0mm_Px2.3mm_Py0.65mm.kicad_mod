@@ -213,7 +213,7 @@
 		(uuid "a020a071-0244-47c0-9e2b-097ad4bcfb0b")
 	)
 	(embedded_fonts no)
-	(model "${KICAD7_3DMODEL_DIR}/Gekkio_Inductor_SMD.3dshapes/L_CommonMode_TDK_ACM2520-3P_L2.5mm_W2.0mm_Px2.3mm_Py0.65mm.wrl"
+	(model "${KICAD10_3DMODEL_DIR}/Gekkio_Inductor_SMD.3dshapes/L_CommonMode_TDK_ACM2520-3P_L2.5mm_W2.0mm_Px2.3mm_Py0.65mm.wrl"
 		(offset
 			(xyz 0 0 0)
 		)

@@ -558,7 +558,7 @@
 		(uuid "ea622771-3cf0-4c6c-863e-6326c4f96725")
 	)
 	(embedded_fonts no)
-	(model "${KICAD7_3DMODEL_DIR}/Gekkio_Package_BGA.3dshapes/Micron_TFBGA-60_8x16mm_Layout8x15_P0.8mm.wrl"
+	(model "${KICAD10_3DMODEL_DIR}/Gekkio_Package_BGA.3dshapes/Micron_TFBGA-60_8x16mm_Layout8x15_P0.8mm.wrl"
 		(offset
 			(xyz 0 0 0)
 		)

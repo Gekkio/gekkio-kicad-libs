@@ -235,7 +235,7 @@
 		(uuid "f4a8afbe-ed68-4253-959f-6be4d2cbf8c5")
 	)
 	(embedded_fonts no)
-	(model "${KICAD7_3DMODEL_DIR}/Gekkio_Battery.3dshapes/Battery_CR2025_Horizontal_Tabbed.wrl"
+	(model "${KICAD10_3DMODEL_DIR}/Gekkio_Battery.3dshapes/Battery_CR2025_Horizontal_Tabbed.wrl"
 		(offset
 			(xyz 0 0 0)
 		)

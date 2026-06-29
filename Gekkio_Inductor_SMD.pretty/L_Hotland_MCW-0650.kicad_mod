@@ -179,7 +179,7 @@
 		(uuid "fd15d758-401e-49b4-b1da-d3bd30ff37a8")
 	)
 	(embedded_fonts no)
-	(model "${KICAD7_3DMODEL_DIR}/Gekkio_Inductor_SMD.3dshapes/L_Hotland_MCW-0650.wrl"
+	(model "${KICAD10_3DMODEL_DIR}/Gekkio_Inductor_SMD.3dshapes/L_Hotland_MCW-0650.wrl"
 		(offset
 			(xyz 0 0 0)
 		)

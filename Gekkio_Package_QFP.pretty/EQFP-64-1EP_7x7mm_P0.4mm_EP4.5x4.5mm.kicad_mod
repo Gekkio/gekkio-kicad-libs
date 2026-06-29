@@ -964,7 +964,7 @@
 		(uuid "a94e72a1-7c14-4a94-af87-8ad473a97366")
 	)
 	(embedded_fonts no)
-	(model "${KICAD7_3DMODEL_DIR}/Gekkio_Package_QFP.3dshapes/EQFP-64-1EP_7x7mm_P0.4mm_EP4.5x4.5mm.wrl"
+	(model "${KICAD10_3DMODEL_DIR}/Gekkio_Package_QFP.3dshapes/EQFP-64-1EP_7x7mm_P0.4mm_EP4.5x4.5mm.wrl"
 		(offset
 			(xyz 0 0 0)
 		)

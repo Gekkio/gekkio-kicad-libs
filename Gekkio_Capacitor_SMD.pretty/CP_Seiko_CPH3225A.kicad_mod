@@ -201,7 +201,7 @@
 		(uuid "653d84da-df3b-4969-a874-98183920daae")
 	)
 	(embedded_fonts no)
-	(model "${KICAD7_3DMODEL_DIR}/Gekkio_Capacitor_SMD.3dshapes/CP_Seiko_CPH3225A.wrl"
+	(model "${KICAD10_3DMODEL_DIR}/Gekkio_Capacitor_SMD.3dshapes/CP_Seiko_CPH3225A.wrl"
 		(offset
 			(xyz 0 0 0)
 		)

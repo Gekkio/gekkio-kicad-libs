@@ -434,7 +434,7 @@
 		(uuid "a7745449-ca46-4403-b455-2e4d3b78061b")
 	)
 	(embedded_fonts no)
-	(model "${KICAD7_3DMODEL_DIR}/Gekkio_RF_GPS.3dshapes/GlobalTop_FGPMMOPA6H.wrl"
+	(model "${KICAD10_3DMODEL_DIR}/Gekkio_RF_GPS.3dshapes/GlobalTop_FGPMMOPA6H.wrl"
 		(offset
 			(xyz 0 0 0)
 		)

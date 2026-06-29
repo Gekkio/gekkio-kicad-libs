@@ -612,7 +612,7 @@
 		(uuid "8174b4de-74b1-48db-ab8e-c8432251095b")
 	)
 	(embedded_fonts no)
-	(model "${KICAD7_3DMODEL_DIR}/Gekkio_Battery.3dshapes/BatteryHolder_Renata_SMTU2032-LF.wrl"
+	(model "${KICAD10_3DMODEL_DIR}/Gekkio_Battery.3dshapes/BatteryHolder_Renata_SMTU2032-LF.wrl"
 		(offset
 			(xyz 0 0 0)
 		)

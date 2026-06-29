@@ -895,7 +895,7 @@
 		(uuid "c15d3d3f-903d-4925-b3f4-3bd79abbc49c")
 	)
 	(embedded_fonts no)
-	(model "${KICAD7_3DMODEL_DIR}/Gekkio_Package_QFP.3dshapes/JEITA_QFP-64_12x12mm_P0.65mm.wrl"
+	(model "${KICAD10_3DMODEL_DIR}/Gekkio_Package_QFP.3dshapes/JEITA_QFP-64_12x12mm_P0.65mm.wrl"
 		(offset
 			(xyz 0 0 0)
 		)

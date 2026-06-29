@@ -800,7 +800,7 @@
 		(uuid "1207bf92-f05b-48a2-a7e9-ab0752fc8069")
 	)
 	(embedded_fonts no)
-	(model "${KICAD7_3DMODEL_DIR}/Gekkio_Package_DFN_QFN.3dshapes/Lattice_QFN-84-1EP_7x7mm_P0.5mm_EP4.4x4.4mm.wrl"
+	(model "${KICAD10_3DMODEL_DIR}/Gekkio_Package_DFN_QFN.3dshapes/Lattice_QFN-84-1EP_7x7mm_P0.5mm_EP4.4x4.4mm.wrl"
 		(offset
 			(xyz 0 0 0)
 		)

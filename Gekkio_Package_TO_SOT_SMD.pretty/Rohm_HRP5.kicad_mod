@@ -771,7 +771,7 @@
 		(uuid "0b717f9e-760c-4824-a9fd-51ce32f96dfe")
 	)
 	(embedded_fonts no)
-	(model "${KICAD7_3DMODEL_DIR}/Gekkio_Package_TO_SOT_SMD.3dshapes/Rohm_HRP5.wrl"
+	(model "${KICAD10_3DMODEL_DIR}/Gekkio_Package_TO_SOT_SMD.3dshapes/Rohm_HRP5.wrl"
 		(offset
 			(xyz 0 0 0)
 		)

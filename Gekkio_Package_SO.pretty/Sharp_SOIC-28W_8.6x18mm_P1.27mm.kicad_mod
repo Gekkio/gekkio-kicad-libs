@@ -443,7 +443,7 @@
 		(uuid "e32a4d3b-8a67-4624-bb80-466d228ccfc2")
 	)
 	(embedded_fonts no)
-	(model "${KICAD7_3DMODEL_DIR}/Gekkio_Package_SO.3dshapes/Sharp_SOIC-28W_8.6x18mm_P1.27mm.wrl"
+	(model "${KICAD10_3DMODEL_DIR}/Gekkio_Package_SO.3dshapes/Sharp_SOIC-28W_8.6x18mm_P1.27mm.wrl"
 		(offset
 			(xyz 0 0 0)
 		)

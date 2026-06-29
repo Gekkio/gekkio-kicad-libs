@@ -336,7 +336,7 @@
 		(uuid "2f833a11-78cf-428e-af68-f8b4140b6ca2")
 	)
 	(embedded_fonts no)
-	(model "${KICAD7_3DMODEL_DIR}/Gekkio_Connector_USB.3dshapes/USB_Micro-AB_Wuerth_629105150921_Horizontal.wrl"
+	(model "${KICAD10_3DMODEL_DIR}/Gekkio_Connector_USB.3dshapes/USB_Micro-AB_Wuerth_629105150921_Horizontal.wrl"
 		(offset
 			(xyz 0 0 0)
 		)

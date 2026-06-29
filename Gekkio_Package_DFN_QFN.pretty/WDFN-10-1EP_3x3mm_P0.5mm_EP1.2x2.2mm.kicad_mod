@@ -281,7 +281,7 @@
 		(uuid "8f5fddca-016d-40aa-8319-41ac3f5f222a")
 	)
 	(embedded_fonts no)
-	(model "${KICAD7_3DMODEL_DIR}/Gekkio_Package_DFN_QFN.3dshapes/WDFN-10-1EP_3x3mm_P0.5mm_EP1.2x2.2mm.wrl"
+	(model "${KICAD10_3DMODEL_DIR}/Gekkio_Package_DFN_QFN.3dshapes/WDFN-10-1EP_3x3mm_P0.5mm_EP1.2x2.2mm.wrl"
 		(offset
 			(xyz 0 0 0)
 		)

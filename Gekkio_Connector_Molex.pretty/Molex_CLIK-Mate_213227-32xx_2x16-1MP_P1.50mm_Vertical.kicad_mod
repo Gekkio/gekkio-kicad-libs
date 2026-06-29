@@ -441,7 +441,7 @@
 		(uuid "7caf98e4-1466-4c74-8252-9e06859f5812")
 	)
 	(embedded_fonts no)
-	(model "${KICAD7_3DMODEL_DIR}/Gekkio_Connector_Molex.3dshapes/Molex_CLIK-Mate_213227-32xx_2x16-1MP_P1.50mm_Vertical.wrl"
+	(model "${KICAD10_3DMODEL_DIR}/Gekkio_Connector_Molex.3dshapes/Molex_CLIK-Mate_213227-32xx_2x16-1MP_P1.50mm_Vertical.wrl"
 		(offset
 			(xyz 0 0 0)
 		)

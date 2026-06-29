@@ -413,7 +413,7 @@
 		(uuid "be4a35bf-388c-48f9-a61f-b9bdb1e6be81")
 	)
 	(embedded_fonts no)
-	(model "${KICAD7_3DMODEL_DIR}/Gekkio_Connector_PCBEdge.3dshapes/GameBoy_Cartridge_1x32_P1.50mm_Edge.wrl"
+	(model "${KICAD10_3DMODEL_DIR}/Gekkio_Connector_PCBEdge.3dshapes/GameBoy_Cartridge_1x32_P1.50mm_Edge.wrl"
 		(offset
 			(xyz 0 0 0)
 		)

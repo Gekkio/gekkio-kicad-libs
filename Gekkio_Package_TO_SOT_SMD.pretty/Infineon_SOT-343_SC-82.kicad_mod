@@ -201,7 +201,7 @@
 		(uuid "b9ac069a-793d-4537-a1fd-6527f2c5c2cb")
 	)
 	(embedded_fonts no)
-	(model "${KICAD7_3DMODEL_DIR}/Gekkio_Package_TO_SOT_SMD.3dshapes/Infineon_SOT-343_SC-82.wrl"
+	(model "${KICAD10_3DMODEL_DIR}/Gekkio_Package_TO_SOT_SMD.3dshapes/Infineon_SOT-343_SC-82.wrl"
 		(offset
 			(xyz 0 0 0)
 		)

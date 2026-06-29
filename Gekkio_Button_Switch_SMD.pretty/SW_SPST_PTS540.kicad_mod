@@ -311,7 +311,7 @@
 		(uuid "300aa512-2f66-4c26-a530-50c091b3a099")
 	)
 	(embedded_fonts no)
-	(model "${KICAD7_3DMODEL_DIR}/Gekkio_Button_Switch_SMD.3dshapes/SW_SPST_PTS540.wrl"
+	(model "${KICAD10_3DMODEL_DIR}/Gekkio_Button_Switch_SMD.3dshapes/SW_SPST_PTS540.wrl"
 		(offset
 			(xyz 0 0 0)
 		)

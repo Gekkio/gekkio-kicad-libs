@@ -839,7 +839,7 @@
 		(uuid "ca99cf28-55be-4169-bd05-b553bd39853e")
 	)
 	(embedded_fonts no)
-	(model "${KICAD7_3DMODEL_DIR}/Gekkio_Package_QFP.3dshapes/Rohm_QFP-56_10x10mm_P0.65mm.wrl"
+	(model "${KICAD10_3DMODEL_DIR}/Gekkio_Package_QFP.3dshapes/Rohm_QFP-56_10x10mm_P0.65mm.wrl"
 		(offset
 			(xyz 0 0 0)
 		)

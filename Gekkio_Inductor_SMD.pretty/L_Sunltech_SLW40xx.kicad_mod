@@ -179,7 +179,7 @@
 		(uuid "16d0ce06-1cc1-48db-8915-66dcee803574")
 	)
 	(embedded_fonts no)
-	(model "${KICAD7_3DMODEL_DIR}/Gekkio_Inductor_SMD.3dshapes/L_Sunltech_SLW40xx.wrl"
+	(model "${KICAD10_3DMODEL_DIR}/Gekkio_Inductor_SMD.3dshapes/L_Sunltech_SLW40xx.wrl"
 		(offset
 			(xyz 0 0 0)
 		)

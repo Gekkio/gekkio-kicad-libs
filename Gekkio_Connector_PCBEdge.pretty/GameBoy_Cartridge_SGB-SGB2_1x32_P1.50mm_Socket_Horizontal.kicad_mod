@@ -561,7 +561,7 @@
 		(uuid "51aadd31-ad14-4248-853b-6882093fbec6")
 	)
 	(embedded_fonts no)
-	(model "${KICAD7_3DMODEL_DIR}/Gekkio_Connector_PCBEdge.3dshapes/GameBoy_Cartridge_SGB-SGB2_1x32_P1.50mm_Socket_Horizontal.wrl"
+	(model "${KICAD10_3DMODEL_DIR}/Gekkio_Connector_PCBEdge.3dshapes/GameBoy_Cartridge_SGB-SGB2_1x32_P1.50mm_Socket_Horizontal.wrl"
 		(offset
 			(xyz 0 0 0)
 		)

@@ -509,7 +509,7 @@
 		(uuid "de680cd2-d6ab-4800-82a2-20a4dd19e1e8")
 	)
 	(embedded_fonts no)
-	(model "${KICAD7_3DMODEL_DIR}/Gekkio_Connector_USB.3dshapes/USB_Mini-B_Hirose_UX60SC-MB-5ST80_Horizontal.wrl"
+	(model "${KICAD10_3DMODEL_DIR}/Gekkio_Connector_USB.3dshapes/USB_Mini-B_Hirose_UX60SC-MB-5ST80_Horizontal.wrl"
 		(offset
 			(xyz 0 0 0)
 		)

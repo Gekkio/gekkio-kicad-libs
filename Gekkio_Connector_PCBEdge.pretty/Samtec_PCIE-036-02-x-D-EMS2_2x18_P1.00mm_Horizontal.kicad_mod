@@ -452,7 +452,7 @@
 		(uuid "53c3cac9-25d1-4571-85dd-0833513e53d5")
 	)
 	(embedded_fonts no)
-	(model "${KICAD7_3DMODEL_DIR}/Gekkio_Connector_PCBEdge.3dshapes/Samtec_PCIE-036-02-x-D-EMS2_2x18_P1.00mm_Horizontal.wrl"
+	(model "${KICAD10_3DMODEL_DIR}/Gekkio_Connector_PCBEdge.3dshapes/Samtec_PCIE-036-02-x-D-EMS2_2x18_P1.00mm_Horizontal.wrl"
 		(offset
 			(xyz 0 0 0)
 		)

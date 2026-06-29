@@ -279,7 +279,7 @@
 		(uuid "2f5d54b9-4474-4308-b413-75bfc8f0fc82")
 	)
 	(embedded_fonts no)
-	(model "${KICAD7_3DMODEL_DIR}/Gekkio_Heatsink.3dshapes/Heatsink_AAVID_573100_TO-252.wrl"
+	(model "${KICAD10_3DMODEL_DIR}/Gekkio_Heatsink.3dshapes/Heatsink_AAVID_573100_TO-252.wrl"
 		(offset
 			(xyz 0 0 0)
 		)

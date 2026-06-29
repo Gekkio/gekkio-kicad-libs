@@ -493,7 +493,7 @@
 		(uuid "763e3032-6c82-4ffe-bc25-c3536b0170e1")
 	)
 	(embedded_fonts no)
-	(model "${KICAD7_3DMODEL_DIR}/Gekkio_Connector_PCBEdge.3dshapes/PCIExpress_x1_2x18_P1.00mm_Edge.wrl"
+	(model "${KICAD10_3DMODEL_DIR}/Gekkio_Connector_PCBEdge.3dshapes/PCIExpress_x1_2x18_P1.00mm_Edge.wrl"
 		(offset
 			(xyz 0 0 0)
 		)

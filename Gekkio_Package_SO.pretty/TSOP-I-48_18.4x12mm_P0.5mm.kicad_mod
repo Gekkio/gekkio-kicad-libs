@@ -533,7 +533,7 @@
 		(uuid "748d2487-e66a-46fa-8de2-ce1c60a038ff")
 	)
 	(embedded_fonts no)
-	(model "${KICAD7_3DMODEL_DIR}/Gekkio_Package_SO.3dshapes/TSOP-I-48_18.4x12mm_P0.5mm.wrl"
+	(model "${KICAD10_3DMODEL_DIR}/Gekkio_Package_SO.3dshapes/TSOP-I-48_18.4x12mm_P0.5mm.wrl"
 		(offset
 			(xyz 0 0 0)
 		)

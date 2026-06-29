@@ -486,7 +486,7 @@
 		(uuid "a319f063-ae31-4600-9e3f-a7a7d31b1786")
 	)
 	(embedded_fonts no)
-	(model "${KICAD7_3DMODEL_DIR}/Gekkio_Package_BGA.3dshapes/VFBGA-48_6x8mm_Layout6x8_P0.75mm.wrl"
+	(model "${KICAD10_3DMODEL_DIR}/Gekkio_Package_BGA.3dshapes/VFBGA-48_6x8mm_Layout6x8_P0.75mm.wrl"
 		(offset
 			(xyz 0 0 0)
 		)

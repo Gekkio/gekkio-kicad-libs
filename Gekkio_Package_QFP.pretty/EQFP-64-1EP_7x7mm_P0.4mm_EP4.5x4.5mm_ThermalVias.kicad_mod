@@ -1215,7 +1215,7 @@
 		(uuid "b2c9e6d2-6ef3-458c-91e2-289a0e7c970d")
 	)
 	(embedded_fonts no)
-	(model "${KICAD7_3DMODEL_DIR}/Gekkio_Package_QFP.3dshapes/EQFP-64-1EP_7x7mm_P0.4mm_EP4.5x4.5mm.wrl"
+	(model "${KICAD10_3DMODEL_DIR}/Gekkio_Package_QFP.3dshapes/EQFP-64-1EP_7x7mm_P0.4mm_EP4.5x4.5mm.wrl"
 		(offset
 			(xyz 0 0 0)
 		)

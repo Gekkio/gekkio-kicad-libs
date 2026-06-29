@@ -405,7 +405,7 @@
 		(uuid "43f341b3-06e9-4e7a-a26e-5365b89d76bf")
 	)
 	(embedded_fonts no)
-	(model "${KICAD7_3DMODEL_DIR}/Gekkio_Button_Switch_THT.3dshapes/CWIndustries_GF-1123-1110.wrl"
+	(model "${KICAD10_3DMODEL_DIR}/Gekkio_Button_Switch_THT.3dshapes/CWIndustries_GF-1123-1110.wrl"
 		(offset
 			(xyz 0 0 0)
 		)

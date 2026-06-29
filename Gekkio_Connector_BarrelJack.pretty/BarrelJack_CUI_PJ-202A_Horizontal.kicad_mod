@@ -321,7 +321,7 @@
 		(uuid "1ba3e338-9465-4844-8361-6715d7885c15")
 	)
 	(embedded_fonts no)
-	(model "${KICAD7_3DMODEL_DIR}/Gekkio_Connector_BarrelJack.3dshapes/BarrelJack_CUI_PJ-202A_Horizontal.wrl"
+	(model "${KICAD10_3DMODEL_DIR}/Gekkio_Connector_BarrelJack.3dshapes/BarrelJack_CUI_PJ-202A_Horizontal.wrl"
 		(offset
 			(xyz 0 0 0)
 		)

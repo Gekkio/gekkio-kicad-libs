@@ -221,7 +221,7 @@
 		(uuid "a62a5442-6966-4bb6-8dd3-5a48982f290d")
 	)
 	(embedded_fonts no)
-	(model "${KICAD7_3DMODEL_DIR}/Gekkio_Oscillator.3dshapes/Oscillator_SMD_IQD_IQXO-79x_2.5x2.0mm.wrl"
+	(model "${KICAD10_3DMODEL_DIR}/Gekkio_Oscillator.3dshapes/Oscillator_SMD_IQD_IQXO-79x_2.5x2.0mm.wrl"
 		(offset
 			(xyz 0 0 0)
 		)
