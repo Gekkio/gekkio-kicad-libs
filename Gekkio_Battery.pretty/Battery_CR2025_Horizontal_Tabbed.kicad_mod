@@ -8,7 +8,7 @@
 	(property "Reference" "REF**"
 		(at 0 -18 0)
 		(layer "F.SilkS")
-		(uuid "6709729f-af55-49ed-9fb0-2df0683acc7c")
+		(uuid "04888408-7476-4029-ad98-ff5b1d8dbc1f")
 		(effects
 			(font
 				(size 1 1)
@@ -19,7 +19,7 @@
 	(property "Value" "Battery_CR2025_Horizontal_Tabbed"
 		(at 0 18 0)
 		(layer "F.Fab")
-		(uuid "44d7c87e-09d5-4849-886c-019a7848b7c9")
+		(uuid "c6c323a9-9506-4fa6-b592-8cf2a272b8a3")
 		(effects
 			(font
 				(size 1 1)
@@ -32,7 +32,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "bef4ee13-c09d-4179-a349-cad0a3da4b46")
+		(uuid "e3ee28b4-2785-491e-9b60-a2c622abef93")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -45,7 +45,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "08a86b66-f749-4aed-a512-165c9d5f3abc")
+		(uuid "7f66a43f-db21-4b95-a6c3-5456b0f597f0")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -63,7 +63,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "b94e9060-ad5b-426c-9052-ba169311213f")
+		(uuid "ac6a61cd-36a4-4bf5-9730-2ef9af07e40b")
 	)
 	(fp_line
 		(start 3.9 11.9)
@@ -73,7 +73,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "5fc3a0e1-85d6-4dbf-a493-2f3d2aa3f4ca")
+		(uuid "e1c6d82d-49b4-4703-b6bd-0c10b5a6d698")
 	)
 	(fp_line
 		(start 5.2 -10.4)
@@ -83,7 +83,7 @@
 			(type solid)
 		)
 		(layer "F.SilkS")
-		(uuid "b7a913d5-e391-4d7d-89ea-b8a3da877118")
+		(uuid "d6a90d06-feb3-4cef-8839-be6942cff6b7")
 	)
 	(fp_circle
 		(center 0 0)
@@ -94,7 +94,7 @@
 		)
 		(fill no)
 		(layer "F.SilkS")
-		(uuid "bebe61d2-62d4-431f-bf23-049c6ed096e2")
+		(uuid "d7823018-218c-4ba1-92c4-c3b451207b91")
 	)
 	(fp_line
 		(start -2.75 -16.25)
@@ -104,7 +104,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "e5e2848f-e596-4112-92a3-d9354fd78649")
+		(uuid "ce78ab52-354a-4cac-8eb6-c1625cc665ce")
 	)
 	(fp_line
 		(start -2.75 -16.25)
@@ -114,7 +114,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "a6c95260-49b9-49fe-89cc-ede191bc33ac")
+		(uuid "baff696e-5934-4e11-a954-206a39fe8443")
 	)
 	(fp_line
 		(start -2.75 10.4)
@@ -124,7 +124,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "9bc2af58-08a1-493f-ad93-6da36ab71dc0")
+		(uuid "7cb0634c-9ed3-4ac2-846c-6e262d2e576c")
 	)
 	(fp_line
 		(start -2.75 16.3)
@@ -134,7 +134,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "573e9d44-cb45-41c0-a4c1-2e419ef043d2")
+		(uuid "0c97b313-34da-4dc7-99d4-8f6820269556")
 	)
 	(fp_line
 		(start 2.75 -16.25)
@@ -144,7 +144,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "3889c106-a3e8-4c7c-a1ef-158df218be19")
+		(uuid "969a40e2-6281-4adb-a261-600bb61a993d")
 	)
 	(fp_line
 		(start 2.75 10.4)
@@ -154,7 +154,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "23b95ef1-5b9b-4094-a00e-3484c40cc54e")
+		(uuid "9e660538-0c8d-4e62-9fcb-bca33fdbff91")
 	)
 	(fp_arc
 		(start -10.75 0)
@@ -165,7 +165,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "9a29cb1f-bfbf-42ed-864c-86dfdb202af5")
+		(uuid "97bf1732-e2dd-41c5-9dac-60d3ef9d8dfd")
 	)
 	(fp_arc
 		(start -2.75 10.4)
@@ -176,7 +176,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "a49fc3c3-66ad-4b61-a1cc-5c1742aaa210")
+		(uuid "b985e28e-5e8f-4a8a-8435-61fdbb78e984")
 	)
 	(fp_arc
 		(start 2.75 -10.4)
@@ -187,7 +187,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "28c318ba-ef1c-4604-a731-8c14f4de1d43")
+		(uuid "533af27e-4d4f-4e85-9429-f0e7d7ae31c8")
 	)
 	(fp_arc
 		(start 10.75 0)
@@ -198,7 +198,7 @@
 			(type solid)
 		)
 		(layer "F.CrtYd")
-		(uuid "7f2df849-525f-4b5a-b7dc-ae1a5575f729")
+		(uuid "4a0da275-cb73-46b1-8ef4-9372258465e8")
 	)
 	(fp_circle
 		(center 0 0)
@@ -209,12 +209,12 @@
 		)
 		(fill no)
 		(layer "F.Fab")
-		(uuid "7f66f260-1a7c-4a56-8747-bdd70aba7e5a")
+		(uuid "c78e64a8-6f50-46c2-bf08-161b46c6eb35")
 	)
 	(fp_text user "${REFERENCE}"
 		(at 0 0 0)
 		(layer "F.Fab")
-		(uuid "9b33b041-a14e-4dec-b460-b5bff7862e34")
+		(uuid "f2a61861-ce41-4307-b90b-5343ca42a9fc")
 		(effects
 			(font
 				(size 1 1)
@@ -227,17 +227,17 @@
 		(size 5 5)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.05)
-		(uuid "49851119-8bfd-4d98-aa6c-fcc0052db73d")
+		(uuid "10a86129-39cc-4bbf-841c-daef84c44573")
 	)
 	(pad "2" smd roundrect
 		(at 0 13.500001)
 		(size 5 5)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.05)
-		(uuid "a2e4a718-5104-4269-aab8-3fd03bbafc6a")
+		(uuid "7988a7e2-594d-4306-9f80-70924d744b94")
 	)
 	(embedded_fonts no)
-	(model "${KICAD10_3DMODEL_DIR}/Gekkio_Battery.3dshapes/Battery_CR2025_Horizontal_Tabbed.wrl"
+	(model "${GEKKIO_KICAD_LIBS}/Gekkio_Battery.3dshapes/Battery_CR2025_Horizontal_Tabbed.step"
 		(offset
 			(xyz 0 0 0)
 		)

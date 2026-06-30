@@ -629,8 +629,8 @@ Licensed under Creative Commons Attribution 4.0 International.
 | BNC_TEConnectivity_1337543-0_Horizontal |  |  |
 | BarrelJack_CUI_PJ-202A_Horizontal <br> ![BarrelJack_CUI_PJ-202A_Horizontal](photos/BarrelJack_CUI_PJ-202A_Horizontal.jpg) |  |  |
 | BatteryHolder_Eagle_12BH002-GR_1x2032 |  | :heavy_check_mark: |
-| Battery_CR1616_Horizontal_Tabbed |  |  |
-| Battery_CR2025_Horizontal_Tabbed |  |  |
+| Battery_CR1616_Horizontal_Tabbed |  | :heavy_check_mark: |
+| Battery_CR2025_Horizontal_Tabbed |  | :heavy_check_mark: |
 | CP_Seiko_CPH3225A |  |  |
 | CWIndustries_GF-1123-1110 <br> ![CWIndustries_GF-1123-1110](photos/CWIndustries_GF-1123-1110.jpg) |  |  |
 | DFN-12-1EP_2.5x2.5mm_P0.4mm_EP1.2x1.9mm |  |  |
